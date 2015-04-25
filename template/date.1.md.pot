@@ -1,0 +1,1044 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-04-26 01:48+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: doc/en/chroot.8.md:2 doc/en/cksum.1.md:2 doc/en/touch.1.md:2
+#: doc/en/false.1.md:2 doc/en/[.1.md:2 doc/en/stat.1.md:2 doc/en/hostid.1.md:2
+#: doc/en/sha1sum.1.md:2 doc/en/sha224sum.1.md:2 doc/en/stdbuf.1.md:2
+#: doc/en/timeout.1.md:2 doc/en/nl.1.md:2 doc/en/printf.1.md:2
+#: doc/en/runcon.1.md:2 doc/en/mkdir.1.md:2 doc/en/sort.1.md:2
+#: doc/en/whoami.1.md:2 doc/en/expand.1.md:2 doc/en/mkfifo.1.md:2
+#: doc/en/install.1.md:2 doc/en/df.1.md:2 doc/en/shuf.1.md:2
+#: doc/en/join.1.md:2 doc/en/readlink.1.md:2 doc/en/stty.1.md:2
+#: doc/en/rm.1.md:2 doc/en/du.1.md:2 doc/en/dircolors.1.md:2
+#: doc/en/chmod.1.md:2 doc/en/mktemp.1.md:2 doc/en/factor.1.md:2
+#: doc/en/comm.1.md:2 doc/en/pinky.1.md:2 doc/en/echo.1.md:2
+#: doc/en/nice.1.md:2 doc/en/shred.1.md:2 doc/en/tty.1.md:2 doc/en/cut.1.md:2
+#: doc/en/id.1.md:2 doc/en/test.1.md:2 doc/en/ptx.1.md:2 doc/en/od.1.md:2
+#: doc/en/unlink.1.md:2 doc/en/rmdir.1.md:2 doc/en/tail.1.md:2
+#: doc/en/numfmt.1.md:2 doc/en/env.1.md:2 doc/en/sleep.1.md:2
+#: doc/en/uname.1.md:2 doc/en/logname.1.md:2 doc/en/tsort.1.md:2
+#: doc/en/mknod.1.md:2 doc/en/who.1.md:2 doc/en/realpath.1.md:2
+#: doc/en/cat.1.md:2 doc/en/dirname.1.md:2 doc/en/printenv.1.md:2
+#: doc/en/chown.1.md:2 doc/en/users.1.md:2 doc/en/csplit.1.md:2
+#: doc/en/sha256sum.1.md:2 doc/en/chcon.1.md:2 doc/en/fold.1.md:2
+#: doc/en/uniq.1.md:2 doc/en/pathchk.1.md:2 doc/en/truncate.1.md:2
+#: doc/en/md5sum.1.md:2 doc/en/dd.1.md:2 doc/en/seq.1.md:2 doc/en/wc.1.md:2
+#: doc/en/expr.1.md:2 doc/en/tr.1.md:2 doc/en/head.1.md:2 doc/en/split.1.md:2
+#: doc/en/tee.1.md:2 doc/en/arch.1.md:2 doc/en/ls.1.md:2 doc/en/sum.1.md:2
+#: doc/en/paste.1.md:2 doc/en/sync.1.md:2 doc/en/fmt.1.md:2
+#: doc/en/md5sum.textutils.1.md:2 doc/en/sha512sum.1.md:2 doc/en/ln.1.md:2
+#: doc/en/sha384sum.1.md:2 doc/en/dir.1.md:2 doc/en/true.1.md:2
+#: doc/en/vdir.1.md:2 doc/en/pwd.1.md:2 doc/en/groups.1.md:2 doc/en/yes.1.md:2
+#: doc/en/tac.1.md:2 doc/en/cp.1.md:2 doc/en/date.1.md:2 doc/en/link.1.md:2
+#: doc/en/base64.1.md:2 doc/en/chgrp.1.md:2 doc/en/nproc.1.md:2
+#: doc/en/unexpand.1.md:2 doc/en/mv.1.md:2 doc/en/nohup.1.md:2
+#: doc/en/basename.1.md:2 doc/en/pr.1.md:2
+#, no-wrap
+msgid ""
+"NAME\n"
+"====\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:7 doc/en/cksum.1.md:7 doc/en/touch.1.md:7
+#: doc/en/false.1.md:7 doc/en/[.1.md:7 doc/en/stat.1.md:7 doc/en/hostid.1.md:7
+#: doc/en/sha1sum.1.md:7 doc/en/sha224sum.1.md:7 doc/en/stdbuf.1.md:7
+#: doc/en/timeout.1.md:7 doc/en/nl.1.md:7 doc/en/printf.1.md:7
+#: doc/en/runcon.1.md:7 doc/en/mkdir.1.md:7 doc/en/sort.1.md:7
+#: doc/en/whoami.1.md:7 doc/en/expand.1.md:7 doc/en/mkfifo.1.md:7
+#: doc/en/install.1.md:7 doc/en/df.1.md:7 doc/en/shuf.1.md:7
+#: doc/en/join.1.md:7 doc/en/readlink.1.md:7 doc/en/stty.1.md:7
+#: doc/en/rm.1.md:7 doc/en/du.1.md:7 doc/en/dircolors.1.md:7
+#: doc/en/chmod.1.md:7 doc/en/mktemp.1.md:7 doc/en/factor.1.md:7
+#: doc/en/comm.1.md:7 doc/en/pinky.1.md:7 doc/en/echo.1.md:7
+#: doc/en/nice.1.md:7 doc/en/shred.1.md:7 doc/en/tty.1.md:7 doc/en/cut.1.md:7
+#: doc/en/id.1.md:7 doc/en/test.1.md:7 doc/en/ptx.1.md:7 doc/en/od.1.md:7
+#: doc/en/unlink.1.md:7 doc/en/rmdir.1.md:7 doc/en/tail.1.md:7
+#: doc/en/numfmt.1.md:7 doc/en/env.1.md:7 doc/en/sleep.1.md:7
+#: doc/en/uname.1.md:7 doc/en/logname.1.md:7 doc/en/tsort.1.md:7
+#: doc/en/mknod.1.md:7 doc/en/who.1.md:7 doc/en/realpath.1.md:7
+#: doc/en/cat.1.md:7 doc/en/dirname.1.md:7 doc/en/printenv.1.md:7
+#: doc/en/chown.1.md:7 doc/en/users.1.md:7 doc/en/csplit.1.md:7
+#: doc/en/sha256sum.1.md:7 doc/en/chcon.1.md:7 doc/en/fold.1.md:7
+#: doc/en/uniq.1.md:7 doc/en/pathchk.1.md:7 doc/en/truncate.1.md:7
+#: doc/en/md5sum.1.md:7 doc/en/dd.1.md:7 doc/en/seq.1.md:7 doc/en/wc.1.md:7
+#: doc/en/expr.1.md:7 doc/en/tr.1.md:7 doc/en/head.1.md:7 doc/en/split.1.md:7
+#: doc/en/tee.1.md:7 doc/en/arch.1.md:7 doc/en/ls.1.md:7 doc/en/sum.1.md:7
+#: doc/en/paste.1.md:7 doc/en/sync.1.md:7 doc/en/fmt.1.md:7
+#: doc/en/md5sum.textutils.1.md:7 doc/en/sha512sum.1.md:7 doc/en/ln.1.md:7
+#: doc/en/sha384sum.1.md:7 doc/en/dir.1.md:7 doc/en/true.1.md:7
+#: doc/en/vdir.1.md:7 doc/en/pwd.1.md:7 doc/en/groups.1.md:7 doc/en/yes.1.md:7
+#: doc/en/tac.1.md:7 doc/en/cp.1.md:7 doc/en/date.1.md:7 doc/en/link.1.md:7
+#: doc/en/base64.1.md:7 doc/en/chgrp.1.md:7 doc/en/nproc.1.md:7
+#: doc/en/unexpand.1.md:7 doc/en/mv.1.md:7 doc/en/nohup.1.md:7
+#: doc/en/basename.1.md:7 doc/en/pr.1.md:7
+#, no-wrap
+msgid ""
+"SYNOPSIS\n"
+"========\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:13 doc/en/cksum.1.md:13 doc/en/touch.1.md:12
+#: doc/en/false.1.md:13 doc/en/[.1.md:18 doc/en/stat.1.md:12
+#: doc/en/hostid.1.md:12 doc/en/sha1sum.1.md:12 doc/en/sha224sum.1.md:12
+#: doc/en/stdbuf.1.md:12 doc/en/timeout.1.md:13 doc/en/nl.1.md:12
+#: doc/en/printf.1.md:13 doc/en/runcon.1.md:13 doc/en/mkdir.1.md:12
+#: doc/en/sort.1.md:13 doc/en/whoami.1.md:12 doc/en/expand.1.md:12
+#: doc/en/mkfifo.1.md:12 doc/en/install.1.md:15 doc/en/df.1.md:12
+#: doc/en/shuf.1.md:14 doc/en/join.1.md:12 doc/en/readlink.1.md:12
+#: doc/en/stty.1.md:14 doc/en/rm.1.md:12 doc/en/du.1.md:13
+#: doc/en/dircolors.1.md:12 doc/en/chmod.1.md:14 doc/en/mktemp.1.md:12
+#: doc/en/factor.1.md:13 doc/en/comm.1.md:12 doc/en/pinky.1.md:12
+#: doc/en/echo.1.md:13 doc/en/nice.1.md:12 doc/en/shred.1.md:12
+#: doc/en/tty.1.md:12 doc/en/cut.1.md:12 doc/en/id.1.md:12 doc/en/test.1.md:18
+#: doc/en/ptx.1.md:13 doc/en/od.1.md:14 doc/en/unlink.1.md:13
+#: doc/en/rmdir.1.md:12 doc/en/tail.1.md:12 doc/en/numfmt.1.md:12
+#: doc/en/env.1.md:12 doc/en/sleep.1.md:13 doc/en/uname.1.md:12
+#: doc/en/logname.1.md:12 doc/en/tsort.1.md:12 doc/en/mknod.1.md:12
+#: doc/en/who.1.md:12 doc/en/realpath.1.md:12 doc/en/cat.1.md:12
+#: doc/en/dirname.1.md:12 doc/en/printenv.1.md:12 doc/en/chown.1.md:13
+#: doc/en/users.1.md:12 doc/en/csplit.1.md:12 doc/en/sha256sum.1.md:12
+#: doc/en/chcon.1.md:14 doc/en/fold.1.md:12 doc/en/uniq.1.md:12
+#: doc/en/pathchk.1.md:12 doc/en/truncate.1.md:12 doc/en/md5sum.1.md:12
+#: doc/en/dd.1.md:13 doc/en/seq.1.md:14 doc/en/wc.1.md:13 doc/en/expr.1.md:13
+#: doc/en/tr.1.md:12 doc/en/head.1.md:12 doc/en/split.1.md:12
+#: doc/en/tee.1.md:12 doc/en/arch.1.md:12 doc/en/ls.1.md:12 doc/en/sum.1.md:12
+#: doc/en/paste.1.md:12 doc/en/sync.1.md:12 doc/en/fmt.1.md:12
+#: doc/en/md5sum.textutils.1.md:12 doc/en/sha512sum.1.md:12 doc/en/ln.1.md:15
+#: doc/en/sha384sum.1.md:12 doc/en/dir.1.md:12 doc/en/true.1.md:13
+#: doc/en/vdir.1.md:12 doc/en/pwd.1.md:12 doc/en/groups.1.md:12
+#: doc/en/yes.1.md:13 doc/en/tac.1.md:12 doc/en/cp.1.md:14 doc/en/date.1.md:13
+#: doc/en/link.1.md:13 doc/en/base64.1.md:12 doc/en/chgrp.1.md:13
+#: doc/en/nproc.1.md:12 doc/en/unexpand.1.md:12 doc/en/mv.1.md:14
+#: doc/en/nohup.1.md:13 doc/en/basename.1.md:13 doc/en/pr.1.md:12
+#, no-wrap
+msgid ""
+"DESCRIPTION\n"
+"===========\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:25 doc/en/cksum.1.md:19 doc/en/touch.1.md:51
+#: doc/en/false.1.md:19 doc/en/[.1.md:24 doc/en/stat.1.md:35
+#: doc/en/hostid.1.md:18 doc/en/sha1sum.1.md:45 doc/en/sha224sum.1.md:45
+#: doc/en/stdbuf.1.md:29 doc/en/nl.1.md:53 doc/en/printf.1.md:19
+#: doc/en/runcon.1.md:45 doc/en/mkdir.1.md:35 doc/en/sort.1.md:110
+#: doc/en/whoami.1.md:18 doc/en/expand.1.md:29 doc/en/mkfifo.1.md:29
+#: doc/en/install.1.md:82 doc/en/df.1.md:75 doc/en/shuf.1.md:43
+#: doc/en/join.1.md:57 doc/en/stty.1.md:31 doc/en/rm.1.md:53
+#: doc/en/du.1.md:102 doc/en/dircolors.1.md:30 doc/en/chmod.1.md:70
+#: doc/en/mktemp.1.md:36 doc/en/factor.1.md:19 doc/en/comm.1.md:38
+#: doc/en/pinky.1.md:43 doc/en/echo.1.md:28 doc/en/nice.1.md:23
+#: doc/en/shred.1.md:46 doc/en/tty.1.md:21 doc/en/cut.1.md:44
+#: doc/en/id.1.md:44 doc/en/test.1.md:24 doc/en/od.1.md:51
+#: doc/en/unlink.1.md:19 doc/en/tail.1.md:54 doc/en/numfmt.1.md:62
+#: doc/en/env.1.md:29 doc/en/sleep.1.md:19 doc/en/uname.1.md:45
+#: doc/en/logname.1.md:18 doc/en/tsort.1.md:18 doc/en/mknod.1.md:29
+#: doc/en/who.1.md:69 doc/en/realpath.1.md:45 doc/en/cat.1.md:48
+#: doc/en/dirname.1.md:21 doc/en/printenv.1.md:21 doc/en/chown.1.md:65
+#: doc/en/users.1.md:18 doc/en/csplit.1.md:41 doc/en/sha256sum.1.md:45
+#: doc/en/chcon.1.md:66 doc/en/fold.1.md:29 doc/en/uniq.1.md:52
+#: doc/en/pathchk.1.md:27 doc/en/truncate.1.md:36 doc/en/md5sum.1.md:45
+#: doc/en/dd.1.md:163 doc/en/seq.1.md:31 doc/en/wc.1.md:37 doc/en/expr.1.md:17
+#: doc/en/tr.1.md:30 doc/en/head.1.md:32 doc/en/split.1.md:53
+#: doc/en/tee.1.md:24 doc/en/arch.1.md:18 doc/en/ls.1.md:192
+#: doc/en/sum.1.md:24 doc/en/paste.1.md:26 doc/en/sync.1.md:18
+#: doc/en/fmt.1.md:41 doc/en/md5sum.textutils.1.md:45 doc/en/sha512sum.1.md:45
+#: doc/en/ln.1.md:65 doc/en/sha384sum.1.md:45 doc/en/dir.1.md:192
+#: doc/en/true.1.md:19 doc/en/vdir.1.md:192 doc/en/pwd.1.md:24
+#: doc/en/groups.1.md:18 doc/en/yes.1.md:19 doc/en/tac.1.md:29
+#: doc/en/cp.1.md:115 doc/en/date.1.md:45 doc/en/link.1.md:19
+#: doc/en/base64.1.md:29 doc/en/chgrp.1.md:57 doc/en/nproc.1.md:24
+#: doc/en/unexpand.1.md:32 doc/en/mv.1.md:60 doc/en/nohup.1.md:19
+#: doc/en/basename.1.md:30 doc/en/pr.1.md:92
+#, no-wrap
+msgid ""
+"**--help**\n"
+":   display this help and exit\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:28 doc/en/cksum.1.md:22 doc/en/touch.1.md:54
+#: doc/en/false.1.md:22 doc/en/[.1.md:27 doc/en/stat.1.md:38
+#: doc/en/hostid.1.md:21 doc/en/sha1sum.1.md:48 doc/en/sha224sum.1.md:48
+#: doc/en/stdbuf.1.md:32 doc/en/nl.1.md:56 doc/en/printf.1.md:22
+#: doc/en/runcon.1.md:48 doc/en/mkdir.1.md:38 doc/en/sort.1.md:113
+#: doc/en/whoami.1.md:21 doc/en/expand.1.md:32 doc/en/mkfifo.1.md:32
+#: doc/en/install.1.md:85 doc/en/df.1.md:78 doc/en/shuf.1.md:46
+#: doc/en/join.1.md:60 doc/en/stty.1.md:34 doc/en/rm.1.md:56
+#: doc/en/du.1.md:105 doc/en/dircolors.1.md:33 doc/en/chmod.1.md:73
+#: doc/en/mktemp.1.md:39 doc/en/factor.1.md:22 doc/en/comm.1.md:41
+#: doc/en/pinky.1.md:46 doc/en/echo.1.md:31 doc/en/nice.1.md:26
+#: doc/en/shred.1.md:49 doc/en/tty.1.md:24 doc/en/cut.1.md:47
+#: doc/en/id.1.md:47 doc/en/test.1.md:27 doc/en/od.1.md:54
+#: doc/en/unlink.1.md:22 doc/en/tail.1.md:57 doc/en/numfmt.1.md:65
+#: doc/en/env.1.md:32 doc/en/sleep.1.md:22 doc/en/uname.1.md:48
+#: doc/en/logname.1.md:21 doc/en/tsort.1.md:21 doc/en/mknod.1.md:32
+#: doc/en/who.1.md:72 doc/en/realpath.1.md:48 doc/en/cat.1.md:51
+#: doc/en/dirname.1.md:24 doc/en/printenv.1.md:24 doc/en/chown.1.md:68
+#: doc/en/users.1.md:21 doc/en/csplit.1.md:44 doc/en/sha256sum.1.md:48
+#: doc/en/chcon.1.md:69 doc/en/fold.1.md:32 doc/en/uniq.1.md:55
+#: doc/en/pathchk.1.md:30 doc/en/truncate.1.md:39 doc/en/md5sum.1.md:48
+#: doc/en/dd.1.md:166 doc/en/seq.1.md:34 doc/en/wc.1.md:40 doc/en/expr.1.md:20
+#: doc/en/tr.1.md:33 doc/en/head.1.md:35 doc/en/split.1.md:56
+#: doc/en/tee.1.md:27 doc/en/arch.1.md:21 doc/en/ls.1.md:195
+#: doc/en/sum.1.md:27 doc/en/paste.1.md:29 doc/en/sync.1.md:21
+#: doc/en/fmt.1.md:44 doc/en/md5sum.textutils.1.md:48 doc/en/sha512sum.1.md:48
+#: doc/en/ln.1.md:68 doc/en/sha384sum.1.md:48 doc/en/dir.1.md:195
+#: doc/en/true.1.md:22 doc/en/vdir.1.md:195 doc/en/pwd.1.md:27
+#: doc/en/groups.1.md:21 doc/en/yes.1.md:22 doc/en/tac.1.md:32
+#: doc/en/cp.1.md:118 doc/en/date.1.md:48 doc/en/link.1.md:22
+#: doc/en/base64.1.md:32 doc/en/chgrp.1.md:60 doc/en/nproc.1.md:27
+#: doc/en/unexpand.1.md:35 doc/en/mv.1.md:63 doc/en/nohup.1.md:22
+#: doc/en/basename.1.md:33 doc/en/pr.1.md:95
+#, no-wrap
+msgid ""
+"**--version**\n"
+":   output version information and exit\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:32 doc/en/cksum.1.md:24 doc/en/touch.1.md:63
+#: doc/en/false.1.md:26 doc/en/[.1.md:148 doc/en/stat.1.md:172
+#: doc/en/hostid.1.md:23 doc/en/sha1sum.1.md:52 doc/en/sha224sum.1.md:52
+#: doc/en/stdbuf.1.md:53 doc/en/timeout.1.md:61 doc/en/nl.1.md:83
+#: doc/en/printf.1.md:81 doc/en/runcon.1.md:50 doc/en/mkdir.1.md:40
+#: doc/en/sort.1.md:123 doc/en/whoami.1.md:23 doc/en/expand.1.md:34
+#: doc/en/mkfifo.1.md:34 doc/en/install.1.md:101 doc/en/df.1.md:86
+#: doc/en/shuf.1.md:50 doc/en/join.1.md:66 doc/en/readlink.1.md:55
+#: doc/en/stty.1.md:394 doc/en/rm.1.md:68 doc/en/du.1.md:120
+#: doc/en/dircolors.1.md:37 doc/en/chmod.1.md:77 doc/en/mktemp.1.md:41
+#: doc/en/factor.1.md:24 doc/en/comm.1.md:54 doc/en/pinky.1.md:50
+#: doc/en/echo.1.md:73 doc/en/nice.1.md:30 doc/en/shred.1.md:71
+#: doc/en/tty.1.md:26 doc/en/cut.1.md:65 doc/en/id.1.md:51
+#: doc/en/test.1.md:148 doc/en/ptx.1.md:96 doc/en/od.1.md:146
+#: doc/en/unlink.1.md:24 doc/en/rmdir.1.md:39 doc/en/tail.1.md:63
+#: doc/en/numfmt.1.md:125 doc/en/env.1.md:36 doc/en/sleep.1.md:24
+#: doc/en/uname.1.md:50 doc/en/logname.1.md:23 doc/en/tsort.1.md:23
+#: doc/en/mknod.1.md:47 doc/en/who.1.md:76 doc/en/realpath.1.md:50
+#: doc/en/cat.1.md:64 doc/en/dirname.1.md:38 doc/en/printenv.1.md:28
+#: doc/en/chown.1.md:84 doc/en/users.1.md:23 doc/en/csplit.1.md:65
+#: doc/en/sha256sum.1.md:52 doc/en/chcon.1.md:71 doc/en/fold.1.md:34
+#: doc/en/uniq.1.md:61 doc/en/pathchk.1.md:32 doc/en/truncate.1.md:45
+#: doc/en/md5sum.1.md:57 doc/en/dd.1.md:168 doc/en/seq.1.md:38
+#: doc/en/wc.1.md:42 doc/en/expr.1.md:90 doc/en/tr.1.md:114
+#: doc/en/head.1.md:39 doc/en/split.1.md:62 doc/en/tee.1.md:31
+#: doc/en/arch.1.md:23 doc/en/ls.1.md:213 doc/en/sum.1.md:31
+#: doc/en/paste.1.md:31 doc/en/sync.1.md:23 doc/en/fmt.1.md:48
+#: doc/en/md5sum.textutils.1.md:57 doc/en/sha512sum.1.md:52 doc/en/ln.1.md:86
+#: doc/en/sha384sum.1.md:52 doc/en/dir.1.md:213 doc/en/true.1.md:26
+#: doc/en/vdir.1.md:213 doc/en/pwd.1.md:33 doc/en/groups.1.md:23
+#: doc/en/yes.1.md:24 doc/en/tac.1.md:34 doc/en/cp.1.md:140
+#: doc/en/date.1.md:226 doc/en/link.1.md:24 doc/en/base64.1.md:38
+#: doc/en/chgrp.1.md:71 doc/en/nproc.1.md:29 doc/en/unexpand.1.md:37
+#: doc/en/mv.1.md:79 doc/en/nohup.1.md:28 doc/en/basename.1.md:50
+#: doc/en/pr.1.md:99
+#, no-wrap
+msgid ""
+"AUTHOR\n"
+"======\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:37 doc/en/cksum.1.md:29 doc/en/touch.1.md:68
+#: doc/en/false.1.md:31 doc/en/[.1.md:153 doc/en/stat.1.md:177
+#: doc/en/hostid.1.md:28 doc/en/sha1sum.1.md:57 doc/en/sha224sum.1.md:57
+#: doc/en/stdbuf.1.md:58 doc/en/timeout.1.md:66 doc/en/nl.1.md:88
+#: doc/en/printf.1.md:86 doc/en/runcon.1.md:55 doc/en/mkdir.1.md:45
+#: doc/en/sort.1.md:128 doc/en/whoami.1.md:28 doc/en/expand.1.md:39
+#: doc/en/mkfifo.1.md:39 doc/en/install.1.md:106 doc/en/df.1.md:91
+#: doc/en/shuf.1.md:55 doc/en/join.1.md:71 doc/en/readlink.1.md:60
+#: doc/en/stty.1.md:399 doc/en/rm.1.md:73 doc/en/du.1.md:125
+#: doc/en/dircolors.1.md:42 doc/en/chmod.1.md:82 doc/en/mktemp.1.md:46
+#: doc/en/factor.1.md:29 doc/en/comm.1.md:59 doc/en/pinky.1.md:55
+#: doc/en/echo.1.md:78 doc/en/nice.1.md:35 doc/en/shred.1.md:76
+#: doc/en/tty.1.md:31 doc/en/cut.1.md:70 doc/en/id.1.md:56
+#: doc/en/test.1.md:153 doc/en/ptx.1.md:101 doc/en/od.1.md:151
+#: doc/en/unlink.1.md:29 doc/en/rmdir.1.md:44 doc/en/tail.1.md:68
+#: doc/en/numfmt.1.md:130 doc/en/env.1.md:41 doc/en/sleep.1.md:29
+#: doc/en/uname.1.md:55 doc/en/logname.1.md:28 doc/en/tsort.1.md:28
+#: doc/en/mknod.1.md:52 doc/en/who.1.md:81 doc/en/realpath.1.md:55
+#: doc/en/cat.1.md:69 doc/en/dirname.1.md:43 doc/en/printenv.1.md:33
+#: doc/en/chown.1.md:89 doc/en/users.1.md:28 doc/en/csplit.1.md:70
+#: doc/en/sha256sum.1.md:57 doc/en/chcon.1.md:76 doc/en/fold.1.md:39
+#: doc/en/uniq.1.md:66 doc/en/pathchk.1.md:37 doc/en/truncate.1.md:50
+#: doc/en/md5sum.1.md:62 doc/en/dd.1.md:173 doc/en/seq.1.md:43
+#: doc/en/wc.1.md:47 doc/en/expr.1.md:95 doc/en/tr.1.md:119
+#: doc/en/head.1.md:44 doc/en/split.1.md:67 doc/en/tee.1.md:36
+#: doc/en/arch.1.md:28 doc/en/ls.1.md:218 doc/en/sum.1.md:36
+#: doc/en/paste.1.md:36 doc/en/sync.1.md:28 doc/en/fmt.1.md:53
+#: doc/en/md5sum.textutils.1.md:62 doc/en/sha512sum.1.md:57 doc/en/ln.1.md:91
+#: doc/en/sha384sum.1.md:57 doc/en/dir.1.md:218 doc/en/true.1.md:31
+#: doc/en/vdir.1.md:218 doc/en/pwd.1.md:38 doc/en/groups.1.md:28
+#: doc/en/yes.1.md:29 doc/en/tac.1.md:39 doc/en/cp.1.md:145
+#: doc/en/date.1.md:231 doc/en/link.1.md:29 doc/en/base64.1.md:43
+#: doc/en/chgrp.1.md:76 doc/en/nproc.1.md:34 doc/en/unexpand.1.md:42
+#: doc/en/mv.1.md:84 doc/en/nohup.1.md:33 doc/en/basename.1.md:55
+#: doc/en/pr.1.md:104
+#, no-wrap
+msgid ""
+"REPORTING BUGS\n"
+"==============\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:43 doc/en/cksum.1.md:35 doc/en/touch.1.md:74
+#: doc/en/false.1.md:37 doc/en/[.1.md:159 doc/en/stat.1.md:183
+#: doc/en/hostid.1.md:34 doc/en/sha1sum.1.md:63 doc/en/sha224sum.1.md:63
+#: doc/en/stdbuf.1.md:64 doc/en/timeout.1.md:72 doc/en/nl.1.md:94
+#: doc/en/printf.1.md:92 doc/en/runcon.1.md:61 doc/en/mkdir.1.md:51
+#: doc/en/sort.1.md:134 doc/en/whoami.1.md:34 doc/en/expand.1.md:45
+#: doc/en/mkfifo.1.md:45 doc/en/install.1.md:112 doc/en/df.1.md:97
+#: doc/en/shuf.1.md:61 doc/en/join.1.md:77 doc/en/readlink.1.md:66
+#: doc/en/stty.1.md:405 doc/en/rm.1.md:79 doc/en/du.1.md:131
+#: doc/en/dircolors.1.md:48 doc/en/chmod.1.md:88 doc/en/mktemp.1.md:52
+#: doc/en/factor.1.md:35 doc/en/comm.1.md:65 doc/en/pinky.1.md:61
+#: doc/en/echo.1.md:84 doc/en/nice.1.md:41 doc/en/shred.1.md:82
+#: doc/en/tty.1.md:37 doc/en/cut.1.md:76 doc/en/id.1.md:62
+#: doc/en/test.1.md:159 doc/en/ptx.1.md:107 doc/en/od.1.md:157
+#: doc/en/unlink.1.md:35 doc/en/rmdir.1.md:50 doc/en/tail.1.md:74
+#: doc/en/numfmt.1.md:136 doc/en/env.1.md:47 doc/en/sleep.1.md:35
+#: doc/en/uname.1.md:61 doc/en/logname.1.md:34 doc/en/tsort.1.md:34
+#: doc/en/mknod.1.md:58 doc/en/who.1.md:87 doc/en/realpath.1.md:61
+#: doc/en/cat.1.md:75 doc/en/dirname.1.md:49 doc/en/printenv.1.md:39
+#: doc/en/chown.1.md:95 doc/en/users.1.md:34 doc/en/csplit.1.md:76
+#: doc/en/sha256sum.1.md:63 doc/en/chcon.1.md:82 doc/en/fold.1.md:45
+#: doc/en/uniq.1.md:72 doc/en/pathchk.1.md:43 doc/en/truncate.1.md:56
+#: doc/en/md5sum.1.md:68 doc/en/dd.1.md:179 doc/en/seq.1.md:49
+#: doc/en/wc.1.md:53 doc/en/expr.1.md:101 doc/en/tr.1.md:125
+#: doc/en/head.1.md:50 doc/en/split.1.md:73 doc/en/tee.1.md:42
+#: doc/en/arch.1.md:34 doc/en/ls.1.md:224 doc/en/sum.1.md:42
+#: doc/en/paste.1.md:42 doc/en/sync.1.md:34 doc/en/fmt.1.md:59
+#: doc/en/md5sum.textutils.1.md:68 doc/en/sha512sum.1.md:63 doc/en/ln.1.md:97
+#: doc/en/sha384sum.1.md:63 doc/en/dir.1.md:224 doc/en/true.1.md:37
+#: doc/en/vdir.1.md:224 doc/en/pwd.1.md:44 doc/en/groups.1.md:34
+#: doc/en/yes.1.md:35 doc/en/tac.1.md:45 doc/en/cp.1.md:151
+#: doc/en/date.1.md:237 doc/en/link.1.md:35 doc/en/base64.1.md:49
+#: doc/en/chgrp.1.md:82 doc/en/nproc.1.md:40 doc/en/unexpand.1.md:48
+#: doc/en/mv.1.md:90 doc/en/nohup.1.md:39 doc/en/basename.1.md:61
+#: doc/en/pr.1.md:110
+#, no-wrap
+msgid ""
+"COPYRIGHT\n"
+"=========\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:47 doc/en/cksum.1.md:39 doc/en/touch.1.md:78
+#: doc/en/false.1.md:41 doc/en/[.1.md:163 doc/en/stat.1.md:187
+#: doc/en/hostid.1.md:38 doc/en/sha1sum.1.md:67 doc/en/sha224sum.1.md:67
+#: doc/en/stdbuf.1.md:68 doc/en/timeout.1.md:76 doc/en/nl.1.md:98
+#: doc/en/printf.1.md:96 doc/en/runcon.1.md:65 doc/en/mkdir.1.md:55
+#: doc/en/sort.1.md:138 doc/en/whoami.1.md:38 doc/en/expand.1.md:49
+#: doc/en/mkfifo.1.md:49 doc/en/install.1.md:116 doc/en/df.1.md:101
+#: doc/en/shuf.1.md:65 doc/en/join.1.md:81 doc/en/readlink.1.md:70
+#: doc/en/stty.1.md:409 doc/en/rm.1.md:83 doc/en/du.1.md:135
+#: doc/en/dircolors.1.md:52 doc/en/chmod.1.md:92 doc/en/mktemp.1.md:56
+#: doc/en/factor.1.md:39 doc/en/comm.1.md:69 doc/en/pinky.1.md:65
+#: doc/en/echo.1.md:88 doc/en/nice.1.md:45 doc/en/shred.1.md:86
+#: doc/en/tty.1.md:41 doc/en/cut.1.md:80 doc/en/id.1.md:66
+#: doc/en/test.1.md:163 doc/en/ptx.1.md:111 doc/en/od.1.md:161
+#: doc/en/unlink.1.md:39 doc/en/rmdir.1.md:54 doc/en/tail.1.md:78
+#: doc/en/numfmt.1.md:140 doc/en/env.1.md:51 doc/en/sleep.1.md:39
+#: doc/en/uname.1.md:65 doc/en/logname.1.md:38 doc/en/tsort.1.md:38
+#: doc/en/mknod.1.md:62 doc/en/who.1.md:91 doc/en/realpath.1.md:65
+#: doc/en/cat.1.md:79 doc/en/dirname.1.md:53 doc/en/printenv.1.md:43
+#: doc/en/chown.1.md:99 doc/en/users.1.md:38 doc/en/csplit.1.md:80
+#: doc/en/sha256sum.1.md:67 doc/en/chcon.1.md:86 doc/en/fold.1.md:49
+#: doc/en/uniq.1.md:76 doc/en/pathchk.1.md:47 doc/en/truncate.1.md:60
+#: doc/en/md5sum.1.md:72 doc/en/dd.1.md:183 doc/en/seq.1.md:53
+#: doc/en/wc.1.md:57 doc/en/expr.1.md:105 doc/en/tr.1.md:129
+#: doc/en/head.1.md:54 doc/en/split.1.md:77 doc/en/tee.1.md:46
+#: doc/en/arch.1.md:38 doc/en/ls.1.md:228 doc/en/sum.1.md:46
+#: doc/en/paste.1.md:46 doc/en/sync.1.md:38 doc/en/fmt.1.md:63
+#: doc/en/md5sum.textutils.1.md:72 doc/en/sha512sum.1.md:67 doc/en/ln.1.md:101
+#: doc/en/sha384sum.1.md:67 doc/en/dir.1.md:228 doc/en/true.1.md:41
+#: doc/en/vdir.1.md:228 doc/en/pwd.1.md:48 doc/en/groups.1.md:38
+#: doc/en/yes.1.md:39 doc/en/tac.1.md:49 doc/en/cp.1.md:155
+#: doc/en/date.1.md:241 doc/en/link.1.md:39 doc/en/base64.1.md:53
+#: doc/en/chgrp.1.md:86 doc/en/nproc.1.md:44 doc/en/unexpand.1.md:52
+#: doc/en/mv.1.md:94 doc/en/nohup.1.md:43 doc/en/basename.1.md:65
+#: doc/en/pr.1.md:114
+#, no-wrap
+msgid ""
+"Copyright © 2014 Free Software Foundation, Inc. License GPLv3+: GNU GPL version 3 or later \\<<http://gnu.org/licenses/gpl.html>\\>.\\\n"
+" This is free software: you are free to change and redistribute it. There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/chroot.8.md:49 doc/en/cksum.1.md:41 doc/en/touch.1.md:80
+#: doc/en/false.1.md:43 doc/en/[.1.md:165 doc/en/stat.1.md:189
+#: doc/en/hostid.1.md:40 doc/en/sha1sum.1.md:69 doc/en/sha224sum.1.md:69
+#: doc/en/stdbuf.1.md:70 doc/en/timeout.1.md:78 doc/en/nl.1.md:100
+#: doc/en/printf.1.md:98 doc/en/runcon.1.md:67 doc/en/mkdir.1.md:57
+#: doc/en/sort.1.md:140 doc/en/whoami.1.md:40 doc/en/expand.1.md:51
+#: doc/en/mkfifo.1.md:51 doc/en/install.1.md:118 doc/en/df.1.md:103
+#: doc/en/shuf.1.md:67 doc/en/join.1.md:83 doc/en/readlink.1.md:72
+#: doc/en/stty.1.md:411 doc/en/rm.1.md:85 doc/en/du.1.md:137
+#: doc/en/dircolors.1.md:54 doc/en/chmod.1.md:94 doc/en/mktemp.1.md:58
+#: doc/en/factor.1.md:41 doc/en/comm.1.md:71 doc/en/pinky.1.md:67
+#: doc/en/echo.1.md:90 doc/en/nice.1.md:47 doc/en/shred.1.md:88
+#: doc/en/tty.1.md:43 doc/en/cut.1.md:82 doc/en/id.1.md:68
+#: doc/en/test.1.md:165 doc/en/ptx.1.md:113 doc/en/od.1.md:163
+#: doc/en/unlink.1.md:41 doc/en/rmdir.1.md:56 doc/en/tail.1.md:80
+#: doc/en/numfmt.1.md:142 doc/en/env.1.md:53 doc/en/sleep.1.md:41
+#: doc/en/uname.1.md:67 doc/en/logname.1.md:40 doc/en/tsort.1.md:40
+#: doc/en/mknod.1.md:64 doc/en/who.1.md:93 doc/en/realpath.1.md:67
+#: doc/en/cat.1.md:81 doc/en/dirname.1.md:55 doc/en/printenv.1.md:45
+#: doc/en/chown.1.md:101 doc/en/users.1.md:40 doc/en/csplit.1.md:82
+#: doc/en/sha256sum.1.md:69 doc/en/chcon.1.md:88 doc/en/fold.1.md:51
+#: doc/en/uniq.1.md:78 doc/en/pathchk.1.md:49 doc/en/truncate.1.md:62
+#: doc/en/md5sum.1.md:74 doc/en/dd.1.md:185 doc/en/seq.1.md:55
+#: doc/en/wc.1.md:59 doc/en/expr.1.md:107 doc/en/tr.1.md:131
+#: doc/en/head.1.md:56 doc/en/split.1.md:79 doc/en/tee.1.md:48
+#: doc/en/arch.1.md:40 doc/en/ls.1.md:230 doc/en/sum.1.md:48
+#: doc/en/paste.1.md:48 doc/en/sync.1.md:40 doc/en/fmt.1.md:65
+#: doc/en/md5sum.textutils.1.md:74 doc/en/sha512sum.1.md:69 doc/en/ln.1.md:103
+#: doc/en/sha384sum.1.md:69 doc/en/dir.1.md:230 doc/en/true.1.md:43
+#: doc/en/vdir.1.md:230 doc/en/pwd.1.md:50 doc/en/groups.1.md:40
+#: doc/en/yes.1.md:41 doc/en/tac.1.md:51 doc/en/cp.1.md:157
+#: doc/en/date.1.md:243 doc/en/link.1.md:41 doc/en/base64.1.md:55
+#: doc/en/chgrp.1.md:88 doc/en/nproc.1.md:46 doc/en/unexpand.1.md:54
+#: doc/en/mv.1.md:96 doc/en/nohup.1.md:45 doc/en/basename.1.md:67
+#: doc/en/pr.1.md:116
+#, no-wrap
+msgid ""
+"SEE ALSO\n"
+"========\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/touch.1.md:21 doc/en/stat.1.md:17 doc/en/stdbuf.1.md:17
+#: doc/en/timeout.1.md:18 doc/en/nl.1.md:17 doc/en/runcon.1.md:24
+#: doc/en/mkdir.1.md:17 doc/en/expand.1.md:17 doc/en/mkfifo.1.md:17
+#: doc/en/install.1.md:22 doc/en/df.1.md:24 doc/en/shuf.1.md:19
+#: doc/en/stty.1.md:19 doc/en/du.1.md:18 doc/en/nice.1.md:17
+#: doc/en/shred.1.md:17 doc/en/cut.1.md:17 doc/en/ptx.1.md:18
+#: doc/en/od.1.md:21 doc/en/tail.1.md:17 doc/en/numfmt.1.md:17
+#: doc/en/env.1.md:17 doc/en/mknod.1.md:17 doc/en/csplit.1.md:17
+#: doc/en/chcon.1.md:19 doc/en/fold.1.md:17 doc/en/uniq.1.md:19
+#: doc/en/truncate.1.md:21 doc/en/seq.1.md:19 doc/en/head.1.md:17
+#: doc/en/split.1.md:17 doc/en/ls.1.md:17 doc/en/paste.1.md:17
+#: doc/en/fmt.1.md:17 doc/en/ln.1.md:20 doc/en/dir.1.md:17 doc/en/vdir.1.md:17
+#: doc/en/tac.1.md:17 doc/en/cp.1.md:19 doc/en/date.1.md:18
+#: doc/en/base64.1.md:17 doc/en/unexpand.1.md:17 doc/en/mv.1.md:19
+#: doc/en/basename.1.md:18 doc/en/pr.1.md:17
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too."
+msgstr ""
+
+#. type: Plain text
+#: doc/en/touch.1.md:58 doc/en/date.1.md:221
+#, no-wrap
+msgid ""
+"DATE STRING\n"
+"===========\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/touch.1.md:61 doc/en/date.1.md:224
+msgid ""
+"The --date=STRING is a mostly free format human readable date string such as "
+"\"Sun, 29 Feb 2004 16:21:42 -0800\" or \"2004-02-29 16:21:42\" or even "
+"\"next Thursday\". A date string may contain items indicating calendar date, "
+"time of day, time zone, day of week, relative time, relative date, and "
+"numbers. An empty string indicates the beginning of the day. The date string "
+"format is more complex than is easily documented here but is fully described "
+"in the info documentation."
+msgstr ""
+
+#. type: Plain text
+#: doc/en/stdbuf.1.md:42 doc/en/comm.1.md:45 doc/en/od.1.md:137
+#: doc/en/numfmt.1.md:97 doc/en/cat.1.md:55 doc/en/dirname.1.md:26
+#: doc/en/chown.1.md:72 doc/en/date.1.md:206 doc/en/chgrp.1.md:62
+#: doc/en/basename.1.md:35
+#, no-wrap
+msgid ""
+"EXAMPLES\n"
+"========\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/printf.1.md:84 doc/en/mkdir.1.md:43 doc/en/expand.1.md:37
+#: doc/en/mkfifo.1.md:37 doc/en/install.1.md:104 doc/en/stty.1.md:397
+#: doc/en/nice.1.md:33 doc/en/tty.1.md:29 doc/en/rmdir.1.md:42
+#: doc/en/uname.1.md:53 doc/en/mknod.1.md:50 doc/en/fold.1.md:37
+#: doc/en/yes.1.md:27 doc/en/date.1.md:229 doc/en/unexpand.1.md:40
+#: doc/en/basename.1.md:53
+msgid "Written by David MacKenzie."
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:5
+msgid "date - print or set the system date and time"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:11
+#, no-wrap
+msgid ""
+"**date** [*OPTION*]... [*+FORMAT*]\\\n"
+" **date** [*-u|--utc|--universal*] [*MMDDhhmm*[[*CC*]*YY*][*.ss*]]\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:16
+msgid "Display the current time in the given FORMAT, or set the system date."
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:21
+#, no-wrap
+msgid ""
+"**-d**, **--date**=*STRING*\n"
+":   display time described by STRING, not 'now'\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:24
+#, no-wrap
+msgid ""
+"**-f**, **--file**=*DATEFILE*\n"
+":   like **--date** once for each line of DATEFILE\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:27
+#, no-wrap
+msgid ""
+"**-I[TIMESPEC]**, **--iso-8601**[=*TIMESPEC*]\n"
+":   output date/time in ISO 8601 format. TIMESPEC='date' for date only (the default), 'hours', 'minutes', 'seconds', or 'ns' for date and time to the indicated precision.\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:30
+#, no-wrap
+msgid ""
+"**-r**, **--reference**=*FILE*\n"
+":   display the last modification time of FILE\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:33
+#, no-wrap
+msgid ""
+"**-R**, **--rfc-2822**\n"
+":   output date and time in RFC 2822 format. Example: Mon, 07 Aug 2006 12:34:56 **-0600**\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:36
+#, no-wrap
+msgid ""
+"**--rfc-3339**=*TIMESPEC*\n"
+":   output date and time in RFC 3339 format. TIMESPEC='date', 'seconds', or 'ns' for date and time to the indicated precision. Date and time components are separated by a single space: 2006-08-07 12:34:56-06:00\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:39
+#, no-wrap
+msgid ""
+"**-s**, **--set**=*STRING*\n"
+":   set time described by STRING\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:42
+#, no-wrap
+msgid ""
+"**-u**, **--utc**, **--universal**\n"
+":   print or set Coordinated Universal Time (UTC)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:50
+msgid "FORMAT controls the output. Interpreted sequences are:"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:53
+#, no-wrap
+msgid ""
+"%%\n"
+":   a literal %\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:56
+#, no-wrap
+msgid ""
+"%a\n"
+":   locale's abbreviated weekday name (e.g., Sun)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:59
+#, no-wrap
+msgid ""
+"%A\n"
+":   locale's full weekday name (e.g., Sunday)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:62
+#, no-wrap
+msgid ""
+"%b\n"
+":   locale's abbreviated month name (e.g., Jan)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:65
+#, no-wrap
+msgid ""
+"%B\n"
+":   locale's full month name (e.g., January)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:68
+#, no-wrap
+msgid ""
+"%c\n"
+":   locale's date and time (e.g., Thu Mar 3 23:05:25 2005)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:71
+#, no-wrap
+msgid ""
+"%C\n"
+":   century; like %Y, except omit last two digits (e.g., 20)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:74
+#, no-wrap
+msgid ""
+"%d\n"
+":   day of month (e.g., 01)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:77
+#, no-wrap
+msgid ""
+"%D\n"
+":   date; same as %m/%d/%y\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:80
+#, no-wrap
+msgid ""
+"%e\n"
+":   day of month, space padded; same as %\\_d\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:83
+#, no-wrap
+msgid ""
+"%F\n"
+":   full date; same as %Y-%m-%d\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:86
+#, no-wrap
+msgid ""
+"%g\n"
+":   last two digits of year of ISO week number (see %G)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:89
+#, no-wrap
+msgid ""
+"%G\n"
+":   year of ISO week number (see %V); normally useful only with %V\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:92
+#, no-wrap
+msgid ""
+"%h\n"
+":   same as %b\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:95
+#, no-wrap
+msgid ""
+"%H\n"
+":   hour (00..23)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:98
+#, no-wrap
+msgid ""
+"%I\n"
+":   hour (01..12)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:101
+#, no-wrap
+msgid ""
+"%j\n"
+":   day of year (001..366)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:104
+#, no-wrap
+msgid ""
+"%k\n"
+":   hour, space padded ( 0..23); same as %\\_H\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:107
+#, no-wrap
+msgid ""
+"%l\n"
+":   hour, space padded ( 1..12); same as %\\_I\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:110
+#, no-wrap
+msgid ""
+"%m\n"
+":   month (01..12)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:113
+#, no-wrap
+msgid ""
+"%M\n"
+":   minute (00..59)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:116
+#, no-wrap
+msgid ""
+"%n\n"
+":   a newline\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:119
+#, no-wrap
+msgid ""
+"%N\n"
+":   nanoseconds (000000000..999999999)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:122
+#, no-wrap
+msgid ""
+"%p\n"
+":   locale's equivalent of either AM or PM; blank if not known\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:125
+#, no-wrap
+msgid ""
+"%P\n"
+":   like %p, but lower case\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:128
+#, no-wrap
+msgid ""
+"%r\n"
+":   locale's 12-hour clock time (e.g., 11:11:04 PM)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:131
+#, no-wrap
+msgid ""
+"%R\n"
+":   24-hour hour and minute; same as %H:%M\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:134
+#, no-wrap
+msgid ""
+"%s\n"
+":   seconds since 1970-01-01 00:00:00 UTC\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:137
+#, no-wrap
+msgid ""
+"%S\n"
+":   second (00..60)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:140
+#, no-wrap
+msgid ""
+"%t\n"
+":   a tab\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:143
+#, no-wrap
+msgid ""
+"%T\n"
+":   time; same as %H:%M:%S\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:146
+#, no-wrap
+msgid ""
+"%u\n"
+":   day of week (1..7); 1 is Monday\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:149
+#, no-wrap
+msgid ""
+"%U\n"
+":   week number of year, with Sunday as first day of week (00..53)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:152
+#, no-wrap
+msgid ""
+"%V\n"
+":   ISO week number, with Monday as first day of week (01..53)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:155
+#, no-wrap
+msgid ""
+"%w\n"
+":   day of week (0..6); 0 is Sunday\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:158
+#, no-wrap
+msgid ""
+"%W\n"
+":   week number of year, with Monday as first day of week (00..53)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:161
+#, no-wrap
+msgid ""
+"%x\n"
+":   locale's date representation (e.g., 12/31/99)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:164
+#, no-wrap
+msgid ""
+"%X\n"
+":   locale's time representation (e.g., 23:13:48)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:167
+#, no-wrap
+msgid ""
+"%y\n"
+":   last two digits of year (00..99)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:170
+#, no-wrap
+msgid ""
+"%Y\n"
+":   year\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:173
+#, no-wrap
+msgid ""
+"%z\n"
+":   +hhmm numeric time zone (e.g., **-0400**)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:176
+#, no-wrap
+msgid ""
+"%:z\n"
+":   +hh:mm numeric time zone (e.g., **-04**:00)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:179
+#, no-wrap
+msgid ""
+"%::z\n"
+":   +hh:mm:ss numeric time zone (e.g., **-04**:00:00)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:182
+#, no-wrap
+msgid ""
+"%:::z\n"
+":   numeric time zone with : to necessary precision (e.g., **-04**, +05:30)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:185
+#, no-wrap
+msgid ""
+"%Z\n"
+":   alphabetic time zone abbreviation (e.g., EDT)\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:187
+msgid ""
+"By default, date pads numeric fields with zeroes. The following optional "
+"flags may follow '%':"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:188
+#, no-wrap
+msgid "-\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:190
+#, no-wrap
+msgid ":   (hyphen) do not pad the field\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:193
+#, no-wrap
+msgid ""
+"\\_\n"
+":   (underscore) pad with spaces\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:196
+#, no-wrap
+msgid ""
+"0\n"
+":   (zero) pad with zeros\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:199
+#, no-wrap
+msgid ""
+"\\^\n"
+":   use upper case if possible\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:202
+#, no-wrap
+msgid ""
+"\\#\n"
+":   use opposite case if possible\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:204
+msgid ""
+"After any flags comes an optional field width, as a decimal number; then an "
+"optional modifier, which is either E to use the locale's alternate "
+"representations if available, or O to use the locale's alternate numeric "
+"symbols if available."
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:209
+msgid "Convert seconds since the epoch (1970-01-01 UTC) to a date"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:211
+#, no-wrap
+msgid ":   `$ date --date='@2147483647'`\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:213
+msgid ""
+"Show the time on the west coast of the US (use [tzselect](http://localhost/"
+"cgi-bin/man/man2html?1+tzselect)(1) to find TZ)"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:215
+#, no-wrap
+msgid ":   `$ TZ='America/Los_Angeles' date`\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:217
+msgid "Show the local time for 9AM next Friday on the west coast of the US"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:219
+#, no-wrap
+msgid ":   `$ date --date='TZ=\"America/Los_Angeles\" 09:00 next Fri'`\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:235
+#, no-wrap
+msgid ""
+"GNU coreutils online help: \\<<http://www.gnu.org/software/coreutils/>\\>\\\n"
+" Report date translation bugs to \\<<http://translationproject.org/team/>\\>\n"
+msgstr ""
+
+#. type: Plain text
+#: doc/en/date.1.md:246
+#, no-wrap
+msgid ""
+"Full documentation at: \\<<http://www.gnu.org/software/coreutils/date>\\>\\\n"
+" or available locally via: info aq(coreutils) date invocationaq\n"
+msgstr ""
