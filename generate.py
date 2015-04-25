@@ -24,22 +24,23 @@ for root, dirs, files in os.walk("raw"):
                 ifilepath = root+"/"+filename
                 ofilepath = srcdir + filename + suffix
                 
-                print("[raw] Converting", ifilepath, "...",end="", flush=True)
 
                 if not os.path.exists(ofilepath):
-                    # pipe
-                    html = check_output(["man2html", ifilepath], universal_newlines=True)
+                    print("[raw] Converting", ifilepath, "...",end="", flush=True)
+
                     print("html...", end="", flush=True)
+                    html = check_output(["man2html", ifilepath], universal_newlines=True)
+
+                    print("markdown...", end="", flush=True)
                     output = check_output(["pandoc","-f", "html", "-t", "markdown", "--no-wrap"],
                                           universal_newlines=True, input=html)
-                    print("markdown...", end="", flush=True)
-                    # write to file
+    
+                    print("write...", end="", flush=True)
                     f = open(ofilepath, "w")
                     f.write(output)
                     f.close()
-                    print("write...", end="", flush=True)
+                    print("done", flush=True)
                     
-                print("done", flush=True)
                 poconf = poconf + "[type: text] " + ofilepath + " zh_CN:" 
                 poconf = poconf + ofilepath.replace(srcdir, tardir)
                 poconf = poconf + ' opt:"-L UTF-8 -M UTF-8"' + "\n"
@@ -48,4 +49,4 @@ poconfpath = "/tmp/po.conf"
 poconffd = open(poconfpath, "w")
 poconffd.write(poconf)
 poconffd.close()
-check_output(["po4a", poconfpath])
+print(check_output(["po4a", poconfpath], universal_newlines=True))
