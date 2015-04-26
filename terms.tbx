@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
+<martif type="TBX" xml:lang="en_US">
+    <text>
+        <body>
+        <termEntry id="darcy_shen-0">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>默认</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="darcy_shen-1">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>multiplier suffix</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>倍数后缀</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+    </text>
+</martif>
