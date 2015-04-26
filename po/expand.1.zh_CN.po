@@ -656,7 +656,7 @@ msgstr "参见"
 #: raw/man1/pr.1:14
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
-msgstr ""
+msgstr "必选参数对长短选项同时适用。"
 
 #. type: Plain text
 #: raw/man1/printf.1:84 raw/man1/mkdir.1:39 raw/man1/expand.1:32
@@ -666,7 +666,7 @@ msgstr ""
 #: raw/man1/yes.1:23 raw/man1/date.1:238 raw/man1/unexpand.1:35
 #: raw/man1/basename.1:48
 msgid "Written by David MacKenzie."
-msgstr ""
+msgstr "由 David MacKenzie 编写。"
 
 #. type: TH
 #: raw/man1/expand.1:2

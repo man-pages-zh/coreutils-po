@@ -883,7 +883,7 @@ msgstr ""
 #: raw/man1/yes.1:23 raw/man1/date.1:238 raw/man1/unexpand.1:35
 #: raw/man1/basename.1:48
 msgid "Written by David MacKenzie."
-msgstr ""
+msgstr "由 David MacKenzie 编写。"
 
 #. type: Plain text
 #: raw/man1/printf.1:88

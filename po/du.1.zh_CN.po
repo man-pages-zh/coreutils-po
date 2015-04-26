@@ -656,7 +656,7 @@ msgstr "参见"
 #: raw/man1/pr.1:14
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
-msgstr ""
+msgstr "必选参数对长短选项同时适用。"
 
 #. type: TP
 #: raw/man1/touch.1:37 raw/man1/du.1:73 raw/man1/who.1:35 raw/man1/ls.1:123
