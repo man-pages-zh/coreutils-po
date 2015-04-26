@@ -697,7 +697,7 @@ msgstr ""
 #: raw/man1/chgrp.1:22 raw/man1/mv.1:55
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
-msgstr ""
+msgstr "B<-v>, B<--verbose>"
 
 #. type: TP
 #: raw/man1/rm.1:52 raw/man1/chmod.1:128 raw/man1/chown.1:59

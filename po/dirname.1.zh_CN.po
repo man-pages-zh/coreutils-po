@@ -666,7 +666,7 @@ msgstr ""
 #: raw/man1/chmod.1:150 raw/man1/dirname.1:34 raw/man1/chown.1:109
 #: raw/man1/head.1:44 raw/man1/chgrp.1:77
 msgid "Written by David MacKenzie and Jim Meyering."
-msgstr ""
+msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
 
 #. type: TH
 #: raw/man1/dirname.1:2

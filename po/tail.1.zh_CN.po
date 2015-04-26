@@ -666,7 +666,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/chgrp.1:22 raw/man1/mv.1:55
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
-msgstr ""
+msgstr "B<-v>, B<--verbose>"
 
 #. type: TH
 #: raw/man1/tail.1:2
@@ -779,7 +779,7 @@ msgstr ""
 #: raw/man1/tail.1:43 raw/man1/head.1:26
 #, no-wrap
 msgid "B<-q>, B<--quiet>, B<--silent>"
-msgstr ""
+msgstr "B<-q>, B<--quiet>, B<--silent>"
 
 #. type: Plain text
 #: raw/man1/tail.1:46

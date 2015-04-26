@@ -666,7 +666,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/chgrp.1:22 raw/man1/mv.1:55
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
-msgstr ""
+msgstr "B<-v>, B<--verbose>"
 
 #. type: TP
 #: raw/man1/install.1:30 raw/man1/ln.1:30 raw/man1/cp.1:26 raw/man1/mv.1:20

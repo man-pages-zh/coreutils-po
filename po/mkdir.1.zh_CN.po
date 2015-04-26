@@ -720,7 +720,7 @@ msgstr ""
 #: raw/man1/chgrp.1:22 raw/man1/mv.1:55
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
-msgstr ""
+msgstr "B<-v>, B<--verbose>"
 
 #. type: Plain text
 #: raw/man1/mkdir.1:23
