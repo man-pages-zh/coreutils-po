@@ -752,7 +752,7 @@ msgstr ""
 #: raw/man1/basename.1:33
 #, no-wrap
 msgid "EXAMPLES"
-msgstr ""
+msgstr "范例"
 
 #. type: Plain text
 #: raw/man1/stdbuf.1:47

@@ -653,7 +653,7 @@ msgstr ""
 #: raw/man1/basename.1:33
 #, no-wrap
 msgid "EXAMPLES"
-msgstr ""
+msgstr "范例"
 
 #. type: TP
 #: raw/man1/mkdir.1:20 raw/man1/install.1:79 raw/man1/readlink.1:35

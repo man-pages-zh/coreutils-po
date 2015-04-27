@@ -806,7 +806,7 @@ msgstr ""
 #: raw/man1/echo.1:18 raw/man1/cat.1:18
 #, no-wrap
 msgid "B<-e>"
-msgstr ""
+msgstr "B<-e>"
 
 #. type: Plain text
 #: raw/man1/echo.1:21

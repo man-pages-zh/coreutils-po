@@ -1,14 +1,14 @@
-# Chinese translations for PACKAGE package
+# Chinese translations for coreutils package
 # Copyright (C) 2015 Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the coreutils package.
 #
-# Automatically generated, 2015.
+# 唐友 <tony_ty@263.net>, 2001.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 23:32+0800\n"
+"PO-Revision-Date: 2015-04-27 19:25+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -663,7 +663,7 @@ msgstr "sync - 清空文件系统缓冲区"
 #. type: Plain text
 #: raw/man1/sync.1:8
 msgid "B<sync> [I<OPTION>]"
-msgstr "B<sync> [I<OPTION>]"
+msgstr "B<sync> [I<选项>]"
 
 #. type: Plain text
 #: raw/man1/sync.1:12

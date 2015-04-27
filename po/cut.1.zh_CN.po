@@ -662,13 +662,13 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/touch.1:32 raw/man1/install.1:39 raw/man1/df.1:86
 #: raw/man1/cut.1:31 raw/man1/cat.1:39
 msgid "(ignored)"
-msgstr ""
+msgstr "（被忽略的选项）"
 
 #. type: Plain text
 #: raw/man1/sort.1:135 raw/man1/shuf.1:49 raw/man1/cut.1:67 raw/man1/cat.1:50
 #: raw/man1/sum.1:26 raw/man1/fmt.1:45 raw/man1/base64.1:32
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr ""
+msgstr "如果没有指定文件，或者指定文件为\"-\"，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/stty.1:85 raw/man1/cut.1:53

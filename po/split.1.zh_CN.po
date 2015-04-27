@@ -671,7 +671,7 @@ msgstr ""
 #. type: Plain text
 #: raw/man1/cat.1:59 raw/man1/split.1:70
 msgid "Written by Torbjorn Granlund and Richard M. Stallman."
-msgstr ""
+msgstr "由 Torbjorn Granlund 和 Richard M. Stallman 编写。"
 
 #. type: TH
 #: raw/man1/split.1:2

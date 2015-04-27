@@ -668,7 +668,7 @@ msgstr ""
 #: raw/man1/cat.1:39 raw/man1/pr.1:95
 #, no-wrap
 msgid "B<-v>, B<--show-nonprinting>"
-msgstr ""
+msgstr "B<-v>, B<--show-nonprinting>"
 
 #. type: TH
 #: raw/man1/pr.1:2

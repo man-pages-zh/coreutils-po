@@ -662,7 +662,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/seq.1:23 raw/man1/tac.1:21
 #, no-wrap
 msgid "B<-s>, B<--separator>=I<STRING>"
-msgstr "B<-s>, B<--separator>=I<STRING>"
+msgstr "B<-s>, B<--separator>=I<字符串>"
 
 #. type: TH
 #: raw/man1/tac.1:2

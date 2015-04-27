@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
+<martif type="TBX" xml:lang="en_US">
+    <text>
+        <body>
+        <termEntry id="darcy_shen-0">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>默认</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="darcy_shen-1">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>multiplier suffix</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>倍数后缀</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="darcy_shen-2">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>print</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>显示</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-3">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>March</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>三月</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="darcy_shen-4">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>name</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>名称</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-5">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>synopsis</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>概述</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-6">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>description</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>描述</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="darcy_shen-7">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>examples</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>范例</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+    </text>
+</martif>

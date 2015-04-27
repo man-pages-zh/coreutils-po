@@ -665,7 +665,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/basename.1:33
 #, no-wrap
 msgid "EXAMPLES"
-msgstr ""
+msgstr "范例"
 
 #. type: TP
 #: raw/man1/sort.1:75 raw/man1/numfmt.1:14

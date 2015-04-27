@@ -662,7 +662,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/touch.1:32 raw/man1/install.1:39 raw/man1/df.1:86
 #: raw/man1/cut.1:31 raw/man1/cat.1:39
 msgid "(ignored)"
-msgstr ""
+msgstr "（被忽略的选项）"
 
 #. type: TP
 #: raw/man1/runcon.1:34 raw/man1/df.1:74 raw/man1/chcon.1:34

@@ -685,7 +685,7 @@ msgstr "由 Jim Meyering 编写。"
 #: raw/man1/basename.1:33
 #, no-wrap
 msgid "EXAMPLES"
-msgstr ""
+msgstr "范例"
 
 #. type: TP
 #: raw/man1/nl.1:58 raw/man1/od.1:98

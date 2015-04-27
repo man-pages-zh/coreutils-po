@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 17:52+0800\n"
+"PO-Revision-Date: 2015-04-27 20:01+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -675,28 +675,28 @@ msgstr "seq - 打印数列"
 #. type: Plain text
 #: raw/man1/seq.1:8
 msgid "B<seq> [I<OPTION>]... I<LAST>"
-msgstr "B<seq> [I<OPTION>]... I<LAST>"
+msgstr "B<seq> [I<选项>]... I<尾数>"
 
 #. type: Plain text
 #: raw/man1/seq.1:11
 msgid "B<seq> [I<OPTION>]... I<FIRST LAST>"
-msgstr "B<seq> [I<OPTION>]... I<FIRST LAST>"
+msgstr "B<seq> [I<选项>]... I<首数 尾数>"
 
 #. type: Plain text
 #: raw/man1/seq.1:14
 msgid "B<seq> [I<OPTION>]... I<FIRST INCREMENT LAST>"
-msgstr "B<seq> [I<OPTION>]... I<FIRST INCREMENT LAST>"
+msgstr "B<seq> [I<选项>]... I<首数 增量 尾数>"
 
 #. type: Plain text
 #: raw/man1/seq.1:18
 msgid "Print numbers from FIRST to LAST, in steps of INCREMENT."
-msgstr "以 INCREMENT 为步长，打印从 FIRST 到 LAST 的数列。"
+msgstr "以增量为步长，打印从首数到尾数的数列。"
 
 #. type: TP
 #: raw/man1/seq.1:20
 #, no-wrap
 msgid "B<-f>, B<--format>=I<FORMAT>"
-msgstr "B<-f>, B<--format>=I<FORMAT>"
+msgstr "B<-f>, B<--format>=I<格式>"
 
 #. type: Plain text
 #: raw/man1/seq.1:23
@@ -707,12 +707,12 @@ msgstr "使用printf样式浮点格式"
 #: raw/man1/seq.1:23 raw/man1/tac.1:21
 #, no-wrap
 msgid "B<-s>, B<--separator>=I<STRING>"
-msgstr "B<-s>, B<--separator>=I<STRING>"
+msgstr "B<-s>, B<--separator>=I<字符串>"
 
 #. type: Plain text
 #: raw/man1/seq.1:26
 msgid "use STRING to separate numbers (default: \\en)"
-msgstr "以 STRING 分隔数据（默认值为\\en）"
+msgstr "以指定字符串分隔数据（默认值为\\en）"
 
 #. type: TP
 #: raw/man1/seq.1:26
@@ -738,11 +738,10 @@ msgid ""
 "defaults to %.PRECf if FIRST, INCREMENT, and LAST are all fixed point "
 "decimal numbers with maximum precision PREC, and to %g otherwise."
 msgstr ""
-"FIRST 和 INCRMENT 的默认值为1。注意，在 LAST 小于 FIRST 的时候，INCREMENT 默"
-"认值仍旧是1。数列生成的终止条件是当前数值与 INCREMENT 的和大于 LAST 。通常情"
-"况下，若 FIRST 小于 LAST，INCREMENT 应当用正值；若 FIRST 大于 LAST，"
-"INCREMENT 应当用负值。FIRST，INCREMENT 和 LAST 都被视为浮点数。若 FIRST，"
-"INCREMENT 和 LAST 都是精度最高为 PREC 的定点十进制数，那么 FORMAT 默认为%."
+"首数和增量的默认值为1。注意，在尾数小于首数的时候，增量默认值仍旧是1。数列生"
+"成的终止条件是当前数值与增量的和大于尾数。通常情况下，若首数小于尾数，增量应"
+"当用正值；若首数大于尾数，增量应当用负值。首数，增量和尾数都被视为浮点数。若"
+"首数，增量和尾数都是精度最高为 PREC 的定点十进制数，那么指定格式默认为%."
 "PRECf，否则为 %g。"
 
 #. type: Plain text

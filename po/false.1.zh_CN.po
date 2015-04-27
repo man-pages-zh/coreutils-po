@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
+# 徐明 <xuming@iname.com>, 2001.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 17:52+0800\n"
+"PO-Revision-Date: 2015-04-27 19:24+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -661,7 +662,7 @@ msgstr "B<false> [I<忽略命令行参数>]"
 #. type: Plain text
 #: raw/man1/false.1:11
 msgid "B<false> I<OPTION>"
-msgstr "B<false> I<OPTION>"
+msgstr "B<false> I<选项>"
 
 #. type: Plain text
 #: raw/man1/false.1:15

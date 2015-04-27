@@ -877,7 +877,7 @@ msgstr ""
 #: raw/man1/basename.1:33
 #, no-wrap
 msgid "EXAMPLES"
-msgstr ""
+msgstr "范例"
 
 #. type: TP
 #: raw/man1/printf.1:68 raw/man1/date.1:57

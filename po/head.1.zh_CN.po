@@ -2,13 +2,13 @@
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Automatically generated, 2015.
+# riser <boomer@ccidnet.com>, 2000.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 23:09+0800\n"
+"PO-Revision-Date: 2015-04-27 19:35+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -697,7 +697,7 @@ msgstr "head - 输出文件的开始部分"
 #. type: Plain text
 #: raw/man1/head.1:8
 msgid "B<head> [I<OPTION>]... [I<FILE>]..."
-msgstr "B<head> [I<OPTION>]... [I<FILE>]..."
+msgstr "B<head> [I<选项>]... [I<文件>]..."
 
 #. type: Plain text
 #: raw/man1/head.1:14
@@ -706,9 +706,9 @@ msgid ""
 "one FILE, precede each with a header giving the file name.  With no FILE, or "
 "when FILE is -, read standard input."
 msgstr ""
-"在标准输出上显示每个 FILE 的起始10行。如果多于一个 FILE，则一个接一个地显示，"
-"并且在每个文件显示的首部给出文件名。如果没有 FILE，或者 FILE 为 - ，那么就从"
-"标准输入上读取。"
+"在标准输出上显示每个文件的起始10行。如果多于一个文件，则依次显示，并且在每个"
+"文件显示的首部给出文件名。如果没有指定文件，或者文件为 - ，那么就从标准输入上"
+"读取。"
 
 #. type: TP
 #: raw/man1/head.1:16

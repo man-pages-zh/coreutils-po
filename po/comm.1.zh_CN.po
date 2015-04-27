@@ -646,7 +646,7 @@ msgstr "参见"
 #: raw/man1/basename.1:33
 #, no-wrap
 msgid "EXAMPLES"
-msgstr ""
+msgstr "范例"
 
 #. type: TP
 #: raw/man1/join.1:42 raw/man1/comm.1:25
