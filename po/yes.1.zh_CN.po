@@ -2,7 +2,6 @@
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Automatically generated, 2015.
 # riser <boomer@ccidnet.com>, 2001.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
