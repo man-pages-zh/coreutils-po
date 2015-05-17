@@ -16,8 +16,20 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 对字符的操作 | `tr` `expand` `unexpand` | | |
 列目录 | `ls` `dir` `vdir` `dircolors` | | |
 基本操作 | `cp` `dd` `install` `mv` `rm` `shred` | | |
+特殊文件类型 | `mkdir` `rmdir` `unlink` `mkfifo` `mknod` `ln` `link` `readlink` | | |
+改变文件属性 | `chgrp` `chmod` `chown` `touch` | | |
+磁盘使用情况 | `df` `du` `stat` sync `truncate` | | |
 打印文本 | `echo` `printf` yes | | |
 条件 | false true `test` `expr` | sadhen | |
+重定向 | `tee` | | |
+文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
+工作环境 | `pwd` `stty` `printenv` `tty` | | |
+SELinux环境 | `chcon` `runcon` | | |
+修改环境 | `chroot` `env` `nice` `nohup` `stdbuf` `timeout` | | |
+进程控制 | `kill` | | |
+睡觉^_^  | `sleep` | | |
+数值操作 | `factor` seq | | |
+
 
 ### 翻译
 只要翻译`po`目录下面的文件就可以了。推荐使用专门的软件，比如`poedit`。在`KDE`平台下可以使用`Lokalize`。

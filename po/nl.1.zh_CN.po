@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-17 20:47+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -662,17 +665,17 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/nl.1:2
 #, no-wrap
 msgid "NL"
-msgstr ""
+msgstr "NL"
 
 #. type: Plain text
 #: raw/man1/nl.1:5
 msgid "nl - number lines of files"
-msgstr ""
+msgstr "nl - 给文件编行号"
 
 #. type: Plain text
 #: raw/man1/nl.1:8
 msgid "B<nl> [I<OPTION>]... [I<FILE>]..."
-msgstr ""
+msgstr "B<nl> [I<选项>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/nl.1:13
@@ -680,6 +683,8 @@ msgid ""
 "Write each FILE to standard output, with line numbers added.  With no FILE, "
 "or when FILE is -, read standard input."
 msgstr ""
+"将文件列表中的每一个文件输出到标准输出，并显示行号。如果没有指定文件，或者指"
+"定文件为\"-\"，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/nl.1:15

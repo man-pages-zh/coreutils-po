@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-17 23:04+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -643,51 +646,51 @@ msgstr "参见"
 #: raw/man1/printf.1:26 raw/man1/echo.1:32 raw/man1/tr.1:39
 #, no-wrap
 msgid "\\e\\e"
-msgstr ""
+msgstr "\\e\\e"
 
 #. type: Plain text
 #: raw/man1/printf.1:29 raw/man1/echo.1:35 raw/man1/tr.1:42
 msgid "backslash"
-msgstr ""
+msgstr "反斜线"
 
 #. type: TP
 #: raw/man1/printf.1:29 raw/man1/echo.1:35 raw/man1/tr.1:42
 #, no-wrap
 msgid "\\ea"
-msgstr ""
+msgstr "\\ea"
 
 #. type: Plain text
 #: raw/man1/printf.1:32 raw/man1/echo.1:38
 msgid "alert (BEL)"
-msgstr ""
+msgstr "报警符(BEL)"
 
 #. type: TP
 #: raw/man1/printf.1:32 raw/man1/echo.1:38 raw/man1/tr.1:45
 #, no-wrap
 msgid "\\eb"
-msgstr ""
+msgstr "\\eb"
 
 #. type: Plain text
 #: raw/man1/printf.1:35 raw/man1/echo.1:41 raw/man1/tr.1:48
 msgid "backspace"
-msgstr ""
+msgstr "退格符"
 
 #. type: TP
 #: raw/man1/printf.1:35 raw/man1/echo.1:41
 #, no-wrap
 msgid "\\ec"
-msgstr ""
+msgstr "\\ec"
 
 #. type: Plain text
 #: raw/man1/printf.1:38 raw/man1/echo.1:44
 msgid "produce no further output"
-msgstr ""
+msgstr "禁止尾随的换行符"
 
 #. type: TP
 #: raw/man1/printf.1:38 raw/man1/echo.1:44
 #, no-wrap
 msgid "\\ee"
-msgstr ""
+msgstr "\\ee"
 
 #. type: Plain text
 #: raw/man1/printf.1:41 raw/man1/echo.1:47
@@ -698,109 +701,109 @@ msgstr ""
 #: raw/man1/printf.1:41 raw/man1/echo.1:47 raw/man1/tr.1:48
 #, no-wrap
 msgid "\\ef"
-msgstr ""
+msgstr "\\ef"
 
 #. type: Plain text
 #: raw/man1/printf.1:44 raw/man1/echo.1:50 raw/man1/tr.1:51
 msgid "form feed"
-msgstr ""
+msgstr "换页符"
 
 #. type: TP
 #: raw/man1/printf.1:44 raw/man1/echo.1:50 raw/man1/tr.1:51
 #, no-wrap
 msgid "\\en"
-msgstr ""
+msgstr "\\en"
 
 #. type: Plain text
 #: raw/man1/printf.1:47 raw/man1/echo.1:53 raw/man1/tr.1:54
 msgid "new line"
-msgstr ""
+msgstr "另起一行"
 
 #. type: TP
 #: raw/man1/printf.1:47 raw/man1/echo.1:53 raw/man1/tr.1:54
 #, no-wrap
 msgid "\\er"
-msgstr ""
+msgstr "\\er"
 
 #. type: Plain text
 #: raw/man1/printf.1:50 raw/man1/echo.1:56
 msgid "carriage return"
-msgstr ""
+msgstr "回到行首"
 
 #. type: TP
 #: raw/man1/printf.1:50 raw/man1/echo.1:56 raw/man1/tr.1:57
 #, no-wrap
 msgid "\\et"
-msgstr ""
+msgstr "\\et"
 
 #. type: Plain text
 #: raw/man1/printf.1:53 raw/man1/echo.1:59 raw/man1/tr.1:60
 msgid "horizontal tab"
-msgstr ""
+msgstr "水平制表符"
 
 #. type: TP
 #: raw/man1/printf.1:53 raw/man1/echo.1:59 raw/man1/tr.1:60
 #, no-wrap
 msgid "\\ev"
-msgstr ""
+msgstr "\\ev"
 
 #. type: Plain text
 #: raw/man1/printf.1:56 raw/man1/echo.1:62 raw/man1/tr.1:63
 msgid "vertical tab"
-msgstr ""
+msgstr "垂直制表符"
 
 #. type: Plain text
 #: raw/man1/printf.1:59 raw/man1/echo.1:65
 msgid "byte with octal value NNN (1 to 3 digits)"
-msgstr ""
+msgstr "字节数以八进制数 NNN (1至3位)表示"
 
 #. type: TP
 #: raw/man1/printf.1:59 raw/man1/echo.1:65
 #, no-wrap
 msgid "\\exHH"
-msgstr ""
+msgstr "\\exHH"
 
 #. type: Plain text
 #: raw/man1/printf.1:62 raw/man1/echo.1:68
 msgid "byte with hexadecimal value HH (1 to 2 digits)"
-msgstr ""
+msgstr "字节数以十六进制数 HH (1至2位)表示"
 
 #. type: TH
 #: raw/man1/echo.1:2
 #, no-wrap
 msgid "ECHO"
-msgstr ""
+msgstr "ECHO"
 
 #. type: Plain text
 #: raw/man1/echo.1:5
 msgid "echo - display a line of text"
-msgstr ""
+msgstr "echo - 显示一行文本"
 
 #. type: Plain text
 #: raw/man1/echo.1:8
 msgid "B<echo> [I<SHORT-OPTION>]... [I<STRING>]..."
-msgstr ""
+msgstr "B<echo> [I<短选项>]... [I<字符串列表>]..."
 
 #. type: Plain text
 #: raw/man1/echo.1:11
 msgid "B<echo> I<LONG-OPTION>"
-msgstr ""
+msgstr "B<echo> I<长选项>"
 
 #. type: Plain text
 #: raw/man1/echo.1:15
 msgid "Echo the STRING(s) to standard output."
-msgstr ""
+msgstr "将字符串列表中的字符输出到标准输出。"
 
 #. type: TP
 #: raw/man1/echo.1:15 raw/man1/cut.1:28
 #, no-wrap
 msgid "B<-n>"
-msgstr ""
+msgstr "B<-n>"
 
 #. type: Plain text
 #: raw/man1/echo.1:18
 msgid "do not output the trailing newline"
-msgstr ""
+msgstr "不输出尾随的换行符"
 
 #. type: TP
 #: raw/man1/echo.1:18 raw/man1/cat.1:18
@@ -811,29 +814,29 @@ msgstr "B<-e>"
 #. type: Plain text
 #: raw/man1/echo.1:21
 msgid "enable interpretation of backslash escapes"
-msgstr ""
+msgstr "启用解释反斜杠的转义功能"
 
 #. type: TP
 #: raw/man1/echo.1:21
 #, no-wrap
 msgid "B<-E>"
-msgstr ""
+msgstr "B<-E>"
 
 #. type: Plain text
 #: raw/man1/echo.1:24
 msgid "disable interpretation of backslash escapes (default)"
-msgstr ""
+msgstr "禁用解释反斜杠的转义功能(默认)"
 
 #. type: Plain text
 #: raw/man1/echo.1:32
 msgid "If B<-e> is in effect, the following sequences are recognized:"
-msgstr ""
+msgstr "若 B<-e> 可用，则以下序列即可识别："
 
 #. type: TP
 #: raw/man1/echo.1:62
 #, no-wrap
 msgid "\\e0NNN"
-msgstr ""
+msgstr "\\e0NNN"
 
 #. type: Plain text
 #: raw/man1/echo.1:72
@@ -842,25 +845,29 @@ msgid ""
 "the version described here.  Please refer to your shell's documentation for "
 "details about the options it supports."
 msgstr ""
+"注意：您的 shell 可能内置了自己的 echo 程序版本，它会覆盖这里所提及的相应版"
+"本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/echo.1:74
 msgid "Written by Brian Fox and Chet Ramey."
-msgstr ""
+msgstr "由 Brian Fox 和 Chet Ramey 编写。"
 
 #. type: Plain text
 #: raw/man1/echo.1:78
 msgid ""
 "Report echo translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 echo 的翻译"
+"错误。"
 
 #. type: Plain text
 #: raw/man1/echo.1:86
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/echoE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/echoE<gt>"
 
 #. type: Plain text
 #: raw/man1/echo.1:87
 msgid "or available locally via: info \\(aq(coreutils) echo invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) echo invocation\\(aq"

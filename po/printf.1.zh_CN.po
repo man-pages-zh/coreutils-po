@@ -692,51 +692,51 @@ msgstr ""
 #: raw/man1/printf.1:26 raw/man1/echo.1:32 raw/man1/tr.1:39
 #, no-wrap
 msgid "\\e\\e"
-msgstr ""
+msgstr "\\e\\e"
 
 #. type: Plain text
 #: raw/man1/printf.1:29 raw/man1/echo.1:35 raw/man1/tr.1:42
 msgid "backslash"
-msgstr ""
+msgstr "反斜线"
 
 #. type: TP
 #: raw/man1/printf.1:29 raw/man1/echo.1:35 raw/man1/tr.1:42
 #, no-wrap
 msgid "\\ea"
-msgstr ""
+msgstr "\\ea"
 
 #. type: Plain text
 #: raw/man1/printf.1:32 raw/man1/echo.1:38
 msgid "alert (BEL)"
-msgstr ""
+msgstr "报警符(BEL)"
 
 #. type: TP
 #: raw/man1/printf.1:32 raw/man1/echo.1:38 raw/man1/tr.1:45
 #, no-wrap
 msgid "\\eb"
-msgstr ""
+msgstr "\\eb"
 
 #. type: Plain text
 #: raw/man1/printf.1:35 raw/man1/echo.1:41 raw/man1/tr.1:48
 msgid "backspace"
-msgstr ""
+msgstr "退格符"
 
 #. type: TP
 #: raw/man1/printf.1:35 raw/man1/echo.1:41
 #, no-wrap
 msgid "\\ec"
-msgstr ""
+msgstr "\\ec"
 
 #. type: Plain text
 #: raw/man1/printf.1:38 raw/man1/echo.1:44
 msgid "produce no further output"
-msgstr ""
+msgstr "禁止尾随的换行符"
 
 #. type: TP
 #: raw/man1/printf.1:38 raw/man1/echo.1:44
 #, no-wrap
 msgid "\\ee"
-msgstr ""
+msgstr "\\ee"
 
 #. type: Plain text
 #: raw/man1/printf.1:41 raw/man1/echo.1:47
@@ -747,56 +747,56 @@ msgstr ""
 #: raw/man1/printf.1:41 raw/man1/echo.1:47 raw/man1/tr.1:48
 #, no-wrap
 msgid "\\ef"
-msgstr ""
+msgstr "\\ef"
 
 #. type: Plain text
 #: raw/man1/printf.1:44 raw/man1/echo.1:50 raw/man1/tr.1:51
 msgid "form feed"
-msgstr ""
+msgstr "换页符"
 
 #. type: TP
 #: raw/man1/printf.1:44 raw/man1/echo.1:50 raw/man1/tr.1:51
 #, no-wrap
 msgid "\\en"
-msgstr ""
+msgstr "\\en"
 
 #. type: Plain text
 #: raw/man1/printf.1:47 raw/man1/echo.1:53 raw/man1/tr.1:54
 msgid "new line"
-msgstr ""
+msgstr "另起一行"
 
 #. type: TP
 #: raw/man1/printf.1:47 raw/man1/echo.1:53 raw/man1/tr.1:54
 #, no-wrap
 msgid "\\er"
-msgstr ""
+msgstr "\\er"
 
 #. type: Plain text
 #: raw/man1/printf.1:50 raw/man1/echo.1:56
 msgid "carriage return"
-msgstr ""
+msgstr "回到行首"
 
 #. type: TP
 #: raw/man1/printf.1:50 raw/man1/echo.1:56 raw/man1/tr.1:57
 #, no-wrap
 msgid "\\et"
-msgstr ""
+msgstr "\\et"
 
 #. type: Plain text
 #: raw/man1/printf.1:53 raw/man1/echo.1:59 raw/man1/tr.1:60
 msgid "horizontal tab"
-msgstr ""
+msgstr "水平制表符"
 
 #. type: TP
 #: raw/man1/printf.1:53 raw/man1/echo.1:59 raw/man1/tr.1:60
 #, no-wrap
 msgid "\\ev"
-msgstr ""
+msgstr "\\ev"
 
 #. type: Plain text
 #: raw/man1/printf.1:56 raw/man1/echo.1:62 raw/man1/tr.1:63
 msgid "vertical tab"
-msgstr ""
+msgstr "垂直制表符"
 
 #. type: TP
 #: raw/man1/printf.1:56 raw/man1/tr.1:36
@@ -807,18 +807,18 @@ msgstr ""
 #. type: Plain text
 #: raw/man1/printf.1:59 raw/man1/echo.1:65
 msgid "byte with octal value NNN (1 to 3 digits)"
-msgstr ""
+msgstr "字节数以八进制数 NNN (1至3位)表示"
 
 #. type: TP
 #: raw/man1/printf.1:59 raw/man1/echo.1:65
 #, no-wrap
 msgid "\\exHH"
-msgstr ""
+msgstr "\\exHH"
 
 #. type: Plain text
 #: raw/man1/printf.1:62 raw/man1/echo.1:68
 msgid "byte with hexadecimal value HH (1 to 2 digits)"
-msgstr ""
+msgstr "字节数以十六进制数 HH (1至2位)表示"
 
 #. type: TP
 #: raw/man1/printf.1:62

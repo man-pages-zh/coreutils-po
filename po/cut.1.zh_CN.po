@@ -680,7 +680,7 @@ msgstr ""
 #: raw/man1/echo.1:15 raw/man1/cut.1:28
 #, no-wrap
 msgid "B<-n>"
-msgstr ""
+msgstr "B<-n>"
 
 #. type: TH
 #: raw/man1/cut.1:2

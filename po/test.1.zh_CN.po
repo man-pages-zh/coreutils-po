@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-17 22:43+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -641,67 +644,44 @@ msgstr "参见"
 
 #. type: TH
 #: raw/man1/[.1:2 raw/man1/test.1:2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "TEST"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"TEST\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "TEST"
 
 #. type: Plain text
 #: raw/man1/[.1:5 raw/man1/test.1:5
-#, fuzzy
 msgid "test - check file types and compare values"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"test - 检查文件类型并比较值\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "test - 检查文件类型并比较值\n"
 
 #. type: Plain text
 #: raw/man1/[.1:8 raw/man1/test.1:8
-#, fuzzy
 msgid "B<test> I<EXPRESSION>"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"B<test> I<EXPRESSION>\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "B<test> I<表达式>"
 
 #. type: Plain text
 #: raw/man1/[.1:10 raw/man1/test.1:10
 msgid "B<test>"
-msgstr ""
+msgstr "B<test>"
 
 #. type: Plain text
 #: raw/man1/[.1:14 raw/man1/test.1:14
 msgid "B<[> I<EXPRESSION >]"
-msgstr ""
+msgstr "B<[> I<表达式>]"
 
 #. type: Plain text
 #: raw/man1/[.1:17 raw/man1/test.1:17
 msgid "B<[> ]"
-msgstr ""
+msgstr "B<[> ]"
 
 #. type: Plain text
 #: raw/man1/[.1:20 raw/man1/test.1:20
 msgid "B<[> I<OPTION>"
-msgstr ""
+msgstr "B<[> I<选项>"
 
 #. type: Plain text
 #: raw/man1/[.1:24 raw/man1/test.1:24
-#, fuzzy
 msgid "Exit with the status determined by EXPRESSION."
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"退出程序，并返回由 EXPRESSION 决定的返回状态。\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "退出状态值取决于表达式。"
 
 #. type: Plain text
 #: raw/man1/[.1:33 raw/man1/test.1:33

@@ -99,6 +99,18 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="darcy_shen-8">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>backslash</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>反斜线</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
