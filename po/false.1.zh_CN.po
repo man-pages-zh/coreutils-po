@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-27 19:24+0800\n"
+"PO-Revision-Date: 2015-05-17 22:14+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -652,7 +652,7 @@ msgstr "FALSE"
 #. type: Plain text
 #: raw/man1/false.1:5
 msgid "false - do nothing, unsuccessfully"
-msgstr "false - (失败的)什么都不做"
+msgstr "false - (失败地)什么都不做"
 
 #. type: Plain text
 #: raw/man1/false.1:8
