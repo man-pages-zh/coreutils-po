@@ -7,7 +7,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 
 分类                      | 翻译   | 一校  | 状态 
 --------------------------|--------|-------|------
-`cat` `tac` nl od base64  | sadhen |       |
+`cat` `tac` nl od `base64`| sadhen |       |
 fmt pr fold               |        |       |
 
 ### 翻译
