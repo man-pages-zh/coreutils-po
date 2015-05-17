@@ -647,27 +647,33 @@ msgstr "参见"
 #, fuzzy, no-wrap
 msgid "TEST"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"TEST"
+"TEST\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: Plain text
 #: raw/man1/[.1:5 raw/man1/test.1:5
 #, fuzzy
 msgid "test - check file types and compare values"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"test - 检查文件类型并比较值"
+"test - 检查文件类型并比较值\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: Plain text
 #: raw/man1/[.1:8 raw/man1/test.1:8
 #, fuzzy
 msgid "B<test> I<EXPRESSION>"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"B<test> I<EXPRESSION>"
+"B<test> I<EXPRESSION>\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: Plain text
 #: raw/man1/[.1:10 raw/man1/test.1:10
@@ -694,9 +700,11 @@ msgstr ""
 #, fuzzy
 msgid "Exit with the status determined by EXPRESSION."
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"退出程序，并返回由 EXPRESSION 决定的返回状态。"
+"退出程序，并返回由 EXPRESSION 决定的返回状态。\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: Plain text
 #: raw/man1/[.1:33 raw/man1/test.1:33
@@ -705,10 +713,12 @@ msgid ""
 "An omitted EXPRESSION defaults to false.  Otherwise, EXPRESSION is true or "
 "false and sets exit status.  It is one of:"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "被省略的 EXPRESSION 将默认为假。否则，EXPRESSION 可能为真或假，且以此设置返回"
-"状态。可能出现的情况如下所示："
+"状态。可能出现的情况如下所示：\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:33 raw/man1/test.1:33 raw/man1/expr.1:81
@@ -721,9 +731,11 @@ msgstr ""
 #, fuzzy
 msgid "EXPRESSION is true"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION 为真"
+"EXPRESSION 为真\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:36 raw/man1/test.1:36
@@ -736,9 +748,11 @@ msgstr ""
 #, fuzzy
 msgid "EXPRESSION is false"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION 为假"
+"EXPRESSION 为假\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:39 raw/man1/test.1:39
@@ -751,9 +765,11 @@ msgstr ""
 #, fuzzy
 msgid "both EXPRESSION1 and EXPRESSION2 are true"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION1 与 EXPRESSION2 皆为真"
+"EXPRESSION1 与 EXPRESSION2 皆为真\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:42 raw/man1/test.1:42
@@ -766,9 +782,11 @@ msgstr ""
 #, fuzzy
 msgid "either EXPRESSION1 or EXPRESSION2 is true"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION1 或 EXPRESSION2 为真"
+"EXPRESSION1 或 EXPRESSION2 为真\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:45 raw/man1/test.1:45
@@ -781,9 +799,11 @@ msgstr ""
 #, fuzzy
 msgid "the length of STRING is nonzero"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"STRING 的长度非零"
+"STRING 的长度非零\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:48 raw/man1/test.1:48
@@ -818,9 +838,11 @@ msgstr ""
 #, fuzzy
 msgid "the strings are equal"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"字符串相等"
+"字符串相等\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:57 raw/man1/test.1:57
@@ -833,9 +855,11 @@ msgstr ""
 #, fuzzy
 msgid "the strings are not equal"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"字符串不相等"
+"字符串不相等\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:60 raw/man1/test.1:60
@@ -881,9 +905,11 @@ msgstr ""
 #, fuzzy
 msgid "INTEGER1 is less than or equal to INTEGER2"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"INTEGER1 小于或等于 INTEGER2"
+"INTEGER1 小于或等于 INTEGER2\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:72 raw/man1/test.1:72
@@ -896,9 +922,11 @@ msgstr ""
 #, fuzzy
 msgid "INTEGER1 is less than INTEGER2"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"INTEGER1 小于 INTEGER2"
+"INTEGER1 小于 INTEGER2\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:75 raw/man1/test.1:75
@@ -977,9 +1005,11 @@ msgstr ""
 #, fuzzy
 msgid "FILE exists and is a directory"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且为一个目录"
+"FILE 存在且为一个目录\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:96 raw/man1/test.1:96
@@ -1003,9 +1033,11 @@ msgstr ""
 #, fuzzy
 msgid "FILE exists and is a regular file"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且为一个普通文件"
+"FILE 存在且为一个普通文件\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:102 raw/man1/test.1:102
@@ -1051,9 +1083,11 @@ msgstr ""
 #, fuzzy
 msgid "FILE exists and has its sticky bit set"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且被设置粘着位"
+"FILE 存在且被设置粘着位\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:114 raw/man1/test.1:114
@@ -1088,9 +1122,11 @@ msgstr ""
 #, fuzzy
 msgid "FILE exists and is a named pipe"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且为一个命名管道"
+"FILE 存在且为一个命名管道\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:123 raw/man1/test.1:123
@@ -1103,9 +1139,11 @@ msgstr ""
 #, fuzzy
 msgid "FILE exists and read permission is granted"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且被授予读权限"
+"FILE 存在且被授予读权限\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:126 raw/man1/test.1:126
@@ -1118,9 +1156,11 @@ msgstr ""
 #, fuzzy
 msgid "FILE exists and has a size greater than zero"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且其大小大于零"
+"FILE 存在且其大小大于零\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:129 raw/man1/test.1:129
@@ -1144,9 +1184,11 @@ msgstr ""
 #, fuzzy
 msgid "file descriptor FD is opened on a terminal"
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"文件描述符 FD 在一个终端打开"
+"文件描述符 FD 在一个终端打开\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/[.1:135 raw/man1/test.1:135
@@ -1205,10 +1247,12 @@ msgid ""
 "supersedes the version described here.  Please refer to your shell's "
 "documentation for details about the options it supports."
 msgstr ""
+"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
 "注记：你的 shell 可能有它自己实现的 test 和/或 [ ，它们通常替代了在此描述的程"
-"序。请参考所用 shell 的文档以了解它支持的程序细节与选项信息。"
+"序。请参考所用 shell 的文档以了解它支持的程序细节与选项信息。\n"
+"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: Plain text
 #: raw/man1/[.1:157 raw/man1/test.1:157

@@ -840,7 +840,7 @@ msgstr ""
 #. type: Plain text
 #: raw/man1/ls.1:21 raw/man1/dir.1:21 raw/man1/vdir.1:21
 msgid "do not list implied . and .."
-msgstr ""
+msgstr "不要列出隐含的 . 和 .."
 
 #. type: TP
 #: raw/man1/ls.1:21 raw/man1/dir.1:21 raw/man1/vdir.1:21
@@ -862,7 +862,7 @@ msgstr ""
 #. type: Plain text
 #: raw/man1/ls.1:27 raw/man1/dir.1:27 raw/man1/vdir.1:27
 msgid "print C-style escapes for nongraphic characters"
-msgstr ""
+msgstr "将无法显示的字符显示为C风格的转义形式"
 
 #. type: TP
 #: raw/man1/ls.1:27 raw/man1/dir.1:27 raw/man1/vdir.1:27
@@ -1233,8 +1233,16 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/ls.1:159 raw/man1/dir.1:159 raw/man1/vdir.1:159
+#, fuzzy
 msgid "list subdirectories recursively"
 msgstr ""
+"#-#-#-#-#  dir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  ls.1.zh_CN.po  #-#-#-#-#\n"
+"#-#-#-#-#  ls.1.zh_CN.po  #-#-#-#-#\n"
+"递归列出子目录内容\n"
+"#-#-#-#-#  dir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  vdir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  vdir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
 
 #. type: TP
 #: raw/man1/ls.1:159 raw/man1/dir.1:159 raw/man1/vdir.1:159
