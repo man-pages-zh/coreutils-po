@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-17 20:26+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -668,17 +671,17 @@ msgstr "B<-s>, B<--separator>=I<字符串>"
 #: raw/man1/tac.1:2
 #, no-wrap
 msgid "TAC"
-msgstr ""
+msgstr "TAC"
 
 #. type: Plain text
 #: raw/man1/tac.1:5
 msgid "tac - concatenate and print files in reverse"
-msgstr ""
+msgstr "tac - 连接文件并逆序输出"
 
 #. type: Plain text
 #: raw/man1/tac.1:8
 msgid "B<tac> [I<OPTION>]... [I<FILE>]..."
-msgstr ""
+msgstr "B<tac> [I<选项>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/tac.1:13
@@ -686,57 +689,61 @@ msgid ""
 "Write each FILE to standard output, last line first.  With no FILE, or when "
 "FILE is -, read standard input."
 msgstr ""
+"将文件列表中的每一个文件输出到标准输出，行号大的优先。如果没有指定文件，或者"
+"指定文件为\"-\"，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/tac.1:15
 #, no-wrap
 msgid "B<-b>, B<--before>"
-msgstr ""
+msgstr "B<-b>, B<--before>"
 
 #. type: Plain text
 #: raw/man1/tac.1:18
 msgid "attach the separator before instead of after"
-msgstr ""
+msgstr "将分隔符附加在行首而不是行尾"
 
 #. type: TP
 #: raw/man1/tac.1:18
 #, no-wrap
 msgid "B<-r>, B<--regex>"
-msgstr ""
+msgstr "B<-r>, B<--regex>"
 
 #. type: Plain text
 #: raw/man1/tac.1:21
 msgid "interpret the separator as a regular expression"
-msgstr ""
+msgstr "将分隔符视为正则表达式"
 
 #. type: Plain text
 #: raw/man1/tac.1:24
 msgid "use STRING as the separator instead of newline"
-msgstr ""
+msgstr "以指定字符串作为分隔符而不是换行符"
 
 #. type: Plain text
 #: raw/man1/tac.1:32
 msgid "Written by Jay Lepreau and David MacKenzie."
-msgstr ""
+msgstr "由 Jay Lepreau 和 David MacKenzie 编写。"
 
 #. type: Plain text
 #: raw/man1/tac.1:36
 msgid ""
 "Report tac translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 tac 的翻译"
+"错误。"
 
 #. type: Plain text
 #: raw/man1/tac.1:44
 msgid "B<rev>(1)"
-msgstr ""
+msgstr "B<rev>(1)"
 
 #. type: Plain text
 #: raw/man1/tac.1:47
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/tacE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/tacE<gt>"
 
 #. type: Plain text
 #: raw/man1/tac.1:48
 msgid "or available locally via: info \\(aq(coreutils) tac invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) tac invocation\\(aq"
