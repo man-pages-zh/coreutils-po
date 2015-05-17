@@ -19,7 +19,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 特殊文件类型 | `mkdir` `rmdir` `unlink` `mkfifo` `mknod` `ln` `link` `readlink` | | |
 改变文件属性 | `chgrp` `chmod` `chown` `touch` | | |
 磁盘使用情况 | `df` `du` `stat` sync `truncate` | | |
-打印文本 | `echo` `printf` yes | | |
+打印文本 | echo `printf` yes | sadhen | | 
 条件 | false true `test` `expr` | sadhen | |
 重定向 | `tee` | | |
 文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
