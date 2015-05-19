@@ -3,11 +3,11 @@
 master分支放的是`GNU coreutils 8.23`手册页的翻译。
 
 ### 任务分配
-`coreutils`里面的命令是有分类的，建议按分类认领翻译。认领请在issue中告知。
+`coreutils`里面的命令是有分类的，请按分类认领参与校对。认领请在issue中告知。
 
-功能 | 命令| 翻译 | 一校 | 状态
+功能 | 命令| 一校 | 二校 | 状态
 -----|-----|------|------|-----
-输出整个文件 | cat tac `nl` `od` base64 | sadhen | |
+输出整个文件 | cat tac `nl` `od` base64 | | |
 格式化文件内容 | `fmt` `pr` `fold` | | |
 输出文件一部分 | head `tail` `split` `csplite` | | |
 文件摘要 | `wc` `sum` `cksum` `md5sum` `sha1sum` | | |
@@ -16,20 +16,20 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 对字符的操作 | `tr` `expand` `unexpand` | | |
 列目录 | `ls` `dir` `vdir` `dircolors` | | |
 基本操作 | `cp` `dd` `install` `mv` `rm` `shred` | | |
-特殊文件类型 | `mkdir` `rmdir` `unlink` `mkfifo` `mknod` `ln` `link` `readlink` | | |
+特殊文件类型 | `mkdir` `rmdir` unlink `mkfifo` `mknod` `ln` link `readlink` | | |
 改变文件属性 | `chgrp` `chmod` `chown` `touch` | | |
 磁盘使用情况 | `df` `du` `stat` sync `truncate` | | |
-打印文本 | echo `printf` yes | sadhen | | 
-条件 | false true `test` `expr` | sadhen | |
+打印文本 | echo `printf` yes | | | 
+条件 | false true `test` `expr` | | |
 重定向 | tee | sadhen | | 已翻译
 文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
 工作环境 | pwd `stty` `printenv` tty | | |
 用户信息 | `id` `logname` whoami `groups` `users` `who`| | |
-系统环境 | `date` arch `nproc` `uname` `hostname` `hostid`| | |
+系统环境 | `date` arch `nproc` `uname` hostid| | |
 SELinux环境 | `chcon` `runcon` | | |
 修改环境 | `chroot` `env` nice `nohup` `stdbuf` `timeout` | | |
-暂停 | sleep | sadhen | | 已翻译
-数值操作 | factor seq | sadhen | | 已翻译
+暂停 | sleep | | | 已翻译
+数值操作 | factor seq | | | 已翻译
 
 
 ### 翻译

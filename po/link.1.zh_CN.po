@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-19 19:56+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -642,53 +645,55 @@ msgstr "参见"
 #. type: Plain text
 #: raw/man1/unlink.1:23 raw/man1/link.1:23
 msgid "Written by Michael Stone."
-msgstr ""
+msgstr "由 Michael Stone 编写。"
 
 #. type: TH
 #: raw/man1/link.1:2
 #, no-wrap
 msgid "LINK"
-msgstr ""
+msgstr "LINK"
 
 #. type: Plain text
 #: raw/man1/link.1:5
 msgid "link - call the link function to create a link to a file"
-msgstr ""
+msgstr "link - 调用 link 函数创建一个文件的链接"
 
 #. type: Plain text
 #: raw/man1/link.1:8
 msgid "B<link> I<FILE1 FILE2>"
-msgstr ""
+msgstr "B<link> I<文件1 文件2>"
 
 #. type: Plain text
 #: raw/man1/link.1:11
 msgid "B<link> I<OPTION>"
-msgstr ""
+msgstr "B<link> I<选项>"
 
 #. type: Plain text
 #: raw/man1/link.1:15
 msgid ""
 "Call the link function to create a link named FILE2 to an existing FILE1."
-msgstr ""
+msgstr "调用 link 函数创建从既存的文件1到文件2的链接。"
 
 #. type: Plain text
 #: raw/man1/link.1:27
 msgid ""
 "Report link translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 link 的翻译"
+"错误。"
 
 #. type: Plain text
 #: raw/man1/link.1:35
 msgid "link(2)"
-msgstr ""
+msgstr "link(2)"
 
 #. type: Plain text
 #: raw/man1/link.1:38
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/linkE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/linkE<gt>"
 
 #. type: Plain text
 #: raw/man1/link.1:39
 msgid "or available locally via: info \\(aq(coreutils) link invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) link invocation\\(aq"

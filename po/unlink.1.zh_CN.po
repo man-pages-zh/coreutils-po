@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-19 20:02+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -643,32 +646,32 @@ msgstr "参见"
 #: raw/man1/unlink.1:2
 #, no-wrap
 msgid "UNLINK"
-msgstr ""
+msgstr "UNLINK"
 
 #. type: Plain text
 #: raw/man1/unlink.1:5
 msgid "unlink - call the unlink function to remove the specified file"
-msgstr ""
+msgstr "unlink - 调用 unlink 函数删除指定文件"
 
 #. type: Plain text
 #: raw/man1/unlink.1:8
 msgid "B<unlink> I<FILE>"
-msgstr ""
+msgstr "B<unlink> I<文件>"
 
 #. type: Plain text
 #: raw/man1/unlink.1:11
 msgid "B<unlink> I<OPTION>"
-msgstr ""
+msgstr "B<unlink> I<选项>"
 
 #. type: Plain text
 #: raw/man1/unlink.1:15
 msgid "Call the unlink function to remove the specified FILE."
-msgstr ""
+msgstr "调用 unlink 函数删除指定的文件。"
 
 #. type: Plain text
 #: raw/man1/unlink.1:23 raw/man1/link.1:23
 msgid "Written by Michael Stone."
-msgstr ""
+msgstr "由 Michael Stone 编写。"
 
 #. type: Plain text
 #: raw/man1/unlink.1:27
@@ -676,19 +679,21 @@ msgid ""
 "Report unlink translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 unlink 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/unlink.1:35
 msgid "unlink(2)"
-msgstr ""
+msgstr "unlink(2)"
 
 #. type: Plain text
 #: raw/man1/unlink.1:38
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/unlinkE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/unlinkE<gt>"
 
 #. type: Plain text
 #: raw/man1/unlink.1:39
 msgid "or available locally via: info \\(aq(coreutils) unlink invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) unlink invocation\\(aq"
