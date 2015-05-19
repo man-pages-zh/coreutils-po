@@ -24,6 +24,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 重定向 | tee | sadhen | | 已翻译
 文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
 工作环境 | pwd `stty` `printenv` tty | | |
+用户信息 | `id` `logname` whoami `groups` `users` `who`| | |
 系统环境 | `date` arch `nproc` `uname` `hostname` `hostid`| | |
 SELinux环境 | `chcon` `runcon` | | |
 修改环境 | `chroot` `env` nice `nohup` `stdbuf` `timeout` | | |
