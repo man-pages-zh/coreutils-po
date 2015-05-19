@@ -680,7 +680,7 @@ msgstr "B<-v>, B<--verbose>"
 #: raw/man1/mknod.1:17 raw/man1/cp.1:118
 #, no-wrap
 msgid "B<-Z>"
-msgstr ""
+msgstr "B<-Z>"
 
 #. type: TP
 #: raw/man1/mkdir.1:27 raw/man1/mkfifo.1:20 raw/man1/install.1:89

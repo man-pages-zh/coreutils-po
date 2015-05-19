@@ -679,7 +679,7 @@ msgstr "由 David MacKenzie 编写。"
 #: raw/man1/mknod.1:14
 #, no-wrap
 msgid "B<-m>, B<--mode>=I<MODE>"
-msgstr ""
+msgstr "B<-m>, B<--mode>=I<模式>"
 
 #. type: TP
 #: raw/man1/mkdir.1:20 raw/man1/install.1:79 raw/man1/readlink.1:35
@@ -696,7 +696,7 @@ msgstr "B<-v>, B<--verbose>"
 #: raw/man1/mknod.1:17 raw/man1/cp.1:118
 #, no-wrap
 msgid "B<-Z>"
-msgstr ""
+msgstr "B<-Z>"
 
 #. type: TP
 #: raw/man1/mkdir.1:27 raw/man1/mkfifo.1:20 raw/man1/install.1:89

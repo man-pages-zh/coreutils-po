@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-19 11:02+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -653,7 +656,7 @@ msgstr "由 David MacKenzie 编写。"
 #: raw/man1/mkdir.1:17 raw/man1/rmdir.1:18
 #, no-wrap
 msgid "B<-p>, B<--parents>"
-msgstr ""
+msgstr "B<-p>, B<--parents>"
 
 #. type: TP
 #: raw/man1/mkdir.1:20 raw/man1/install.1:79 raw/man1/readlink.1:35
@@ -669,37 +672,37 @@ msgstr "B<-v>, B<--verbose>"
 #: raw/man1/rmdir.1:2
 #, no-wrap
 msgid "RMDIR"
-msgstr ""
+msgstr "RMDIR"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:5
 msgid "rmdir - remove empty directories"
-msgstr ""
+msgstr "rmdir - 删除空目录"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:8
 msgid "B<rmdir> [I<OPTION>]... I<DIRECTORY>..."
-msgstr ""
+msgstr "B<rmdir> [I<选项>]... I<目录列表>..."
 
 #. type: Plain text
 #: raw/man1/rmdir.1:12
 msgid "Remove the DIRECTORY(ies), if they are empty."
-msgstr ""
+msgstr "删除目录列表中的空目录。"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:14
 msgid "B<--ignore-fail-on-non-empty>"
-msgstr ""
+msgstr "B<--ignore-fail-on-non-empty>"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:16
 msgid "ignore each failure that is solely because a directory"
-msgstr ""
+msgstr "忽略每一个仅因目录非空而导致的错误"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:18
 msgid "is non-empty"
-msgstr ""
+msgstr " "
 
 #. type: Plain text
 #: raw/man1/rmdir.1:22
@@ -707,11 +710,12 @@ msgid ""
 "remove DIRECTORY and its ancestors; e.g., 'rmdir B<-p> a/b/c' is similar to "
 "'rmdir a/b/c a/b a'"
 msgstr ""
+"删除目录及其路径上的目录；比如，'rmdir B<-p> a/b/c'类似于'rmdir a/b/c a/b a'"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:25
 msgid "output a diagnostic for every directory processed"
-msgstr ""
+msgstr "为每一个处理过的目录输出诊断信息"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:37
@@ -719,19 +723,21 @@ msgid ""
 "Report rmdir translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 rmdir 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:45
 msgid "rmdir(2)"
-msgstr ""
+msgstr "rmdir(2)"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:48
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/rmdirE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/rmdirE<gt>"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:49
 msgid "or available locally via: info \\(aq(coreutils) rmdir invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) rmdir invocation\\(aq"
