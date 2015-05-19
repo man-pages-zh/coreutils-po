@@ -26,8 +26,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 工作环境 | `pwd` `stty` `printenv` `tty` | | |
 SELinux环境 | `chcon` `runcon` | | |
 修改环境 | `chroot` `env` `nice` `nohup` `stdbuf` `timeout` | | |
-进程控制 | `kill` | | |
-睡觉^_^  | `sleep` | | |
+暂停 | sleep | sadhen | | 已翻译
 数值操作 | `factor` seq | | |
 
 

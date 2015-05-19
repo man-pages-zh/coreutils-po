@@ -706,7 +706,7 @@ msgstr ""
 #: raw/man1/date.1:66
 #, no-wrap
 msgid "%b"
-msgstr ""
+msgstr "%b"
 
 #. type: TP
 #: raw/man1/stat.1:49 raw/man1/date.1:69
