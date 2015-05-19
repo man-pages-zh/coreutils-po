@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-19 11:45+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -672,17 +675,17 @@ msgstr "由 David MacKenzie 编写。"
 #: raw/man1/nice.1:2
 #, no-wrap
 msgid "NICE"
-msgstr ""
+msgstr "NICE"
 
 #. type: Plain text
 #: raw/man1/nice.1:5
 msgid "nice - run a program with modified scheduling priority"
-msgstr ""
+msgstr "nice - 改变执行程序的调度优先级"
 
 #. type: Plain text
 #: raw/man1/nice.1:8
 msgid "B<nice> [I<OPTION>] [I<COMMAND >[I<ARG>]...]"
-msgstr ""
+msgstr "B<nice> [I<选项>] [I<命令 >[I<参数>]...]"
 
 #. type: Plain text
 #: raw/man1/nice.1:14
@@ -692,17 +695,19 @@ msgid ""
 "B<-20> (most favorable to the process) to 19 (least favorable to the "
 "process)."
 msgstr ""
+"以调整过的优先级运行命令以影响进程调度。如果没给出命令，就显示当前的优先级。"
+"优先级的值的范围从B<-20>(最高级)到19(最低级)。"
 
 #. type: TP
 #: raw/man1/nice.1:16
 #, no-wrap
 msgid "B<-n>, B<--adjustment>=I<N>"
-msgstr ""
+msgstr "B<-n>, B<--adjustment>=I<N>"
 
 #. type: Plain text
 #: raw/man1/nice.1:19
 msgid "add integer N to the niceness (default 10)"
-msgstr ""
+msgstr "给优先级加上整数N(默认为10)"
 
 #. type: Plain text
 #: raw/man1/nice.1:29
@@ -711,25 +716,29 @@ msgid ""
 "the version described here.  Please refer to your shell's documentation for "
 "details about the options it supports."
 msgstr ""
+"注意：您的 shell 可能内置了自己的 nice 程序版本，它会覆盖这里所提及的相应版"
+"本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/nice.1:35
 msgid ""
 "Report nice translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 nice 的翻译"
+"错误。"
 
 #. type: Plain text
 #: raw/man1/nice.1:43
 msgid "nice(2), renice(1)"
-msgstr ""
+msgstr "nice(2), renice(1)"
 
 #. type: Plain text
 #: raw/man1/nice.1:46
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/niceE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/niceE<gt>"
 
 #. type: Plain text
 #: raw/man1/nice.1:47
 msgid "or available locally via: info \\(aq(coreutils) nice invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) nice invocation\\(aq"

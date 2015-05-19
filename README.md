@@ -23,10 +23,10 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 条件 | false true `test` `expr` | sadhen | |
 重定向 | tee | sadhen | | 已翻译
 文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
-工作环境 | `pwd` `stty` `printenv` tty | | |
-系统环境 | `data` arch `nproc` `uname` `hostname` `hostid` `uptime`| | |
+工作环境 | pwd `stty` `printenv` tty | | |
+系统环境 | `date` arch `nproc` `uname` `hostname` `hostid`| | |
 SELinux环境 | `chcon` `runcon` | | |
-修改环境 | `chroot` `env` `nice` `nohup` `stdbuf` `timeout` | | |
+修改环境 | `chroot` `env` nice `nohup` `stdbuf` `timeout` | | |
 暂停 | sleep | sadhen | | 已翻译
 数值操作 | factor seq | sadhen | | 已翻译
 
