@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-19 10:10+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -643,22 +646,22 @@ msgstr "参见"
 #: raw/man1/factor.1:2
 #, no-wrap
 msgid "FACTOR"
-msgstr ""
+msgstr "FACTOR"
 
 #. type: Plain text
 #: raw/man1/factor.1:5
 msgid "factor - factor numbers"
-msgstr ""
+msgstr "factor - 求质因数分解"
 
 #. type: Plain text
 #: raw/man1/factor.1:8
 msgid "B<factor> [I<NUMBER>]..."
-msgstr ""
+msgstr "B<factor> [I<数>]..."
 
 #. type: Plain text
 #: raw/man1/factor.1:11
 msgid "B<factor> I<OPTION>"
-msgstr ""
+msgstr "B<factor> I<选项>"
 
 #. type: Plain text
 #: raw/man1/factor.1:16
@@ -666,11 +669,12 @@ msgid ""
 "Print the prime factors of each specified integer NUMBER.  If none are "
 "specified on the command line, read them from standard input."
 msgstr ""
+"打印参数列表中的每一个整数的质因数分解。如果没有指定参数，则从标准输入读取。"
 
 #. type: Plain text
 #: raw/man1/factor.1:24
 msgid "Written by Paul Rubin, Torbjorn Granlund, and Niels Moller."
-msgstr ""
+msgstr "由 Paul Rubin, Torbjorn Granlund 和 Niels Moller 编写。"
 
 #. type: Plain text
 #: raw/man1/factor.1:28
@@ -678,14 +682,16 @@ msgid ""
 "Report factor translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 factor 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/factor.1:36
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/factorE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/factorE<gt>"
 
 #. type: Plain text
 #: raw/man1/factor.1:37
 msgid "or available locally via: info \\(aq(coreutils) factor invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) factor invocation\\(aq"
