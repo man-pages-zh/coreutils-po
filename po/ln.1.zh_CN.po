@@ -778,13 +778,13 @@ msgstr ""
 #: raw/man1/realpath.1:19 raw/man1/ln.1:47 raw/man1/pwd.1:12
 #, no-wrap
 msgid "B<-L>, B<--logical>"
-msgstr ""
+msgstr "B<-L>, B<--logical>"
 
 #. type: TP
 #: raw/man1/realpath.1:22 raw/man1/ln.1:54 raw/man1/pwd.1:15
 #, no-wrap
 msgid "B<-P>, B<--physical>"
-msgstr ""
+msgstr "B<-P>, B<--physical>"
 
 #. type: TH
 #: raw/man1/ln.1:2
