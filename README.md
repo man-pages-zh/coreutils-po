@@ -21,7 +21,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 磁盘使用情况 | `df` `du` `stat` sync `truncate` | | |
 打印文本 | echo `printf` yes | sadhen | | 
 条件 | false true `test` `expr` | sadhen | |
-重定向 | `tee` | | |
+重定向 | tee | sadhen | | 已翻译
 文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
 工作环境 | `pwd` `stty` `printenv` `tty` | | |
 SELinux环境 | `chcon` `runcon` | | |
