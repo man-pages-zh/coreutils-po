@@ -4,19 +4,20 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-20 11:42+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-20 15:52+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -481,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -643,185 +645,171 @@ msgstr "参见"
 
 #. type: TP
 #: raw/man1/[.1:33 raw/man1/test.1:33 raw/man1/expr.1:81
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "( EXPRESSION )"
 msgstr "( 表达式 )"
 
 #. type: TH
 #: raw/man1/expr.1:2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "EXPR"
 msgstr "EXPR"
 
 #. type: Plain text
 #: raw/man1/expr.1:5
-#, fuzzy
 msgid "expr - evaluate expressions"
 msgstr "expr - 对表达式求值"
 
 #. type: Plain text
 #: raw/man1/expr.1:8
-#, fuzzy
 msgid "B<expr> I<EXPRESSION>"
 msgstr "B<expr> I<表达式>"
 
 #. type: Plain text
 #: raw/man1/expr.1:11
-#, fuzzy
 msgid "B<expr> I<OPTION>"
 msgstr "B<expr> I<选项>"
 
 #. type: Plain text
 #: raw/man1/expr.1:22
-#, fuzzy
 msgid ""
 "Print the value of EXPRESSION to standard output.  A blank line below "
 "separates increasing precedence groups.  EXPRESSION may be:"
-msgstr "将 表达式 的值打印至标准输出。以下说明以空行分隔优先级级别，运算优先级从低到高。表达式可能为："
+msgstr ""
+"将表达式的值打印至标准输出。以下说明以空行分隔优先级级别，运算优先级从低到"
+"高。表达式可能为："
 
 #. type: TP
 #: raw/man1/expr.1:22
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 | ARG2"
 msgstr "参数1 | 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:25
-#, fuzzy
 msgid "ARG1 if it is neither null nor 0, otherwise ARG2"
-msgstr "参数1，如果它既不是 null 也不是 0，否则为 参数2"
+msgstr "如果参数1 既不是 null 也不是 0，则为参数1，否则为参数2"
 
 #. type: TP
 #: raw/man1/expr.1:25
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 & ARG2"
 msgstr "参数1 & 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:28
-#, fuzzy
 msgid "ARG1 if neither argument is null or 0, otherwise 0"
-msgstr "参数1，如果两个参数都不是 null 也不是 0。否则为 0"
+msgstr "如果两个参数都不是 null 也不是 0，则为参数1，否则为 0"
 
 #. type: TP
 #: raw/man1/expr.1:28
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 E<lt> ARG2"
 msgstr "参数1 E<lt> 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:31
-#, fuzzy
 msgid "ARG1 is less than ARG2"
-msgstr "参数1 小于 参数2"
+msgstr "参数1 小于参数2"
 
 #. type: TP
 #: raw/man1/expr.1:31
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 E<lt>= ARG2"
 msgstr "参数1 E<lt>= 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:34
-#, fuzzy
 msgid "ARG1 is less than or equal to ARG2"
-msgstr "参数1 小于或等于 参数2"
+msgstr "参数1 小于或等于参数2"
 
 #. type: TP
 #: raw/man1/expr.1:34
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 = ARG2"
 msgstr "参数1 = 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:37
-#, fuzzy
 msgid "ARG1 is equal to ARG2"
-msgstr "参数1 等于 参数2"
+msgstr "参数1 等于参数2"
 
 #. type: TP
 #: raw/man1/expr.1:37
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 != ARG2"
 msgstr "参数1 != 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:40
-#, fuzzy
 msgid "ARG1 is unequal to ARG2"
-msgstr "参数1 不等于 参数2"
+msgstr "参数1 不等于参数2"
 
 #. type: TP
 #: raw/man1/expr.1:40
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 E<gt>= ARG2"
 msgstr "参数1 E<gt>= 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:43
-#, fuzzy
 msgid "ARG1 is greater than or equal to ARG2"
-msgstr "参数1 大于或等于 参数2"
+msgstr "参数1 大于或等于参数2"
 
 #. type: TP
 #: raw/man1/expr.1:43
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 E<gt> ARG2"
 msgstr "参数1 E<gt> 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:46
-#, fuzzy
 msgid "ARG1 is greater than ARG2"
-msgstr "参数1 大于 参数2"
+msgstr "参数1 大于参数2"
 
 #. type: TP
 #: raw/man1/expr.1:46
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 + ARG2"
 msgstr "参数1 + 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:49
-#, fuzzy
 msgid "arithmetic sum of ARG1 and ARG2"
-msgstr "参数1 和 参数2 的代数和"
+msgstr "参数1 和参数2 的代数和"
 
 #. type: TP
 #: raw/man1/expr.1:49
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 - ARG2"
 msgstr "参数1 - 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:52
-#, fuzzy
 msgid "arithmetic difference of ARG1 and ARG2"
-msgstr "参数1 和 参数2 的代数差"
+msgstr "参数1 和参数2 的代数差"
 
 #. type: TP
 #: raw/man1/expr.1:52
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 * ARG2"
 msgstr "参数1 * 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:55
-#, fuzzy
 msgid "arithmetic product of ARG1 and ARG2"
-msgstr "参数1 和 参数2 的代数乘积"
+msgstr "参数1 和参数2 的代数乘积"
 
 #. type: TP
 #: raw/man1/expr.1:55
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "ARG1 / ARG2"
 msgstr "参数1 / 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:58
-#, fuzzy
 msgid "arithmetic quotient of ARG1 divided by ARG2"
-msgstr "参数1 除以 参数2 的代数商"
+msgstr "参数1 除以参数2 的代数商"
 
 #. type: TP
 #: raw/man1/expr.1:58
@@ -831,96 +819,87 @@ msgstr "参数1 % 参数2"
 
 #. type: Plain text
 #: raw/man1/expr.1:61
-#, fuzzy
 msgid "arithmetic remainder of ARG1 divided by ARG2"
-msgstr "参数1 除以 参数2 所得余数"
+msgstr "参数1 除以参数2 所得余数"
 
 #. type: TP
 #: raw/man1/expr.1:61
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "STRING : REGEXP"
 msgstr "字符串 : 正则表达式"
 
 #. type: Plain text
 #: raw/man1/expr.1:64
-#, fuzzy
 msgid "anchored pattern match of REGEXP in STRING"
-msgstr "在 字符串 中由给定 正则表达式 决定的锚定模式匹配"
+msgstr "在字符串中由给定正则表达式决定的锚定模式匹配"
 
 #. type: TP
 #: raw/man1/expr.1:64
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "match STRING REGEXP"
 msgstr "match 字符串 正则表达式"
 
 #. type: Plain text
 #: raw/man1/expr.1:67
-#, fuzzy
 msgid "same as STRING : REGEXP"
-msgstr "与“字符串 : 正则表达式”相同"
+msgstr "与”字符串 : 正则表达式“相同"
 
 #. type: TP
 #: raw/man1/expr.1:67
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "substr STRING POS LENGTH"
 msgstr "substr 字符串 位置 长度"
 
 #. type: Plain text
 #: raw/man1/expr.1:70
-#, fuzzy
 msgid "substring of STRING, POS counted from 1"
-msgstr "字符串 的子串，位置 由 1 开始计数"
+msgstr "字符串的子串，位置由 1 开始计数"
 
 #. type: TP
 #: raw/man1/expr.1:70
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "index STRING CHARS"
 msgstr "index 字符串 CHARS"
 
 #. type: Plain text
 #: raw/man1/expr.1:73
 msgid "index in STRING where any CHARS is found, or 0"
-msgstr "任何能够在 字符串 中找到的 CHARS 的位置，或者 0"
+msgstr "任何能够在字符串中找到的 CHARS 的位置，或者 0"
 
 #. type: TP
 #: raw/man1/expr.1:73
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "length STRING"
 msgstr "length 字符串"
 
 #. type: Plain text
 #: raw/man1/expr.1:76
-#, fuzzy
 msgid "length of STRING"
 msgstr "字符串 的长度"
 
 #. type: TP
 #: raw/man1/expr.1:76
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "+ TOKEN"
 msgstr "+ TOKEN"
 
 #. type: Plain text
 #: raw/man1/expr.1:79
-#, fuzzy
 msgid "interpret TOKEN as a string, even if it is a"
 msgstr "将 TOKEN 视作字符串，即使它是一个"
 
 #. type: Plain text
 #: raw/man1/expr.1:81
-#, fuzzy
 msgid "keyword like 'match' or an operator like '/'"
 msgstr "类似于 'match' 的关键字或是一个类似 '/' 的操作符"
 
 #. type: Plain text
 #: raw/man1/expr.1:84
-#, fuzzy
 msgid "value of EXPRESSION"
 msgstr "表达式 的值"
 
 #. type: Plain text
 #: raw/man1/expr.1:89
-#, fuzzy
 msgid ""
 "Beware that many operators need to be escaped or quoted for shells.  "
 "Comparisons are arithmetic if both ARGs are numbers, else lexicographical.  "
@@ -928,31 +907,29 @@ msgid ""
 "\\e( and \\e) are not used, they return the number of characters matched or "
 "0."
 msgstr ""
-"请注意许多运算符需要在 shell 环境下转义或被引号引起。"
-"如果两个 参数 都是数字，那么比较将在代数意义下进行，否则将按照词典序比较。"
-"模式比较时，将返回在 \\e( 和 \\e) 之间的字符串或者 null；"
-"如果 \\e( 和 \\e) 未被使用，那么返回匹配的字符个数或者 0。"
+"请注意许多运算符需要在 shell 环境下转义或被引号引起。如果两个 参数 都是数字，"
+"那么比较将在代数意义下进行，否则将按照词典序比较。模式比较时，将返回在 "
+"\\e( 和 \\e) 之间的字符串或者 null；如果 \\e( 和 \\e) 未被使用，那么返回匹配"
+"的字符个数或者 0。"
 
 #. type: Plain text
 #: raw/man1/expr.1:92
-#, fuzzy
 msgid ""
 "Exit status is 0 if EXPRESSION is neither null nor 0, 1 if EXPRESSION is "
 "null or 0, 2 if EXPRESSION is syntactically invalid, and 3 if an error "
 "occurred."
 msgstr ""
-"如果 表达式 既不是 null 也不是 0，则返回状态值为 0；如果 表达式 是 null 或 0，则返回状态值为 1；如果 表达式 "
-"在语法上无效，则返回状态值为 1；如果发生错误，则返回状态值为 3。"
+"如果 表达式 既不是 null 也不是 0，则返回状态值为 0；如果 表达式 是 null 或 "
+"0，则返回状态值为 1；如果 表达式 在语法上无效，则返回状态值为 1；如果发生错"
+"误，则返回状态值为 3。"
 
 #. type: Plain text
 #: raw/man1/expr.1:94
-#, fuzzy
 msgid "Written by Mike Parker, James Youngman, and Paul Eggert."
 msgstr "由 Mike Parker, James Youngman 和 Paul Eggert 编写。"
 
 #. type: Plain text
 #: raw/man1/expr.1:98
-#, fuzzy
 msgid ""
 "Report expr translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
@@ -961,14 +938,11 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/expr.1:106
-#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/exprE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/exprE<gt>"
 
 #. type: Plain text
 #: raw/man1/expr.1:107
-#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) expr invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) expr invocation\\(aq"
-

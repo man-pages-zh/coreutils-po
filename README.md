@@ -22,7 +22,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 改变文件属性 | `chgrp` `chmod` `chown` `touch` | | |
 磁盘使用情况 | `df` `du` `stat` `sync` `truncate` | | |
 打印文本 | echo `printf` `yes` | | |
-条件 | `false` true `test` `expr` | | |
+条件 | `false` true `test` expr | | |
 重定向 | tee | done | done |
 文件名操作 | `dirname` `basename` `pathchk` `mktemp` `realpath` | | |
 工作环境 | `pwd` `stty` `printenv` tty | | |
