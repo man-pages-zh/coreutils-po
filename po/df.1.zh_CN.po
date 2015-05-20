@@ -727,7 +727,7 @@ msgstr ""
 #: raw/man1/unexpand.1:15
 #, no-wrap
 msgid "B<-a>, B<--all>"
-msgstr ""
+msgstr "B<-a>, B<--all>"
 
 #. type: Plain text
 #: raw/man1/df.1:38

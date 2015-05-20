@@ -655,7 +655,7 @@ msgstr "由 David MacKenzie 编写。"
 #: raw/man1/unexpand.1:15
 #, no-wrap
 msgid "B<-a>, B<--all>"
-msgstr ""
+msgstr "B<-a>, B<--all>"
 
 #. type: TH
 #: raw/man1/uname.1:2

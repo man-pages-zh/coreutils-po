@@ -759,7 +759,7 @@ msgstr ""
 #: raw/man1/dir.1:123 raw/man1/vdir.1:123
 #, no-wrap
 msgid "B<-m>"
-msgstr ""
+msgstr "B<-m>"
 
 #. type: Plain text
 #: raw/man1/touch.1:40

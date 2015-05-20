@@ -670,7 +670,7 @@ msgstr ""
 #: raw/man1/dir.1:123 raw/man1/vdir.1:123
 #, no-wrap
 msgid "B<-m>"
-msgstr ""
+msgstr "B<-m>"
 
 #. type: TP
 #: raw/man1/touch.1:46 raw/man1/du.1:96 raw/man1/ls.1:169 raw/man1/dir.1:169
@@ -723,7 +723,7 @@ msgstr ""
 #: raw/man1/unexpand.1:15
 #, no-wrap
 msgid "B<-a>, B<--all>"
-msgstr ""
+msgstr "B<-a>, B<--all>"
 
 #. type: TP
 #: raw/man1/df.1:46 raw/man1/du.1:58 raw/man1/ls.1:82 raw/man1/dir.1:82

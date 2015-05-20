@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-20 17:58+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -644,7 +647,7 @@ msgstr "参见"
 #: raw/man1/dir.1:123 raw/man1/vdir.1:123
 #, no-wrap
 msgid "B<-m>"
-msgstr ""
+msgstr "B<-m>"
 
 #. type: TP
 #: raw/man1/df.1:35 raw/man1/stty.1:20 raw/man1/du.1:20 raw/man1/uname.1:12
@@ -652,112 +655,125 @@ msgstr ""
 #: raw/man1/unexpand.1:15
 #, no-wrap
 msgid "B<-a>, B<--all>"
-msgstr ""
+msgstr "B<-a>, B<--all>"
 
 #. type: TH
 #: raw/man1/who.1:2
 #, no-wrap
 msgid "WHO"
-msgstr ""
+msgstr "WHO"
 
 #. type: Plain text
 #: raw/man1/who.1:5
+#, fuzzy
 msgid "who - show who is logged on"
-msgstr ""
+msgstr "who - 显示已经登入的用户"
 
 #. type: Plain text
 #: raw/man1/who.1:8
+#, fuzzy
 msgid "B<who> [I<OPTION>]... [ I<FILE | ARG1 ARG2 >]"
-msgstr ""
+msgstr "B<who> [I<选项>]... [ I<文件 | 参数1 参数2 >]"
 
 #. type: Plain text
 #: raw/man1/who.1:12
+#, fuzzy
 msgid "Print information about users who are currently logged in."
-msgstr ""
+msgstr "显示已经登入用户的信息。"
 
 #. type: Plain text
 #: raw/man1/who.1:15
+#, fuzzy
 msgid "same as B<-b> B<-d> B<--login> B<-p> B<-r> B<-t> B<-T> B<-u>"
-msgstr ""
+msgstr "等价于 B<-b> B<-d> B<--login> B<-p> B<-r> B<-t> B<-T> B<-u>"
 
 #. type: TP
 #: raw/man1/who.1:15
 #, no-wrap
 msgid "B<-b>, B<--boot>"
-msgstr ""
+msgstr "B<-b>, B<--boot>"
 
 #. type: Plain text
 #: raw/man1/who.1:18
+#, fuzzy
 msgid "time of last system boot"
-msgstr ""
+msgstr "最近一次系统启动时间"
 
 #. type: TP
 #: raw/man1/who.1:18
 #, no-wrap
 msgid "B<-d>, B<--dead>"
-msgstr ""
+msgstr "B<-d>, B<--dead>"
 
 #. type: Plain text
 #: raw/man1/who.1:21
+#, fuzzy
 msgid "print dead processes"
-msgstr ""
+msgstr "显示死进程"
 
 #. type: TP
 #: raw/man1/who.1:21
 #, no-wrap
 msgid "B<-H>, B<--heading>"
-msgstr ""
+msgstr "B<-H>, B<--heading>"
 
 #. type: Plain text
 #: raw/man1/who.1:24
+#, fuzzy
 msgid "print line of column headings"
-msgstr ""
+msgstr "显示栏目标题行"
 
 #. type: TP
 #: raw/man1/who.1:24
 #, no-wrap
 msgid "B<--ips>"
-msgstr ""
+msgstr "B<--ips>"
 
 #. type: Plain text
 #: raw/man1/who.1:29
+#, fuzzy
 msgid ""
 "print ips instead of hostnames. with B<--lookup>, canonicalizes based on "
 "stored IP, if available, rather than stored hostname"
 msgstr ""
+"显示 IP地址而不是主机名。加上 B<--lookup>，则会尽可能基于已存储的 IP 规范化，"
+"而不是已存储的主机名"
 
 #. type: TP
 #: raw/man1/who.1:29
 #, no-wrap
 msgid "B<-l>, B<--login>"
-msgstr ""
+msgstr "B<-l>, B<--login>"
 
 #. type: Plain text
 #: raw/man1/who.1:32
+#, fuzzy
 msgid "print system login processes"
-msgstr ""
+msgstr "显示系统登入进程"
 
 #. type: TP
 #: raw/man1/who.1:32
 #, no-wrap
 msgid "B<--lookup>"
-msgstr ""
+msgstr "B<--lookup>"
 
 #. type: Plain text
 #: raw/man1/who.1:35
+#, fuzzy
 msgid "attempt to canonicalize hostnames via DNS"
-msgstr ""
+msgstr "试图通过 DNS 规范主机名"
 
 #. type: Plain text
 #: raw/man1/who.1:38
+#, fuzzy
 msgid "only hostname and user associated with stdin"
-msgstr ""
+msgstr "仅显示和 stdin 关联的主机名和用户"
 
 #. type: TP
 #: raw/man1/who.1:38
 #, no-wrap
 msgid "B<-p>, B<--process>"
-msgstr ""
+msgstr "B<-p>, B<--process>"
 
 #. type: Plain text
 #: raw/man1/who.1:41
@@ -768,110 +784,127 @@ msgstr ""
 #: raw/man1/who.1:41
 #, no-wrap
 msgid "B<-q>, B<--count>"
-msgstr ""
+msgstr "B<-q>, B<--count>"
 
 #. type: Plain text
 #: raw/man1/who.1:44
+#, fuzzy
 msgid "all login names and number of users logged on"
-msgstr ""
+msgstr "显示全部的登入名和登入数"
 
 #. type: TP
 #: raw/man1/who.1:44
 #, no-wrap
 msgid "B<-r>, B<--runlevel>"
-msgstr ""
+msgstr "B<-r>, B<--runlevel>"
 
 #. type: Plain text
 #: raw/man1/who.1:47
+#, fuzzy
 msgid "print current runlevel"
-msgstr ""
+msgstr "显示当前运行级别"
 
 #. type: TP
 #: raw/man1/who.1:47
 #, no-wrap
 msgid "B<-s>, B<--short>"
-msgstr ""
+msgstr "B<-s>, B<--short>"
 
 #. type: Plain text
 #: raw/man1/who.1:50
+#, fuzzy
 msgid "print only name, line, and time (default)"
-msgstr ""
+msgstr "只显示名称(NAME)、线路(LINE)、时间(TIME)和备注(COMMENT)（默认）"
 
 #. type: TP
 #: raw/man1/who.1:50
 #, no-wrap
 msgid "B<-t>, B<--time>"
-msgstr ""
+msgstr "B<-t>, B<--time>"
 
 #. type: Plain text
 #: raw/man1/who.1:53
+#, fuzzy
 msgid "print last system clock change"
-msgstr ""
+msgstr "显示最近一次系统时钟更改"
 
 #. type: TP
 #: raw/man1/who.1:53
 #, no-wrap
 msgid "B<-T>, B<-w>, B<--mesg>"
-msgstr ""
+msgstr "B<-T>, B<-w>, B<--mesg>"
 
 #. type: Plain text
 #: raw/man1/who.1:56
+#, fuzzy
 msgid "add user's message status as +, - or ?"
-msgstr ""
+msgstr "用+,-或?表示用户的消息(message)状态"
 
 #. type: TP
 #: raw/man1/who.1:56
 #, no-wrap
 msgid "B<-u>, B<--users>"
-msgstr ""
+msgstr "B<-u>, B<--users>"
 
 #. type: Plain text
 #: raw/man1/who.1:59
+#, fuzzy
 msgid "list users logged in"
-msgstr ""
+msgstr "显示登入用户"
 
 #. type: TP
 #: raw/man1/who.1:59
 #, no-wrap
 msgid "B<--message>"
-msgstr ""
+msgstr "B<--message>"
 
 #. type: Plain text
 #: raw/man1/who.1:62 raw/man1/who.1:65
+#, fuzzy
 msgid "same as B<-T>"
-msgstr ""
+msgstr "等价于 B<-T>"
 
 #. type: TP
 #: raw/man1/who.1:62
 #, no-wrap
 msgid "B<--writable>"
-msgstr ""
+msgstr "B<--writable>"
 
 #. type: Plain text
 #: raw/man1/who.1:74
+#, fuzzy
 msgid ""
 "If FILE is not specified, use I</var/run/utmp>.  I</var/log/wtmp> as FILE is "
 "common.  If ARG1 ARG2 given, B<-m> presumed: 'am i' or 'mom likes' are usual."
 msgstr ""
+"如果没有指定文件，默认使用 I</var/run/utmp>。I</var/log/wtmp>是比较常用的指定"
+"文件。如果给出参数1 和参数2，则等价于 B<-m>：两个参数通常可以是 'am i' 或 "
+"'mom likes'。"
 
 #. type: Plain text
 #: raw/man1/who.1:76
+#, fuzzy
 msgid "Written by Joseph Arceneaux, David MacKenzie, and Michael Stone."
-msgstr ""
+msgstr "由 Joseph Arceneaux, David MacKenzie 和 Michael Stone 编写。"
 
 #. type: Plain text
 #: raw/man1/who.1:80
+#, fuzzy
 msgid ""
 "Report who translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 who 的翻译"
+"错误。"
 
 #. type: Plain text
 #: raw/man1/who.1:88
+#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/whoE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/whoE<gt>"
 
 #. type: Plain text
 #: raw/man1/who.1:89
+#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) who invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) who invocation\\(aq"
