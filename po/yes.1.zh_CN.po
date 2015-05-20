@@ -4,19 +4,20 @@
 #
 # riser <boomer@ccidnet.com>, 2001.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-19 23:44+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
-"Language-Team: Chinese Simplified <>\n"
+"PO-Revision-Date: 2015-05-20 19:17+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -481,8 +482,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -661,7 +661,7 @@ msgstr "YES"
 #. type: Plain text
 #: raw/man1/yes.1:5
 msgid "yes - output a string repeatedly until killed"
-msgstr "yes - 不断输出一个字符串,直到杀死其为止"
+msgstr "yes - 不断输出一个字符串，直到被杀死为止"
 
 #. type: Plain text
 #: raw/man1/yes.1:8
@@ -696,3 +696,4 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/yesE<gt
 #: raw/man1/yes.1:36
 msgid "or available locally via: info \\(aq(coreutils) yes invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) yes invocation\\(aq"
+
