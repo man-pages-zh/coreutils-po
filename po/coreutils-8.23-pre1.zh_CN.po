@@ -15,15 +15,15 @@ msgstr ""
 "Project-Id-Version: coreutils 8.23-pre1\n"
 "Report-Msgid-Bugs-To: bug-coreutils@gnu.org\n"
 "POT-Creation-Date: 2014-07-14 02:55+0100\n"
-"PO-Revision-Date: 2015-05-17 23:15+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-20 17:06+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: lib/argmatch.c:133
 #, c-format
@@ -1011,7 +1011,7 @@ msgid ""
 msgstr ""
 
 #: src/basename.c:67
-#, c-format
+#, fuzzy, c-format
 msgid ""
 "\n"
 "Examples:\n"
@@ -1020,6 +1020,12 @@ msgid ""
 "  %s -s .h include/stdio.h  -> \"stdio\"\n"
 "  %s -a any/str1 any/str2   -> \"str1\" followed by \"str2\"\n"
 msgstr ""
+"\n"
+"示例：\n"
+"  %s /usr/bin/sort          -> \"sort\"\n"
+"  %s include/stdio.h .h     -> \"stdio\"\n"
+"  %s -s .h include/stdio.h  -> \"stdio\"\n"
+"  %s -a any/str1 any/str2   -> \"str1\" 后接 \"str2\"\n"
 
 #: src/basename.c:169 src/chcon.c:535 src/chgrp.c:277 src/chmod.c:529
 #: src/chown.c:279 src/chroot.c:268 src/comm.c:427 src/csplit.c:1399
@@ -1262,8 +1268,9 @@ msgstr ""
 "  -v, --verbose          \t为处理的所有文件显示诊断信息\n"
 
 #: src/chcon.c:383 src/chgrp.c:140 src/chown.c:118
+#, fuzzy
 msgid "  -R, --recursive        operate on files and directories recursively\n"
-msgstr ""
+msgstr "  -R, --recursive        递归地处理文件和目录\n"
 
 #: src/chcon.c:386
 msgid "  -v, --verbose          output a diagnostic for every file processed\n"
@@ -1483,8 +1490,9 @@ msgid "      --reference=RFILE  use RFILE's mode instead of MODE values\n"
 msgstr ""
 
 #: src/chmod.c:397
+#, fuzzy
 msgid "  -R, --recursive        change files and directories recursively\n"
-msgstr ""
+msgstr "  -R, --recursive        递归地改变文件与目录\n"
 
 #: src/chmod.c:402
 #, fuzzy
@@ -2156,8 +2164,9 @@ msgstr "%s -> %s (还原备份)\n"
 
 #. This is a proper name. See the gettext manual, section Names.
 #: src/coreutils.c:47
+#, fuzzy
 msgid "Alex Deymo"
-msgstr ""
+msgstr "Alex Deymo"
 
 #: src/coreutils.c:67
 #, c-format
@@ -3120,6 +3129,7 @@ msgstr ""
 "表示方式；或者是O，在可能的情况下使用本地环境关联的数字符号。\n"
 
 #: src/date.c:246
+#, fuzzy
 msgid ""
 "\n"
 "Examples:\n"
@@ -3132,6 +3142,16 @@ msgid ""
 "Show the local time for 9AM next Friday on the west coast of the US\n"
 "  $ date --date='TZ=\"America/Los_Angeles\" 09:00 next Fri'\n"
 msgstr ""
+"\n"
+"示例：\n"
+"将自 epoch (1970-01-01 UTC) 以来的秒数转换为一个日期\n"
+"  $ date --date='@2147483647'\n"
+"\n"
+"显示美国西海岸的时间（使用 tzselect(1) 来寻找时区信息）\n"
+"  $ TZ='America/Los_Angeles' date\n"
+"\n"
+"显示在美国西海岸下周五 9AM 时的本地时间\n"
+"  $ date --date='TZ=\"America/Los_Angeles\" 09:00 next Fri'\n"
 
 #: src/date.c:279 src/dd.c:2240 src/head.c:846 src/md5sum.c:496
 #: src/md5sum.c:875 src/od.c:910 src/od.c:1973 src/pr.c:1172 src/pr.c:1362
@@ -7202,8 +7222,9 @@ msgid ""
 msgstr ""
 
 #: src/numfmt.c:824
+#, fuzzy
 msgid "      --debug          print warnings about invalid input\n"
-msgstr ""
+msgstr "      --debug          打印对无效输入的警告\n"
 
 #: src/numfmt.c:827
 msgid ""
@@ -8531,10 +8552,13 @@ msgstr ""
 "  -P, --physical\t避免所有符号链接\n"
 
 #: src/pwd.c:67
+#, fuzzy
 msgid ""
 "\n"
 "If no option is specified, -P is assumed.\n"
 msgstr ""
+"\n"
+"如果未指定任何选项，则假设使用 -P。\n"
 
 #: src/pwd.c:169
 #, c-format
