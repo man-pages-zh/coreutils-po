@@ -644,7 +644,7 @@ msgstr "参见"
 #: raw/man1/realpath.1:40 raw/man1/dirname.1:16 raw/man1/printenv.1:16
 #: raw/man1/basename.1:27
 msgid "end each output line with NUL, not newline"
-msgstr ""
+msgstr "使每行输出以 NUL 字符结束，不添加换行符"
 
 #. type: TP
 #: raw/man1/du.1:17 raw/man1/env.1:17 raw/man1/printenv.1:13

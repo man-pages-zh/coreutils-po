@@ -696,7 +696,7 @@ msgstr "\\ee"
 #. type: Plain text
 #: raw/man1/printf.1:41 raw/man1/echo.1:47
 msgid "escape"
-msgstr ""
+msgstr "escape 字符"
 
 #. type: TP
 #: raw/man1/printf.1:41 raw/man1/echo.1:47 raw/man1/tr.1:48

@@ -728,7 +728,7 @@ msgstr "垂直制表符"
 #: raw/man1/printf.1:56 raw/man1/tr.1:36
 #, no-wrap
 msgid "\\eNNN"
-msgstr ""
+msgstr "\\eNNN"
 
 #. type: TH
 #: raw/man1/tr.1:2

@@ -691,7 +691,7 @@ msgstr ""
 #: raw/man1/mktemp.1:21 raw/man1/realpath.1:25
 #, no-wrap
 msgid "B<-q>, B<--quiet>"
-msgstr ""
+msgstr "B<-q>, B<--quiet>"
 
 #. type: Plain text
 #: raw/man1/mktemp.1:24

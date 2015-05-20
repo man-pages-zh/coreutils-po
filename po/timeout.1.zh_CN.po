@@ -669,7 +669,7 @@ msgstr ""
 #: raw/man1/stdbuf.1:54 raw/man1/timeout.1:63 raw/man1/realpath.1:48
 #: raw/man1/truncate.1:47
 msgid "Written by Padraig Brady."
-msgstr ""
+msgstr "由 Padraig Brady 编写。"
 
 #. type: TH
 #: raw/man1/timeout.1:2

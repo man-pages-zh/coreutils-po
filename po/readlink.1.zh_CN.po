@@ -687,7 +687,7 @@ msgstr ""
 #: raw/man1/readlink.1:17 raw/man1/realpath.1:13
 #, no-wrap
 msgid "B<-e>, B<--canonicalize-existing>"
-msgstr ""
+msgstr "B<-e>, B<--canonicalize-existing>"
 
 #. type: Plain text
 #: raw/man1/readlink.1:22
@@ -700,7 +700,7 @@ msgstr ""
 #: raw/man1/readlink.1:22 raw/man1/realpath.1:16
 #, no-wrap
 msgid "B<-m>, B<--canonicalize-missing>"
-msgstr ""
+msgstr "B<-m>, B<--canonicalize-missing>"
 
 #. type: Plain text
 #: raw/man1/readlink.1:27
@@ -747,14 +747,14 @@ msgstr ""
 #: raw/man1/realpath.1:37 raw/man1/dirname.1:13 raw/man1/basename.1:24
 #, no-wrap
 msgid "B<-z>, B<--zero>"
-msgstr ""
+msgstr "B<-z>, B<--zero>"
 
 #. type: Plain text
 #: raw/man1/readlink.1:41 raw/man1/du.1:20 raw/man1/env.1:20
 #: raw/man1/realpath.1:40 raw/man1/dirname.1:16 raw/man1/printenv.1:16
 #: raw/man1/basename.1:27
 msgid "end each output line with NUL, not newline"
-msgstr ""
+msgstr "使每行输出以 NUL 字符结束，不添加换行符"
 
 #. type: Plain text
 #: raw/man1/readlink.1:49

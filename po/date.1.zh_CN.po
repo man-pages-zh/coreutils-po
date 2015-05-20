@@ -883,7 +883,7 @@ msgstr "范例"
 #: raw/man1/printf.1:68 raw/man1/date.1:57
 #, no-wrap
 msgid "%%"
-msgstr ""
+msgstr "%%"
 
 #. type: Plain text
 #: raw/man1/printf.1:84 raw/man1/mkdir.1:39 raw/man1/expand.1:32
