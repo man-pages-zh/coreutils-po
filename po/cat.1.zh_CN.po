@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-27 20:00+0800\n"
+"PO-Revision-Date: 2015-05-20 16:40+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -661,7 +661,7 @@ msgstr "范例"
 #: raw/man1/sort.1:135 raw/man1/shuf.1:49 raw/man1/cut.1:67 raw/man1/cat.1:50
 #: raw/man1/sum.1:26 raw/man1/fmt.1:45 raw/man1/base64.1:32
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr "如果没有指定文件，或者指定文件为\"-\"，则从标准输入读取。"
+msgstr "如果没有指定文件，或者指定文件为 \"-\"，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/mktemp.1:35 raw/man1/cat.1:30 raw/man1/ls.1:184 raw/man1/dir.1:184

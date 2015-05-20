@@ -669,7 +669,7 @@ msgstr ""
 #: raw/man1/uniq.1:44
 #, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
-msgstr ""
+msgstr "B<-z>, B<--zero-terminated>"
 
 #. type: Plain text
 #: raw/man1/sort.1:116 raw/man1/shuf.1:41 raw/man1/join.1:56
