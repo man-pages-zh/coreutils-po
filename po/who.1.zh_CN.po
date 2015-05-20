@@ -4,6 +4,7 @@
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -481,8 +482,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -645,7 +645,7 @@ msgstr "参见"
 #. type: TP
 #: raw/man1/touch.1:37 raw/man1/du.1:73 raw/man1/who.1:35 raw/man1/ls.1:123
 #: raw/man1/dir.1:123 raw/man1/vdir.1:123
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-m>"
 msgstr "B<-m>"
 
@@ -653,13 +653,13 @@ msgstr "B<-m>"
 #: raw/man1/df.1:35 raw/man1/stty.1:20 raw/man1/du.1:20 raw/man1/uname.1:12
 #: raw/man1/who.1:12 raw/man1/ls.1:15 raw/man1/dir.1:15 raw/man1/vdir.1:15
 #: raw/man1/unexpand.1:15
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-a>, B<--all>"
 msgstr "B<-a>, B<--all>"
 
 #. type: TH
 #: raw/man1/who.1:2
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "WHO"
 msgstr "WHO"
 
@@ -667,7 +667,7 @@ msgstr "WHO"
 #: raw/man1/who.1:5
 #, fuzzy
 msgid "who - show who is logged on"
-msgstr "who - 显示已经登入的用户"
+msgstr "who - 显示已登录用户"
 
 #. type: Plain text
 #: raw/man1/who.1:8
@@ -679,7 +679,7 @@ msgstr "B<who> [I<选项>]... [ I<文件 | 参数1 参数2 >]"
 #: raw/man1/who.1:12
 #, fuzzy
 msgid "Print information about users who are currently logged in."
-msgstr "显示已经登入用户的信息。"
+msgstr "显示与当前登录用户有关的信息。"
 
 #. type: Plain text
 #: raw/man1/who.1:15
@@ -689,7 +689,7 @@ msgstr "等价于 B<-b> B<-d> B<--login> B<-p> B<-r> B<-t> B<-T> B<-u>"
 
 #. type: TP
 #: raw/man1/who.1:15
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-b>, B<--boot>"
 msgstr "B<-b>, B<--boot>"
 
@@ -697,11 +697,11 @@ msgstr "B<-b>, B<--boot>"
 #: raw/man1/who.1:18
 #, fuzzy
 msgid "time of last system boot"
-msgstr "最近一次系统启动时间"
+msgstr "最近一次系统引导的时间"
 
 #. type: TP
 #: raw/man1/who.1:18
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-d>, B<--dead>"
 msgstr "B<-d>, B<--dead>"
 
@@ -713,7 +713,7 @@ msgstr "显示死进程"
 
 #. type: TP
 #: raw/man1/who.1:21
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-H>, B<--heading>"
 msgstr "B<-H>, B<--heading>"
 
@@ -721,11 +721,11 @@ msgstr "B<-H>, B<--heading>"
 #: raw/man1/who.1:24
 #, fuzzy
 msgid "print line of column headings"
-msgstr "显示栏目标题行"
+msgstr "显示表格的表头"
 
 #. type: TP
 #: raw/man1/who.1:24
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<--ips>"
 msgstr "B<--ips>"
 
@@ -741,7 +741,7 @@ msgstr ""
 
 #. type: TP
 #: raw/man1/who.1:29
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-l>, B<--login>"
 msgstr "B<-l>, B<--login>"
 
@@ -749,11 +749,11 @@ msgstr "B<-l>, B<--login>"
 #: raw/man1/who.1:32
 #, fuzzy
 msgid "print system login processes"
-msgstr "显示系统登入进程"
+msgstr "显示系统登录进程"
 
 #. type: TP
 #: raw/man1/who.1:32
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<--lookup>"
 msgstr "B<--lookup>"
 
@@ -767,22 +767,24 @@ msgstr "试图通过 DNS 规范主机名"
 #: raw/man1/who.1:38
 #, fuzzy
 msgid "only hostname and user associated with stdin"
-msgstr "仅显示和 stdin 关联的主机名和用户"
+msgstr "仅显示和标准输入关联的主机名和用户"
+
 
 #. type: TP
 #: raw/man1/who.1:38
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-p>, B<--process>"
 msgstr "B<-p>, B<--process>"
 
 #. type: Plain text
 #: raw/man1/who.1:41
+#, fuzzy
 msgid "print active processes spawned by init"
-msgstr ""
+msgstr "显示由 init 生成的活跃进程"
 
 #. type: TP
 #: raw/man1/who.1:41
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-q>, B<--count>"
 msgstr "B<-q>, B<--count>"
 
@@ -790,11 +792,11 @@ msgstr "B<-q>, B<--count>"
 #: raw/man1/who.1:44
 #, fuzzy
 msgid "all login names and number of users logged on"
-msgstr "显示全部的登入名和登入数"
+msgstr "所有登录名称与已登录用户数量"
 
 #. type: TP
 #: raw/man1/who.1:44
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-r>, B<--runlevel>"
 msgstr "B<-r>, B<--runlevel>"
 
@@ -806,19 +808,20 @@ msgstr "显示当前运行级别"
 
 #. type: TP
 #: raw/man1/who.1:47
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-s>, B<--short>"
 msgstr "B<-s>, B<--short>"
 
+# Please make the word "line" clear.
 #. type: Plain text
 #: raw/man1/who.1:50
 #, fuzzy
 msgid "print only name, line, and time (default)"
-msgstr "只显示名称(NAME)、线路(LINE)、时间(TIME)和备注(COMMENT)（默认）"
+msgstr "仅显示名称、线路与时间（默认）"
 
 #. type: TP
 #: raw/man1/who.1:50
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-t>, B<--time>"
 msgstr "B<-t>, B<--time>"
 
@@ -830,7 +833,7 @@ msgstr "显示最近一次系统时钟更改"
 
 #. type: TP
 #: raw/man1/who.1:53
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-T>, B<-w>, B<--mesg>"
 msgstr "B<-T>, B<-w>, B<--mesg>"
 
@@ -838,11 +841,11 @@ msgstr "B<-T>, B<-w>, B<--mesg>"
 #: raw/man1/who.1:56
 #, fuzzy
 msgid "add user's message status as +, - or ?"
-msgstr "用+,-或?表示用户的消息(message)状态"
+msgstr "添加用户状态信息，如 +, - 或 ?"
 
 #. type: TP
 #: raw/man1/who.1:56
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-u>, B<--users>"
 msgstr "B<-u>, B<--users>"
 
@@ -850,11 +853,11 @@ msgstr "B<-u>, B<--users>"
 #: raw/man1/who.1:59
 #, fuzzy
 msgid "list users logged in"
-msgstr "显示登入用户"
+msgstr "列出已登陆用户"
 
 #. type: TP
 #: raw/man1/who.1:59
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<--message>"
 msgstr "B<--message>"
 
@@ -863,10 +866,11 @@ msgstr "B<--message>"
 #, fuzzy
 msgid "same as B<-T>"
 msgstr "等价于 B<-T>"
+>>>>>>> 2a547e607dbe8839457a6949232a70a51d776c87
 
 #. type: TP
 #: raw/man1/who.1:62
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<--writable>"
 msgstr "B<--writable>"
 
@@ -877,8 +881,8 @@ msgid ""
 "If FILE is not specified, use I</var/run/utmp>.  I</var/log/wtmp> as FILE is "
 "common.  If ARG1 ARG2 given, B<-m> presumed: 'am i' or 'mom likes' are usual."
 msgstr ""
-"如果没有指定文件，默认使用 I</var/run/utmp>。I</var/log/wtmp>是比较常用的指定"
-"文件。如果给出参数1 和参数2，则等价于 B<-m>：两个参数通常可以是 'am i' 或 "
+"如果没有指定文件，默认使用 I</var/run/utmp>。I</var/log/wtmp>常被指定为"
+"文件参数。如果给出参数1 和参数2，则等价于 B<-m>：两个参数通常可以是 'am i' 或 "
 "'mom likes'。"
 
 #. type: Plain text
