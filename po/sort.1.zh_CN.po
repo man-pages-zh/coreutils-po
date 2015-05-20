@@ -775,7 +775,7 @@ msgstr ""
 #: raw/man1/sort.1:45 raw/man1/shuf.1:32 raw/man1/shred.1:21
 #, no-wrap
 msgid "B<--random-source>=I<FILE>"
-msgstr ""
+msgstr "B<--random-source>=I<文件>"
 
 #. type: Plain text
 #: raw/man1/sort.1:48 raw/man1/shuf.1:35 raw/man1/shred.1:24
@@ -1000,7 +1000,7 @@ msgstr ""
 #: raw/man1/uniq.1:44
 #, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
-msgstr ""
+msgstr "B<-z>, B<--zero-terminated>"
 
 #. type: Plain text
 #: raw/man1/sort.1:116 raw/man1/shuf.1:41 raw/man1/join.1:56
@@ -1031,7 +1031,7 @@ msgstr ""
 #: raw/man1/sort.1:135 raw/man1/shuf.1:49 raw/man1/cut.1:67 raw/man1/cat.1:50
 #: raw/man1/sum.1:26 raw/man1/fmt.1:45 raw/man1/base64.1:32
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr "如果没有指定文件，或者指定文件为\"-\"，则从标准输入读取。"
+msgstr "如果没有指定文件，或者指定文件为 \"-\"，则从标准输入读取。"
 
 #. type: Plain text
 #: raw/man1/sort.1:140

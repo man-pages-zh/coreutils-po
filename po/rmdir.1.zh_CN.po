@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -709,7 +710,9 @@ msgstr " "
 msgid ""
 "remove DIRECTORY and its ancestors; e.g., 'rmdir B<-p> a/b/c' is similar to "
 "'rmdir a/b/c a/b a'"
-msgstr "删除目录及其路径上的目录；比如，'rmdir B<-p> a/b/c' 类似于 'rmdir a/b/c a/b a'"
+msgstr ""
+"删除目录及其路径上的目录；比如，'rmdir B<-p> a/b/c' 类似于 'rmdir a/b/c a/b "
+"a'"
 
 #. type: Plain text
 #: raw/man1/rmdir.1:25
@@ -740,4 +743,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/rmdirE<
 #: raw/man1/rmdir.1:49
 msgid "or available locally via: info \\(aq(coreutils) rmdir invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) rmdir invocation\\(aq"
-

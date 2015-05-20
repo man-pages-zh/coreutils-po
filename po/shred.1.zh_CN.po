@@ -672,7 +672,7 @@ msgstr "B<-v>, B<--verbose>"
 #: raw/man1/sort.1:45 raw/man1/shuf.1:32 raw/man1/shred.1:21
 #, no-wrap
 msgid "B<--random-source>=I<FILE>"
-msgstr ""
+msgstr "B<--random-source>=I<文件>"
 
 #. type: Plain text
 #: raw/man1/sort.1:48 raw/man1/shuf.1:35 raw/man1/shred.1:24

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-17 22:43+0800\n"
+"PO-Revision-Date: 2015-05-20 15:02+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -701,7 +701,7 @@ msgstr ""
 #: raw/man1/[.1:33 raw/man1/test.1:33 raw/man1/expr.1:81
 #, no-wrap
 msgid "( EXPRESSION )"
-msgstr ""
+msgstr "( 表达式 )"
 
 #. type: Plain text
 #: raw/man1/[.1:36 raw/man1/test.1:36
