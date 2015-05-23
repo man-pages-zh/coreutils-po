@@ -1,0 +1,17 @@
+#!/bin/bash
+
+CMD=$1
+po="po/"$CMD".1.zh_CN.po"
+master="raw/man1/"$CMD".1"
+target="/tmp/"$CMD".1"
+echo $master
+if [ -e $master ]; then
+    po4a-translate -f man -m $master -p $po -l /tmp/tmp.1
+else
+    echo "$CMD has not been translated or does exist at all."
+    exit
+fi
+
+echo ". mso zh.tmac" > /tmp/ChineseSupport
+cat /tmp/ChineseSupport /tmp/tmp.1 > $target
+man $target
