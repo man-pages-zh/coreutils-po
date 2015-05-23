@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-23 15:03+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -679,12 +681,13 @@ msgstr ""
 #: raw/man1/chmod.1:2
 #, no-wrap
 msgid "CHMOD"
-msgstr ""
+msgstr "CHMOD"
 
 #. type: Plain text
 #: raw/man1/chmod.1:5
+#, fuzzy
 msgid "chmod - change file mode bits"
-msgstr ""
+msgstr "chmod - 改变文件模式比特位"
 
 #. type: Plain text
 #: raw/man1/chmod.1:8
@@ -779,9 +782,9 @@ msgstr ""
 
 #. type: SH
 #: raw/man1/chmod.1:80
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "SETUID AND SETGID BITS"
-msgstr ""
+msgstr "SETUID 和 SETGID 比特位"
 
 #. type: Plain text
 #: raw/man1/chmod.1:95
@@ -834,7 +837,7 @@ msgstr ""
 #: raw/man1/chmod.1:119 raw/man1/chown.1:35 raw/man1/chgrp.1:16
 #, no-wrap
 msgid "B<-c>, B<--changes>"
-msgstr ""
+msgstr "B<-c>, B<--changes>"
 
 #. type: Plain text
 #: raw/man1/chmod.1:122 raw/man1/chown.1:38 raw/man1/chgrp.1:19
@@ -908,19 +911,22 @@ msgid ""
 "Report chmod translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 chmod 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/chmod.1:162
 msgid "chmod(2)"
-msgstr ""
+msgstr "chmod(2)"
 
 #. type: Plain text
 #: raw/man1/chmod.1:165
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/chmodE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/chmodE<gt>"
 
 #. type: Plain text
 #: raw/man1/chmod.1:166
 msgid "or available locally via: info \\(aq(coreutils) chmod invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) chmod invocation\\(aq"
+
