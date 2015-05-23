@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-24 01:48+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -643,38 +645,43 @@ msgstr "参见"
 #: raw/man1/sort.1:79 raw/man1/du.1:50 raw/man1/wc.1:29
 #, no-wrap
 msgid "B<--files0-from>=I<F>"
-msgstr ""
+msgstr "B<--files0-from>=I<F>"
 
 #. type: Plain text
 #: raw/man1/sort.1:84 raw/man1/wc.1:34
+#, fuzzy
 msgid ""
 "read input from the files specified by NUL-terminated names in file F; If F "
 "is - then read names from standard input"
-msgstr ""
+msgstr "将文件F 中的以 NUL 结尾的名字所指定的文件作为待统计文件；如果文件F 为“-”，则从标准输入读取这些名字"
 
 #. type: TH
 #: raw/man1/wc.1:2
 #, no-wrap
 msgid "WC"
-msgstr ""
+msgstr "WC"
 
 #. type: Plain text
 #: raw/man1/wc.1:5
+#, fuzzy
 msgid "wc - print newline, word, and byte counts for each file"
-msgstr ""
+msgstr "wc - 输出文件中的行数、单词数、字节数"
 
 #. type: Plain text
 #: raw/man1/wc.1:8
+#, fuzzy
 msgid "B<wc> [I<OPTION>]... [I<FILE>]..."
-msgstr ""
+msgstr "B<wc> [I<选项>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/wc.1:11
+#, fuzzy
 msgid "B<wc> [I<OPTION>]... I<--files0-from=F>"
-msgstr ""
+msgstr "B<wc> [I<选项>]... I<--files0-from=F>"
 
 #. type: Plain text
 #: raw/man1/wc.1:20
+#, fuzzy
 msgid ""
 "Print newline, word, and byte counts for each FILE, and a total line if more "
 "than one FILE is specified.  With no FILE, or when FILE is -, read standard "
@@ -683,80 +690,94 @@ msgid ""
 "printed, always in the following order: newline, word, character, byte, "
 "maximum line length."
 msgstr ""
+"对每个文件输出行、单词、和字节统计数，如果指定的文件多于一个则还有一个行数的总计。没有指定文件或指定的文件是“-”，则读取标准输入。单词指以空格分隔的长度非"
+"零的字符序列。下列选项或可用于选择显示哪些统计数，但显示顺序总是：行数、单词数、字符数、字节数、最长的行的长度。"
 
 #. type: TP
 #: raw/man1/wc.1:20
 #, no-wrap
 msgid "B<-c>, B<--bytes>"
-msgstr ""
+msgstr "B<-c>, B<--bytes>"
 
 #. type: Plain text
 #: raw/man1/wc.1:23
+#, fuzzy
 msgid "print the byte counts"
-msgstr ""
+msgstr "输出字节统计数"
 
 #. type: TP
 #: raw/man1/wc.1:23
 #, no-wrap
 msgid "B<-m>, B<--chars>"
-msgstr ""
+msgstr "B<-m>, B<--chars>"
 
 #. type: Plain text
 #: raw/man1/wc.1:26
+#, fuzzy
 msgid "print the character counts"
-msgstr ""
+msgstr "输出字符统计数"
 
 #. type: TP
 #: raw/man1/wc.1:26
 #, no-wrap
 msgid "B<-l>, B<--lines>"
-msgstr ""
+msgstr "B<-l>, B<--lines>"
 
 #. type: Plain text
 #: raw/man1/wc.1:29
+#, fuzzy
 msgid "print the newline counts"
-msgstr ""
+msgstr "输出换行符统计数"
 
 #. type: TP
 #: raw/man1/wc.1:34
 #, no-wrap
 msgid "B<-L>, B<--max-line-length>"
-msgstr ""
+msgstr "B<-L>, B<--max-line-length>"
 
 #. type: Plain text
 #: raw/man1/wc.1:37
+#, fuzzy
 msgid "print the length of the longest line"
-msgstr ""
+msgstr "输出最长的行的长度"
 
 #. type: TP
 #: raw/man1/wc.1:37
 #, no-wrap
 msgid "B<-w>, B<--words>"
-msgstr ""
+msgstr "B<-w>, B<--words>"
 
 #. type: Plain text
 #: raw/man1/wc.1:40
+#, fuzzy
 msgid "print the word counts"
-msgstr ""
+msgstr "输出单词统计数"
 
 #. type: Plain text
 #: raw/man1/wc.1:48
+#, fuzzy
 msgid "Written by Paul Rubin and David MacKenzie."
-msgstr ""
+msgstr "由 Paul Rubin 和 David MacKenzie 编写。"
 
 #. type: Plain text
 #: raw/man1/wc.1:52
+#, fuzzy
 msgid ""
 "Report wc translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 wc 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/wc.1:60
+#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/wcE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/wcE<gt>"
 
 #. type: Plain text
 #: raw/man1/wc.1:61
+#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) wc invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) wc invocation\\(aq"
+
+
