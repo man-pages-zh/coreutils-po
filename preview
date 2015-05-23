@@ -5,13 +5,17 @@ po="po/"$CMD".1.zh_CN.po"
 master="raw/man1/"$CMD".1"
 target="/tmp/"$CMD".1"
 echo $master
-if [ -e $master ]; then
-    po4a-translate -f man -m $master -p $po -l /tmp/tmp.1
-else
+if [ ! -e $master ]; then
     echo "$CMD has not been translated or does exist at all."
     exit
 fi
 
+sed -e "s/fuzzy//g" $po > /tmp/tmp.po
+po4a-translate -f man -m $master -p /tmp/tmp.po -l /tmp/tmp.1
 echo ". mso zh.tmac" > /tmp/ChineseSupport
+if [ ! -e /tmp/tmp.1 ]; then
+    echo "Ooops, cannot generate the translated $target"
+    exit
+fi
 cat /tmp/ChineseSupport /tmp/tmp.1 > $target
 man $target

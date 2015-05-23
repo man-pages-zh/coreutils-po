@@ -35,14 +35,17 @@ SELinux环境 | `chcon` `runcon` |
 
 
 ### 翻译
-只要翻译`po`目录下面的文件就可以了。推荐使用专门的软件，比如`lokalize`。
+请先安装 python3 和 po4a。
+
+只要翻译`po`目录下面的文件就可以了。推荐使用专门的软件，比如`lokalize`。翻译好之后，请务必预览你翻译好的命令。
+使用`./preview command`就可以预览。
 
 翻译规范参考[wiki](https://github.com/man-pages-zh/wiki/wiki/%E7%BF%BB%E8%AF%91%E8%A7%84%E8%8C%83)。
 
 ### 维护
-请先安装python3和po4a。
+请先安装 python3 和 po4a。
 
-运行`python3 generate.py`可以：
+运行`./generate`可以：
 
 1. 根据手册页的更新，更新pot和po
 2. 根据po文件，生成翻译
