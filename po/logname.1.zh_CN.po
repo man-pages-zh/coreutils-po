@@ -4,19 +4,20 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-23 15:11+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-23 20:22+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -481,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -649,25 +651,21 @@ msgstr "LOGNAME"
 
 #. type: Plain text
 #: raw/man1/logname.1:5
-#, fuzzy
 msgid "logname - print user\\'s login name"
-msgstr "logname - 打印用户的登录名"
+msgstr "logname - 显示用户的登录名"
 
 #. type: Plain text
 #: raw/man1/logname.1:8
-#, fuzzy
 msgid "B<logname> [I<OPTION>]"
 msgstr "B<logname> [I<选项>]"
 
 #. type: Plain text
 #: raw/man1/logname.1:12
-#, fuzzy
 msgid "Print the name of the current user."
-msgstr "打印当前用户名。"
+msgstr "显示当前用户名。"
 
 #. type: Plain text
 #: raw/man1/logname.1:20
-#, fuzzy
 msgid "Written by FIXME: unknown."
 msgstr "由 FIXME: unknown 编写。"
 
@@ -677,8 +675,8 @@ msgid ""
 "Report logname translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 logname 的翻译"
-"错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 logname 的"
+"翻译错误。"
 
 #. type: Plain text
 #: raw/man1/logname.1:32
@@ -691,4 +689,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/logname
 #: raw/man1/logname.1:33
 msgid "or available locally via: info \\(aq(coreutils) logname invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) logname invocation\\(aq"
-

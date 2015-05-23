@@ -677,7 +677,7 @@ msgstr ""
 #: raw/man1/vdir.1:118 raw/man1/cp.1:53
 #, no-wrap
 msgid "B<-L>, B<--dereference>"
-msgstr ""
+msgstr "B<-L>, B<--dereference>"
 
 #. type: TP
 #: raw/man1/sort.1:79 raw/man1/du.1:50 raw/man1/wc.1:29
@@ -776,7 +776,7 @@ msgstr ""
 #: raw/man1/du.1:17 raw/man1/env.1:17 raw/man1/printenv.1:13
 #, no-wrap
 msgid "B<-0>, B<--null>"
-msgstr ""
+msgstr "B<-0>, B<--null>"
 
 #. type: Plain text
 #: raw/man1/du.1:23
@@ -921,7 +921,7 @@ msgstr ""
 #: raw/man1/du.1:82 raw/man1/ls.1:86 raw/man1/dir.1:86 raw/man1/vdir.1:86
 #, no-wrap
 msgid "B<--si>"
-msgstr ""
+msgstr "B<--si>"
 
 #. type: Plain text
 #: raw/man1/du.1:85

@@ -786,7 +786,7 @@ msgstr ""
 #: raw/man1/sort.1:48 raw/man1/ls.1:153 raw/man1/dir.1:153 raw/man1/vdir.1:153
 #, no-wrap
 msgid "B<-r>, B<--reverse>"
-msgstr ""
+msgstr "B<-r>, B<--reverse>"
 
 #. type: Plain text
 #: raw/man1/sort.1:51

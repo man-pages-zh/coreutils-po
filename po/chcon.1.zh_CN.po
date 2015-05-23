@@ -751,7 +751,7 @@ msgstr ""
 #: raw/man1/chgrp.1:44
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
-msgstr ""
+msgstr "B<-R>, B<--recursive>"
 
 #. type: TP
 #: raw/man1/chown.1:44 raw/man1/chcon.1:21 raw/man1/chgrp.1:25

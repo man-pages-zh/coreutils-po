@@ -703,7 +703,7 @@ msgstr "B<-Z>"
 #: raw/man1/mknod.1:20 raw/man1/cp.1:122
 #, no-wrap
 msgid "B<--context>[=I<CTX>]"
-msgstr ""
+msgstr "B<--context>[=I<CTX>]"
 
 #. type: Plain text
 #: raw/man1/mkdir.1:31 raw/man1/mkfifo.1:24 raw/man1/install.1:93
@@ -789,7 +789,7 @@ msgstr ""
 #: raw/man1/vdir.1:35
 #, no-wrap
 msgid "B<-c>"
-msgstr ""
+msgstr "B<-c>"
 
 #. type: TP
 #: raw/man1/install.1:39
@@ -809,7 +809,7 @@ msgstr ""
 #: raw/man1/dir.1:48 raw/man1/vdir.1:48
 #, no-wrap
 msgid "B<-d>, B<--directory>"
-msgstr ""
+msgstr "B<-d>, B<--directory>"
 
 #. type: Plain text
 #: raw/man1/install.1:47

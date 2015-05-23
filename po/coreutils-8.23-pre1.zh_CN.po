@@ -15,15 +15,15 @@ msgstr ""
 "Project-Id-Version: coreutils 8.23-pre1\n"
 "Report-Msgid-Bugs-To: bug-coreutils@gnu.org\n"
 "POT-Creation-Date: 2014-07-14 02:55+0100\n"
-"PO-Revision-Date: 2015-05-20 17:06+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-23 21:57+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: lib/argmatch.c:133
 #, c-format
@@ -11906,6 +11906,7 @@ msgstr ""
 "  -x 文件\t\t指定文件存在且具备执行或搜索(针对目录)权限\n"
 
 #: src/test.c:780
+#, fuzzy
 msgid ""
 "\n"
 "Except for -h and -L, all FILE-related tests dereference symbolic links.\n"
@@ -11914,9 +11915,9 @@ msgid ""
 "INTEGER may also be -l STRING, which evaluates to the length of STRING.\n"
 msgstr ""
 "\n"
-"除-h 和-L 以外，其它所有与指定文件相关的测试都会作用于符号链接。\n"
-"请留心您在必要时需由shell 转义圆括号字符(例如使用反斜杠)。\n"
-"指定整数也可用\"-l 字符串\"表示，这会估算相应字符串的长度。\n"
+"除了 -h 和 -L，所有与指定文件相关的测试都跟随符号链接。\n"
+"请注意在 shell 中圆括号需要被转义（例如，使用反斜线）。\n"
+"也可以把“-l 字符串”作为指定整数，其值为该字符串的长度。\n"
 
 #: src/test.c:786
 msgid ""
@@ -12900,14 +12901,14 @@ msgstr ""
 "\n"
 
 #: src/users.c:106
-#, c-format
+#, fuzzy, c-format
 msgid ""
 "Output who is currently logged in according to FILE.\n"
 "If FILE is not specified, use %s.  %s as FILE is common.\n"
 "\n"
 msgstr ""
 "根据文件判断输出当前有谁正登录在系统上。\n"
-"如果文件未予指定，则使用%s，%s 是通用的相关文件。\n"
+"如果文件未予指定，则使用%s。%s 是常用的相关文件。\n"
 "\n"
 
 #: src/wc.c:117

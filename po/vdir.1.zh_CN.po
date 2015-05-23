@@ -663,7 +663,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/dir.1:54 raw/man1/vdir.1:54
 #, no-wrap
 msgid "B<-f>"
-msgstr ""
+msgstr "B<-f>"
 
 #. type: TP
 #: raw/man1/touch.1:37 raw/man1/du.1:73 raw/man1/who.1:35 raw/man1/ls.1:123
@@ -684,13 +684,13 @@ msgstr ""
 #: raw/man1/vdir.1:118 raw/man1/cp.1:53
 #, no-wrap
 msgid "B<-L>, B<--dereference>"
-msgstr ""
+msgstr "B<-L>, B<--dereference>"
 
 #. type: TP
 #: raw/man1/sort.1:48 raw/man1/ls.1:153 raw/man1/dir.1:153 raw/man1/vdir.1:153
 #, no-wrap
 msgid "B<-r>, B<--reverse>"
-msgstr ""
+msgstr "B<-r>, B<--reverse>"
 
 #. type: TP
 #: raw/man1/sort.1:51 raw/man1/ls.1:165 raw/man1/dir.1:165 raw/man1/vdir.1:165
@@ -708,14 +708,14 @@ msgstr ""
 #: raw/man1/vdir.1:35
 #, no-wrap
 msgid "B<-c>"
-msgstr ""
+msgstr "B<-c>"
 
 #. type: TP
 #: raw/man1/install.1:43 raw/man1/mktemp.1:15 raw/man1/ls.1:48
 #: raw/man1/dir.1:48 raw/man1/vdir.1:48
 #, no-wrap
 msgid "B<-d>, B<--directory>"
-msgstr ""
+msgstr "B<-d>, B<--directory>"
 
 #. type: TP
 #: raw/man1/df.1:35 raw/man1/stty.1:20 raw/man1/du.1:20 raw/man1/uname.1:12
@@ -736,7 +736,7 @@ msgstr ""
 #: raw/man1/df.1:83 raw/man1/ls.1:198 raw/man1/dir.1:198 raw/man1/vdir.1:198
 #, no-wrap
 msgid "B<-v>"
-msgstr ""
+msgstr "B<-v>"
 
 #. type: Plain text
 #: raw/man1/df.1:99 raw/man1/du.1:127 raw/man1/truncate.1:41
@@ -752,7 +752,7 @@ msgstr ""
 #: raw/man1/du.1:82 raw/man1/ls.1:86 raw/man1/dir.1:86 raw/man1/vdir.1:86
 #, no-wrap
 msgid "B<--si>"
-msgstr ""
+msgstr "B<--si>"
 
 #. type: TP
 #: raw/man1/du.1:100 raw/man1/ls.1:175 raw/man1/dir.1:175 raw/man1/vdir.1:175
@@ -766,7 +766,7 @@ msgstr ""
 #: raw/man1/chgrp.1:44
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
-msgstr ""
+msgstr "B<-R>, B<--recursive>"
 
 #. type: TP
 #: raw/man1/mktemp.1:35 raw/man1/cat.1:30 raw/man1/ls.1:184 raw/man1/dir.1:184
@@ -785,33 +785,33 @@ msgstr ""
 #: raw/man1/comm.1:52 raw/man1/uniq.1:65 raw/man1/ls.1:242 raw/man1/dir.1:242
 #: raw/man1/vdir.1:242
 msgid "Written by Richard M. Stallman and David MacKenzie."
-msgstr ""
+msgstr "由 Richard M. Stallman 和 David MacKenzie 编写。"
 
 #. type: TP
 #: raw/man1/pinky.1:10 raw/man1/od.1:85 raw/man1/ls.1:115 raw/man1/dir.1:115
 #: raw/man1/vdir.1:115
 #, no-wrap
 msgid "B<-l>"
-msgstr ""
+msgstr "B<-l>"
 
 #. type: TP
 #: raw/man1/id.1:16 raw/man1/ls.1:210 raw/man1/dir.1:210 raw/man1/vdir.1:210
 #: raw/man1/mv.1:58
 #, no-wrap
 msgid "B<-Z>, B<--context>"
-msgstr ""
+msgstr "B<-Z>, B<--context>"
 
 #. type: TP
 #: raw/man1/od.1:88 raw/man1/ls.1:133 raw/man1/dir.1:133 raw/man1/vdir.1:133
 #, no-wrap
 msgid "B<-o>"
-msgstr ""
+msgstr "B<-o>"
 
 #. type: TP
 #: raw/man1/od.1:94 raw/man1/ls.1:204 raw/man1/dir.1:204 raw/man1/vdir.1:204
 #, no-wrap
 msgid "B<-x>"
-msgstr ""
+msgstr "B<-x>"
 
 #. type: TP
 #: raw/man1/cat.1:36 raw/man1/ls.1:190 raw/man1/dir.1:190 raw/man1/vdir.1:190
@@ -846,7 +846,7 @@ msgstr "不要列出隐含的 . 和 .."
 #: raw/man1/ls.1:21 raw/man1/dir.1:21 raw/man1/vdir.1:21
 #, no-wrap
 msgid "B<--author>"
-msgstr ""
+msgstr "B<--author>"
 
 #. type: Plain text
 #: raw/man1/ls.1:24 raw/man1/dir.1:24 raw/man1/vdir.1:24
@@ -881,7 +881,7 @@ msgstr ""
 #: raw/man1/ls.1:32 raw/man1/dir.1:32 raw/man1/vdir.1:32
 #, no-wrap
 msgid "B<-B>, B<--ignore-backups>"
-msgstr ""
+msgstr "B<-B>, B<--ignore-backups>"
 
 #. type: Plain text
 #: raw/man1/ls.1:35 raw/man1/dir.1:35 raw/man1/vdir.1:35
@@ -900,7 +900,7 @@ msgstr ""
 #: raw/man1/ls.1:41 raw/man1/dir.1:41 raw/man1/vdir.1:41
 #, no-wrap
 msgid "B<-C>"
-msgstr ""
+msgstr "B<-C>"
 
 #. type: Plain text
 #: raw/man1/ls.1:44 raw/man1/dir.1:44 raw/man1/vdir.1:44
@@ -929,7 +929,7 @@ msgstr ""
 #: raw/man1/ls.1:51 raw/man1/dir.1:51 raw/man1/vdir.1:51
 #, no-wrap
 msgid "B<-D>, B<--dired>"
-msgstr ""
+msgstr "B<-D>, B<--dired>"
 
 #. type: Plain text
 #: raw/man1/ls.1:54 raw/man1/dir.1:54 raw/man1/vdir.1:54
@@ -991,7 +991,7 @@ msgstr ""
 #: raw/man1/ls.1:70 raw/man1/dir.1:70 raw/man1/vdir.1:70
 #, no-wrap
 msgid "B<-g>"
-msgstr ""
+msgstr "B<-g>"
 
 #. type: Plain text
 #: raw/man1/ls.1:73 raw/man1/dir.1:73 raw/man1/vdir.1:73
@@ -1002,7 +1002,7 @@ msgstr ""
 #: raw/man1/ls.1:73 raw/man1/dir.1:73 raw/man1/vdir.1:73
 #, no-wrap
 msgid "B<--group-directories-first>"
-msgstr ""
+msgstr "B<--group-directories-first>"
 
 #. type: Plain text
 #: raw/man1/ls.1:76 raw/man1/dir.1:76 raw/man1/vdir.1:76
@@ -1094,7 +1094,7 @@ msgstr ""
 #: raw/man1/ls.1:106 raw/man1/dir.1:106 raw/man1/vdir.1:106
 #, no-wrap
 msgid "B<-i>, B<--inode>"
-msgstr ""
+msgstr "B<-i>, B<--inode>"
 
 #. type: Plain text
 #: raw/man1/ls.1:109 raw/man1/dir.1:109 raw/man1/vdir.1:109

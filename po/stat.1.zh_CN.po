@@ -684,7 +684,7 @@ msgstr ""
 #: raw/man1/vdir.1:118 raw/man1/cp.1:53
 #, no-wrap
 msgid "B<-L>, B<--dereference>"
-msgstr ""
+msgstr "B<-L>, B<--dereference>"
 
 #. type: Plain text
 #: raw/man1/stat.1:17

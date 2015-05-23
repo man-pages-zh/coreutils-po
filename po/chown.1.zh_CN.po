@@ -702,7 +702,7 @@ msgstr ""
 #: raw/man1/chmod.1:119 raw/man1/chown.1:35 raw/man1/chgrp.1:16
 #, no-wrap
 msgid "B<-c>, B<--changes>"
-msgstr ""
+msgstr "B<-c>, B<--changes>"
 
 #. type: Plain text
 #: raw/man1/chmod.1:122 raw/man1/chown.1:38 raw/man1/chgrp.1:19
@@ -746,7 +746,7 @@ msgstr ""
 #: raw/man1/chgrp.1:44
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
-msgstr ""
+msgstr "B<-R>, B<--recursive>"
 
 #. type: Plain text
 #: raw/man1/chmod.1:150 raw/man1/dirname.1:34 raw/man1/chown.1:109

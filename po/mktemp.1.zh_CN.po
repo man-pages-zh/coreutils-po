@@ -644,7 +644,7 @@ msgstr "参见"
 #: raw/man1/dir.1:48 raw/man1/vdir.1:48
 #, no-wrap
 msgid "B<-d>, B<--directory>"
-msgstr ""
+msgstr "B<-d>, B<--directory>"
 
 #. type: TH
 #: raw/man1/mktemp.1:2

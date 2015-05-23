@@ -4,19 +4,20 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-23 15:18+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-23 20:27+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -481,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -662,23 +664,20 @@ msgstr "PRINTENV"
 
 #. type: Plain text
 #: raw/man1/printenv.1:5
-#, fuzzy
 msgid "printenv - print all or part of environment"
-msgstr "printenv - 打印全部或部分环境变量"
+msgstr "printenv - 显示全部或部分环境变量"
 
 #. type: Plain text
 #: raw/man1/printenv.1:8
-#, fuzzy
 msgid "B<printenv> [I<OPTION>]... [I<VARIABLE>]..."
 msgstr "B<printenv> [I<选项>]... [I<变量>]..."
 
 #. type: Plain text
 #: raw/man1/printenv.1:13
-#, fuzzy
 msgid ""
 "Print the values of the specified environment VARIABLE(s).  If no VARIABLE "
 "is specified, print name and value pairs for them all."
-msgstr "打印指定环境变量的值。如果没有指定变量，则打印所有配对的变量名称与值。"
+msgstr "显示指定环境变量的值。如果没有指定变量，则显示所有配对的变量名称与值。"
 
 #. type: Plain text
 #: raw/man1/printenv.1:26
@@ -687,7 +686,8 @@ msgid ""
 "supersedes the version described here.  Please refer to your shell's "
 "documentation for details about the options it supports."
 msgstr ""
-"注意：您的 shell 可能内置了自己的 printenv 程序版本，它通常会覆盖这里所提及的相应版本。请查阅您的 shell 文档获知它所支持的选项。"
+"注意：您的 shell 可能内置了自己的 printenv 程序版本，它通常会覆盖这里所提及的"
+"相应版本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/printenv.1:28
@@ -700,19 +700,19 @@ msgid ""
 "Report printenv translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 printenv 的翻译"
-"错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 printenv 的"
+"翻译错误。"
 
 #. type: Plain text
 #: raw/man1/printenv.1:40
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/"
 "printenvE<gt>"
-msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/printenvE<gt>"
+msgstr ""
+"完整文档请见： E<lt>http://www.gnu.org/software/coreutils/printenvE<gt>"
 
 #. type: Plain text
 #: raw/man1/printenv.1:41
 msgid ""
 "or available locally via: info \\(aq(coreutils) printenv invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) printenv invocation\\(aq"
-

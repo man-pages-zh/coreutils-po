@@ -687,7 +687,7 @@ msgstr ""
 #: raw/man1/comm.1:52 raw/man1/uniq.1:65 raw/man1/ls.1:242 raw/man1/dir.1:242
 #: raw/man1/vdir.1:242
 msgid "Written by Richard M. Stallman and David MacKenzie."
-msgstr ""
+msgstr "由 Richard M. Stallman 和 David MacKenzie 编写。"
 
 #. type: TH
 #: raw/man1/uniq.1:2

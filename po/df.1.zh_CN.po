@@ -891,7 +891,7 @@ msgstr ""
 #: raw/man1/df.1:83 raw/man1/ls.1:198 raw/man1/dir.1:198 raw/man1/vdir.1:198
 #, no-wrap
 msgid "B<-v>"
-msgstr ""
+msgstr "B<-v>"
 
 #. type: Plain text
 #: raw/man1/df.1:96

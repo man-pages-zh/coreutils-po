@@ -21,12 +21,12 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 特殊文件类型 | `mkdir` rmdir `unlink` `mkfifo` `mknod` `ln` `link` `readlink` |
 改变文件属性 | `chgrp` `chmod` `chown` `touch` |
 磁盘使用情况 | `df` `du` `stat` `sync` `truncate` |
-打印文本 | echo `printf` `yes` |
-条件 | `false` true `test` expr |
+打印文本 | echo `printf` yes |
+条件 | `false` true test expr |
 重定向 | tee |
 文件名操作 | dirname basename `pathchk` `mktemp` `realpath` |
-工作环境 | `pwd` `stty` `printenv` tty |
-用户信息 | `id` `logname` `whoami` `groups` `users` who |
+工作环境 | `pwd` `stty` printenv tty |
+用户信息 | `id` logname `whoami` `groups` users who |
 系统环境 | `date` arch `nproc` `uname` `hostid`|
 SELinux环境 | `chcon` `runcon` |
 修改环境 | `chroot` `env` nice `nohup` `stdbuf` `timeout` |

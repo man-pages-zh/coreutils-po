@@ -794,7 +794,7 @@ msgstr ""
 #: raw/man1/mv.1:58
 #, no-wrap
 msgid "B<-Z>, B<--context>"
-msgstr ""
+msgstr "B<-Z>, B<--context>"
 
 #. type: TP
 #: raw/man1/ln.1:44 raw/man1/cp.1:43 raw/man1/mv.1:29

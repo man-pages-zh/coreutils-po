@@ -886,7 +886,7 @@ msgstr ""
 #: raw/man1/chgrp.1:44
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
-msgstr ""
+msgstr "B<-R>, B<--recursive>"
 
 #. type: Plain text
 #: raw/man1/chmod.1:140

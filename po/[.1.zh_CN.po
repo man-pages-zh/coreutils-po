@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-20 15:01+0800\n"
+"PO-Revision-Date: 2015-05-23 22:03+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -686,17 +686,12 @@ msgstr "退出状态值取决于表达式。"
 
 #. type: Plain text
 #: raw/man1/[.1:33 raw/man1/test.1:33
-#, fuzzy
 msgid ""
 "An omitted EXPRESSION defaults to false.  Otherwise, EXPRESSION is true or "
 "false and sets exit status.  It is one of:"
 msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"被省略的 EXPRESSION 将默认为假。否则，EXPRESSION 可能为真或假，且以此设置返回"
-"状态。可能出现的情况如下所示：\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"表达式被省略，则默认为假。否则，表达式可能为真或假，且以此设置返回状态。可能"
+"出现的情况如下所示："
 
 #. type: TP
 #: raw/man1/[.1:33 raw/man1/test.1:33 raw/man1/expr.1:81
@@ -706,500 +701,404 @@ msgstr "( 表达式 )"
 
 #. type: Plain text
 #: raw/man1/[.1:36 raw/man1/test.1:36
-#, fuzzy
 msgid "EXPRESSION is true"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION 为真\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "表达式为真"
 
 #. type: TP
 #: raw/man1/[.1:36 raw/man1/test.1:36
 #, no-wrap
 msgid "! EXPRESSION"
-msgstr ""
+msgstr "! 表达式"
 
 #. type: Plain text
 #: raw/man1/[.1:39 raw/man1/test.1:39
-#, fuzzy
 msgid "EXPRESSION is false"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION 为假\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "表达式为假"
 
 #. type: TP
 #: raw/man1/[.1:39 raw/man1/test.1:39
 #, no-wrap
 msgid "EXPRESSION1 B<-a> EXPRESSION2"
-msgstr ""
+msgstr "表达式1 B<-a> 表达式2"
 
 #. type: Plain text
 #: raw/man1/[.1:42 raw/man1/test.1:42
-#, fuzzy
 msgid "both EXPRESSION1 and EXPRESSION2 are true"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION1 与 EXPRESSION2 皆为真\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "表达式1 与表达式2 皆为真"
 
 #. type: TP
 #: raw/man1/[.1:42 raw/man1/test.1:42
 #, no-wrap
 msgid "EXPRESSION1 B<-o> EXPRESSION2"
-msgstr ""
+msgstr "表达式1 B<-o> 表达式2"
 
 #. type: Plain text
 #: raw/man1/[.1:45 raw/man1/test.1:45
-#, fuzzy
 msgid "either EXPRESSION1 or EXPRESSION2 is true"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"EXPRESSION1 或 EXPRESSION2 为真\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "表达式1 或表达式2 为真"
 
 #. type: TP
 #: raw/man1/[.1:45 raw/man1/test.1:45
 #, no-wrap
 msgid "B<-n> STRING"
-msgstr ""
+msgstr "B<-n> 字符串"
 
 #. type: Plain text
 #: raw/man1/[.1:48 raw/man1/test.1:48
-#, fuzzy
 msgid "the length of STRING is nonzero"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"STRING 的长度非零\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "字符串长度非零"
 
 #. type: TP
 #: raw/man1/[.1:48 raw/man1/test.1:48
 #, no-wrap
 msgid "STRING"
-msgstr ""
+msgstr "STRING"
 
 #. type: Plain text
 #: raw/man1/[.1:51 raw/man1/test.1:51
 msgid "equivalent to B<-n> STRING"
-msgstr ""
+msgstr "等价于 B<-n> 字符串"
 
 #. type: TP
 #: raw/man1/[.1:51 raw/man1/test.1:51
 #, no-wrap
 msgid "B<-z> STRING"
-msgstr ""
+msgstr "B<-z> 字符串"
 
 #. type: Plain text
 #: raw/man1/[.1:54 raw/man1/test.1:54
 msgid "the length of STRING is zero"
-msgstr ""
+msgstr "字符串的长度为 0"
 
 #. type: TP
 #: raw/man1/[.1:54 raw/man1/test.1:54
 #, no-wrap
 msgid "STRING1 = STRING2"
-msgstr ""
+msgstr "字符串1 = 字符串2"
 
 #. type: Plain text
 #: raw/man1/[.1:57 raw/man1/test.1:57
-#, fuzzy
 msgid "the strings are equal"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"字符串相等\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "字符串相等"
 
 #. type: TP
 #: raw/man1/[.1:57 raw/man1/test.1:57
 #, no-wrap
 msgid "STRING1 != STRING2"
-msgstr ""
+msgstr "字符串1 != 字符串2"
 
 #. type: Plain text
 #: raw/man1/[.1:60 raw/man1/test.1:60
-#, fuzzy
 msgid "the strings are not equal"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"字符串不相等\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "字符串不相等"
 
 #. type: TP
 #: raw/man1/[.1:60 raw/man1/test.1:60
 #, no-wrap
 msgid "INTEGER1 B<-eq> INTEGER2"
-msgstr ""
+msgstr "整数1 B<-eq> 整数2"
 
 #. type: Plain text
 #: raw/man1/[.1:63 raw/man1/test.1:63
 msgid "INTEGER1 is equal to INTEGER2"
-msgstr ""
+msgstr "整数1 与整数2 相等"
 
 #. type: TP
 #: raw/man1/[.1:63 raw/man1/test.1:63
 #, no-wrap
 msgid "INTEGER1 B<-ge> INTEGER2"
-msgstr ""
+msgstr "整数1 B<-ge> 整数2"
 
 #. type: Plain text
 #: raw/man1/[.1:66 raw/man1/test.1:66
 msgid "INTEGER1 is greater than or equal to INTEGER2"
-msgstr ""
+msgstr "整数1 大于或等于整数2"
 
 #. type: TP
 #: raw/man1/[.1:66 raw/man1/test.1:66
 #, no-wrap
 msgid "INTEGER1 B<-gt> INTEGER2"
-msgstr ""
+msgstr "整数1 B<-gt> 整数2"
 
 #. type: Plain text
 #: raw/man1/[.1:69 raw/man1/test.1:69
 msgid "INTEGER1 is greater than INTEGER2"
-msgstr ""
+msgstr "整数1 大于整数2"
 
 #. type: TP
 #: raw/man1/[.1:69 raw/man1/test.1:69
 #, no-wrap
 msgid "INTEGER1 B<-le> INTEGER2"
-msgstr ""
+msgstr "整数1 B<-le> 整数2"
 
 #. type: Plain text
 #: raw/man1/[.1:72 raw/man1/test.1:72
-#, fuzzy
 msgid "INTEGER1 is less than or equal to INTEGER2"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"INTEGER1 小于或等于 INTEGER2\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "整数1 小于或等于整数2"
 
 #. type: TP
 #: raw/man1/[.1:72 raw/man1/test.1:72
 #, no-wrap
 msgid "INTEGER1 B<-lt> INTEGER2"
-msgstr ""
+msgstr "整数1 B<-lt> 整数2"
 
 #. type: Plain text
 #: raw/man1/[.1:75 raw/man1/test.1:75
-#, fuzzy
 msgid "INTEGER1 is less than INTEGER2"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"INTEGER1 小于 INTEGER2\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "整数1 小于整数2"
 
 #. type: TP
 #: raw/man1/[.1:75 raw/man1/test.1:75
 #, no-wrap
 msgid "INTEGER1 B<-ne> INTEGER2"
-msgstr ""
+msgstr "整数1 B<-ne> 整数2"
 
 #. type: Plain text
 #: raw/man1/[.1:78 raw/man1/test.1:78
 msgid "INTEGER1 is not equal to INTEGER2"
-msgstr ""
+msgstr "整数1 和整数2 不相等"
 
 #. type: TP
 #: raw/man1/[.1:78 raw/man1/test.1:78
 #, no-wrap
 msgid "FILE1 B<-ef> FILE2"
-msgstr ""
+msgstr "文件1 B<-ef> 文件2"
 
 #. type: Plain text
 #: raw/man1/[.1:81 raw/man1/test.1:81
 msgid "FILE1 and FILE2 have the same device and inode numbers"
-msgstr ""
+msgstr "文件1 和文件2 拥有相同的设备编号与 inode 编号"
 
 #. type: TP
 #: raw/man1/[.1:81 raw/man1/test.1:81
 #, no-wrap
 msgid "FILE1 B<-nt> FILE2"
-msgstr ""
+msgstr "文件1 B<-nt> 文件2"
 
 #. type: Plain text
 #: raw/man1/[.1:84 raw/man1/test.1:84
 msgid "FILE1 is newer (modification date) than FILE2"
-msgstr ""
+msgstr "文件1 在修改时间上新于文件2"
 
 #. type: TP
 #: raw/man1/[.1:84 raw/man1/test.1:84
 #, no-wrap
 msgid "FILE1 B<-ot> FILE2"
-msgstr ""
+msgstr "文件1 B<-ot> 文件2"
 
 #. type: Plain text
 #: raw/man1/[.1:87 raw/man1/test.1:87
 msgid "FILE1 is older than FILE2"
-msgstr ""
+msgstr "文件1 比文件2 更旧"
 
 #. type: TP
 #: raw/man1/[.1:87 raw/man1/test.1:87
 #, no-wrap
 msgid "B<-b> FILE"
-msgstr ""
+msgstr "B<-b> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:90 raw/man1/test.1:90
 msgid "FILE exists and is block special"
-msgstr ""
+msgstr "文件存在且为块特殊文件"
 
 #. type: TP
 #: raw/man1/[.1:90 raw/man1/test.1:90
 #, no-wrap
 msgid "B<-c> FILE"
-msgstr ""
+msgstr "B<-c> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:93 raw/man1/test.1:93
 msgid "FILE exists and is character special"
-msgstr ""
+msgstr "文件存在且为字符特殊文件"
 
 #. type: TP
 #: raw/man1/[.1:93 raw/man1/test.1:93
 #, no-wrap
 msgid "B<-d> FILE"
-msgstr ""
+msgstr "B<-d> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:96 raw/man1/test.1:96
-#, fuzzy
 msgid "FILE exists and is a directory"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且为一个目录\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件存在且为目录"
 
 #. type: TP
 #: raw/man1/[.1:96 raw/man1/test.1:96
 #, no-wrap
 msgid "B<-e> FILE"
-msgstr ""
+msgstr "B<-e> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:99 raw/man1/test.1:99
 msgid "FILE exists"
-msgstr ""
+msgstr "文件存在"
 
 #. type: TP
 #: raw/man1/[.1:99 raw/man1/test.1:99
 #, no-wrap
 msgid "B<-f> FILE"
-msgstr ""
+msgstr "B<-f> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:102 raw/man1/test.1:102
-#, fuzzy
 msgid "FILE exists and is a regular file"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且为一个普通文件\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件存在且为普通文件"
 
 #. type: TP
 #: raw/man1/[.1:102 raw/man1/test.1:102
 #, no-wrap
 msgid "B<-g> FILE"
-msgstr ""
+msgstr "B<-g> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:105 raw/man1/test.1:105
 msgid "FILE exists and is set-group-ID"
-msgstr ""
+msgstr "文件存在且被设置了 set-group-ID 位"
 
 #. type: TP
 #: raw/man1/[.1:105 raw/man1/test.1:105
 #, no-wrap
 msgid "B<-G> FILE"
-msgstr ""
+msgstr "B<-g> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:108 raw/man1/test.1:108
 msgid "FILE exists and is owned by the effective group ID"
-msgstr ""
+msgstr "文件存在且为有效组ID 所有"
 
 #. type: TP
 #: raw/man1/[.1:108 raw/man1/test.1:108
 #, no-wrap
 msgid "B<-h> FILE"
-msgstr ""
+msgstr "B<-h> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:111 raw/man1/test.1:111
 msgid "FILE exists and is a symbolic link (same as B<-L>)"
-msgstr ""
+msgstr "文件存在且为一个符号链接（与 B<-L> 相同）"
 
 #. type: TP
 #: raw/man1/[.1:111 raw/man1/test.1:111
 #, no-wrap
 msgid "B<-k> FILE"
-msgstr ""
+msgstr "B<-k> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:114 raw/man1/test.1:114
-#, fuzzy
 msgid "FILE exists and has its sticky bit set"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且被设置粘着位\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件存在且被设置粘着位"
 
 #. type: TP
 #: raw/man1/[.1:114 raw/man1/test.1:114
 #, no-wrap
 msgid "B<-L> FILE"
-msgstr ""
+msgstr "B<-L> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:117 raw/man1/test.1:117
 msgid "FILE exists and is a symbolic link (same as B<-h>)"
-msgstr ""
+msgstr "文件存在且为一个符号链接（与 B<-h> 相同）"
 
 #. type: TP
 #: raw/man1/[.1:117 raw/man1/test.1:117
 #, no-wrap
 msgid "B<-O> FILE"
-msgstr ""
+msgstr "B<-O> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:120 raw/man1/test.1:120
 msgid "FILE exists and is owned by the effective user ID"
-msgstr ""
+msgstr "文件存在且为有效用户ID 所有"
 
 #. type: TP
 #: raw/man1/[.1:120 raw/man1/test.1:120
 #, no-wrap
 msgid "B<-p> FILE"
-msgstr ""
+msgstr "B<-p> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:123 raw/man1/test.1:123
-#, fuzzy
 msgid "FILE exists and is a named pipe"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且为一个命名管道\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件存在且为命名管道"
 
 #. type: TP
 #: raw/man1/[.1:123 raw/man1/test.1:123
 #, no-wrap
 msgid "B<-r> FILE"
-msgstr ""
+msgstr "B<-r> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:126 raw/man1/test.1:126
-#, fuzzy
 msgid "FILE exists and read permission is granted"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且被授予读权限\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件存在且被授予读权限"
 
 #. type: TP
 #: raw/man1/[.1:126 raw/man1/test.1:126
 #, no-wrap
 msgid "B<-s> FILE"
-msgstr ""
+msgstr "B<-s> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:129 raw/man1/test.1:129
-#, fuzzy
 msgid "FILE exists and has a size greater than zero"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"FILE 存在且其大小大于零\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件存在且其大小大于零"
 
 #. type: TP
 #: raw/man1/[.1:129 raw/man1/test.1:129
 #, no-wrap
 msgid "B<-S> FILE"
-msgstr ""
+msgstr "B<-S> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:132 raw/man1/test.1:132
 msgid "FILE exists and is a socket"
-msgstr ""
+msgstr "文件存在且为套接字"
 
 #. type: TP
 #: raw/man1/[.1:132 raw/man1/test.1:132
 #, no-wrap
 msgid "B<-t> FD"
-msgstr ""
+msgstr "B<-t> FD"
 
 #. type: Plain text
 #: raw/man1/[.1:135 raw/man1/test.1:135
-#, fuzzy
 msgid "file descriptor FD is opened on a terminal"
-msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"文件描述符 FD 在一个终端打开\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "文件描述符 FD 在某个终端打开"
 
 #. type: TP
 #: raw/man1/[.1:135 raw/man1/test.1:135
 #, no-wrap
 msgid "B<-u> FILE"
-msgstr ""
+msgstr "B<-u> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:138 raw/man1/test.1:138
 msgid "FILE exists and its set-user-ID bit is set"
-msgstr ""
+msgstr "文件存在且被设置了 set-user-ID 位"
 
 #. type: TP
 #: raw/man1/[.1:138 raw/man1/test.1:138
 #, no-wrap
 msgid "B<-w> FILE"
-msgstr ""
+msgstr "B<-w> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:141 raw/man1/test.1:141
 msgid "FILE exists and write permission is granted"
-msgstr ""
+msgstr "文件存在且被赋予了写权限"
 
 #. type: TP
 #: raw/man1/[.1:141 raw/man1/test.1:141
 #, no-wrap
 msgid "B<-x> FILE"
-msgstr ""
+msgstr "B<-x> 文件"
 
 #. type: Plain text
 #: raw/man1/[.1:144 raw/man1/test.1:144
 msgid "FILE exists and execute (or search) permission is granted"
-msgstr "FILE 存在且被授予执行（或搜索）权限"
+msgstr "文件存在且被授予执行（或搜索）权限"
 
 #. type: Plain text
 #: raw/man1/[.1:148 raw/man1/test.1:148
@@ -1209,6 +1108,9 @@ msgid ""
 "for shells.  INTEGER may also be B<-l> STRING, which evaluates to the length "
 "of STRING."
 msgstr ""
+"除了 B<-h> 和 B<-L>，所有与指定文件相关的测试都跟随符号链接。请注意在 shell "
+"中圆括号需要被转义（例如，使用反斜线）。也可以把“B<-l> 字符串”作为指定整数，"
+"其值为该字符串的长度。"
 
 #. type: Plain text
 #: raw/man1/[.1:151 raw/man1/test.1:151
@@ -1216,40 +1118,39 @@ msgid ""
 "NOTE: [ honors the B<--help> and B<--version> options, but test does not.  "
 "test treats each of those as it treats any other nonempty STRING."
 msgstr ""
+"注记：[ 接受 B<--help> 和 B<--version> 选项，但是 test 并非如此。test 将它们"
+"与其它非空字符串同等看待。"
 
 #. type: Plain text
 #: raw/man1/[.1:155 raw/man1/test.1:155
-#, fuzzy
 msgid ""
 "NOTE: your shell may have its own version of test and/or [, which usually "
 "supersedes the version described here.  Please refer to your shell's "
 "documentation for details about the options it supports."
 msgstr ""
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  [.1.zh_CN.po  #-#-#-#-#\n"
-"注记：你的 shell 可能有它自己实现的 test 和/或 [ ，它们通常替代了在此描述的程"
-"序。请参考所用 shell 的文档以了解它支持的程序细节与选项信息。\n"
-"#-#-#-#-#  test.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"注意：您的 shell 可能内置了自己的 test 和/或 [ 程序版本，它会覆盖这里所提及的"
+"相应版本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/[.1:157 raw/man1/test.1:157
 msgid "Written by Kevin Braunsdorf and Matthew Bradburn."
-msgstr ""
+msgstr "由 Kevin Braunsdorf 和 Matthew Bradburn 编写。"
 
 #. type: Plain text
 #: raw/man1/[.1:161 raw/man1/test.1:161
 msgid ""
 "Report [ translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 [ 的翻译错"
+"误。"
 
 #. type: Plain text
 #: raw/man1/[.1:169 raw/man1/test.1:169
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/[E<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/[E<gt>"
 
 #. type: Plain text
 #: raw/man1/[.1:170 raw/man1/test.1:170
 msgid "or available locally via: info \\(aq(coreutils) test invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) test invocation\\(aq"

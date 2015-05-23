@@ -687,7 +687,7 @@ msgstr "B<-Z>"
 #: raw/man1/mknod.1:20 raw/man1/cp.1:122
 #, no-wrap
 msgid "B<--context>[=I<CTX>]"
-msgstr ""
+msgstr "B<--context>[=I<CTX>]"
 
 #. type: Plain text
 #: raw/man1/mkdir.1:31 raw/man1/mkfifo.1:24 raw/man1/install.1:93

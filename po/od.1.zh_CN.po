@@ -669,7 +669,7 @@ msgstr ""
 #: raw/man1/dir.1:54 raw/man1/vdir.1:54
 #, no-wrap
 msgid "B<-f>"
-msgstr ""
+msgstr "B<-f>"
 
 #. type: Plain text
 #: raw/man1/false.1:27 raw/man1/hostid.1:20 raw/man1/od.1:154
@@ -705,7 +705,7 @@ msgstr ""
 #: raw/man1/vdir.1:35
 #, no-wrap
 msgid "B<-c>"
-msgstr ""
+msgstr "B<-c>"
 
 #. type: TP
 #: raw/man1/rm.1:35 raw/man1/pinky.1:31 raw/man1/od.1:82
@@ -718,7 +718,7 @@ msgstr ""
 #: raw/man1/vdir.1:115
 #, no-wrap
 msgid "B<-l>"
-msgstr ""
+msgstr "B<-l>"
 
 #. type: TP
 #: raw/man1/pinky.1:22 raw/man1/od.1:91
@@ -929,7 +929,7 @@ msgstr ""
 #: raw/man1/od.1:88 raw/man1/ls.1:133 raw/man1/dir.1:133 raw/man1/vdir.1:133
 #, no-wrap
 msgid "B<-o>"
-msgstr ""
+msgstr "B<-o>"
 
 #. type: Plain text
 #: raw/man1/od.1:91
@@ -945,7 +945,7 @@ msgstr ""
 #: raw/man1/od.1:94 raw/man1/ls.1:204 raw/man1/dir.1:204 raw/man1/vdir.1:204
 #, no-wrap
 msgid "B<-x>"
-msgstr ""
+msgstr "B<-x>"
 
 #. type: Plain text
 #: raw/man1/od.1:97

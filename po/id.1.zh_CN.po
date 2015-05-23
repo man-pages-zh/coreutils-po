@@ -685,7 +685,7 @@ msgstr ""
 #: raw/man1/mv.1:58
 #, no-wrap
 msgid "B<-Z>, B<--context>"
-msgstr ""
+msgstr "B<-Z>, B<--context>"
 
 #. type: Plain text
 #: raw/man1/id.1:19
