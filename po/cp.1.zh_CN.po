@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-24 02:13+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -713,7 +715,7 @@ msgstr ""
 #: raw/man1/cp.1:29 raw/man1/mv.1:23
 #, no-wrap
 msgid "B<-b>"
-msgstr ""
+msgstr "B<-b>"
 
 #. type: Plain text
 #: raw/man1/install.1:36 raw/man1/ln.1:36 raw/man1/cp.1:32 raw/man1/mv.1:26
@@ -746,7 +748,7 @@ msgstr ""
 #: raw/man1/install.1:76 raw/man1/ln.1:70 raw/man1/cp.1:104 raw/man1/mv.1:47
 #, no-wrap
 msgid "B<-T>, B<--no-target-directory>"
-msgstr ""
+msgstr "B<-T>, B<--no-target-directory>"
 
 #. type: Plain text
 #: raw/man1/install.1:79 raw/man1/cp.1:107 raw/man1/mv.1:50
@@ -1068,7 +1070,7 @@ msgstr ""
 #: raw/man1/cp.1:91 raw/man1/mv.1:37
 #, no-wrap
 msgid "B<--strip-trailing-slashes>"
-msgstr ""
+msgstr "B<--strip-trailing-slashes>"
 
 #. type: Plain text
 #: raw/man1/cp.1:95 raw/man1/mv.1:41
@@ -1079,7 +1081,7 @@ msgstr ""
 #: raw/man1/cp.1:95
 #, no-wrap
 msgid "B<-s>, B<--symbolic-link>"
-msgstr ""
+msgstr "B<-s>, B<--symbolic-link>"
 
 #. type: Plain text
 #: raw/man1/cp.1:98
@@ -1152,3 +1154,4 @@ msgstr ""
 #: raw/man1/cp.1:177
 msgid "or available locally via: info \\(aq(coreutils) cp invocation\\(aq"
 msgstr ""
+

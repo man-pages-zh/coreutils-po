@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-21 00:46+0800\n"
+"PO-Revision-Date: 2015-05-24 02:27+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -482,8 +482,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -678,19 +677,17 @@ msgstr "按照指定格式打印参数列表中的参数或按照选项执行：
 
 #. type: Plain text
 #: raw/man1/printf.1:23
-#, fuzzy
 msgid "FORMAT controls the output as in C printf.  Interpreted sequences are:"
-msgstr "“格式”以 C printf 的方式控制输出格式。转义序列如下："
+msgstr "I<格式>以 C printf 的方式控制输出。转义序列如下："
 
 #. type: TP
 #: raw/man1/printf.1:23
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "\\e\""
 msgstr "\\e\""
 
 #. type: Plain text
 #: raw/man1/printf.1:26
-#, fuzzy
 msgid "double quote"
 msgstr "双引号"
 
@@ -746,6 +743,7 @@ msgstr "\\ee"
 
 #. type: Plain text
 #: raw/man1/printf.1:41 raw/man1/echo.1:47
+#, fuzzy
 msgid "escape"
 msgstr "escape 字符"
 
@@ -828,27 +826,25 @@ msgstr "字节数以十六进制数 HH (1至2位)表示"
 
 #. type: TP
 #: raw/man1/printf.1:62
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "\\euHHHH"
 msgstr "\\euHHHH"
 
 #. type: Plain text
 #: raw/man1/printf.1:65
-#, fuzzy
 msgid "Unicode (ISO/IEC 10646) character with hex value HHHH (4 digits)"
-msgstr "Unicode (ISO/IEC 10646) 字符，拥有 16 进制值 HHHH（4位）"
+msgstr "Unicode (ISO/IEC 10646) 字符，是 16进制值 HHHH（4位）"
 
 #. type: TP
 #: raw/man1/printf.1:65
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "\\eUHHHHHHHH"
 msgstr "\\eUHHHHHHHH"
 
 #. type: Plain text
 #: raw/man1/printf.1:68
-#, fuzzy
 msgid "Unicode character with hex value HHHHHHHH (8 digits)"
-msgstr "Unicode 字符，拥有 16 进制值 HHHHHHHH（8位）"
+msgstr "Unicode 字符，是 16进制值 HHHHHHHH（8位）"
 
 #. type: TP
 #: raw/man1/printf.1:68 raw/man1/date.1:57
@@ -858,9 +854,8 @@ msgstr "%%"
 
 #. type: Plain text
 #: raw/man1/printf.1:71
-#, fuzzy
 msgid "a single %"
-msgstr "一个单独的 %"
+msgstr "单个 %"
 
 #. type: Plain text
 #: raw/man1/printf.1:75
@@ -869,7 +864,7 @@ msgid ""
 "ARGUMENT as a string with '\\e' escapes interpreted, except that octal "
 "escapes are of the form \\e0 or \\e0NNN"
 msgstr ""
-"“参数列表”作为字符串，其中 '\\' 字符被转义，除了八进制转义格式 \\e0 或 "
+"参数列表作为字符串，其中 '\\e' 字符被转义，除了八进制转义格式 \\e0 或 "
 "\\e0NNN"
 
 #. type: Plain text
@@ -884,7 +879,6 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/printf.1:82
-#, fuzzy
 msgid ""
 "NOTE: your shell may have its own version of printf, which usually "
 "supersedes the version described here.  Please refer to your shell's "
@@ -905,7 +899,6 @@ msgstr "由 David MacKenzie 编写。"
 
 #. type: Plain text
 #: raw/man1/printf.1:88
-#, fuzzy
 msgid ""
 "Report printf translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
@@ -915,19 +908,17 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/printf.1:96
-#, fuzzy
 msgid "printf(3)"
 msgstr "printf(3)"
 
 #. type: Plain text
 #: raw/man1/printf.1:99
-#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/printfE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/printfE<gt>"
 
 #. type: Plain text
 #: raw/man1/printf.1:100
-#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) printf invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) printf invocation\\(aq"
+

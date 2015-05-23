@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-24 02:16+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -651,20 +653,21 @@ msgstr "B<-v>, B<--verbose>"
 
 #. type: SH
 #: raw/man1/df.1:29 raw/man1/rm.1:29 raw/man1/chmod.1:115 raw/man1/chown.1:31
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "OPTIONS"
-msgstr ""
+msgstr "选项"
 
 #. type: TH
 #: raw/man1/rm.1:2
 #, no-wrap
 msgid "RM"
-msgstr ""
+msgstr "RM"
 
 #. type: Plain text
 #: raw/man1/rm.1:5
+#, fuzzy
 msgid "rm - remove files or directories"
-msgstr ""
+msgstr "rm - 移除文件或者目录"
 
 #. type: Plain text
 #: raw/man1/rm.1:8
@@ -833,7 +836,7 @@ msgstr ""
 #. type: Plain text
 #: raw/man1/rm.1:81
 msgid "rm B<--> B<-foo>"
-msgstr ""
+msgstr "rm B<--> B<-foo>"
 
 #. type: Plain text
 #: raw/man1/rm.1:83
@@ -876,3 +879,4 @@ msgstr ""
 #: raw/man1/rm.1:106
 msgid "or available locally via: info \\(aq(coreutils) rm invocation\\(aq"
 msgstr ""
+

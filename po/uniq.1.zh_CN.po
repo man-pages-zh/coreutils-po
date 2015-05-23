@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-24 02:10+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -662,7 +664,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/sort.1:109 raw/man1/uniq.1:41
 #, no-wrap
 msgid "B<-u>, B<--unique>"
-msgstr ""
+msgstr "B<-u>, B<--unique>"
 
 #. type: TP
 #: raw/man1/sort.1:113 raw/man1/shuf.1:38 raw/man1/join.1:53
@@ -673,15 +675,16 @@ msgstr "B<-z>, B<--zero-terminated>"
 
 #. type: Plain text
 #: raw/man1/sort.1:116 raw/man1/shuf.1:41 raw/man1/join.1:56
+#, fuzzy
 #: raw/man1/uniq.1:47
 msgid "line delimiter is NUL, not newline"
-msgstr ""
+msgstr "以 NUL 作为行的分隔符，而非换行符"
 
 #. type: TP
 #: raw/man1/join.1:21 raw/man1/uniq.1:35
 #, no-wrap
 msgid "B<-i>, B<--ignore-case>"
-msgstr ""
+msgstr "B<-i>, B<--ignore-case>"
 
 #. type: Plain text
 #: raw/man1/comm.1:52 raw/man1/uniq.1:65 raw/man1/ls.1:242 raw/man1/dir.1:242
@@ -693,17 +696,19 @@ msgstr "由 Richard M. Stallman 和 David MacKenzie 编写。"
 #: raw/man1/uniq.1:2
 #, no-wrap
 msgid "UNIQ"
-msgstr ""
+msgstr "UNIQ"
 
 #. type: Plain text
 #: raw/man1/uniq.1:5
+#, fuzzy
 msgid "uniq - report or omit repeated lines"
-msgstr ""
+msgstr "uniq - 报告或省略重复行"
 
 #. type: Plain text
 #: raw/man1/uniq.1:8
+#, fuzzy
 msgid "B<uniq> [I<OPTION>]... [I<INPUT >[I<OUTPUT>]]"
-msgstr ""
+msgstr "B<uniq> [I<选项>]... [I<输入 >[I<输出>]]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:13
@@ -721,7 +726,7 @@ msgstr ""
 #: raw/man1/uniq.1:17
 #, no-wrap
 msgid "B<-c>, B<--count>"
-msgstr ""
+msgstr "B<-c>, B<--count>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:20
@@ -732,12 +737,13 @@ msgstr ""
 #: raw/man1/uniq.1:20
 #, no-wrap
 msgid "B<-d>, B<--repeated>"
-msgstr ""
+msgstr "B<-d>, B<--repeated>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:23
+#, fuzzy
 msgid "only print duplicate lines, one for each group"
-msgstr ""
+msgstr "仅显示重复行，每组一个"
 
 #. type: TP
 #: raw/man1/uniq.1:23
@@ -825,22 +831,27 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/uniq.1:69
+#, fuzzy
 msgid ""
 "Report uniq translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 uniq 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:77
 msgid "comm(1), join(1), sort(1)"
-msgstr ""
+msgstr "comm(1), join(1), sort(1)"
 
 #. type: Plain text
 #: raw/man1/uniq.1:80
+#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/uniqE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/uniqE<gt>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:81
+#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) uniq invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) uniq invocation\\(aq"
+
