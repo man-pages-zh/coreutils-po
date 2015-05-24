@@ -4,12 +4,13 @@
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 15:28+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-24 19:41+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -678,19 +679,16 @@ msgstr "EXPAND"
 
 #. type: Plain text
 #: raw/man1/expand.1:5
-#, fuzzy
 msgid "expand - convert tabs to spaces"
 msgstr "expand - 将制表符转换为空格"
 
 #. type: Plain text
 #: raw/man1/expand.1:8
-#, fuzzy
 msgid "B<expand> [I<OPTION>]... [I<FILE>]..."
 msgstr "B<expand> [I<选项>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/expand.1:13
-#, fuzzy
 msgid ""
 "Convert tabs in each FILE to spaces, writing to standard output.  With no "
 "FILE, or when FILE is -, read standard input."
@@ -704,37 +702,33 @@ msgstr "B<-i>, B<--initial>"
 
 #. type: Plain text
 #: raw/man1/expand.1:18
-#, fuzzy
 msgid "do not convert tabs after non blanks"
 msgstr "不转换非空白符后的制表符"
 
 #. type: TP
 #: raw/man1/expand.1:18
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-t>, B<--tabs>=I<NUMBER>"
 msgstr "B<-t>, B<--tabs>=I<数值>"
 
 #. type: Plain text
 #: raw/man1/expand.1:21
-#, fuzzy
 msgid "have tabs NUMBER characters apart, not 8"
-msgstr "设置每个制表符为指定数值的宽度，而不是默认的8"
+msgstr "设置每个制表符为指定数值的宽度，而不是默认的 8"
 
 #. type: TP
 #: raw/man1/expand.1:21 raw/man1/unexpand.1:24
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-t>, B<--tabs>=I<LIST>"
 msgstr "B<-t>, B<--tabs>=I<列表>"
 
 #. type: Plain text
 #: raw/man1/expand.1:24
-#, fuzzy
 msgid "use comma separated list of explicit tab positions"
 msgstr "使用明确的制表位置列表，用逗号分隔"
 
 #. type: Plain text
 #: raw/man1/expand.1:36
-#, fuzzy
 msgid ""
 "Report expand translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
@@ -748,14 +742,13 @@ msgstr "unexpand(1)"
 
 #. type: Plain text
 #: raw/man1/expand.1:47
-#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/expandE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/expandE<gt>"
 
 #. type: Plain text
 #: raw/man1/expand.1:48
-#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) expand invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) expand invocation\\(aq"
+
 

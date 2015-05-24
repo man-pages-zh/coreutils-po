@@ -4,12 +4,13 @@
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 17:18+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-24 19:37+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -675,7 +676,6 @@ msgstr "B<-z>, B<--zero-terminated>"
 
 #. type: Plain text
 #: raw/man1/sort.1:116 raw/man1/shuf.1:41 raw/man1/join.1:56
-#, fuzzy
 #: raw/man1/uniq.1:47
 msgid "line delimiter is NUL, not newline"
 msgstr "以 NUL 作为行的分隔符，而非换行符"
@@ -700,29 +700,25 @@ msgstr "UNIQ"
 
 #. type: Plain text
 #: raw/man1/uniq.1:5
-#, fuzzy
 msgid "uniq - report or omit repeated lines"
 msgstr "uniq - 报告或省略重复行"
 
 #. type: Plain text
 #: raw/man1/uniq.1:8
-#, fuzzy
 msgid "B<uniq> [I<OPTION>]... [I<INPUT >[I<OUTPUT>]]"
 msgstr "B<uniq> [I<选项>]... [I<输入 >[I<输出>]]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:13
-#, fuzzy
 msgid ""
 "Filter adjacent matching lines from INPUT (or standard input), writing to "
 "OUTPUT (or standard output)."
-msgstr "从输入文件（或标准输入）筛选一组相邻的匹配行，写入到输出文件（或标准输出）"
+msgstr "从输入文件（或标准输入）筛选一组相邻的匹配行，写入到输出文件（或标准输出）。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:15
-#, fuzzy
 msgid "With no options, matching lines are merged to the first occurrence."
-msgstr "没有指定选项，则只保留一组匹配行中的第一行。"
+msgstr "如没有指定选项，则只保留一组匹配行中的第一行。"
 
 #. type: TP
 #: raw/man1/uniq.1:17
@@ -732,7 +728,6 @@ msgstr "B<-c>, B<--count>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:20
-#, fuzzy
 msgid "prefix lines by the number of occurrences"
 msgstr "每行前附上重复出现的次数作为前缀"
 
@@ -744,7 +739,6 @@ msgstr "B<-d>, B<--repeated>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:23
-#, fuzzy
 msgid "only print duplicate lines, one for each group"
 msgstr "仅显示重复行，每组一个"
 
@@ -756,7 +750,6 @@ msgstr "B<-D>, B<--all-repeated>[=I<METHOD>]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:28
-#, fuzzy
 msgid ""
 "print all duplicate lines groups can be delimited with an empty line "
 "METHOD={none(default),prepend,separate}"
@@ -781,7 +774,6 @@ msgstr "B<--group>[=I<METHOD>]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:35
-#, fuzzy
 msgid ""
 "show all items, separating groups with an empty line "
 "METHOD={separate(default),prepend,append,both}"
@@ -789,7 +781,6 @@ msgstr "显示所有行，用一个空行分隔每一组 METHOD={separate(defaul
 
 #. type: Plain text
 #: raw/man1/uniq.1:38
-#, fuzzy
 msgid "ignore differences in case when comparing"
 msgstr "比较时忽略大小写"
 
@@ -806,7 +797,6 @@ msgstr "比较时跳过前 N 个字符"
 
 #. type: Plain text
 #: raw/man1/uniq.1:44
-#, fuzzy
 msgid "only print unique lines"
 msgstr "只显示不重复的行"
 
@@ -818,32 +808,28 @@ msgstr "B<-w>, B<--check-chars>=I<N>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:50
-#, fuzzy
 msgid "compare no more than N characters in lines"
 msgstr "对每行第 N 个字符以后的内容不作比较"
 
 #. type: Plain text
 #: raw/man1/uniq.1:59
-#, fuzzy
 msgid ""
 "A field is a run of blanks (usually spaces and/or TABs), then non-blank "
 "characters.  Fields are skipped before chars."
-msgstr "域指一个由空字符（通常是空格和制表符）和紧随的非空字符组成的序列。同时使用跳过域和跳过字符选项时，先跳过域再跳过字符。"
+msgstr "域指一个由空字符（通常是空格和/或制表符）和紧随的非空字符组成的序列。同时使用跳过域和跳过字符选项时，先跳过域再跳过字符。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:63
-#, fuzzy
 msgid ""
 "Note: 'uniq' does not detect repeated lines unless they are adjacent.  You "
 "may want to sort the input first, or use 'sort B<-u>' without 'uniq'.  Also, "
 "comparisons honor the rules specified by 'LC_COLLATE'."
 msgstr ""
-"注意：“uniq”只检测那些相邻的重复行。你或许需要先对输入排序，或者用“sort B<-u>"
-"”避免使用“uniq”。另外，比较的细则会依据“LC_COLLATE”所指定的规则。"
+"注意：“uniq”只检测那些相邻的重复行。你或许需要先对输入排序，或者使用“sort B<-u>”而非“uniq”。"
+"另外，比较的细则会依据“LC_COLLATE”所指定的规则。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:69
-#, fuzzy
 msgid ""
 "Report uniq translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
@@ -856,14 +842,12 @@ msgstr "comm(1), join(1), sort(1)"
 
 #. type: Plain text
 #: raw/man1/uniq.1:80
-#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/uniqE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/uniqE<gt>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:81
-#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) uniq invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) uniq invocation\\(aq"
 

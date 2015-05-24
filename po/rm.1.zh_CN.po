@@ -4,12 +4,13 @@
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 16:21+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-24 20:08+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -653,7 +654,7 @@ msgstr "B<-v>, B<--verbose>"
 
 #. type: SH
 #: raw/man1/df.1:29 raw/man1/rm.1:29 raw/man1/chmod.1:115 raw/man1/chown.1:31
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "OPTIONS"
 msgstr "选项"
 
@@ -665,22 +666,21 @@ msgstr "RM"
 
 #. type: Plain text
 #: raw/man1/rm.1:5
-#, fuzzy
 msgid "rm - remove files or directories"
 msgstr "rm - 移除文件或者目录"
 
 #. type: Plain text
 #: raw/man1/rm.1:8
-#, fuzzy
 msgid "B<rm> [I<OPTION>]... I<FILE>..."
 msgstr "B<rm> [I<选项>]... I<文件列表>..."
 
 #. type: Plain text
 #: raw/man1/rm.1:15
+#, fuzzy
 msgid ""
 "This manual page documents the GNU version of B<rm>.  B<rm> removes each "
 "specified file.  By default, it does not remove directories."
-msgstr ""
+msgstr "本手册页记录 GNU 版本的 B<rm>。B<rm> 移除每一个指定的文件。默认情况下，它不删除目录。"
 
 #. type: Plain text
 #: raw/man1/rm.1:22
@@ -690,6 +690,8 @@ msgid ""
 "B<rm> prompts the user for whether to proceed with the entire operation.  If "
 "the response is not affirmative, the entire command is aborted."
 msgstr ""
+"如果指定 I<-I> 或 I<--interactive\\=once> 选项，且给出了三个以上的文件或指定了 I<-r>, I<-R> 或 I<"
+"--recursive> 选项，则 B<rm> 将提示并询问用户是否继续进行整个操作。如果未得到用户的确认，则整个命令将被中止。"
 
 #. type: Plain text
 #: raw/man1/rm.1:29
@@ -725,7 +727,6 @@ msgstr "B<-i>"
 
 #. type: Plain text
 #: raw/man1/rm.1:38
-#, fuzzy
 msgid "prompt before every removal"
 msgstr "在每次删除前提示"
 
@@ -778,7 +779,6 @@ msgstr "B<--no-preserve-root>"
 
 #. type: Plain text
 #: raw/man1/rm.1:55
-#, fuzzy
 msgid "do not treat '/' specially"
 msgstr "不对 '/' 做特殊处理"
 
@@ -791,7 +791,6 @@ msgstr "B<--preserve-root>"
 
 #. type: Plain text
 #: raw/man1/rm.1:58
-#, fuzzy
 msgid "do not remove '/' (default)"
 msgstr "不删除 '/'（默认）"
 
@@ -803,8 +802,9 @@ msgstr "B<-r>, B<-R>, B<--recursive>"
 
 #. type: Plain text
 #: raw/man1/rm.1:61
+#, fuzzy
 msgid "remove directories and their contents recursively"
-msgstr ""
+msgstr "递归地移除目录及它们的内容"
 
 #. type: TP
 #: raw/man1/rm.1:61
@@ -814,22 +814,23 @@ msgstr "B<-d>, B<--dir>"
 
 #. type: Plain text
 #: raw/man1/rm.1:64
-#, fuzzy
 msgid "remove empty directories"
 msgstr "删除空目录"
 
 #. type: Plain text
 #: raw/man1/rm.1:67 raw/man1/cp.1:115 raw/man1/mv.1:58
+#, fuzzy
 msgid "explain what is being done"
-msgstr ""
+msgstr "解释正在发生的情况"
 
 #. type: Plain text
 #: raw/man1/rm.1:76
+#, fuzzy
 msgid ""
 "By default, rm does not remove directories.  Use the B<--recursive> (B<-r> "
 "or B<-R>)  option to remove each listed directory, too, along with all of "
 "its contents."
-msgstr ""
+msgstr "默认情况下，rm 不移除目录。使用 B<--recursive>（B<-r> 或 B<-R>）选项来同时移除列出的每个目录及其内容。"
 
 #. type: Plain text
 #: raw/man1/rm.1:79
@@ -867,7 +868,6 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/rm.1:94
-#, fuzzy
 msgid ""
 "Report rm translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
@@ -880,14 +880,12 @@ msgstr "unlink(1), unlink(2), chattr(1), shred(1)"
 
 #. type: Plain text
 #: raw/man1/rm.1:105
-#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/rmE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/rmE<gt>"
 
 #. type: Plain text
 #: raw/man1/rm.1:106
-#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) rm invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) rm invocation\\(aq"
 
