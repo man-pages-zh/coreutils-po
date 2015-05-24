@@ -111,6 +111,78 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="darcy_shen-9">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>avoid comparing the first n characters</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>比较时跳过前 n 个字符</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-10">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>see also</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>参见</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-11">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>copyright</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>版权</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-12">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>file exists and is a socket</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>文件存在且为套接字</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-13">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>blank</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>空字符</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-15">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>field</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>域</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
