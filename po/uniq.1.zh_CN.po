@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 02:10+0800\n"
+"PO-Revision-Date: 2015-05-24 15:12+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -712,15 +712,17 @@ msgstr "B<uniq> [I<选项>]... [I<输入 >[I<输出>]]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:13
+#, fuzzy
 msgid ""
 "Filter adjacent matching lines from INPUT (or standard input), writing to "
 "OUTPUT (or standard output)."
-msgstr ""
+msgstr "从输入文件（或标准输入）筛选一组相邻的匹配行，写入到输出文件（或标准输出）"
 
 #. type: Plain text
 #: raw/man1/uniq.1:15
+#, fuzzy
 msgid "With no options, matching lines are merged to the first occurrence."
-msgstr ""
+msgstr "没有指定选项，则只保留一组匹配行中的第一行"
 
 #. type: TP
 #: raw/man1/uniq.1:17
@@ -730,8 +732,9 @@ msgstr "B<-c>, B<--count>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:20
+#, fuzzy
 msgid "prefix lines by the number of occurrences"
-msgstr ""
+msgstr "每行前附上重复出现的次数作为前缀"
 
 #. type: TP
 #: raw/man1/uniq.1:20
@@ -749,7 +752,7 @@ msgstr "仅显示重复行，每组一个"
 #: raw/man1/uniq.1:23
 #, no-wrap
 msgid "B<-D>, B<--all-repeated>[=I<METHOD>]"
-msgstr ""
+msgstr "B<-D>, B<--all-repeated>[=I<METHOD>]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:28
@@ -762,18 +765,19 @@ msgstr ""
 #: raw/man1/uniq.1:28
 #, no-wrap
 msgid "B<-f>, B<--skip-fields>=I<N>"
-msgstr ""
+msgstr "B<-f>, B<--skip-fields>=I<N>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:31
+#, fuzzy
 msgid "avoid comparing the first N fields"
-msgstr ""
+msgstr "比较时跳过前 N 个域"
 
 #. type: TP
 #: raw/man1/uniq.1:31
 #, no-wrap
 msgid "B<--group>[=I<METHOD>]"
-msgstr ""
+msgstr "B<--group>[=I<METHOD>]"
 
 #. type: Plain text
 #: raw/man1/uniq.1:35
@@ -791,17 +795,19 @@ msgstr ""
 #: raw/man1/uniq.1:38
 #, no-wrap
 msgid "B<-s>, B<--skip-chars>=I<N>"
-msgstr ""
+msgstr "B<-s>, B<--skip-chars>=I<N>"
 
 #. type: Plain text
 #: raw/man1/uniq.1:41
+#, fuzzy
 msgid "avoid comparing the first N characters"
-msgstr ""
+msgstr "比较时跳过前 N 个字符"
 
 #. type: Plain text
 #: raw/man1/uniq.1:44
+#, fuzzy
 msgid "only print unique lines"
-msgstr ""
+msgstr "只显示不重复的行"
 
 #. type: TP
 #: raw/man1/uniq.1:47
@@ -854,4 +860,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/uniqE<g
 #, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) uniq invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) uniq invocation\\(aq"
+
 

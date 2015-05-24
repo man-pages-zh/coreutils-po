@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-24 15:28+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -672,77 +674,88 @@ msgstr "由 David MacKenzie 编写。"
 #: raw/man1/expand.1:2
 #, no-wrap
 msgid "EXPAND"
-msgstr ""
+msgstr "EXPAND"
 
 #. type: Plain text
 #: raw/man1/expand.1:5
+#, fuzzy
 msgid "expand - convert tabs to spaces"
-msgstr ""
+msgstr "expand - 将制表符转换为空格"
 
 #. type: Plain text
 #: raw/man1/expand.1:8
+#, fuzzy
 msgid "B<expand> [I<OPTION>]... [I<FILE>]..."
-msgstr ""
+msgstr "B<expand> [I<选项>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/expand.1:13
+#, fuzzy
 msgid ""
 "Convert tabs in each FILE to spaces, writing to standard output.  With no "
 "FILE, or when FILE is -, read standard input."
-msgstr ""
+msgstr "将所列文件中的制表符转换为空格，且输出到标准输出。如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/expand.1:15
 #, no-wrap
 msgid "B<-i>, B<--initial>"
-msgstr ""
+msgstr "B<-i>, B<--initial>"
 
 #. type: Plain text
 #: raw/man1/expand.1:18
+#, fuzzy
 msgid "do not convert tabs after non blanks"
-msgstr ""
+msgstr "不转换非空白符后的制表符"
 
 #. type: TP
 #: raw/man1/expand.1:18
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-t>, B<--tabs>=I<NUMBER>"
-msgstr ""
+msgstr "B<-t>, B<--tabs>=I<数值>"
 
 #. type: Plain text
 #: raw/man1/expand.1:21
+#, fuzzy
 msgid "have tabs NUMBER characters apart, not 8"
-msgstr ""
+msgstr "设置每个制表符为指定数值的宽度，而不是默认的8"
 
 #. type: TP
 #: raw/man1/expand.1:21 raw/man1/unexpand.1:24
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-t>, B<--tabs>=I<LIST>"
-msgstr ""
+msgstr "B<-t>, B<--tabs>=I<列表>"
 
 #. type: Plain text
 #: raw/man1/expand.1:24
+#, fuzzy
 msgid "use comma separated list of explicit tab positions"
-msgstr ""
+msgstr "使用明确的制表位置列表，用逗号分隔"
 
 #. type: Plain text
 #: raw/man1/expand.1:36
+#, fuzzy
 msgid ""
 "Report expand translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 expand 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/expand.1:44
 msgid "unexpand(1)"
-msgstr ""
+msgstr "unexpand(1)"
 
 #. type: Plain text
 #: raw/man1/expand.1:47
+#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/expandE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/expandE<gt>"
 
 #. type: Plain text
 #: raw/man1/expand.1:48
+#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) expand invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) expand invocation\\(aq"
+

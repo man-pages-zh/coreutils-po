@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: coreutils 8.23-pre1\n"
 "Report-Msgid-Bugs-To: bug-coreutils@gnu.org\n"
 "POT-Creation-Date: 2014-07-14 02:55+0100\n"
-"PO-Revision-Date: 2015-05-23 21:57+0800\n"
+"PO-Revision-Date: 2015-05-24 15:17+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -4398,12 +4398,13 @@ msgstr ""
 "\n"
 
 #: src/expand.c:114
+#, fuzzy
 msgid ""
 "  -i, --initial       do not convert tabs after non blanks\n"
 "  -t, --tabs=NUMBER   have tabs NUMBER characters apart, not 8\n"
 msgstr ""
 "  -i, --initial\t\t不转换非空白符后的制表符\n"
-"  -t, --tabs=数字\t设置每个制表符为指定数字的宽度，而不是默认的8\n"
+"  -t, --tabs=数值\t设置每个制表符为指定数值的宽度，而不是默认的8\n"
 
 #: src/expand.c:118
 msgid ""
