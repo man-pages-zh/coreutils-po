@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 02:16+0800\n"
+"PO-Revision-Date: 2015-05-24 16:21+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -671,8 +671,9 @@ msgstr "rm - 移除文件或者目录"
 
 #. type: Plain text
 #: raw/man1/rm.1:8
+#, fuzzy
 msgid "B<rm> [I<OPTION>]... I<FILE>..."
-msgstr ""
+msgstr "B<rm> [I<选项>]... I<文件列表>..."
 
 #. type: Plain text
 #: raw/man1/rm.1:15
@@ -709,7 +710,7 @@ msgstr ""
 #: raw/man1/mv.1:26
 #, no-wrap
 msgid "B<-f>, B<--force>"
-msgstr ""
+msgstr "B<-f>, B<--force>"
 
 #. type: Plain text
 #: raw/man1/rm.1:35
@@ -720,18 +721,19 @@ msgstr ""
 #: raw/man1/rm.1:35 raw/man1/pinky.1:31 raw/man1/od.1:82
 #, no-wrap
 msgid "B<-i>"
-msgstr ""
+msgstr "B<-i>"
 
 #. type: Plain text
 #: raw/man1/rm.1:38
+#, fuzzy
 msgid "prompt before every removal"
-msgstr ""
+msgstr "在每次删除前提示"
 
 #. type: TP
 #: raw/man1/rm.1:38
 #, no-wrap
 msgid "B<-I>"
-msgstr ""
+msgstr "B<-I>"
 
 #. type: Plain text
 #: raw/man1/rm.1:43
@@ -758,7 +760,7 @@ msgstr ""
 #: raw/man1/rm.1:47
 #, no-wrap
 msgid "B<--one-file-system>"
-msgstr ""
+msgstr "B<--one-file-system>"
 
 #. type: Plain text
 #: raw/man1/rm.1:52
@@ -772,30 +774,32 @@ msgstr ""
 #: raw/man1/chcon.1:40 raw/man1/chgrp.1:34
 #, no-wrap
 msgid "B<--no-preserve-root>"
-msgstr ""
+msgstr "B<--no-preserve-root>"
 
 #. type: Plain text
 #: raw/man1/rm.1:55
+#, fuzzy
 msgid "do not treat '/' specially"
-msgstr ""
+msgstr "不对 '/' 做特殊处理"
 
 #. type: TP
 #: raw/man1/rm.1:55 raw/man1/chmod.1:131 raw/man1/chown.1:62
 #: raw/man1/chcon.1:43 raw/man1/chgrp.1:37
 #, no-wrap
 msgid "B<--preserve-root>"
-msgstr ""
+msgstr "B<--preserve-root>"
 
 #. type: Plain text
 #: raw/man1/rm.1:58
+#, fuzzy
 msgid "do not remove '/' (default)"
-msgstr ""
+msgstr "不删除 '/'（默认）"
 
 #. type: TP
 #: raw/man1/rm.1:58
 #, no-wrap
 msgid "B<-r>, B<-R>, B<--recursive>"
-msgstr ""
+msgstr "B<-r>, B<-R>, B<--recursive>"
 
 #. type: Plain text
 #: raw/man1/rm.1:61
@@ -806,12 +810,13 @@ msgstr ""
 #: raw/man1/rm.1:61
 #, no-wrap
 msgid "B<-d>, B<--dir>"
-msgstr ""
+msgstr "B<-d>, B<--dir>"
 
 #. type: Plain text
 #: raw/man1/rm.1:64
+#, fuzzy
 msgid "remove empty directories"
-msgstr ""
+msgstr "删除空目录"
 
 #. type: Plain text
 #: raw/man1/rm.1:67 raw/man1/cp.1:115 raw/man1/mv.1:58
@@ -841,7 +846,7 @@ msgstr "rm B<--> B<-foo>"
 #. type: Plain text
 #: raw/man1/rm.1:83
 msgid "rm ./-foo"
-msgstr ""
+msgstr "rm ./-foo"
 
 #. type: Plain text
 #: raw/man1/rm.1:87
@@ -857,26 +862,33 @@ msgid ""
 "Written by Paul Rubin, David MacKenzie, Richard M. Stallman, and Jim "
 "Meyering."
 msgstr ""
+"由 Paul Rubin, David MacKenzie, Richard M. Stallman 和 Jim "
+"Meyering 编写。"
 
 #. type: Plain text
 #: raw/man1/rm.1:94
+#, fuzzy
 msgid ""
 "Report rm translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 rm 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/rm.1:102
 msgid "unlink(1), unlink(2), chattr(1), shred(1)"
-msgstr ""
+msgstr "unlink(1), unlink(2), chattr(1), shred(1)"
 
 #. type: Plain text
 #: raw/man1/rm.1:105
+#, fuzzy
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/rmE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/rmE<gt>"
 
 #. type: Plain text
 #: raw/man1/rm.1:106
+#, fuzzy
 msgid "or available locally via: info \\(aq(coreutils) rm invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) rm invocation\\(aq"
+
 

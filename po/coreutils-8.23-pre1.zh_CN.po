@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: coreutils 8.23-pre1\n"
 "Report-Msgid-Bugs-To: bug-coreutils@gnu.org\n"
 "POT-Creation-Date: 2014-07-14 02:55+0100\n"
-"PO-Revision-Date: 2015-05-24 15:17+0800\n"
+"PO-Revision-Date: 2015-05-24 16:52+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -12729,8 +12729,9 @@ msgid ""
 msgstr ""
 
 #: src/uniq.c:192
+#, fuzzy
 msgid "  -f, --skip-fields=N   avoid comparing the first N fields\n"
-msgstr ""
+msgstr "  -f, --skip-fields=N   比较时跳过前 N 个域\n"
 
 #: src/uniq.c:195
 msgid ""
@@ -12750,13 +12751,14 @@ msgid "  -w, --check-chars=N   compare no more than N characters in lines\n"
 msgstr "  -w, --check-chars=N\t对每行第N 个字符以后的内容不作对照\n"
 
 #: src/uniq.c:212
+#, fuzzy
 msgid ""
 "\n"
 "A field is a run of blanks (usually spaces and/or TABs), then non-blank\n"
 "characters.  Fields are skipped before chars.\n"
 msgstr ""
 "\n"
-"若域中为先空字符(通常包括空格以及制表符)，然后非空字符，域中字符前的空字符将被跳过。\n"
+"域指一个由空字符（通常是空格和制表符）和紧随的非空字符的序列。同时使用跳过域和跳过字符时，先跳过域再跳过字符。\n"
 
 #: src/uniq.c:217
 #, fuzzy
