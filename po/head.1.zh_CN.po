@@ -4,12 +4,13 @@
 #
 # riser <boomer@ccidnet.com>, 2000.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-27 19:35+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-24 20:16+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -481,8 +482,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -692,7 +692,7 @@ msgstr "HEAD"
 #. type: Plain text
 #: raw/man1/head.1:5
 msgid "head - output the first part of files"
-msgstr "head - 输出文件的开始部分"
+msgstr "head - 输出文件的起始部分"
 
 #. type: Plain text
 #: raw/man1/head.1:8
@@ -707,8 +707,7 @@ msgid ""
 "when FILE is -, read standard input."
 msgstr ""
 "在标准输出上显示每个文件的起始10行。如果多于一个文件，则依次显示，并且在每个"
-"文件显示的首部给出文件名。如果没有指定文件，或者文件为 - ，那么就从标准输入上"
-"读取。"
+"文件显示的首部给出文件名。如果没有指定文件，或者文件为 '-' ，则由标准输入读取。"
 
 #. type: TP
 #: raw/man1/head.1:16
@@ -777,3 +776,4 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/headE<g
 #: raw/man1/head.1:57
 msgid "or available locally via: info \\(aq(coreutils) head invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) head invocation\\(aq"
+
