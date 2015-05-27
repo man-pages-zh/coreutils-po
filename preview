@@ -4,10 +4,20 @@ CMD=$1
 po="po/"$CMD".1.zh_CN.po"
 master="raw/man1/"$CMD".1"
 target="/tmp/"$CMD".1"
+
+if [ "x$1" = "x" ]; then
+    echo "Invalid argument."
+    exit 1
+fi
+which po4a-translate > /dev/null 2>&1
+if [ ! "x$?" = "x0" ]; then
+    echo "Sorry, you need to install po4a first."
+    exit 1
+fi
 echo $master
 if [ ! -e $master ]; then
     echo "$CMD has not been translated or does exist at all."
-    exit
+    exit 1
 fi
 
 sed -e "s/fuzzy//g" $po > /tmp/tmp.po
