@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 02:01+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-27 15:28+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -966,7 +966,7 @@ msgstr ""
 #: raw/man1/ls.1:57 raw/man1/dir.1:57 raw/man1/vdir.1:57
 #, no-wrap
 msgid "B<-F>, B<--classify>"
-msgstr ""
+msgstr "B<-F>, B<--classify>"
 
 #. type: Plain text
 #: raw/man1/ls.1:60 raw/man1/dir.1:60 raw/man1/vdir.1:60
@@ -977,7 +977,7 @@ msgstr ""
 #: raw/man1/ls.1:60 raw/man1/dir.1:60 raw/man1/vdir.1:60
 #, no-wrap
 msgid "B<--file-type>"
-msgstr ""
+msgstr "B<--file-type>"
 
 #. type: Plain text
 #: raw/man1/ls.1:63 raw/man1/dir.1:63 raw/man1/vdir.1:63
@@ -1001,7 +1001,7 @@ msgstr ""
 #: raw/man1/ls.1:67 raw/man1/dir.1:67 raw/man1/vdir.1:67
 #, no-wrap
 msgid "B<--full-time>"
-msgstr ""
+msgstr "B<--full-time>"
 
 #. type: Plain text
 #: raw/man1/ls.1:70 raw/man1/dir.1:70 raw/man1/vdir.1:70
@@ -1041,7 +1041,7 @@ msgstr ""
 #: raw/man1/ls.1:79 raw/man1/dir.1:79 raw/man1/vdir.1:79
 #, no-wrap
 msgid "B<-G>, B<--no-group>"
-msgstr ""
+msgstr "B<-G>, B<--no-group>"
 
 #. type: Plain text
 #: raw/man1/ls.1:82 raw/man1/dir.1:82 raw/man1/vdir.1:82
@@ -1055,14 +1055,15 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/ls.1:89 raw/man1/dir.1:89 raw/man1/vdir.1:89
+#, fuzzy
 msgid "likewise, but use powers of 1000 not 1024"
-msgstr ""
+msgstr "类似，但是使用1000的乘方，不使用1024"
 
 #. type: TP
 #: raw/man1/ls.1:89 raw/man1/dir.1:89 raw/man1/vdir.1:89
 #, no-wrap
 msgid "B<-H>, B<--dereference-command-line>"
-msgstr ""
+msgstr "B<-H>, B<--dereference-command-line>"
 
 #. type: Plain text
 #: raw/man1/ls.1:92 raw/man1/dir.1:92 raw/man1/vdir.1:92
@@ -1165,7 +1166,7 @@ msgstr ""
 #: raw/man1/ls.1:126 raw/man1/dir.1:126 raw/man1/vdir.1:126
 #, no-wrap
 msgid "B<-n>, B<--numeric-uid-gid>"
-msgstr ""
+msgstr "B<-n>, B<--numeric-uid-gid>"
 
 #. type: Plain text
 #: raw/man1/ls.1:129 raw/man1/dir.1:129 raw/man1/vdir.1:129
@@ -1176,7 +1177,7 @@ msgstr ""
 #: raw/man1/ls.1:129 raw/man1/dir.1:129 raw/man1/vdir.1:129
 #, no-wrap
 msgid "B<-N>, B<--literal>"
-msgstr ""
+msgstr "B<-N>, B<--literal>"
 
 #. type: Plain text
 #: raw/man1/ls.1:133 raw/man1/dir.1:133 raw/man1/vdir.1:133
@@ -1227,7 +1228,7 @@ msgstr ""
 #: raw/man1/ls.1:146 raw/man1/dir.1:146 raw/man1/vdir.1:146
 #, no-wrap
 msgid "B<-Q>, B<--quote-name>"
-msgstr ""
+msgstr "B<-Q>, B<--quote-name>"
 
 #. type: Plain text
 #: raw/man1/ls.1:149 raw/man1/dir.1:149 raw/man1/vdir.1:149
@@ -1261,7 +1262,7 @@ msgstr "递归列出子目录内容"
 #: raw/man1/ls.1:159 raw/man1/dir.1:159 raw/man1/vdir.1:159
 #, no-wrap
 msgid "B<-s>, B<--size>"
-msgstr ""
+msgstr "B<-s>, B<--size>"
 
 #. type: Plain text
 #: raw/man1/ls.1:162 raw/man1/dir.1:162 raw/man1/vdir.1:162
@@ -1272,7 +1273,7 @@ msgstr ""
 #: raw/man1/ls.1:162 raw/man1/dir.1:162 raw/man1/vdir.1:162
 #, no-wrap
 msgid "B<-S>"
-msgstr ""
+msgstr "B<-S>"
 
 #. type: Plain text
 #: raw/man1/ls.1:165 raw/man1/dir.1:165 raw/man1/vdir.1:165
@@ -1331,7 +1332,7 @@ msgstr ""
 #: raw/man1/ls.1:195 raw/man1/dir.1:195 raw/man1/vdir.1:195
 #, no-wrap
 msgid "B<-U>"
-msgstr ""
+msgstr "B<-U>"
 
 #. type: Plain text
 #: raw/man1/ls.1:198 raw/man1/dir.1:198 raw/man1/vdir.1:198
@@ -1443,4 +1444,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/lsE<gt>
 #: raw/man1/ls.1:255
 msgid "or available locally via: info \\(aq(coreutils) ls invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) ls invocation\\(aq"
+
 
