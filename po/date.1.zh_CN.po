@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-27 16:47+0800\n"
+"PO-Revision-Date: 2015-05-27 17:05+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
@@ -1074,7 +1074,7 @@ msgstr "月份的本地全称（例，'一月'）"
 #: raw/man1/date.1:75
 #, fuzzy
 msgid "locale's date and time (e.g., Thu Mar 3 23:05:25 2005)"
-msgstr "日期和时间的本地表示（例，'2005年03月03日 星期四 23时05分25秒'）"
+msgstr "日期和时间的本地表示（例，'2005年03月03日\0星期四\023时05分25秒）"
 
 #. type: Plain text
 #: raw/man1/date.1:78
@@ -1494,7 +1494,7 @@ msgstr "CW<$ TZ='America/Los_Angeles' date>"
 #: raw/man1/date.1:225
 #, fuzzy
 msgid "Show the local time for 9AM next Friday on the west coast of the US"
-msgstr "显示美国西海岸下周五上午9时的当地时间"
+msgstr "显示美国西海岸下周五上午 9 时的当地时间"
 
 #. type: Plain text
 #: raw/man1/date.1:227
@@ -1519,4 +1519,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/dateE<g
 #: raw/man1/date.1:251
 msgid "or available locally via: info \\(aq(coreutils) date invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) date invocation\\(aq"
+
 
