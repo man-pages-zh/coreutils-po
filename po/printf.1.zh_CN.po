@@ -9,15 +9,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-24 02:27+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-29 00:00+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -884,8 +884,7 @@ msgid ""
 "supersedes the version described here.  Please refer to your shell's "
 "documentation for details about the options it supports."
 msgstr ""
-"注意：您的 shell 可能内置了自己的 printf 程序版本，它会覆盖这里所提及的相应版"
-"本。请查阅您的 shell 文档获知它所支持的选项。"
+"注意：您的 shell 可能内置了自己的 printf 程序版本，它通常会覆盖这里所提及的相应版本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/printf.1:84 raw/man1/mkdir.1:39 raw/man1/expand.1:32
@@ -921,4 +920,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/printfE
 #: raw/man1/printf.1:100
 msgid "or available locally via: info \\(aq(coreutils) printf invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) printf invocation\\(aq"
+
 
