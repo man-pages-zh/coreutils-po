@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-05-28 23:45+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -643,37 +645,42 @@ msgstr "参见"
 #: raw/man1/touch.1:2
 #, no-wrap
 msgid "TOUCH"
-msgstr ""
+msgstr "TOUCH"
 
 #. type: Plain text
 #: raw/man1/touch.1:5
+#, fuzzy
 msgid "touch - change file timestamps"
-msgstr ""
+msgstr "touch - 改变文件时间戳"
 
 #. type: Plain text
 #: raw/man1/touch.1:8
+#, fuzzy
 msgid "B<touch> [I<OPTION>]... I<FILE>..."
-msgstr ""
+msgstr "B<touch> [I<选项>]... I<文件列表>..."
 
 #. type: Plain text
 #: raw/man1/touch.1:12
+#, fuzzy
 msgid ""
 "Update the access and modification times of each FILE to the current time."
-msgstr ""
+msgstr "将每个文件的访问时间和修改时间更新为当前时间。"
 
 #. type: Plain text
 #: raw/man1/touch.1:15
+#, fuzzy
 msgid ""
 "A FILE argument that does not exist is created empty, unless B<-c> or B<-h> "
 "is supplied."
-msgstr ""
+msgstr "除非提供了 B<-c> 或 B<-h> 参数，否则程序会在文件不存在时创建一个空文件。"
 
 #. type: Plain text
 #: raw/man1/touch.1:18
+#, fuzzy
 msgid ""
 "A FILE argument string of - is handled specially and causes touch to change "
 "the times of the file associated with standard output."
-msgstr ""
+msgstr "如果文件列表参数中有连字符 '-'，它将被 touch 特别处理，并更改与标准输出相关联的文件的对应时间信息。"
 
 #. type: Plain text
 #: raw/man1/touch.1:20 raw/man1/stat.1:14 raw/man1/stdbuf.1:15
@@ -698,34 +705,37 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/touch.1:20 raw/man1/id.1:13 raw/man1/od.1:67
 #, no-wrap
 msgid "B<-a>"
-msgstr ""
+msgstr "B<-a>"
 
 #. type: Plain text
 #: raw/man1/touch.1:23
+#, fuzzy
 msgid "change only the access time"
-msgstr ""
+msgstr "仅更改文件访问时间"
 
 #. type: TP
 #: raw/man1/touch.1:23 raw/man1/truncate.1:20
 #, no-wrap
 msgid "B<-c>, B<--no-create>"
-msgstr ""
+msgstr "B<-c>, B<--no-create>"
 
 #. type: Plain text
 #: raw/man1/touch.1:26 raw/man1/truncate.1:23
+#, fuzzy
 msgid "do not create any files"
-msgstr ""
+msgstr "不要创建任何文件"
 
 #. type: TP
 #: raw/man1/touch.1:26 raw/man1/date.1:17
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-d>, B<--date>=I<STRING>"
-msgstr ""
+msgstr "B<-d>, B<--date>=I<字符串>"
 
 #. type: Plain text
 #: raw/man1/touch.1:29
+#, fuzzy
 msgid "parse STRING and use it instead of current time"
-msgstr ""
+msgstr "分析给定字符串，并以字符串对应时间代替当前时间"
 
 #. type: TP
 #: raw/man1/touch.1:29 raw/man1/pinky.1:25 raw/man1/od.1:79 raw/man1/ls.1:54
@@ -745,14 +755,15 @@ msgstr "（被忽略的选项）"
 #: raw/man1/chgrp.1:29
 #, no-wrap
 msgid "B<-h>, B<--no-dereference>"
-msgstr ""
+msgstr "B<-h>, B<--no-dereference>"
 
 #. type: Plain text
 #: raw/man1/touch.1:37
+#, fuzzy
 msgid ""
 "affect each symbolic link instead of any referenced file (useful only on "
 "systems that can change the timestamps of a symlink)"
-msgstr ""
+msgstr "影响所有符号链接而非被引用的文件（仅在能够更改符号链接的时间戳的系统上有用）"
 
 #. type: TP
 #: raw/man1/touch.1:37 raw/man1/du.1:73 raw/man1/who.1:35 raw/man1/ls.1:123
@@ -763,60 +774,67 @@ msgstr "B<-m>"
 
 #. type: Plain text
 #: raw/man1/touch.1:40
+#, fuzzy
 msgid "change only the modification time"
-msgstr ""
+msgstr "仅更改文件修改时间"
 
 #. type: TP
 #: raw/man1/touch.1:40 raw/man1/date.1:29
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-r>, B<--reference>=I<FILE>"
-msgstr ""
+msgstr "B<-r>, B<--reference>=I<文件>"
 
 #. type: Plain text
 #: raw/man1/touch.1:43
+#, fuzzy
 msgid "use this file's times instead of current time"
-msgstr ""
+msgstr "使用指定文件的时间代替当前时间"
 
 #. type: TP
 #: raw/man1/touch.1:43
 #, no-wrap
 msgid "B<-t> STAMP"
-msgstr ""
+msgstr "B<-t> STAMP"
 
 #. type: Plain text
 #: raw/man1/touch.1:46
+#, fuzzy
 msgid "use [[CC]YY]MMDDhhmm[.ss] instead of current time"
-msgstr ""
+msgstr "使用 [[CC]YY]MMDDhhmm[.ss] 代替当前时间"
 
 #. type: TP
 #: raw/man1/touch.1:46 raw/man1/du.1:96 raw/man1/ls.1:169 raw/man1/dir.1:169
 #: raw/man1/vdir.1:169
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<--time>=I<WORD>"
-msgstr ""
+msgstr "B<--time>=I<关键字>"
 
 #. type: Plain text
 #: raw/man1/touch.1:51
+#, fuzzy
 msgid ""
 "change the specified time: WORD is access, atime, or use: equivalent to B<-"
 "a> WORD is modify or mtime: equivalent to B<-m>"
 msgstr ""
+"改变文件的指定时间：若关键字是 access 或 atime，则等同于 B<-a>；若关键字是 modify 或 mtime，则等同于 B<-m>"
 
 #. type: Plain text
 #: raw/man1/touch.1:59
+#, fuzzy
 msgid ""
 "Note that the B<-d> and B<-t> options accept different time-date formats."
-msgstr ""
+msgstr "请注意 B<-d> 和 B<-t> 选项接受的时间-日期格式有所不同。"
 
 #. type: SH
 #: raw/man1/touch.1:59 raw/man1/date.1:227
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "DATE STRING"
-msgstr ""
+msgstr "日期字符串"
 
 #.  NOTE: keep this paragraph in sync with the one in touch.x
 #. type: Plain text
 #: raw/man1/touch.1:68 raw/man1/date.1:236
+#, fuzzy
 msgid ""
 "The --date=STRING is a mostly free format human readable date string such as "
 "\"Sun, 29 Feb 2004 16:21:42 -0800\" or \"2004-02-29 16:21:42\" or even "
@@ -826,6 +844,10 @@ msgid ""
 "string format is more complex than is easily documented here but is fully "
 "described in the info documentation."
 msgstr ""
+"\"--date=字符串\"选项中的的字符串可以是人类易于理解阅读的日期字符串，例如 \"Sun, 29 Feb 2004 16:21:42 "
+"-0800\" 或 \"2004-02-29 16:21:42\"，甚至可以是 \"next "
+"Thursday\"。一个日期字符串可能包含表示日历日期、一日中的具体时间、时区、星期、相对时间、相对日期和数字的信息。一个空字符串表示当日的起始。日期字符"
+"串的具体格式较为复杂，在手册页中难以简单描述清楚，但是您可以在 info 文档中找到完整内容。"
 
 #. type: Plain text
 #: raw/man1/touch.1:71
@@ -833,6 +855,7 @@ msgid ""
 "Written by Paul Rubin, Arnold Robbins, Jim Kingdon, David MacKenzie, and "
 "Randy Smith."
 msgstr ""
+"由 Paul Rubin, Arnold Robbins, Jim Kingdon David MacKenzie 和 Randy Smith 编写。"
 
 #. type: Plain text
 #: raw/man1/touch.1:75
@@ -840,14 +863,18 @@ msgid ""
 "Report touch translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 touch 的"
+"翻译错误。"
 
 #. type: Plain text
 #: raw/man1/touch.1:83
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/touchE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/touchE<gt>"
 
 #. type: Plain text
 #: raw/man1/touch.1:84
 msgid "or available locally via: info \\(aq(coreutils) touch invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) touch invocation\\(aq"
+
+
