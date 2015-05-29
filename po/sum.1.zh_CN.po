@@ -4,19 +4,20 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-29 12:51+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-30 03:01+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -649,27 +650,24 @@ msgstr "如果没有指定文件，或者指定文件为 \"-\"，则从标准输
 
 #. type: TH
 #: raw/man1/sum.1:2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "SUM"
 msgstr "SUM"
 
 #. type: Plain text
 #: raw/man1/sum.1:5
-#, fuzzy
 msgid "sum - checksum and count the blocks in a file"
-msgstr "sum - 求校验和并计数文件块数目"
+msgstr "sum - 求校验和并统计文件块数目"
 
 #. type: Plain text
 #: raw/man1/sum.1:8
-#, fuzzy
 msgid "B<sum> [I<OPTION>]... [I<FILE>]..."
 msgstr "B<sum> [I<选项>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/sum.1:12
-#, fuzzy
 msgid "Print checksum and block counts for each FILE."
-msgstr "打印校验和以及每一个文件的文件块数目。"
+msgstr "打印校验和以及文件列表中每一个文件的文件块数目。"
 
 #. type: TP
 #: raw/man1/sum.1:12
@@ -679,7 +677,6 @@ msgstr "B<-r>"
 
 #. type: Plain text
 #: raw/man1/sum.1:15
-#, fuzzy
 msgid "use BSD sum algorithm, use 1K blocks"
 msgstr "使用 BSD 求和算法，使用 1K 文件块"
 
@@ -691,7 +688,6 @@ msgstr "B<-s>, B<--sysv>"
 
 #. type: Plain text
 #: raw/man1/sum.1:18
-#, fuzzy
 msgid "use System V sum algorithm, use 512 bytes blocks"
 msgstr "使用 System V 求和算法，使用 512 字节文件块"
 
@@ -718,4 +714,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/sumE<gt
 #: raw/man1/sum.1:41
 msgid "or available locally via: info \\(aq(coreutils) sum invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) sum invocation\\(aq"
+
 
