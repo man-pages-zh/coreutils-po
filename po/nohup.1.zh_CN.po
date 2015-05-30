@@ -4,19 +4,20 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-29 00:05+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-30 16:49+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -656,44 +657,38 @@ msgstr "NOHUP"
 
 #. type: Plain text
 #: raw/man1/nohup.1:5
-#, fuzzy
 msgid "nohup - run a command immune to hangups, with output to a non-tty"
-msgstr "nohup - 运行一个命令并使其不挂起，且输出至非 tty 的文件"
+msgstr "nohup - 使程序运行时不挂起，不向 tty 输出信息"
 
 #. type: Plain text
 #: raw/man1/nohup.1:8
-#, fuzzy
 msgid "B<nohup> I<COMMAND >[I<ARG>]..."
-msgstr "B<nohup> I<指令 >[I<参数>]..."
+msgstr "B<nohup> I<命令 >[I<参数列表>]..."
 
 #. type: Plain text
 #: raw/man1/nohup.1:11
-#, fuzzy
 msgid "B<nohup> I<OPTION>"
 msgstr "B<nohup> I<选项>"
 
 #. type: Plain text
 #: raw/man1/nohup.1:15
-#, fuzzy
 msgid "Run COMMAND, ignoring hangup signals."
-msgstr "运行指令，并忽略挂起信号。"
+msgstr "运行命令，并忽略挂起信号。"
 
 #. type: Plain text
 #: raw/man1/nohup.1:27
-#, fuzzy
 msgid ""
 "If standard input is a terminal, redirect it from I</dev/null>.  If standard "
 "output is a terminal, append output to 'nohup.out' if possible, \\&'$HOME/"
 "nohup.out' otherwise.  If standard error is a terminal, redirect it to "
 "standard output.  To save output to FILE, use 'nohup COMMAND E<gt> FILE'."
 msgstr ""
-"如果标准输入是一个终端，用 I</dev/null> 将它重定向；如果标准输出是一个终端，在可能的情况下将输出附加 在 'nohup.out' "
-"文件后，否则为 \\&'$HOME/nohup.out'。如果标准错误是一个终端，将它重定向至标准输出。如果想将输出保存于某个文件中，使用 'nohup "
-"命令 E<gt> 文件名'。"
+"如果标准输入是终端，则从 I</dev/null> 重定向至终端；如果标准输出是终端，则尽可能将输出附加在 nohup.out "
+"文件后，否则为 \\&$HOME/nohup.out。如果标准错误是终端，将它重定向至标准输出。使用“nohup "
+"命令 E<gt> 文件”可将输出保存到指定文件。"
 
 #. type: Plain text
 #: raw/man1/nohup.1:31
-#, fuzzy
 msgid ""
 "NOTE: your shell may have its own version of nohup, which usually supersedes "
 "the version described here.  Please refer to your shell's documentation for "
@@ -720,4 +715,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/nohupE<
 #: raw/man1/nohup.1:46
 msgid "or available locally via: info \\(aq(coreutils) nohup invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) nohup invocation\\(aq"
+
 

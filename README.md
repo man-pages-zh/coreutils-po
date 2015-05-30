@@ -34,11 +34,15 @@ SELinux环境 | `chcon` `runcon` |
 数值操作 | factor `seq` | | | 
 
 
-### 翻译
+### 翻译和维护
 请先安装python3和po4a。
 
 只要翻译`po`目录下面的文件就可以了。推荐使用专门的软件，比如`lokalize`。翻译好之后，请务必预览你翻译好的命令。
 使用`./preview command`就可以预览。
+
+**注意**：
+1. 如果coreutils.po和manpages-zh已经有相应的翻译，请沿用已有的翻译。当然，可以在原有的基础上改进。
+2. 对于不了解的内容，请**不要**翻译。对于coreutils，手册页的描述其实非常简略，模棱两可的地方一定弄明白（看info或者源代码）再翻译。否则请**不要**翻译。
 
 翻译规范参考[wiki](https://github.com/man-pages-zh/wiki/wiki/%E7%BF%BB%E8%AF%91%E8%A7%84%E8%8C%83)。
 
