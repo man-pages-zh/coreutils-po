@@ -12,7 +12,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 输出整个文件 | cat tac `nl` `od` base64 |
 格式化文件内容 | `fmt` `pr` `fold` |
 输出文件一部分 | head `tail` `split` `csplite` |
-文件摘要 | wc `sum` `cksum` `md5sum` `sha1sum` `sha224sum` `sha256sum` `sha384sum` `sha512sum` |
+文件摘要 | wc sum `cksum` `md5sum` `sha1sum` `sha224sum` `sha256sum` `sha384sum` `sha512sum` |
 已排序文件上的操作 | `sort` `shuf` uniq `comm` `ptx` `tso` |
 对域的操作 | `cut` paste `join` |
 对字符的操作 | `tr` expand unexpand |
@@ -29,7 +29,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 用户信息 | `id` logname whoami `groups` users who |
 系统环境 | `date` arch `nproc` `uname` hostid|
 SELinux环境 | `chcon` `runcon` |
-修改环境 | `chroot` `env` nice `nohup` `stdbuf` `timeout` |
+修改环境 | `chroot` env nice `nohup` `stdbuf` `timeout` |
 暂停 | sleep |
 数值操作 | factor `seq` | | | 
 
