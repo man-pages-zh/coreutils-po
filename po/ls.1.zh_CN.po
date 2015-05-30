@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-27 15:28+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-28 15:19+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -830,7 +830,6 @@ msgstr "LS"
 
 #. type: Plain text
 #: raw/man1/ls.1:5
-#, fuzzy
 msgid "ls - list directory contents"
 msgstr "ls - 列出目录内容"
 
