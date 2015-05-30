@@ -4,12 +4,13 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-30 00:26+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-30 17:12+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -667,25 +668,21 @@ msgstr "UNAME"
 
 #. type: Plain text
 #: raw/man1/uname.1:5
-#, fuzzy
 msgid "uname - print system information"
 msgstr "uname - 输出系统信息"
 
 #. type: Plain text
 #: raw/man1/uname.1:8
-#, fuzzy
 msgid "B<uname> [I<OPTION>]..."
 msgstr "B<uname> [I<选项>]..."
 
 #. type: Plain text
 #: raw/man1/uname.1:12
-#, fuzzy
 msgid "Print certain system information.  With no OPTION, same as B<-s>."
 msgstr "输出特定的系统信息。如果没有给定选项，则与 B<-s> 相同。"
 
 #. type: Plain text
 #: raw/man1/uname.1:16
-#, fuzzy
 msgid ""
 "print all information, in the following order, except omit B<-p> and B<-i> "
 "if unknown:"
@@ -699,7 +696,6 @@ msgstr "B<-s>, B<--kernel-name>"
 
 #. type: Plain text
 #: raw/man1/uname.1:19
-#, fuzzy
 msgid "print the kernel name"
 msgstr "输出内核名称"
 
@@ -711,7 +707,6 @@ msgstr "B<-n>, B<--nodename>"
 
 #. type: Plain text
 #: raw/man1/uname.1:22
-#, fuzzy
 msgid "print the network node hostname"
 msgstr "输出网络节点主机名"
 
@@ -723,7 +718,6 @@ msgstr "B<-r>, B<--kernel-release>"
 
 #. type: Plain text
 #: raw/man1/uname.1:25
-#, fuzzy
 msgid "print the kernel release"
 msgstr "输出内核发行版本"
 
@@ -735,7 +729,6 @@ msgstr "B<-v>, B<--kernel-version>"
 
 #. type: Plain text
 #: raw/man1/uname.1:28
-#, fuzzy
 msgid "print the kernel version"
 msgstr "输出内核版本信息"
 
@@ -747,7 +740,6 @@ msgstr "B<-m>, B<--machine>"
 
 #. type: Plain text
 #: raw/man1/uname.1:31
-#, fuzzy
 msgid "print the machine hardware name"
 msgstr "输出机器硬件名称"
 
@@ -759,7 +751,6 @@ msgstr "B<-p>, B<--processor>"
 
 #. type: Plain text
 #: raw/man1/uname.1:34
-#, fuzzy
 msgid "print the processor type or \"unknown\""
 msgstr "输出处理器类型或 \"unknown\""
 
@@ -771,7 +762,6 @@ msgstr "B<-i>, B<--hardware-platform>"
 
 #. type: Plain text
 #: raw/man1/uname.1:37
-#, fuzzy
 msgid "print the hardware platform or \"unknown\""
 msgstr "输出硬件平台信息或 \"unknown\""
 
@@ -783,7 +773,6 @@ msgstr "B<-o>, B<--operating-system>"
 
 #. type: Plain text
 #: raw/man1/uname.1:40
-#, fuzzy
 msgid "print the operating system"
 msgstr "输出操作系统信息"
 
@@ -811,4 +800,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/unameE<
 #: raw/man1/uname.1:64
 msgid "or available locally via: info \\(aq(coreutils) uname invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) uname invocation\\(aq"
+
 
