@@ -4,12 +4,13 @@
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-27 20:01+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-05-30 22:29+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -481,8 +482,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -701,7 +701,7 @@ msgstr "B<-f>, B<--format>=I<格式>"
 #. type: Plain text
 #: raw/man1/seq.1:23
 msgid "use printf style floating-point FORMAT"
-msgstr "使用printf样式浮点格式"
+msgstr "使用 printf 样式浮点格式"
 
 #. type: TP
 #: raw/man1/seq.1:23 raw/man1/tac.1:21
@@ -741,7 +741,7 @@ msgstr ""
 "首数和增量的默认值为1。注意，在尾数小于首数的时候，增量默认值仍旧是1。数列生"
 "成的终止条件是当前数值与增量的和大于尾数。通常情况下，若首数小于尾数，增量应"
 "当用正值；若首数大于尾数，增量应当用负值。首数，增量和尾数都被视为浮点数。若"
-"首数，增量和尾数都是精度最高为 PREC 的定点十进制数，那么指定格式默认为%."
+"首数、增量和尾数都是精度最高为 PREC 的定点十进制数，那么指定格式默认为 %."
 "PRECf，否则为 %g。"
 
 #. type: Plain text
@@ -767,3 +767,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/seqE<gt
 #: raw/man1/seq.1:61
 msgid "or available locally via: info \\(aq(coreutils) seq invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) seq invocation\\(aq"
+
+

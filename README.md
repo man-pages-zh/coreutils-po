@@ -31,7 +31,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 SELinux环境 | `chcon` `runcon` |
 修改环境 | `chroot` env nice nohup `stdbuf` `timeout` |
 暂停 | sleep |
-数值操作 | factor `seq` | | | 
+数值操作 | factor seq | | | 
 
 
 ### 翻译和维护
