@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-30 03:37+0800\n"
+"PO-Revision-Date: 2015-06-02 15:33+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -673,11 +673,10 @@ msgstr "除非提供了 B<-c> 或 B<-h> 参数，否则程序会在文件不存�
 
 #. type: Plain text
 #: raw/man1/touch.1:18
-#, fuzzy
 msgid ""
 "A FILE argument string of - is handled specially and causes touch to change "
 "the times of the file associated with standard output."
-msgstr "如果文件列表参数中有连字符“-”，它将被 touch 特别处理，并更改与标准输出相关联的文件的对应时间信息。"
+msgstr "如果文件列表参数中有连字符“-”，它将被 touch 特别处理，并更改与标准输出相关联的文件的相应时间信息。"
 
 #. type: Plain text
 #: raw/man1/touch.1:20 raw/man1/stat.1:14 raw/man1/stdbuf.1:15
@@ -753,7 +752,6 @@ msgstr "B<-h>, B<--no-dereference>"
 
 #. type: Plain text
 #: raw/man1/touch.1:37
-#, fuzzy
 msgid ""
 "affect each symbolic link instead of any referenced file (useful only on "
 "systems that can change the timestamps of a symlink)"
@@ -768,19 +766,17 @@ msgstr "B<-m>"
 
 #. type: Plain text
 #: raw/man1/touch.1:40
-#, fuzzy
 msgid "change only the modification time"
 msgstr "仅更改文件修改时间"
 
 #. type: TP
 #: raw/man1/touch.1:40 raw/man1/date.1:29
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-r>, B<--reference>=I<FILE>"
 msgstr "B<-r>, B<--reference>=I<文件>"
 
 #. type: Plain text
 #: raw/man1/touch.1:43
-#, fuzzy
 msgid "use this file's times instead of current time"
 msgstr "使用指定文件的时间代替当前时间"
 
@@ -792,43 +788,39 @@ msgstr "B<-t> STAMP"
 
 #. type: Plain text
 #: raw/man1/touch.1:46
-#, fuzzy
 msgid "use [[CC]YY]MMDDhhmm[.ss] instead of current time"
 msgstr "使用 [[CC]YY]MMDDhhmm[.ss] 代替当前时间"
 
 #. type: TP
 #: raw/man1/touch.1:46 raw/man1/du.1:96 raw/man1/ls.1:169 raw/man1/dir.1:169
 #: raw/man1/vdir.1:169
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--time>=I<WORD>"
 msgstr "B<--time>=I<关键字>"
 
 #. type: Plain text
 #: raw/man1/touch.1:51
-#, fuzzy
 msgid ""
 "change the specified time: WORD is access, atime, or use: equivalent to B<-"
 "a> WORD is modify or mtime: equivalent to B<-m>"
 msgstr ""
-"改变文件的指定时间：若关键字是 access 或 atime，则等同于 B<-a>；若关键字是 modify 或 mtime，则等同于 B<-m>"
+"改变文件的指定时间：若关键字是 access，atime 或 use，则等同于 B<-a>；若关键字是 modify 或 mtime，则等同于 B<-m>"
 
 #. type: Plain text
 #: raw/man1/touch.1:59
-#, fuzzy
 msgid ""
 "Note that the B<-d> and B<-t> options accept different time-date formats."
 msgstr "请注意 B<-d> 和 B<-t> 选项接受的时间-日期格式有所不同。"
 
 #. type: SH
 #: raw/man1/touch.1:59 raw/man1/date.1:227
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "DATE STRING"
 msgstr "日期字符串"
 
 #.  NOTE: keep this paragraph in sync with the one in touch.x
 #. type: Plain text
 #: raw/man1/touch.1:68 raw/man1/date.1:236
-#, fuzzy
 msgid ""
 "The --date=STRING is a mostly free format human readable date string such as "
 "\"Sun, 29 Feb 2004 16:21:42 -0800\" or \"2004-02-29 16:21:42\" or even "
@@ -838,7 +830,7 @@ msgid ""
 "string format is more complex than is easily documented here but is fully "
 "described in the info documentation."
 msgstr ""
-"\"--date=字符串\"选项中的的字符串可以是人类易于理解阅读的日期字符串，例如 \"Sun, 29 Feb 2004 16:21:42 "
+"“--date=字符串”选项中的的字符串可以是人类易于理解阅读的日期字符串，例如 \"Sun, 29 Feb 2004 16:21:42 "
 "-0800\" 或 \"2004-02-29 16:21:42\"，甚至可以是 \"next "
 "Thursday\"。一个日期字符串可能包含表示日历日期、一日中的具体时间、时区、星期、相对时间、相对日期和数字的信息。一个空字符串表示当日的起始。日期字符"
 "串的具体格式较为复杂，在手册页中难以简单描述清楚，但是您可以在 info 文档中找到完整内容。"
