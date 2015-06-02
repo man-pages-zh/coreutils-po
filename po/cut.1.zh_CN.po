@@ -668,7 +668,7 @@ msgstr "（被忽略的选项）"
 #: raw/man1/sort.1:135 raw/man1/shuf.1:49 raw/man1/cut.1:67 raw/man1/cat.1:50
 #: raw/man1/sum.1:26 raw/man1/fmt.1:45 raw/man1/base64.1:32
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr "如果没有指定文件，或者指定文件为 \"-\"，则从标准输入读取。"
+msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/stty.1:85 raw/man1/cut.1:53

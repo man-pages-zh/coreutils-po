@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-06-02 16:55+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -1031,7 +1033,7 @@ msgstr ""
 #: raw/man1/sort.1:135 raw/man1/shuf.1:49 raw/man1/cut.1:67 raw/man1/cat.1:50
 #: raw/man1/sum.1:26 raw/man1/fmt.1:45 raw/man1/base64.1:32
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr "如果没有指定文件，或者指定文件为 \"-\"，则从标准输入读取。"
+msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
 
 #. type: Plain text
 #: raw/man1/sort.1:140
@@ -1066,3 +1068,4 @@ msgstr ""
 #: raw/man1/sort.1:158
 msgid "or available locally via: info \\(aq(coreutils) sort invocation\\(aq"
 msgstr ""
+
