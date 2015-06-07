@@ -19,7 +19,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 列目录 | `ls` `dir` `vdir` `dircolors` |
 基本操作 | `cp` `dd` `install` `mv` `rm` `shred` |
 特殊文件类型 | `mkdir` rmdir `unlink` `mkfifo` `mknod` `ln` link `readlink` |
-改变文件属性 | `chgrp` `chmod` `chown` `touch` |
+改变文件属性 | `chgrp` `chmod` `chown` touch |
 磁盘使用情况 | `df` `du` `stat` sync `truncate` |
 打印文本 | echo `printf` yes |
 条件 | false true test expr |
