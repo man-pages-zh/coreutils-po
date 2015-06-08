@@ -481,7 +481,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -885,7 +886,7 @@ msgstr ""
 #: raw/man1/sort.1:79 raw/man1/du.1:50 raw/man1/wc.1:29
 #, no-wrap
 msgid "B<--files0-from>=I<F>"
-msgstr ""
+msgstr "B<--files0-from>=I<F>"
 
 #. type: Plain text
 #: raw/man1/sort.1:84 raw/man1/wc.1:34
@@ -893,6 +894,8 @@ msgid ""
 "read input from the files specified by NUL-terminated names in file F; If F "
 "is - then read names from standard input"
 msgstr ""
+"将文件F 中的以 NUL 结尾的名字所指定的文件作为待统计文件；如果文件F 为“-”，则"
+"从标准输入读取这些名字"
 
 #. type: TP
 #: raw/man1/sort.1:84
@@ -988,7 +991,7 @@ msgstr ""
 #: raw/man1/sort.1:109 raw/man1/uniq.1:41
 #, no-wrap
 msgid "B<-u>, B<--unique>"
-msgstr ""
+msgstr "B<-u>, B<--unique>"
 
 #. type: Plain text
 #: raw/man1/sort.1:113
@@ -1008,7 +1011,7 @@ msgstr "B<-z>, B<--zero-terminated>"
 #: raw/man1/sort.1:116 raw/man1/shuf.1:41 raw/man1/join.1:56
 #: raw/man1/uniq.1:47
 msgid "line delimiter is NUL, not newline"
-msgstr ""
+msgstr "以 NUL 作为行的分隔符，而非换行符"
 
 #. type: Plain text
 #: raw/man1/sort.1:130

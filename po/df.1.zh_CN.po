@@ -712,7 +712,7 @@ msgstr ""
 #: raw/man1/df.1:29 raw/man1/rm.1:29 raw/man1/chmod.1:115 raw/man1/chown.1:31
 #, no-wrap
 msgid "OPTIONS"
-msgstr ""
+msgstr "选项"
 
 #. type: Plain text
 #: raw/man1/df.1:33

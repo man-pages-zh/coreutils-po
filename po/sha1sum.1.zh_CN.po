@@ -668,14 +668,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:13
 #, no-wrap
 msgid "B<-b>, B<--binary>"
-msgstr ""
+msgstr "B<-b>, B<--binary>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:16 raw/man1/sha224sum.1:16 raw/man1/sha256sum.1:16
 #: raw/man1/md5sum.1:16 raw/man1/md5sum.textutils.1:16 raw/man1/sha512sum.1:16
 #: raw/man1/sha384sum.1:16
 msgid "read in binary mode"
-msgstr ""
+msgstr "以二进制模式读入"
 
 #. type: TP
 #: raw/man1/sha1sum.1:16 raw/man1/sha224sum.1:16 raw/man1/sha256sum.1:16
@@ -683,7 +683,7 @@ msgstr ""
 #: raw/man1/sha384sum.1:16
 #, no-wrap
 msgid "B<-c>, B<--check>"
-msgstr ""
+msgstr "B<-c>, B<--check>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:19
@@ -696,14 +696,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:19
 #, no-wrap
 msgid "B<--tag>"
-msgstr ""
+msgstr "B<--tag>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:22 raw/man1/sha224sum.1:22 raw/man1/sha256sum.1:22
 #: raw/man1/md5sum.1:22 raw/man1/md5sum.textutils.1:22 raw/man1/sha512sum.1:22
 #: raw/man1/sha384sum.1:22
 msgid "create a BSD-style checksum"
-msgstr ""
+msgstr "创建一个 BSD 风格的校验和"
 
 #. type: TP
 #: raw/man1/sha1sum.1:22 raw/man1/sha224sum.1:22 raw/man1/sha256sum.1:22
@@ -711,14 +711,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:22
 #, no-wrap
 msgid "B<-t>, B<--text>"
-msgstr ""
+msgstr "B<-t>, B<--text>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:25 raw/man1/sha224sum.1:25 raw/man1/sha256sum.1:25
 #: raw/man1/md5sum.1:25 raw/man1/md5sum.textutils.1:25 raw/man1/sha512sum.1:25
 #: raw/man1/sha384sum.1:25
 msgid "read in text mode (default)"
-msgstr ""
+msgstr "以文本模式读入（默认）"
 
 #. type: SS
 #: raw/man1/sha1sum.1:25 raw/man1/sha224sum.1:25 raw/man1/sha256sum.1:25
@@ -726,7 +726,7 @@ msgstr ""
 #: raw/man1/sha384sum.1:25
 #, no-wrap
 msgid "The following four options are useful only when verifying checksums:"
-msgstr ""
+msgstr "下面四个选项仅在验证校验和时有用："
 
 #. type: TP
 #: raw/man1/sha1sum.1:26 raw/man1/sha224sum.1:26 raw/man1/sha256sum.1:26
@@ -734,14 +734,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:26
 #, no-wrap
 msgid "B<--quiet>"
-msgstr ""
+msgstr "B<--quiet>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:29 raw/man1/sha224sum.1:29 raw/man1/sha256sum.1:29
 #: raw/man1/md5sum.1:29 raw/man1/md5sum.textutils.1:29 raw/man1/sha512sum.1:29
 #: raw/man1/sha384sum.1:29
 msgid "don't print OK for each successfully verified file"
-msgstr ""
+msgstr "不要为每个成功验证的文件显示成功信息"
 
 #. type: TP
 #: raw/man1/sha1sum.1:29 raw/man1/sha224sum.1:29 raw/man1/sha256sum.1:29
@@ -749,14 +749,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:29
 #, no-wrap
 msgid "B<--status>"
-msgstr ""
+msgstr "B<--status>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:32 raw/man1/sha224sum.1:32 raw/man1/sha256sum.1:32
 #: raw/man1/md5sum.1:32 raw/man1/md5sum.textutils.1:32 raw/man1/sha512sum.1:32
 #: raw/man1/sha384sum.1:32
 msgid "don't output anything, status code shows success"
-msgstr ""
+msgstr "不要输出任何信息，由返回值判断成功与否"
 
 #. type: TP
 #: raw/man1/sha1sum.1:32 raw/man1/sha224sum.1:32 raw/man1/sha256sum.1:32
@@ -764,14 +764,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:32
 #, no-wrap
 msgid "B<--strict>"
-msgstr ""
+msgstr "B<--strict>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:35 raw/man1/sha224sum.1:35 raw/man1/sha256sum.1:35
 #: raw/man1/md5sum.1:35 raw/man1/md5sum.textutils.1:35 raw/man1/sha512sum.1:35
 #: raw/man1/sha384sum.1:35
 msgid "exit non-zero for improperly formatted checksum lines"
-msgstr ""
+msgstr "为没有正确格式化的校验和文字行给出非零返回值"
 
 #. type: TP
 #: raw/man1/sha1sum.1:35 raw/man1/sha224sum.1:35 raw/man1/sha256sum.1:35
@@ -779,14 +779,14 @@ msgstr ""
 #: raw/man1/sha384sum.1:35
 #, no-wrap
 msgid "B<-w>, B<--warn>"
-msgstr ""
+msgstr "B<-w>, B<--warn>"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:38 raw/man1/sha224sum.1:38 raw/man1/sha256sum.1:38
 #: raw/man1/md5sum.1:38 raw/man1/md5sum.textutils.1:38 raw/man1/sha512sum.1:38
 #: raw/man1/sha384sum.1:38
 msgid "warn about improperly formatted checksum lines"
-msgstr ""
+msgstr "为没有正确格式化的校验和文字行给出警告信息"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:49
@@ -802,7 +802,7 @@ msgstr ""
 #: raw/man1/md5sum.1:55 raw/man1/md5sum.textutils.1:55 raw/man1/sha512sum.1:51
 #: raw/man1/sha384sum.1:51
 msgid "Written by Ulrich Drepper, Scott Miller, and David Madore."
-msgstr ""
+msgstr "由 Ulrich Drepper, Scott Miller 和 David Madore 编写。"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:55

@@ -691,7 +691,7 @@ msgstr "B<-z>, B<--zero>"
 #: raw/man1/mv.1:26
 #, no-wrap
 msgid "B<-f>, B<--force>"
-msgstr ""
+msgstr "B<-f>, B<--force>"
 
 #. type: TH
 #: raw/man1/shred.1:2
