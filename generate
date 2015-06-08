@@ -6,25 +6,7 @@ from subprocess import check_output
 sitedir="../man-pages-zh.github.io/"
 out2html = True
 
-poconf = "[po4a_langs] zh_CN\n"
-poconf = poconf + "[po4a_paths] template/$master.pot $lang:po/$master.$lang.po\n"
-poconfpath = "/tmp/po.conf"
-
-if __name__ == "__main__":
-    for root, dirs, files in os.walk("raw"):
-        if "man" in root:
-            for filename in files:
-                if re.match(".*\.[1-9]", filename):
-                    ifilepath = root+"/"+filename
-                    poconf = poconf + "[type: man] " + ifilepath + " zh_CN:" 
-                    poconf = poconf + ifilepath.replace("raw", "src")
-                    poconf = poconf + ' opt:"-L UTF-8 -M UTF-8"' + "\n"
-
-    poconffd = open(poconfpath, "w")
-    poconffd.write(poconf)
-    poconffd.close()
-    print(check_output(["po4a", poconfpath], universal_newlines=True))
-
+def generate_html():
     # Add ". mso zh.tmac" for each translated file
     ChineseSupport = '. mso zh.tmac\n'
 
@@ -47,10 +29,55 @@ if __name__ == "__main__":
                         file.write("".join(remainingLines))
                         file.close()
                         print("[groff] " + ifilepath)
-                    
+
                     check_output(["mkdir", "-p", htmldir])
                     output = check_output(["man2html", ifilepath], universal_newlines=True)
                     file = open(htmlpath, "w")
                     file.write(output)
                     file.close()
                     print("[html] " + htmlpath)
+
+    for root, dirs, files in os.walk("raw"):
+        if "man" in root:
+            for filename in files:
+                if re.match(".*\.[1-9]", filename):
+                    ifilepath = root + "/" + filename
+                    htmlpath = sitedir + ifilepath.replace("raw/man", "raw") + ".html"
+                    htmldir = sitedir + root.replace("raw/man", "raw")
+                    file = open(ifilepath, 'r')
+                    firstLine = file.readline()
+                    remainingLines = file.readlines()
+                    file.close()
+
+                    check_output(["mkdir", "-p", htmldir])
+                    output = check_output(["man2html", ifilepath], universal_newlines=True)
+                    file = open(htmlpath, "w")
+                    file.write(output)
+                    file.close()
+                    print("[html] " + htmlpath)
+
+def generate_groff():
+    poconf = "[po4a_langs] zh_CN\n"
+    poconf = poconf + "[po4a_paths] template/$master.pot $lang:po/$master.$lang.po\n"
+    poconfpath = "/tmp/po.conf"
+    for root, dirs, files in os.walk("raw"):
+        if "man" in root:
+            for filename in files:
+                if re.match(".*\.[1-9]", filename):
+                    ifilepath = root+"/"+filename
+                    print(ifilepath)
+                    # jump over those one-line manpages
+                    with open(ifilepath) as ifile:
+                        if (len(ifile.readlines()) == 1):
+                            continue
+                    poconf = poconf + "[type: man] " + ifilepath + " zh_CN:"
+                    poconf = poconf + ifilepath.replace("raw", "src")
+                    poconf = poconf + ' opt:"-L UTF-8 -M UTF-8"' + "\n"
+
+    poconffd = open(poconfpath, "w")
+    poconffd.write(poconf)
+    poconffd.close()
+    print(check_output(["po4a", "-o", "untranslated=MT,ME", "-o", "groff_code=translate",poconfpath], universal_newlines=True))
+
+if __name__ == "__main__":
+    generate_groff()
