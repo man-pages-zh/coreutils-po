@@ -663,7 +663,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/chgrp.1:29
 #, no-wrap
 msgid "B<-h>, B<--no-dereference>"
-msgstr ""
+msgstr "B<-h>, B<--no-dereference>"
 
 #. type: TP
 #: raw/man1/runcon.1:34 raw/man1/df.1:74 raw/man1/chcon.1:34
@@ -704,14 +704,14 @@ msgstr "B<-v>, B<--verbose>"
 #: raw/man1/chcon.1:40 raw/man1/chgrp.1:34
 #, no-wrap
 msgid "B<--no-preserve-root>"
-msgstr ""
+msgstr "B<--no-preserve-root>"
 
 #. type: TP
 #: raw/man1/rm.1:55 raw/man1/chmod.1:131 raw/man1/chown.1:62
 #: raw/man1/chcon.1:43 raw/man1/chgrp.1:37
 #, no-wrap
 msgid "B<--preserve-root>"
-msgstr ""
+msgstr "B<--preserve-root>"
 
 #. type: TP
 #: raw/man1/du.1:55 raw/man1/chown.1:76 raw/man1/chcon.1:60 raw/man1/cp.1:47

@@ -9,15 +9,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-29 17:36+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-06-09 00:19+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -676,11 +676,12 @@ msgstr "B<rm> [I<选项>]... I<文件列表>..."
 
 #. type: Plain text
 #: raw/man1/rm.1:15
-#, fuzzy
 msgid ""
 "This manual page documents the GNU version of B<rm>.  B<rm> removes each "
 "specified file.  By default, it does not remove directories."
-msgstr "本手册页记录 GNU 版本的 B<rm>。B<rm> 移除每一个指定的文件。默认情况下，它不删除目录。"
+msgstr ""
+"本手册页记录 GNU 版本的 B<rm>。B<rm> 移除每一个指定的文件。默认情况下，它不删"
+"除目录。"
 
 #. type: Plain text
 #: raw/man1/rm.1:22
@@ -690,24 +691,24 @@ msgid ""
 "B<rm> prompts the user for whether to proceed with the entire operation.  If "
 "the response is not affirmative, the entire command is aborted."
 msgstr ""
-"如果指定 I<-I> 或 I<--interactive\\=once> 选项，且给出了三个以上的文件或指定了 I<-r>, I<-R> 或 I<"
-"--recursive> 选项，则 B<rm> 将提示并询问用户是否继续进行整个操作。如果未得到用户的确认，则整个命令将被中止。"
+"如果指定 I<-I> 或 I<--interactive\\=once> 选项，且给出了三个以上的文件或指定"
+"了 I<-r>, I<-R> 或 I<--recursive> 选项，则 B<rm> 将提示并询问用户是否继续进行"
+"整个操作。如果未得到用户的确认，则整个命令将被中止。"
 
 #. type: Plain text
 #: raw/man1/rm.1:29
-#, fuzzy
 msgid ""
 "Otherwise, if a file is unwritable, standard input is a terminal, and the I<-"
 "f> or I<--force> option is not given, or the I<-i> or I<--interactive"
 "\\=always> option is given, B<rm> prompts the user for whether to remove the "
 "file.  If the response is not affirmative, the file is skipped."
 msgstr ""
-"否则，如果一个文件不可写、标准输入是一个终端且未给出 I<-f> 或 I<--force> 选项，或 I<--interactive\\=always> "
-"选项被给出， B<rm> 将提示用户是否删除该文件。如果未得到用户的确认，则该文件将被跳过。"
+"否则，如果一个文件不可写、标准输入是一个终端且未给出 I<-f> 或 I<--force> 选"
+"项，或 I<--interactive\\=always> 选项被给出， B<rm> 将提示用户是否删除该文"
+"件。如果未得到用户的确认，则该文件将被跳过。"
 
 #. type: Plain text
 #: raw/man1/rm.1:32
-#, fuzzy
 msgid "Remove (unlink) the FILE(s)."
 msgstr "删除 (unlink) 给定文件。"
 
@@ -720,7 +721,6 @@ msgstr "B<-f>, B<--force>"
 
 #. type: Plain text
 #: raw/man1/rm.1:35
-#, fuzzy
 msgid "ignore nonexistent files and arguments, never prompt"
 msgstr "忽略不存在的文件和参数，从不提示"
 
@@ -743,28 +743,28 @@ msgstr "B<-I>"
 
 #. type: Plain text
 #: raw/man1/rm.1:43
-#, fuzzy
 msgid ""
 "prompt once before removing more than three files, or when removing "
 "recursively; less intrusive than B<-i>, while still giving protection "
 "against most mistakes"
-msgstr "在进行递归删除或删除多于三个文件之前提示用户一次；与 B<-i> 相比较更少干扰用户，但是仍然为大多数操作失误起到保护作用。"
+msgstr ""
+"在进行递归删除或删除多于三个文件之前提示用户一次；与 B<-i> 相比较更少干扰用"
+"户，但是仍然为大多数操作失误起到保护作用。"
 
 #. type: TP
 #: raw/man1/rm.1:43
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--interactive>[=I<WHEN>]"
 msgstr "B<--interactive>[=I<WHEN>]"
 
 #. type: Plain text
 #: raw/man1/rm.1:47
-#, fuzzy
 msgid ""
 "prompt according to WHEN: never, once (B<-I>), or always (B<-i>); without "
 "WHEN, prompt always"
 msgstr ""
-"根据 WHEN 确定提示用户的频率： \"never\"（从不）、\"once\" (B<-I>)、或者 \"always\" (B<-i>"
-")；如果没有给定 WHEN 参数，则总是提示用户。"
+"根据 WHEN 确定提示用户的频率： \"never\"（从不）、\"once\" (B<-I>)、或者 "
+"\"always\" (B<-i>)；如果没有给定 WHEN 参数，则总是提示用户。"
 
 #. type: TP
 #: raw/man1/rm.1:47
@@ -774,11 +774,12 @@ msgstr "B<--one-file-system>"
 
 #. type: Plain text
 #: raw/man1/rm.1:52
-#, fuzzy
 msgid ""
 "when removing a hierarchy recursively, skip any directory that is on a file "
 "system different from that of the corresponding command line argument"
-msgstr "在递归地删除一个目录结构时，跳过与对应命令行参数不在同一个文件系统中的所有目录"
+msgstr ""
+"在递归地删除一个目录结构时，跳过与对应命令行参数不在同一个文件系统中的所有目"
+"录"
 
 #. type: TP
 #: raw/man1/rm.1:52 raw/man1/chmod.1:128 raw/man1/chown.1:59
@@ -812,7 +813,6 @@ msgstr "B<-r>, B<-R>, B<--recursive>"
 
 #. type: Plain text
 #: raw/man1/rm.1:61
-#, fuzzy
 msgid "remove directories and their contents recursively"
 msgstr "递归地移除目录及它们的内容"
 
@@ -829,26 +829,25 @@ msgstr "删除空目录"
 
 #. type: Plain text
 #: raw/man1/rm.1:67 raw/man1/cp.1:115 raw/man1/mv.1:58
-#, fuzzy
 msgid "explain what is being done"
 msgstr "解释正在发生的情况"
 
 #. type: Plain text
 #: raw/man1/rm.1:76
-#, fuzzy
 msgid ""
 "By default, rm does not remove directories.  Use the B<--recursive> (B<-r> "
 "or B<-R>)  option to remove each listed directory, too, along with all of "
 "its contents."
-msgstr "默认情况下，rm 不移除目录。使用 B<--recursive>（B<-r> 或 B<-R>）选项来同时移除列出的每个目录及其内容。"
+msgstr ""
+"默认情况下，rm 不移除目录。可以使用 B<--recursive>（B<-r> 或 B<-R>）选项来同时移"
+"除列出的每个目录及其内容。"
 
 #. type: Plain text
 #: raw/man1/rm.1:79
-#, fuzzy
 msgid ""
 "To remove a file whose name starts with a '-', for example '-foo', use one "
 "of these commands:"
-msgstr "如果需要删除一个文件名以连字符 '-' 起始的文件，例如 '-foo'，请使用下列命令："
+msgstr "如果需要删除一个文件名以连字符 “-”起始的文件，例如 '-foo'，请使用下列命令："
 
 #. type: Plain text
 #: raw/man1/rm.1:81
@@ -862,30 +861,29 @@ msgstr "rm ./-foo"
 
 #. type: Plain text
 #: raw/man1/rm.1:87
-#, fuzzy
 msgid ""
 "Note that if you use rm to remove a file, it might be possible to recover "
 "some of its contents, given sufficient expertise and/or time.  For greater "
 "assurance that the contents are truly unrecoverable, consider using shred."
 msgstr ""
-"请注意，如果你使用 rm 删除一个文件，在有足够技术水平和/或时间的情况下，它的部分内容可能仍然能够被恢复。如果需要更高的保障来使得文件内容不可恢复，请考虑"
-"使用 shred."
+"请注意，如果你使用 rm 删除一个文件，在有足够技术水平和/或时间的情况下，它的部"
+"分内容可能仍然能够被恢复。如果需要更高的保障来使得文件内容不可恢复，请考虑使"
+"用 shred."
 
 #. type: Plain text
 #: raw/man1/rm.1:90
 msgid ""
 "Written by Paul Rubin, David MacKenzie, Richard M. Stallman, and Jim "
 "Meyering."
-msgstr ""
-"由 Paul Rubin, David MacKenzie, Richard M. Stallman 和 Jim "
-"Meyering 编写。"
+msgstr "由 Paul Rubin, David MacKenzie, Richard M. Stallman 和 Jim Meyering 编写。"
 
 #. type: Plain text
 #: raw/man1/rm.1:94
 msgid ""
 "Report rm translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 rm 的翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 rm 的翻译错"
+"误。"
 
 #. type: Plain text
 #: raw/man1/rm.1:102
@@ -902,5 +900,4 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/rmE<gt>
 #: raw/man1/rm.1:106
 msgid "or available locally via: info \\(aq(coreutils) rm invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) rm invocation\\(aq"
-
 

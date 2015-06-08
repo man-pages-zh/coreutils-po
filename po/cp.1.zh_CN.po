@@ -481,7 +481,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -818,12 +819,12 @@ msgstr ""
 #: raw/man1/mv.1:26
 #, no-wrap
 msgid "B<-f>, B<--force>"
-msgstr ""
+msgstr "B<-f>, B<--force>"
 
 #. type: Plain text
 #: raw/man1/rm.1:67 raw/man1/cp.1:115 raw/man1/mv.1:58
 msgid "explain what is being done"
-msgstr ""
+msgstr "解释正在发生的情况"
 
 #. type: TP
 #: raw/man1/du.1:55 raw/man1/chown.1:76 raw/man1/chcon.1:60 raw/man1/cp.1:47

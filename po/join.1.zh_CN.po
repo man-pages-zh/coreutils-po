@@ -653,7 +653,7 @@ msgstr "B<-z>, B<--zero-terminated>"
 #: raw/man1/sort.1:116 raw/man1/shuf.1:41 raw/man1/join.1:56
 #: raw/man1/uniq.1:47
 msgid "line delimiter is NUL, not newline"
-msgstr ""
+msgstr "以 NUL 作为行的分隔符，而非换行符"
 
 #. type: TH
 #: raw/man1/join.1:2
@@ -707,7 +707,7 @@ msgstr ""
 #: raw/man1/join.1:21 raw/man1/uniq.1:35
 #, no-wrap
 msgid "B<-i>, B<--ignore-case>"
-msgstr ""
+msgstr "B<-i>, B<--ignore-case>"
 
 #. type: Plain text
 #: raw/man1/join.1:24

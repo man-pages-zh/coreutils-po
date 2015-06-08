@@ -643,7 +643,7 @@ msgstr "参见"
 #: raw/man1/touch.1:20 raw/man1/id.1:13 raw/man1/od.1:67
 #, no-wrap
 msgid "B<-a>"
-msgstr ""
+msgstr "B<-a>"
 
 #. type: TP
 #: raw/man1/readlink.1:38 raw/man1/shred.1:38 raw/man1/id.1:34

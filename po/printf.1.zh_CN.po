@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -743,7 +744,6 @@ msgstr "\\ee"
 
 #. type: Plain text
 #: raw/man1/printf.1:41 raw/man1/echo.1:47
-#, fuzzy
 msgid "escape"
 msgstr "escape 字符"
 
@@ -864,8 +864,7 @@ msgid ""
 "ARGUMENT as a string with '\\e' escapes interpreted, except that octal "
 "escapes are of the form \\e0 or \\e0NNN"
 msgstr ""
-"参数列表作为字符串，其中 '\\e' 字符被转义，除了八进制转义格式 \\e0 或 "
-"\\e0NNN"
+"参数列表作为字符串，其中 '\\e' 字符被转义，除了八进制转义格式 \\e0 或 \\e0NNN"
 
 #. type: Plain text
 #: raw/man1/printf.1:78
@@ -884,7 +883,8 @@ msgid ""
 "supersedes the version described here.  Please refer to your shell's "
 "documentation for details about the options it supports."
 msgstr ""
-"注意：您的 shell 可能内置了自己的 printf 程序版本，它通常会覆盖这里所提及的相应版本。请查阅您的 shell 文档获知它所支持的选项。"
+"注意：您的 shell 可能内置了自己的 printf 程序版本，它通常会覆盖这里所提及的相"
+"应版本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/printf.1:84 raw/man1/mkdir.1:39 raw/man1/expand.1:32

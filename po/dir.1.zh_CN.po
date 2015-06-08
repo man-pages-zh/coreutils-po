@@ -1149,7 +1149,7 @@ msgstr ""
 #: raw/man1/ls.1:126 raw/man1/dir.1:126 raw/man1/vdir.1:126
 #, no-wrap
 msgid "B<-n>, B<--numeric-uid-gid>"
-msgstr ""
+msgstr "B<-n>, B<--numeric-uid-gid>"
 
 #. type: Plain text
 #: raw/man1/ls.1:129 raw/man1/dir.1:129 raw/man1/vdir.1:129
@@ -1160,7 +1160,7 @@ msgstr ""
 #: raw/man1/ls.1:129 raw/man1/dir.1:129 raw/man1/vdir.1:129
 #, no-wrap
 msgid "B<-N>, B<--literal>"
-msgstr ""
+msgstr "B<-N>, B<--literal>"
 
 #. type: Plain text
 #: raw/man1/ls.1:133 raw/man1/dir.1:133 raw/man1/vdir.1:133
@@ -1256,7 +1256,7 @@ msgstr ""
 #: raw/man1/ls.1:162 raw/man1/dir.1:162 raw/man1/vdir.1:162
 #, no-wrap
 msgid "B<-S>"
-msgstr ""
+msgstr "B<-S>"
 
 #. type: Plain text
 #: raw/man1/ls.1:165 raw/man1/dir.1:165 raw/man1/vdir.1:165
@@ -1315,7 +1315,7 @@ msgstr ""
 #: raw/man1/ls.1:195 raw/man1/dir.1:195 raw/man1/vdir.1:195
 #, no-wrap
 msgid "B<-U>"
-msgstr ""
+msgstr "B<-U>"
 
 #. type: Plain text
 #: raw/man1/ls.1:198 raw/man1/dir.1:198 raw/man1/vdir.1:198
@@ -1410,7 +1410,7 @@ msgstr ""
 #: raw/man1/ls.1:237 raw/man1/dir.1:237 raw/man1/vdir.1:237
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. type: Plain text
 #: raw/man1/ls.1:240 raw/man1/dir.1:240 raw/man1/vdir.1:240

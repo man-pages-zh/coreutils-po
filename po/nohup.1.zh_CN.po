@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -683,9 +684,10 @@ msgid ""
 "nohup.out' otherwise.  If standard error is a terminal, redirect it to "
 "standard output.  To save output to FILE, use 'nohup COMMAND E<gt> FILE'."
 msgstr ""
-"如果标准输入来自终端，则从 I</dev/null> 重定向至标准输入；如果标准输出定向至终端，则在可能的情况下将输出附加在 'nohup.out' "
-"文件后，否则附加到 \\&'$HOME/nohup.out'。如果标准错误定向至终端，则重定向至标准输出。使用“nohup "
-"命令 E<gt> 文件”可将输出保存到指定文件。"
+"如果标准输入来自终端，则从 I</dev/null> 重定向至标准输入；如果标准输出定向至"
+"终端，则在可能的情况下将输出附加在 'nohup.out' 文件后，否则附加到 \\&'$HOME/"
+"nohup.out'。如果标准错误定向至终端，则重定向至标准输出。使用“nohup 命令 "
+"E<gt> 文件”可将输出保存到指定文件。"
 
 #. type: Plain text
 #: raw/man1/nohup.1:31
@@ -694,7 +696,8 @@ msgid ""
 "the version described here.  Please refer to your shell's documentation for "
 "details about the options it supports."
 msgstr ""
-"注意：您的 shell 可能内置了自己的 nohup 程序版本，它通常会覆盖这里所提及的相应版本。请查阅您的 shell 文档获知它所支持的选项。"
+"注意：您的 shell 可能内置了自己的 nohup 程序版本，它通常会覆盖这里所提及的相"
+"应版本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/nohup.1:37
@@ -702,8 +705,8 @@ msgid ""
 "Report nohup translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 nohup 的"
-"翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 nohup 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/nohup.1:45

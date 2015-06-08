@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -653,7 +654,9 @@ msgstr "B<--files0-from>=I<F>"
 msgid ""
 "read input from the files specified by NUL-terminated names in file F; If F "
 "is - then read names from standard input"
-msgstr "将文件F 中的以 NUL 结尾的名字所指定的文件作为待统计文件；如果文件F 为“-”，则从标准输入读取这些名字"
+msgstr ""
+"将文件F 中的以 NUL 结尾的名字所指定的文件作为待统计文件；如果文件F 为“-”，则"
+"从标准输入读取这些名字"
 
 #. type: TH
 #: raw/man1/wc.1:2
@@ -686,8 +689,10 @@ msgid ""
 "printed, always in the following order: newline, word, character, byte, "
 "maximum line length."
 msgstr ""
-"对每个文件输出行、单词、和字节统计数，如果指定的文件多于一个则还有一个行数的总计。没有指定文件或指定的文件是“-”，则读取标准输入。单词指以空格分隔的长度非"
-"零的字符序列。下列选项或可用于选择显示哪些统计数，但显示顺序总是：行数、单词数、字符数、字节数、最长的行的长度。"
+"对每个文件输出行、单词、和字节统计数，如果指定的文件多于一个则还有一个行数的"
+"总计。没有指定文件或指定的文件是“-”，则读取标准输入。单词指以空格分隔的长度非"
+"零的字符序列。下列选项或可用于选择显示哪些统计数，但显示顺序总是：行数、单词"
+"数、字符数、字节数、最长的行的长度。"
 
 #. type: TP
 #: raw/man1/wc.1:20
@@ -754,7 +759,8 @@ msgstr "由 Paul Rubin 和 David MacKenzie 编写。"
 msgid ""
 "Report wc translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 wc 的翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 wc 的翻译错"
+"误。"
 
 #. type: Plain text
 #: raw/man1/wc.1:60

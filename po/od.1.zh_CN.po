@@ -662,7 +662,7 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/touch.1:20 raw/man1/id.1:13 raw/man1/od.1:67
 #, no-wrap
 msgid "B<-a>"
-msgstr ""
+msgstr "B<-a>"
 
 #. type: TP
 #: raw/man1/touch.1:29 raw/man1/pinky.1:25 raw/man1/od.1:79 raw/man1/ls.1:54
@@ -698,7 +698,7 @@ msgstr ""
 #: raw/man1/cp.1:29 raw/man1/mv.1:23
 #, no-wrap
 msgid "B<-b>"
-msgstr ""
+msgstr "B<-b>"
 
 #. type: TP
 #: raw/man1/install.1:36 raw/man1/od.1:73 raw/man1/ls.1:35 raw/man1/dir.1:35
@@ -711,7 +711,7 @@ msgstr "B<-c>"
 #: raw/man1/rm.1:35 raw/man1/pinky.1:31 raw/man1/od.1:82
 #, no-wrap
 msgid "B<-i>"
-msgstr ""
+msgstr "B<-i>"
 
 #. type: TP
 #: raw/man1/pinky.1:10 raw/man1/od.1:85 raw/man1/ls.1:115 raw/man1/dir.1:115

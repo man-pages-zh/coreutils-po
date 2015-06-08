@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -692,7 +693,9 @@ msgstr "B<expand> [I<选项>]... [I<文件列表>]..."
 msgid ""
 "Convert tabs in each FILE to spaces, writing to standard output.  With no "
 "FILE, or when FILE is -, read standard input."
-msgstr "将所列文件中的制表符转换为空格，且输出到标准输出。如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
+msgstr ""
+"将所列文件中的制表符转换为空格，且输出到标准输出。如果没有指定文件，或者指定"
+"文件为“-”，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/expand.1:15
@@ -733,7 +736,8 @@ msgid ""
 "Report expand translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 expand 的翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 expand 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/expand.1:44

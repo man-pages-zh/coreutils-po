@@ -684,7 +684,7 @@ msgstr ""
 #: raw/man1/cp.1:29 raw/man1/mv.1:23
 #, no-wrap
 msgid "B<-b>"
-msgstr ""
+msgstr "B<-b>"
 
 #. type: Plain text
 #: raw/man1/install.1:36 raw/man1/ln.1:36 raw/man1/cp.1:32 raw/man1/mv.1:26
@@ -712,7 +712,7 @@ msgstr ""
 #: raw/man1/install.1:76 raw/man1/ln.1:70 raw/man1/cp.1:104 raw/man1/mv.1:47
 #, no-wrap
 msgid "B<-T>, B<--no-target-directory>"
-msgstr ""
+msgstr "B<-T>, B<--no-target-directory>"
 
 #. type: Plain text
 #: raw/man1/install.1:103 raw/man1/ln.1:86 raw/man1/cp.1:146 raw/man1/mv.1:72
@@ -772,7 +772,7 @@ msgstr ""
 #: raw/man1/mv.1:26
 #, no-wrap
 msgid "B<-f>, B<--force>"
-msgstr ""
+msgstr "B<-f>, B<--force>"
 
 #. type: TP
 #: raw/man1/realpath.1:19 raw/man1/ln.1:47 raw/man1/pwd.1:12

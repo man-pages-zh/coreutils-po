@@ -651,13 +651,13 @@ msgstr "B<-f>"
 #: raw/man1/cp.1:29 raw/man1/mv.1:23
 #, no-wrap
 msgid "B<-b>"
-msgstr ""
+msgstr "B<-b>"
 
 #. type: TP
 #: raw/man1/rm.1:35 raw/man1/pinky.1:31 raw/man1/od.1:82
 #, no-wrap
 msgid "B<-i>"
-msgstr ""
+msgstr "B<-i>"
 
 #. type: TH
 #: raw/man1/pinky.1:2

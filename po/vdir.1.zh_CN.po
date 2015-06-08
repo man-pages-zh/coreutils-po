@@ -1404,7 +1404,7 @@ msgstr ""
 #: raw/man1/ls.1:237 raw/man1/dir.1:237 raw/man1/vdir.1:237
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. type: Plain text
 #: raw/man1/ls.1:240 raw/man1/dir.1:240 raw/man1/vdir.1:240

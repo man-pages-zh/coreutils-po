@@ -670,7 +670,7 @@ msgstr "B<-m>"
 #: raw/man1/vdir.1:169
 #, no-wrap
 msgid "B<--time>=I<WORD>"
-msgstr ""
+msgstr "B<--time>=I<关键字>"
 
 #. type: TP
 #: raw/man1/stat.1:14 raw/man1/du.1:67 raw/man1/ls.1:118 raw/man1/dir.1:118
@@ -683,7 +683,7 @@ msgstr "B<-L>, B<--dereference>"
 #: raw/man1/sort.1:79 raw/man1/du.1:50 raw/man1/wc.1:29
 #, no-wrap
 msgid "B<--files0-from>=I<F>"
-msgstr ""
+msgstr "B<--files0-from>=I<F>"
 
 #. type: TP
 #: raw/man1/df.1:35 raw/man1/stty.1:20 raw/man1/du.1:20 raw/man1/uname.1:12

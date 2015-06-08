@@ -684,7 +684,7 @@ msgstr ""
 #: raw/man1/cp.1:29 raw/man1/mv.1:23
 #, no-wrap
 msgid "B<-b>"
-msgstr ""
+msgstr "B<-b>"
 
 #. type: Plain text
 #: raw/man1/install.1:36 raw/man1/ln.1:36 raw/man1/cp.1:32 raw/man1/mv.1:26
@@ -712,7 +712,7 @@ msgstr ""
 #: raw/man1/install.1:76 raw/man1/ln.1:70 raw/man1/cp.1:104 raw/man1/mv.1:47
 #, no-wrap
 msgid "B<-T>, B<--no-target-directory>"
-msgstr ""
+msgstr "B<-T>, B<--no-target-directory>"
 
 #. type: Plain text
 #: raw/man1/install.1:79 raw/man1/cp.1:107 raw/man1/mv.1:50
@@ -782,12 +782,12 @@ msgstr ""
 #: raw/man1/mv.1:26
 #, no-wrap
 msgid "B<-f>, B<--force>"
-msgstr ""
+msgstr "B<-f>, B<--force>"
 
 #. type: Plain text
 #: raw/man1/rm.1:67 raw/man1/cp.1:115 raw/man1/mv.1:58
 msgid "explain what is being done"
-msgstr ""
+msgstr "解释正在发生的情况"
 
 #. type: TP
 #: raw/man1/id.1:16 raw/man1/ls.1:210 raw/man1/dir.1:210 raw/man1/vdir.1:210
@@ -812,7 +812,7 @@ msgstr ""
 #: raw/man1/cp.1:91 raw/man1/mv.1:37
 #, no-wrap
 msgid "B<--strip-trailing-slashes>"
-msgstr ""
+msgstr "B<--strip-trailing-slashes>"
 
 #. type: Plain text
 #: raw/man1/cp.1:95 raw/man1/mv.1:41
