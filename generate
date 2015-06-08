@@ -29,7 +29,7 @@ def generate_html():
                         file.write("".join(remainingLines))
                         file.close()
                         print("[groff] " + ifilepath)
-                    
+
                     check_output(["mkdir", "-p", htmldir])
                     output = check_output(["man2html", ifilepath], universal_newlines=True)
                     file = open(htmlpath, "w")
@@ -70,7 +70,7 @@ def generate_groff():
                     with open(ifilepath) as ifile:
                         if (len(ifile.readlines()) == 1):
                             continue
-                    poconf = poconf + "[type: man] " + ifilepath + " zh_CN:" 
+                    poconf = poconf + "[type: man] " + ifilepath + " zh_CN:"
                     poconf = poconf + ifilepath.replace("raw", "src")
                     poconf = poconf + ' opt:"-L UTF-8 -M UTF-8"' + "\n"
 

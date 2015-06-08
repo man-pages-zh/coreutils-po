@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-05-28 15:19+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-06-08 22:13+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -836,7 +836,6 @@ msgstr "ls - 列出目录内容"
 
 #. type: Plain text
 #: raw/man1/ls.1:8
-#, fuzzy
 msgid "B<ls> [I<OPTION>]... [I<FILE>]..."
 msgstr "B<ls> [I<选项>]... [I<文件列表>]..."
 
@@ -1055,7 +1054,6 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/ls.1:89 raw/man1/dir.1:89 raw/man1/vdir.1:89
-#, fuzzy
 msgid "likewise, but use powers of 1000 not 1024"
 msgstr "类似，但是使用1000的乘方，不使用1024"
 
@@ -1357,7 +1355,7 @@ msgstr ""
 
 #. type: TP
 #: raw/man1/ls.1:207 raw/man1/dir.1:207 raw/man1/vdir.1:207
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-X>"
 msgstr "B<-X>"
 
@@ -1387,7 +1385,7 @@ msgstr ""
 
 #. type: SS
 #: raw/man1/ls.1:230 raw/man1/dir.1:230 raw/man1/vdir.1:230
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Exit status:"
 msgstr "退出状态："
 
@@ -1400,7 +1398,6 @@ msgstr "0"
 
 #. type: Plain text
 #: raw/man1/ls.1:234 raw/man1/dir.1:234 raw/man1/vdir.1:234
-#, fuzzy
 msgid "if OK,"
 msgstr "如果成功，"
 
