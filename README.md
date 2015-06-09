@@ -12,12 +12,12 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 输出整个文件 | cat tac `nl` `od` base64 |
 格式化文件内容 | `fmt` `pr` `fold` |
 输出文件一部分 | head `tail` `split` `csplite` |
-文件摘要 | wc sum `cksum` `md5sum` `sha1sum` `sha224sum` `sha256sum` `sha384sum` `sha512sum` |
+文件摘要 | wc sum `cksum` `md5sum` sha1sum sha224sum sha256sum sha384sum sha512sum |
 已排序文件上的操作 | `sort` `shuf` uniq `comm` `ptx` `tso` |
 对域的操作 | `cut` paste `join` |
 对字符的操作 | `tr` expand unexpand |
 列目录 | `ls` `dir` `vdir` `dircolors` |
-基本操作 | `cp` `dd` `install` `mv` `rm` `shred` |
+基本操作 | `cp` `dd` `install` `mv` rm `shred` |
 特殊文件类型 | `mkdir` rmdir `unlink` `mkfifo` `mknod` `ln` link `readlink` |
 改变文件属性 | `chgrp` `chmod` `chown` touch |
 磁盘使用情况 | `df` `du` `stat` sync `truncate` |
@@ -44,7 +44,7 @@ SELinux环境 | `chcon` `runcon` |
 1. 如果coreutils.po和manpages-zh已经有相应的翻译，请沿用已有的翻译。当然，可以在原有的基础上改进。
 2. 对于不了解的内容，请**不要**翻译。对于coreutils，手册页的描述其实非常简略，模棱两可的地方一定弄明白（看info或者源代码）再翻译。否则请**不要**翻译。
 
-翻译规范参考[wiki](https://github.com/man-pages-zh/wiki/wiki/%E7%BF%BB%E8%AF%91%E8%A7%84%E8%8C%83)。
+翻译规范参考 [**Wiki**](https://github.com/man-pages-zh/wiki/wiki/%E7%BF%BB%E8%AF%91%E8%A7%84%E8%8C%83)。
 
 ### 维护
 请先安装python3、[man2html](https://github.com/man-pages-zh/man2html)和po4a。
