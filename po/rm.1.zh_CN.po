@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -839,15 +840,16 @@ msgid ""
 "or B<-R>)  option to remove each listed directory, too, along with all of "
 "its contents."
 msgstr ""
-"默认情况下，rm 不移除目录。可以使用 B<--recursive>（B<-r> 或 B<-R>）选项来同时移"
-"除列出的每个目录及其内容。"
+"默认情况下，rm 不移除目录。可以使用 B<--recursive>（B<-r> 或 B<-R>）选项来同"
+"时移除列出的每个目录及其内容。"
 
 #. type: Plain text
 #: raw/man1/rm.1:79
 msgid ""
 "To remove a file whose name starts with a '-', for example '-foo', use one "
 "of these commands:"
-msgstr "如果需要删除一个文件名以连字符 “-”起始的文件，例如 '-foo'，请使用下列命令："
+msgstr ""
+"如果需要删除一个文件名以连字符 “-”起始的文件，例如 '-foo'，请使用下列命令："
 
 #. type: Plain text
 #: raw/man1/rm.1:81
@@ -875,7 +877,8 @@ msgstr ""
 msgid ""
 "Written by Paul Rubin, David MacKenzie, Richard M. Stallman, and Jim "
 "Meyering."
-msgstr "由 Paul Rubin, David MacKenzie, Richard M. Stallman 和 Jim Meyering 编写。"
+msgstr ""
+"由 Paul Rubin, David MacKenzie, Richard M. Stallman 和 Jim Meyering 编写。"
 
 #. type: Plain text
 #: raw/man1/rm.1:94
@@ -900,4 +903,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/rmE<gt>
 #: raw/man1/rm.1:106
 msgid "or available locally via: info \\(aq(coreutils) rm invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) rm invocation\\(aq"
-

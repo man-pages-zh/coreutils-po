@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -686,7 +687,9 @@ msgstr "输出特定的系统信息。如果没有给定选项，则与 B<-s> �
 msgid ""
 "print all information, in the following order, except omit B<-p> and B<-i> "
 "if unknown:"
-msgstr "按照如下所述的顺序输出全部信息，在信息未知的情况下会忽略 B<-p> 和 B<-i> 选项："
+msgstr ""
+"按照如下所述的顺序输出全部信息，在信息未知的情况下会忽略 B<-p> 和 B<-i> 选"
+"项："
 
 #. type: TP
 #: raw/man1/uname.1:16
@@ -782,8 +785,8 @@ msgid ""
 "Report uname translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 uname 的"
-"翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 uname 的翻"
+"译错误。"
 
 #. type: Plain text
 #: raw/man1/uname.1:60
@@ -800,5 +803,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/unameE<
 #: raw/man1/uname.1:64
 msgid "or available locally via: info \\(aq(coreutils) uname invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) uname invocation\\(aq"
-
-

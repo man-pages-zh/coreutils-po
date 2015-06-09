@@ -735,7 +735,7 @@ msgstr ""
 #: raw/man1/readlink.1:35 raw/man1/chmod.1:125 raw/man1/realpath.1:28
 #: raw/man1/chown.1:41 raw/man1/chgrp.1:22
 msgid "suppress most error messages"
-msgstr ""
+msgstr "隐藏大多数错误信息"
 
 #. type: Plain text
 #: raw/man1/readlink.1:38

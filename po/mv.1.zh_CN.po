@@ -668,16 +668,17 @@ msgstr "必选参数对长短选项同时适用。"
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
 
+# Words in texinfo document is also hard to understand. Please make sure that you understand what CONTROL/METHOD is.
 #. type: TP
 #: raw/man1/install.1:30 raw/man1/ln.1:30 raw/man1/cp.1:26 raw/man1/mv.1:20
 #, no-wrap
 msgid "B<--backup>[=I<CONTROL>]"
-msgstr ""
+msgstr "B<--backup>[=I<控制参数>]"
 
 #. type: Plain text
 #: raw/man1/install.1:33 raw/man1/ln.1:33 raw/man1/cp.1:29 raw/man1/mv.1:23
 msgid "make a backup of each existing destination file"
-msgstr ""
+msgstr "为每个已存在的目标文件创建一个备份"
 
 #. type: TP
 #: raw/man1/install.1:33 raw/man1/pinky.1:13 raw/man1/od.1:70 raw/man1/ln.1:33
@@ -689,7 +690,7 @@ msgstr "B<-b>"
 #. type: Plain text
 #: raw/man1/install.1:36 raw/man1/ln.1:36 raw/man1/cp.1:32 raw/man1/mv.1:26
 msgid "like B<--backup> but does not accept an argument"
-msgstr ""
+msgstr "类似 B<--backup>，但是不接受参数"
 
 #. type: TP
 #: raw/man1/install.1:70 raw/man1/ln.1:63 raw/man1/cp.1:98 raw/man1/mv.1:41
@@ -717,7 +718,7 @@ msgstr "B<-T>, B<--no-target-directory>"
 #. type: Plain text
 #: raw/man1/install.1:79 raw/man1/cp.1:107 raw/man1/mv.1:50
 msgid "treat DEST as a normal file"
-msgstr ""
+msgstr "将目标文件当作普通文件对待（而不是目录）"
 
 #. type: Plain text
 #: raw/man1/install.1:89 raw/man1/cp.1:122 raw/man1/mv.1:62

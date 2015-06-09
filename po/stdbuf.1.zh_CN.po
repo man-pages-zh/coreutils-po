@@ -769,7 +769,7 @@ msgstr ""
 #: raw/man1/md5sum.textutils.1:49
 #, no-wrap
 msgid "BUGS"
-msgstr ""
+msgstr "BUGS"
 
 #. type: Plain text
 #: raw/man1/stdbuf.1:52

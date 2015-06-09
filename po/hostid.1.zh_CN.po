@@ -695,4 +695,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/hostidE
 #: raw/man1/hostid.1:36
 msgid "or available locally via: info \\(aq(coreutils) hostid invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) hostid invocation\\(aq"
-

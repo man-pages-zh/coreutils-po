@@ -1071,4 +1071,3 @@ msgstr ""
 #: raw/man1/sort.1:158
 msgid "or available locally via: info \\(aq(coreutils) sort invocation\\(aq"
 msgstr ""
-

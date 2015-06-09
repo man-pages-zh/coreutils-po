@@ -662,12 +662,12 @@ msgstr "必选参数对长短选项同时适用。"
 #: raw/man1/touch.1:23 raw/man1/truncate.1:20
 #, no-wrap
 msgid "B<-c>, B<--no-create>"
-msgstr ""
+msgstr "B<-c>, B<--no-create>"
 
 #. type: Plain text
 #: raw/man1/touch.1:26 raw/man1/truncate.1:23
 msgid "do not create any files"
-msgstr ""
+msgstr "不要创建任何文件"
 
 #. type: Plain text
 #: raw/man1/stdbuf.1:54 raw/man1/timeout.1:63 raw/man1/realpath.1:48

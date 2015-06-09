@@ -481,7 +481,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -1036,13 +1037,8 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/ls.1:89 raw/man1/dir.1:89 raw/man1/vdir.1:89
-#, fuzzy
 msgid "likewise, but use powers of 1000 not 1024"
-msgstr ""
-"#-#-#-#-#  vdir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ls.1.zh_CN.po  #-#-#-#-#\n"
-"类似，但是使用1000的乘方，不使用1024\n"
-"#-#-#-#-#  dir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "类似，但是使用1000的乘方，不使用1024"
 
 #. type: TP
 #: raw/man1/ls.1:89 raw/man1/dir.1:89 raw/man1/vdir.1:89
@@ -1344,7 +1340,7 @@ msgstr ""
 #: raw/man1/ls.1:207 raw/man1/dir.1:207 raw/man1/vdir.1:207
 #, no-wrap
 msgid "B<-X>"
-msgstr ""
+msgstr "B<-X>"
 
 #. type: Plain text
 #: raw/man1/ls.1:210 raw/man1/dir.1:210 raw/man1/vdir.1:210
@@ -1372,13 +1368,9 @@ msgstr ""
 
 #. type: SS
 #: raw/man1/ls.1:230 raw/man1/dir.1:230 raw/man1/vdir.1:230
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Exit status:"
-msgstr ""
-"#-#-#-#-#  vdir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ls.1.zh_CN.po  #-#-#-#-#\n"
-"退出状态：\n"
-"#-#-#-#-#  dir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "退出状态："
 
 #. type: TP
 #: raw/man1/ls.1:231 raw/man1/dir.1:231 raw/man1/vdir.1:231
@@ -1389,13 +1381,8 @@ msgstr "0"
 
 #. type: Plain text
 #: raw/man1/ls.1:234 raw/man1/dir.1:234 raw/man1/vdir.1:234
-#, fuzzy
 msgid "if OK,"
-msgstr ""
-"#-#-#-#-#  vdir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ls.1.zh_CN.po  #-#-#-#-#\n"
-"如果成功，\n"
-"#-#-#-#-#  dir.1.zh_CN.po (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr "如果成功，"
 
 #. type: TP
 #: raw/man1/ls.1:234 raw/man1/dir.1:234 raw/man1/vdir.1:234
@@ -1451,4 +1438,3 @@ msgstr ""
 #: raw/man1/dir.1:255
 msgid "or available locally via: info \\(aq(coreutils) dir invocation\\(aq"
 msgstr ""
-

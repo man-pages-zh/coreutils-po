@@ -4,19 +4,20 @@
 #
 # Automatically generated, 2015.
 # Boyuan Yang <073plan@gmail.com>, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-06-07 02:50+0800\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"PO-Revision-Date: 2015-06-09 12:13+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -481,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -723,45 +725,40 @@ msgstr "INSTALL"
 
 #. type: Plain text
 #: raw/man1/install.1:5
-#, fuzzy
 msgid "install - copy files and set attributes"
 msgstr "install - 复制文件并设置属性"
 
 #. type: Plain text
 #: raw/man1/install.1:8
-#, fuzzy
 msgid "B<install> [I<OPTION>]... [I<-T>] I<SOURCE DEST>"
 msgstr "B<install> [I<选项>]... [I<-T>] I<源文件 目标文件>"
 
 #. type: Plain text
 #: raw/man1/install.1:11
-#, fuzzy
 msgid "B<install> [I<OPTION>]... I<SOURCE>... I<DIRECTORY>"
 msgstr "B<install> [I<选项>]... I<源文件列表>... I<目录>"
 
 #. type: Plain text
 #: raw/man1/install.1:14
-#, fuzzy
 msgid "B<install> [I<OPTION>]... I<-t DIRECTORY SOURCE>..."
 msgstr "B<install> [I<选项>]... I<-t 目录 源文件列表>..."
 
 #. type: Plain text
 #: raw/man1/install.1:17
-#, fuzzy
 msgid "B<install> [I<OPTION>]... I<-d DIRECTORY>..."
 msgstr "B<install> [I<选项>]... I<-d 目录列表>..."
 
 #. type: Plain text
 #: raw/man1/install.1:24
-#, fuzzy
 msgid ""
 "This install program copies files (often just compiled) into destination "
 "locations you choose.  If you want to download and install a ready-to-use "
 "package on a GNU/Linux system, you should instead be using a package manager "
 "like yum(1) or apt-get(1)."
 msgstr ""
-"本程序将文件（通常是刚编译生成的文件）复制到您选定的目的位置。如果您想要在 GNU/Linux 系统上下载安装开箱即用的软件包，您应当另外使用如 "
-"yum(1) 或 apt-get(1) 的软件包管理器。"
+"本程序将文件（通常是刚编译生成的文件）复制到您选定的目的位置。如果您想要在 "
+"GNU/Linux 系统上下载安装开箱即用的软件包，您应当使用像 yum(1) 或 apt-get(1) "
+"这样的软件包管理器。"
 
 # Shall we add some information about "DIR components" according to texinfo document?
 #. type: Plain text
@@ -772,19 +769,19 @@ msgid ""
 "existing DIRECTORY, while setting permission modes and owner/group.  In the "
 "4th form, create all components of the given DIRECTORY(ies)."
 msgstr ""
-"在给出的前三种格式中，程序会将源文件复制为目标文件或将多个源文件复制到指定的已存在目录中，同时设置文件权限与属主、属组。在第四种格式中，程序将创建给定目录及"
-"其所有组件。"
+"在给出的前三种格式中，程序会将源文件复制为目标文件或将多个源文件复制到指定的"
+"已存在目录中，同时设置文件权限与属主、属组。在第四种格式中，程序将创建给定目"
+"录及其所有组件。"
 
 # Words in texinfo document is also hard to understand. Please make sure that you understand what CONTROL/METHOD is.
 #. type: TP
 #: raw/man1/install.1:30 raw/man1/ln.1:30 raw/man1/cp.1:26 raw/man1/mv.1:20
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--backup>[=I<CONTROL>]"
 msgstr "B<--backup>[=I<控制参数>]"
 
 #. type: Plain text
 #: raw/man1/install.1:33 raw/man1/ln.1:33 raw/man1/cp.1:29 raw/man1/mv.1:23
-#, fuzzy
 msgid "make a backup of each existing destination file"
 msgstr "为每个已存在的目标文件创建一个备份"
 
@@ -797,7 +794,6 @@ msgstr "B<-b>"
 
 #. type: Plain text
 #: raw/man1/install.1:36 raw/man1/ln.1:36 raw/man1/cp.1:32 raw/man1/mv.1:26
-#, fuzzy
 msgid "like B<--backup> but does not accept an argument"
 msgstr "类似 B<--backup>，但是不接受参数"
 
@@ -816,7 +812,6 @@ msgstr "B<-C>, B<--compare>"
 
 #. type: Plain text
 #: raw/man1/install.1:43
-#, fuzzy
 msgid ""
 "compare each pair of source and destination files, and in some cases, do not "
 "modify the destination at all"
@@ -942,7 +937,6 @@ msgstr "B<-T>, B<--no-target-directory>"
 
 #. type: Plain text
 #: raw/man1/install.1:79 raw/man1/cp.1:107 raw/man1/mv.1:50
-#, fuzzy
 msgid "treat DEST as a normal file"
 msgstr "将目标文件当作普通文件对待（而不是目录）"
 
@@ -955,9 +949,7 @@ msgstr ""
 #: raw/man1/install.1:82
 #, no-wrap
 msgid "B<--preserve-context>"
-msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 yes 的翻译"
-"错误。"
+msgstr "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 yes 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/install.1:85
@@ -1028,8 +1020,8 @@ msgid ""
 "Report install translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 install 的翻译"
-"错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 install 的"
+"翻译错误。"
 
 #. type: Plain text
 #: raw/man1/install.1:129
@@ -1042,4 +1034,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/install
 #: raw/man1/install.1:130
 msgid "or available locally via: info \\(aq(coreutils) install invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) install invocation\\(aq"
-

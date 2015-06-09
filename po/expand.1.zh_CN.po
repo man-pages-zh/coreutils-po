@@ -754,5 +754,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/expandE
 #: raw/man1/expand.1:48
 msgid "or available locally via: info \\(aq(coreutils) expand invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) expand invocation\\(aq"
-
-

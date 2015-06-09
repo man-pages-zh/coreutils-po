@@ -718,5 +718,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/nohupE<
 #: raw/man1/nohup.1:46
 msgid "or available locally via: info \\(aq(coreutils) nohup invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) nohup invocation\\(aq"
-
-

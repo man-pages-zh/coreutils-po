@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -730,4 +731,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/pwdE<gt
 #: raw/man1/pwd.1:48
 msgid "or available locally via: info \\(aq(coreutils) pwd invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) pwd invocation\\(aq"
-

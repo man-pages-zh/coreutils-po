@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -707,7 +708,8 @@ msgid ""
 "when FILE is -, read standard input."
 msgstr ""
 "在标准输出上显示每个文件的起始10行。如果多于一个文件，则依次显示，并且在每个"
-"文件显示的首部给出文件名。如果没有指定文件，或者文件为 '-' ，则由标准输入读取。"
+"文件显示的首部给出文件名。如果没有指定文件，或者文件为 '-' ，则由标准输入读"
+"取。"
 
 #. type: TP
 #: raw/man1/head.1:16
@@ -776,4 +778,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/headE<g
 #: raw/man1/head.1:57
 msgid "or available locally via: info \\(aq(coreutils) head invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) head invocation\\(aq"
-

@@ -481,7 +481,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -663,7 +664,7 @@ msgstr "必选参数对长短选项同时适用。"
 #. type: SH
 #: raw/man1/stdbuf.1:49 raw/man1/timeout.1:59 raw/man1/md5sum.1:49
 #: raw/man1/md5sum.textutils.1:49
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "BUGS"
 msgstr "BUGS"
 
@@ -793,8 +794,8 @@ msgid ""
 "Report timeout translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 timeout 的翻"
-"译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 timeout 的"
+"翻译错误。"
 
 #. type: Plain text
 #: raw/man1/timeout.1:75
@@ -812,4 +813,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/timeout
 #: raw/man1/timeout.1:79
 msgid "or available locally via: info \\(aq(coreutils) timeout invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) timeout invocation\\(aq"
-

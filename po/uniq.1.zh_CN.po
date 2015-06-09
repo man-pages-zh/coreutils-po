@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -713,7 +714,8 @@ msgstr "B<uniq> [I<选项>]... [I<输入 >[I<输出>]]"
 msgid ""
 "Filter adjacent matching lines from INPUT (or standard input), writing to "
 "OUTPUT (or standard output)."
-msgstr "从输入文件（或标准输入）筛选一组相邻的匹配行，写入到输出文件（或标准输出）。"
+msgstr ""
+"从输入文件（或标准输入）筛选一组相邻的匹配行，写入到输出文件（或标准输出）。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:15
@@ -777,7 +779,9 @@ msgstr "B<--group>[=I<METHOD>]"
 msgid ""
 "show all items, separating groups with an empty line "
 "METHOD={separate(default),prepend,append,both}"
-msgstr "显示所有行，用一个空行分隔每一组 METHOD={separate(default), prepend, append, both}"
+msgstr ""
+"显示所有行，用一个空行分隔每一组 METHOD={separate(default), prepend, append, "
+"both}"
 
 #. type: Plain text
 #: raw/man1/uniq.1:38
@@ -816,7 +820,9 @@ msgstr "对每行第 N 个字符以后的内容不作比较"
 msgid ""
 "A field is a run of blanks (usually spaces and/or TABs), then non-blank "
 "characters.  Fields are skipped before chars."
-msgstr "域指一个由空字符（通常是空格和/或制表符）和紧随的非空字符组成的序列。同时使用跳过域和跳过字符选项时，先跳过域再跳过字符。"
+msgstr ""
+"域指一个由空字符（通常是空格和/或制表符）和紧随的非空字符组成的序列。同时使用"
+"跳过域和跳过字符选项时，先跳过域再跳过字符。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:63
@@ -825,15 +831,16 @@ msgid ""
 "may want to sort the input first, or use 'sort B<-u>' without 'uniq'.  Also, "
 "comparisons honor the rules specified by 'LC_COLLATE'."
 msgstr ""
-"注意：“uniq”只检测那些相邻的重复行。你或许需要先对输入排序，或者使用“sort B<-u>”而非“uniq”。"
-"另外，比较的细则会依据“LC_COLLATE”所指定的规则。"
+"注意：“uniq”只检测那些相邻的重复行。你或许需要先对输入排序，或者使用“sort B<-"
+"u>”而非“uniq”。另外，比较的细则会依据“LC_COLLATE”所指定的规则。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:69
 msgid ""
 "Report uniq translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 uniq 的翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 uniq 的翻译"
+"错误。"
 
 #. type: Plain text
 #: raw/man1/uniq.1:77
@@ -850,5 +857,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/uniqE<g
 #: raw/man1/uniq.1:81
 msgid "or available locally via: info \\(aq(coreutils) uniq invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) uniq invocation\\(aq"
-
-

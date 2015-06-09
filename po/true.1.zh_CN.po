@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -682,7 +683,8 @@ msgid ""
 "the version described here.  Please refer to your shell's documentation for "
 "details about the options it supports."
 msgstr ""
-"注意：您的 shell 可能内置了自己的 true 程序版本，它通常会覆盖这里所提及的相应版本。请查阅您的 shell 文档获知它所支持的选项。"
+"注意：您的 shell 可能内置了自己的 true 程序版本，它通常会覆盖这里所提及的相应"
+"版本。请查阅您的 shell 文档获知它所支持的选项。"
 
 #. type: Plain text
 #: raw/man1/true.1:31
@@ -702,4 +704,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/trueE<g
 #: raw/man1/true.1:40
 msgid "or available locally via: info \\(aq(coreutils) true invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) true invocation\\(aq"
-

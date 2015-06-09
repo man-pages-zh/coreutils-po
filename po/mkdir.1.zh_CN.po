@@ -783,4 +783,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/mkdirE<
 #: raw/man1/mkdir.1:55
 msgid "or available locally via: info \\(aq(coreutils) mkdir invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) mkdir invocation\\(aq"
-

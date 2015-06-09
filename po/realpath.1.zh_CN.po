@@ -482,7 +482,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -662,7 +663,6 @@ msgstr "B<-m>, B<--canonicalize-missing>"
 
 #. type: Plain text
 #: raw/man1/readlink.1:35 raw/man1/chmod.1:125 raw/man1/realpath.1:28
-#, fuzzy
 #: raw/man1/chown.1:41 raw/man1/chgrp.1:22
 msgid "suppress most error messages"
 msgstr "隐藏大多数错误信息"
@@ -798,7 +798,8 @@ msgstr "readlink(1), readlink(2), realpath(3)"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/"
 "realpathE<gt>"
-msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/realpathE<gt>"
+msgstr ""
+"完整文档请见： E<lt>http://www.gnu.org/software/coreutils/realpathE<gt>"
 
 #. type: Plain text
 #: raw/man1/realpath.1:64
@@ -806,4 +807,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/realpat
 msgid ""
 "or available locally via: info \\(aq(coreutils) realpath invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) realpath invocation\\(aq"
-
