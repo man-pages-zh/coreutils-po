@@ -37,6 +37,12 @@
           <tig>
             <term>显示</term>
           </tig>
+        <tig>
+            <term>输出</term>
+          </tig>
+          <tig>
+            <term>打印</term>
+          </tig>
         </langSet>
       </termEntry>
       <termEntry id="darcy_shen-3">
@@ -180,6 +186,18 @@
         <langSet xml:lang="zh-CN">
           <tig>
             <term>域</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="boyuan_yang-0">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>author</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>作者</term>
           </tig>
         </langSet>
       </termEntry>
