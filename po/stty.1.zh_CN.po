@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-06-17 16:26+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -680,7 +682,7 @@ msgstr "B<-a>, B<--all>"
 #: raw/man1/stty.1:2
 #, no-wrap
 msgid "STTY"
-msgstr ""
+msgstr "STTY"
 
 #. type: Plain text
 #: raw/man1/stty.1:5
@@ -716,7 +718,7 @@ msgstr ""
 #: raw/man1/stty.1:23
 #, no-wrap
 msgid "B<-g>, B<--save>"
-msgstr ""
+msgstr "B<-g>, B<--save>"
 
 #. type: Plain text
 #: raw/man1/stty.1:26
@@ -1557,7 +1559,7 @@ msgstr ""
 #: raw/man1/stty.1:257
 #, no-wrap
 msgid "* B<-crtkill>"
-msgstr ""
+msgstr "* B<-crtkill>"
 
 #. type: Plain text
 #: raw/man1/stty.1:260
@@ -1761,7 +1763,7 @@ msgstr ""
 #: raw/man1/stty.1:312
 #, no-wrap
 msgid "B<-cbreak>"
-msgstr ""
+msgstr "B<-cbreak>"
 
 #. type: Plain text
 #: raw/man1/stty.1:315
@@ -1785,7 +1787,7 @@ msgstr ""
 #: raw/man1/stty.1:319
 #, no-wrap
 msgid "B<-cooked>"
-msgstr ""
+msgstr "B<-cooked>"
 
 #. type: Plain text
 #: raw/man1/stty.1:322
@@ -1851,7 +1853,7 @@ msgstr ""
 #: raw/man1/stty.1:338
 #, no-wrap
 msgid "B<-evenp>"
-msgstr ""
+msgstr "B<-evenp>"
 
 #. type: Plain text
 #: raw/man1/stty.1:341 raw/man1/stty.1:362
@@ -1884,7 +1886,7 @@ msgstr ""
 #: raw/man1/stty.1:347
 #, no-wrap
 msgid "B<-litout>"
-msgstr ""
+msgstr "B<-litout>"
 
 #. type: Plain text
 #: raw/man1/stty.1:350
@@ -1906,7 +1908,7 @@ msgstr ""
 #: raw/man1/stty.1:353
 #, no-wrap
 msgid "B<-nl>"
-msgstr ""
+msgstr "B<-nl>"
 
 #. type: Plain text
 #: raw/man1/stty.1:356
@@ -1981,7 +1983,7 @@ msgstr ""
 #: raw/man1/stty.1:376
 #, no-wrap
 msgid "B<-raw>"
-msgstr ""
+msgstr "B<-raw>"
 
 #. type: Plain text
 #: raw/man1/stty.1:379
@@ -2018,14 +2020,17 @@ msgstr ""
 msgid ""
 "Report stty translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 stty 的翻译错"
+"误。"
 
 #. type: Plain text
 #: raw/man1/stty.1:406
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/sttyE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/sttyE<gt>"
 
 #. type: Plain text
 #: raw/man1/stty.1:407
 msgid "or available locally via: info \\(aq(coreutils) stty invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) stty invocation\\(aq"
+
