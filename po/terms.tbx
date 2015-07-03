@@ -201,6 +201,57 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="darcy_shen-14">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>numbered backups</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>带编号的备份</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-16">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ownership</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>所有权</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-17">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>override</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>覆盖</term>
+          </tig>
+          <tig>
+            <term>替换</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="darcy_shen-18">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>argument</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>参数</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
