@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-07-03 18:54+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -643,30 +645,34 @@ msgstr "参见"
 #: raw/man1/groups.1:2
 #, no-wrap
 msgid "GROUPS"
-msgstr ""
+msgstr "GROUPS"
 
 #. type: Plain text
 #: raw/man1/groups.1:5
+#, fuzzy
 msgid "groups - print the groups a user is in"
-msgstr ""
+msgstr "groups - 显示用户所在的组"
 
 #. type: Plain text
 #: raw/man1/groups.1:8
+#, fuzzy
 msgid "B<groups> [I<OPTION>]... [I<USERNAME>]..."
-msgstr ""
+msgstr "B<groups> [I<选项列表>]... [I<用户名列表>]..."
 
 #. type: Plain text
 #: raw/man1/groups.1:13
+#, fuzzy
 msgid ""
 "Print group memberships for each USERNAME or, if no USERNAME is specified, "
 "for the current process (which may differ if the groups database has "
 "changed)."
-msgstr ""
+msgstr "显示每个输入的用户名所在的全部组，如果没有指定用户名则默认为当前进程用户(当用户组数据库发生变更时可能导致差异)。"
 
 #. type: Plain text
 #: raw/man1/groups.1:21
+#, fuzzy
 msgid "Written by David MacKenzie and James Youngman."
-msgstr ""
+msgstr "由 David MacKenzie 和 James Youngman 编写。"
 
 #. type: Plain text
 #: raw/man1/groups.1:25
@@ -674,14 +680,16 @@ msgid ""
 "Report groups translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 groups 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/groups.1:33
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/groupsE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/groupsE<gt>"
 
 #. type: Plain text
 #: raw/man1/groups.1:34
 msgid "or available locally via: info \\(aq(coreutils) groups invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) groups invocation\\(aq"
+
