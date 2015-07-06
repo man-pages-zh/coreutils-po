@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-07-03 18:43+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2015-07-06 21:37+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -762,7 +762,6 @@ msgstr ""
 # Shall we add some information about "DIR components" according to texinfo document?
 #. type: Plain text
 #: raw/man1/install.1:28
-#, fuzzy
 msgid ""
 "In the first three forms, copy SOURCE to DEST or multiple SOURCE(s) to the "
 "existing DIRECTORY, while setting permission modes and owner/group.  In the "
@@ -825,7 +824,6 @@ msgstr "B<-d>, B<--directory>"
 
 #. type: Plain text
 #: raw/man1/install.1:47
-#, fuzzy
 msgid ""
 "treat all arguments as directory names; create all components of the "
 "specified directories"
@@ -846,31 +844,28 @@ msgstr "创建每个给定的目录以及任何缺失的父目录"
 
 #. type: TP
 #: raw/man1/install.1:51
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-g>, B<--group>=I<GROUP>"
 msgstr "B<-g>, B<--group>=I<组名>"
 
 #. type: Plain text
 #: raw/man1/install.1:54
-#, fuzzy
 msgid "set group ownership, instead of process' current group"
 msgstr "设置组所有权，而不是使用进程的当前组所有权"
 
 #. type: Plain text
 #: raw/man1/install.1:57
-#, fuzzy
 msgid "set permission mode (as in chmod), instead of rwxr-xr-x"
 msgstr "设置权限模式（类似 chmod），而不是 rwxr-xr-x"
 
 #. type: TP
 #: raw/man1/install.1:57
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-o>, B<--owner>=I<OWNER>"
 msgstr "B<-o>, B<--owner>=I<所有者>"
 
 #. type: Plain text
 #: raw/man1/install.1:60
-#, fuzzy
 msgid "set ownership (super-user only)"
 msgstr "设置所有权（仅适用于超级用户）"
 
@@ -882,7 +877,6 @@ msgstr "B<-p>, B<--preserve-timestamps>"
 
 #. type: Plain text
 #: raw/man1/install.1:64
-#, fuzzy
 msgid ""
 "apply access/modification times of SOURCE files to corresponding destination "
 "files"
@@ -896,7 +890,6 @@ msgstr "B<-s>, B<--strip>"
 
 #. type: Plain text
 #: raw/man1/install.1:67
-#, fuzzy
 msgid "strip symbol tables"
 msgstr "剥离符号表"
 
@@ -908,31 +901,28 @@ msgstr "B<--strip-program>=I<程序>"
 
 #. type: Plain text
 #: raw/man1/install.1:70
-#, fuzzy
 msgid "program used to strip binaries"
-msgstr "指定用于剥离二进制文件的程序"
+msgstr "指定用于剥离（strip）二进制文件的程序"
 
 #. type: TP
 #: raw/man1/install.1:70 raw/man1/ln.1:63 raw/man1/cp.1:98 raw/man1/mv.1:41
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-S>, B<--suffix>=I<SUFFIX>"
 msgstr "B<-S>, B<--suffix>=I<后缀>"
 
 #. type: Plain text
 #: raw/man1/install.1:73 raw/man1/ln.1:66 raw/man1/cp.1:101 raw/man1/mv.1:44
-#, fuzzy
 msgid "override the usual backup suffix"
 msgstr "替换常用的备份文件后缀"
 
 #. type: TP
 #: raw/man1/install.1:73 raw/man1/ln.1:66 raw/man1/cp.1:101 raw/man1/mv.1:44
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-t>, B<--target-directory>=I<DIRECTORY>"
 msgstr "B<-t>, B<--target-directory>=I<目录>"
 
 #. type: Plain text
 #: raw/man1/install.1:76 raw/man1/cp.1:104
-#, fuzzy
 msgid "copy all SOURCE arguments into DIRECTORY"
 msgstr "复制源目录列表中的所有文件到指定目录"
 
@@ -949,7 +939,6 @@ msgstr "将目标文件当作普通文件对待（而不是目录）"
 
 #. type: Plain text
 #: raw/man1/install.1:82
-#, fuzzy
 msgid "print the name of each directory as it is created"
 msgstr "每次创建目录都输出目录名"
 
@@ -971,7 +960,6 @@ msgstr ""
 
 #. type: Plain text
 #: raw/man1/install.1:103 raw/man1/ln.1:86 raw/man1/cp.1:146 raw/man1/mv.1:72
-#, fuzzy
 msgid ""
 "The backup suffix is '~', unless set with B<--suffix> or "
 "SIMPLE_BACKUP_SUFFIX.  The version control method may be selected via the "
@@ -989,7 +977,6 @@ msgstr "none, off"
 
 #. type: Plain text
 #: raw/man1/install.1:106 raw/man1/ln.1:89 raw/man1/cp.1:149 raw/man1/mv.1:75
-#, fuzzy
 msgid "never make backups (even if B<--backup> is given)"
 msgstr "从不做备份（即使给定了 B<--backup>）"
 
@@ -1001,7 +988,6 @@ msgstr "numbered, t"
 
 #. type: Plain text
 #: raw/man1/install.1:109 raw/man1/ln.1:92 raw/man1/cp.1:152 raw/man1/mv.1:78
-#, fuzzy
 msgid "make numbered backups"
 msgstr "做带编号的备份"
 
@@ -1013,7 +999,6 @@ msgstr "existing, nil"
 
 #. type: Plain text
 #: raw/man1/install.1:112 raw/man1/ln.1:95 raw/man1/cp.1:155 raw/man1/mv.1:81
-#, fuzzy
 msgid "numbered if numbered backups exist, simple otherwise"
 msgstr "如果备份带编号则继续以编号方式备份，否则采用简单备份"
 
@@ -1025,7 +1010,6 @@ msgstr "simple, never"
 
 #. type: Plain text
 #: raw/man1/install.1:115 raw/man1/ln.1:98 raw/man1/cp.1:158 raw/man1/mv.1:84
-#, fuzzy
 msgid "always make simple backups"
 msgstr "总做简单备份"
 
@@ -1049,4 +1033,5 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/install
 #: raw/man1/install.1:130
 msgid "or available locally via: info \\(aq(coreutils) install invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) install invocation\\(aq"
+
 
