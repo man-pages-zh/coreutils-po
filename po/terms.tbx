@@ -252,6 +252,60 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="boyuan_yang-1">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>exit status</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>退出状态值</term>
+          </tig>
+          <tig>
+            <term>退出状态</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="boyuan_yang-2">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>specify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>指定</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="boyuan_yang-3">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>block</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>阻塞</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="boyuan_yang-4">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>DURATION</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>持续时间</term>
+          </tig>
+          <tig>
+            <term>停留时间</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
