@@ -26,7 +26,7 @@ master分支放的是`GNU coreutils 8.23`手册页的翻译。
 重定向 | tee |
 文件名操作 | dirname basename `pathchk` `mktemp` `realpath` |
 工作环境 | pwd `stty` printenv tty |
-用户信息 | `id` logname whoami `groups` users who |
+用户信息 | `id` logname whoami groups users who |
 系统环境 | `date` arch `nproc` uname hostid|
 SELinux环境 | `chcon` `runcon` |
 修改环境 | `chroot` env nice nohup `stdbuf` `timeout` |
@@ -41,6 +41,7 @@ SELinux环境 | `chcon` `runcon` |
 使用`./preview command`就可以预览。
 
 **注意**：
+
 1. 如果coreutils.po和manpages-zh已经有相应的翻译，请沿用已有的翻译。当然，可以在原有的基础上改进。
 2. 对于不了解的内容，请**不要**翻译。对于coreutils，手册页的描述其实非常简略，模棱两可的地方一定弄明白（看info或者源代码）再翻译。否则请**不要**翻译。
 
