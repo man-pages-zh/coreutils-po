@@ -252,6 +252,21 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="darcy_shen-19">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>reside</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="zh-CN">
+          <tig>
+            <term>存在</term>
+          </tig>
+          <tig>
+            <term>居住</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

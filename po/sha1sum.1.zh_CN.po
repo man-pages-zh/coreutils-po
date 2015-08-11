@@ -481,7 +481,8 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -663,8 +664,8 @@ msgid ""
 "Print or check SHA1 (160-bit) checksums.  With no FILE, or when FILE is -, "
 "read standard input."
 msgstr ""
-"输出或检查 SHA1 (160位) 校验和。如果没有给出文件参数，或者文件参数是“-”，则"
-"从标准输入读取。"
+"输出或检查 SHA1 (160位) 校验和。如果没有给出文件参数，或者文件参数是“-”，则从"
+"标准输入读取。"
 
 #. type: TP
 #: raw/man1/sha1sum.1:13 raw/man1/sha224sum.1:13 raw/man1/sha256sum.1:13
@@ -800,8 +801,8 @@ msgid ""
 "line with checksum, a character indicating input mode ('*' for binary, space "
 "for text), and name for each FILE."
 msgstr ""
-"校验和按照 RFC 3874 描述的方式进行计算。在校验过程中，其输入内容应当为该程"
-"序先前的输出内容。默认模式是输出一行文字，包含校验和、一个指示输入模式的字符"
+"校验和按照 RFC 3874 描述的方式进行计算。在校验过程中，其输入内容应当为该程序"
+"先前的输出内容。默认模式是输出一行文字，包含校验和、一个指示输入模式的字符"
 "（'*' 表示二进制输入，空格表示字符输入）以及每个文件的名称。"
 
 #. type: Plain text
@@ -817,8 +818,8 @@ msgid ""
 "Report sha1sum translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 sha1sum "
-"的翻译错误。"
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 sha1sum 的"
+"翻译错误。"
 
 #. type: Plain text
 #: raw/man1/sha1sum.1:63
@@ -831,4 +832,3 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/sha1sum
 #: raw/man1/sha1sum.1:64
 msgid "or available locally via: info \\(aq(coreutils) sha1sum invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) rm invocation\\(aq"
-

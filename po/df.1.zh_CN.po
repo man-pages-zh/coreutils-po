@@ -1,19 +1,22 @@
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2015-04-26 11:29+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2015-08-09 21:22+0800\n"
+"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"Language-Team: Chinese Simplified <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #. type: TH
 #: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
@@ -478,8 +481,7 @@ msgstr "报告错误"
 #: raw/man1/pr.1:120
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 
 #. type: SH
 #: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
@@ -666,28 +668,31 @@ msgstr "（被忽略的选项）"
 
 #. type: TP
 #: raw/man1/runcon.1:34 raw/man1/df.1:74 raw/man1/chcon.1:34
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-t>, B<--type>=I<TYPE>"
-msgstr ""
+msgstr "B<-t>, B<--type>=I<类型>"
 
 #. type: TH
 #: raw/man1/df.1:2
 #, no-wrap
 msgid "DF"
-msgstr ""
+msgstr "DF"
 
 #. type: Plain text
 #: raw/man1/df.1:5
+#, fuzzy
 msgid "df - report file system disk space usage"
-msgstr ""
+msgstr "df - 报告文件系统磁盘空间使用情况"
 
 #. type: Plain text
 #: raw/man1/df.1:8
+#, fuzzy
 msgid "B<df> [I<OPTION>]... [I<FILE>]..."
-msgstr ""
+msgstr "B<df> [I<选项列表>]... [I<文件列表>]..."
 
 #. type: Plain text
 #: raw/man1/df.1:19
+#, fuzzy
 msgid ""
 "This manual page documents the GNU version of B<df>.  B<df> displays the "
 "amount of disk space available on the file system containing each file name "
@@ -696,9 +701,12 @@ msgid ""
 "unless the environment variable POSIXLY_CORRECT is set, in which case 512-"
 "byte blocks are used."
 msgstr ""
+"本手册页是 GNU 版 B<df> 的文档。B<df> 命令列出指定的每一个文件名所在的文件系统上可用磁盘空间的数量。如果没有指定文件名，则显示当前所有已挂"
+"载的文件系统。磁盘空间默认以 1K 为一块显示，如果环境变量 POSIXLY_CORRECT 已设置，则采用 512字节作为一块显示。"
 
 #. type: Plain text
 #: raw/man1/df.1:29
+#, fuzzy
 msgid ""
 "If an argument is the absolute file name of a disk device node containing a "
 "mounted file system, B<df> shows the space available on that file system "
@@ -707,6 +715,8 @@ msgid ""
 "most kinds of systems doing so requires very nonportable intimate knowledge "
 "of file system structures."
 msgstr ""
+"如果参数是一个包含已挂载文件系统的磁盘设备节点的绝对路径文件名，B<df> 显示在这个文件系统上的可用空间，而非包含这个设备节点的文件系统。这个版本的 "
+"B<df> 不能显示未挂载文件系统的可用空间，因为在绝大多数系统中，这项功能的实现需要利用特定文件系统结构上不可移植且紧耦合的知识。"
 
 #. type: SH
 #: raw/man1/df.1:29 raw/man1/rm.1:29 raw/man1/chmod.1:115 raw/man1/chown.1:31
@@ -716,10 +726,11 @@ msgstr "选项"
 
 #. type: Plain text
 #: raw/man1/df.1:33
+#, fuzzy
 msgid ""
 "Show information about the file system on which each FILE resides, or all "
 "file systems by default."
-msgstr ""
+msgstr "显示文件列表中每一个文件所在的文件系统的信息，没有指定文件则默认为整个文件系统"
 
 #. type: TP
 #: raw/man1/df.1:35 raw/man1/stty.1:20 raw/man1/du.1:20 raw/man1/uname.1:12
@@ -731,161 +742,176 @@ msgstr "B<-a>, B<--all>"
 
 #. type: Plain text
 #: raw/man1/df.1:38
+#, fuzzy
 msgid "include dummy file systems"
-msgstr ""
+msgstr "包含虚拟文件系统"
 
 #. type: TP
 #: raw/man1/df.1:38 raw/man1/du.1:29
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-B>, B<--block-size>=I<SIZE>"
-msgstr ""
+msgstr "B<-B>, B<--block-size>=I<大小>"
 
 #. type: Plain text
 #: raw/man1/df.1:43 raw/man1/du.1:34
+#, fuzzy
 msgid ""
 "scale sizes by SIZE before printing them; e.g., \\&'-BM' prints sizes in "
 "units of 1,048,576 bytes; see SIZE format below"
-msgstr ""
+msgstr "按照指定I<大小>按比例缩小后输出；例如，'-BM' 以 1,048,576字节为单位输出大小；参考下文对I<大小>的格式说明"
 
 #. type: TP
 #: raw/man1/df.1:43
 #, no-wrap
 msgid "B<--total>"
-msgstr ""
+msgstr "B<--total>"
 
 #. type: Plain text
 #: raw/man1/df.1:46 raw/man1/du.1:40
+#, fuzzy
 msgid "produce a grand total"
-msgstr ""
+msgstr "输出全局总计"
 
 #. type: TP
 #: raw/man1/df.1:46 raw/man1/du.1:58 raw/man1/ls.1:82 raw/man1/dir.1:82
 #: raw/man1/vdir.1:82
 #, no-wrap
 msgid "B<-h>, B<--human-readable>"
-msgstr ""
+msgstr "B<-h>, B<--human-readable>"
 
 #. type: Plain text
 #: raw/man1/df.1:49
+#, fuzzy
 msgid "print sizes in powers of 1024 (e.g., 1023M)"
-msgstr ""
+msgstr "以 1024 为幂显示大小（例如，1023M）"
 
 #. type: TP
 #: raw/man1/df.1:49
 #, no-wrap
 msgid "B<-H>, B<--si>"
-msgstr ""
+msgstr "B<-H>, B<--si>"
 
 #. type: Plain text
 #: raw/man1/df.1:52
+#, fuzzy
 msgid "print sizes in powers of 1000 (e.g., 1.1G)"
-msgstr ""
+msgstr "以 1000 为幂输出大小（例，1.1G）"
 
 #. type: TP
 #: raw/man1/df.1:52
 #, no-wrap
 msgid "B<-i>, B<--inodes>"
-msgstr ""
+msgstr "B<-i>, B<--inodes>"
 
 #. type: Plain text
 #: raw/man1/df.1:55
+#, fuzzy
 msgid "list inode information instead of block usage"
-msgstr ""
+msgstr "显示 inode 信息而非块使用量"
 
 #. type: TP
 #: raw/man1/df.1:55 raw/man1/du.1:64
 #, no-wrap
 msgid "B<-k>"
-msgstr ""
+msgstr "B<-k>"
 
 #. type: Plain text
 #: raw/man1/df.1:58 raw/man1/du.1:67
+#, fuzzy
 msgid "like B<--block-size>=I<1K>"
-msgstr ""
+msgstr "类似于 B<--block-size>=I<1K>"
 
 #. type: TP
 #: raw/man1/df.1:58
 #, no-wrap
 msgid "B<-l>, B<--local>"
-msgstr ""
+msgstr "B<-l>, B<--local>"
 
 #. type: Plain text
 #: raw/man1/df.1:61
+#, fuzzy
 msgid "limit listing to local file systems"
-msgstr ""
+msgstr "仅列出本地的文件系统"
 
 #. type: TP
 #: raw/man1/df.1:61
 #, no-wrap
 msgid "B<--no-sync>"
-msgstr ""
+msgstr "B<--no-sync>"
 
 #. type: Plain text
 #: raw/man1/df.1:64
+#, fuzzy
 msgid "do not invoke sync before getting usage info (default)"
-msgstr ""
+msgstr "取得使用量数据前不进行同步动作（默认）"
 
 #. type: TP
 #: raw/man1/df.1:64
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<--output>[=I<FIELD_LIST>]"
-msgstr ""
+msgstr "B<--output>[=I<域列表>]"
 
 #. type: Plain text
 #: raw/man1/df.1:68
+#, fuzzy
 msgid ""
 "use the output format defined by FIELD_LIST, or print all fields if "
 "FIELD_LIST is omitted."
-msgstr ""
+msgstr "使用域列表定义的输出格式，如果不指定域列表，则输出所有域"
 
 #. type: TP
 #: raw/man1/df.1:68
 #, no-wrap
 msgid "B<-P>, B<--portability>"
-msgstr ""
+msgstr "B<-P>, B<--portability>"
 
 #. type: Plain text
 #: raw/man1/df.1:71
+#, fuzzy
 msgid "use the POSIX output format"
-msgstr ""
+msgstr "使用 POSIX 格式输出"
 
 #. type: TP
 #: raw/man1/df.1:71
 #, no-wrap
 msgid "B<--sync>"
-msgstr ""
+msgstr "B<--sync>"
 
 #. type: Plain text
 #: raw/man1/df.1:74
+#, fuzzy
 msgid "invoke sync before getting usage info"
-msgstr ""
+msgstr "获取使用量数据前进行同步操作"
 
 #. type: Plain text
 #: raw/man1/df.1:77
+#, fuzzy
 msgid "limit listing to file systems of type TYPE"
-msgstr ""
+msgstr "仅列出指定类型的文件系统"
 
 #. type: TP
 #: raw/man1/df.1:77
 #, no-wrap
 msgid "B<-T>, B<--print-type>"
-msgstr ""
+msgstr "B<-T>, B<--print-type>"
 
 #. type: Plain text
 #: raw/man1/df.1:80
+#, fuzzy
 msgid "print file system type"
-msgstr ""
+msgstr "显示文件系统类型"
 
 #. type: TP
 #: raw/man1/df.1:80
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "B<-x>, B<--exclude-type>=I<TYPE>"
-msgstr ""
+msgstr "B<-x>, B<--exclude-type>=I<类型>"
 
 #. type: Plain text
 #: raw/man1/df.1:83
+#, fuzzy
 msgid "limit listing to file systems not of type TYPE"
-msgstr ""
+msgstr "仅列出非指定类型的文件系统"
 
 #. type: TP
 #: raw/man1/df.1:83 raw/man1/ls.1:198 raw/man1/dir.1:198 raw/man1/vdir.1:198
@@ -895,15 +921,19 @@ msgstr "B<-v>"
 
 #. type: Plain text
 #: raw/man1/df.1:96
+#, fuzzy
 msgid ""
 "Display values are in units of the first available SIZE from B<--block-"
 "size>, and the DF_BLOCK_SIZE, BLOCK_SIZE and BLOCKSIZE environment "
 "variables.  Otherwise, units default to 1024 bytes (or 512 if "
 "POSIXLY_CORRECT is set)."
 msgstr ""
+"显示值的单位大小取决于 B<--block-size> 及环境变量 DF_BLOCK_SIZE，BLOCK_SIZE 和 BLOCKSIZE "
+"这四个中第一个有效值。如果这四个值都没有设置，则单位大小默认为 1024 字节（如果设置了POSIXLY_CORRECT，则为 512 字节）。"
 
 #. type: Plain text
 #: raw/man1/df.1:99 raw/man1/du.1:127 raw/man1/truncate.1:41
+#, fuzzy
 #: raw/man1/split.1:60 raw/man1/ls.1:225 raw/man1/dir.1:225
 #: raw/man1/vdir.1:225
 msgid ""
@@ -911,33 +941,43 @@ msgid ""
 "10*1024).  Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers "
 "of 1000)."
 msgstr ""
+"I<大小>这个参数由一个整数和可选的单位组成（例如：10K 是 10*1024）。单位可以是 K, M, G, T, P, E, Z, Y "
+"（1024的幂）或者 KM, MB,... （1000的幂）。"
 
 #. type: Plain text
 #: raw/man1/df.1:103
+#, fuzzy
 msgid ""
 "FIELD_LIST is a comma-separated list of columns to be included.  Valid field "
 "names are: 'source', 'fstype', 'itotal', 'iused', 'iavail', 'ipcent', "
 "\\&'size', 'used', 'avail', 'pcent', 'file' and 'target' (see info page)."
 msgstr ""
+"域列表是逗号分隔的列表，用于指定所包含的域。有效的域名有：'source', 'fstype', 'itotal', 'iused', 'iavail', "
+"'ipcent', \\&'size', 'used', 'avail', 'pcent', 'file' 和 'target'（详见对应的 info "
+"页面）。"
 
 #. type: Plain text
 #: raw/man1/df.1:105
+#, fuzzy
 msgid "Written by Torbjorn Granlund, David MacKenzie, and Paul Eggert."
-msgstr ""
+msgstr "由 Torbjorn Granlund, David MacKenzie 和 Paul Eggert 编写。"
 
 #. type: Plain text
 #: raw/man1/df.1:109
 msgid ""
 "Report df translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 df 的翻译错误。"
 
 #. type: Plain text
 #: raw/man1/df.1:117
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/dfE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/dfE<gt>"
 
 #. type: Plain text
 #: raw/man1/df.1:118
 msgid "or available locally via: info \\(aq(coreutils) df invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) df invocation\\(aq"
+
+
