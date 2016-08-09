@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2015-04-26 11:29+0800\n"
+"POT-Creation-Date: 2016-08-09 10:40+0800\n"
 "PO-Revision-Date: 2015-06-09 00:28+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
@@ -17,769 +17,68 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 1.5\n"
-
+#
 #. type: TH
-#: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
-#: raw/man1/false.1:2 raw/man1/[.1:2 raw/man1/stat.1:2 raw/man1/hostid.1:2
-#: raw/man1/sha1sum.1:2 raw/man1/sha224sum.1:2 raw/man1/stdbuf.1:2
-#: raw/man1/timeout.1:2 raw/man1/nl.1:2 raw/man1/printf.1:2
-#: raw/man1/runcon.1:2 raw/man1/mkdir.1:2 raw/man1/sort.1:2
-#: raw/man1/whoami.1:2 raw/man1/expand.1:2 raw/man1/mkfifo.1:2
-#: raw/man1/install.1:2 raw/man1/df.1:2 raw/man1/shuf.1:2 raw/man1/join.1:2
-#: raw/man1/readlink.1:2 raw/man1/stty.1:2 raw/man1/rm.1:2 raw/man1/du.1:2
-#: raw/man1/dircolors.1:2 raw/man1/chmod.1:2 raw/man1/mktemp.1:2
-#: raw/man1/factor.1:2 raw/man1/comm.1:2 raw/man1/pinky.1:2 raw/man1/echo.1:2
-#: raw/man1/nice.1:2 raw/man1/shred.1:2 raw/man1/tty.1:2 raw/man1/cut.1:2
-#: raw/man1/id.1:2 raw/man1/test.1:2 raw/man1/ptx.1:2 raw/man1/od.1:2
-#: raw/man1/unlink.1:2 raw/man1/rmdir.1:2 raw/man1/tail.1:2
-#: raw/man1/numfmt.1:2 raw/man1/env.1:2 raw/man1/sleep.1:2 raw/man1/uname.1:2
-#: raw/man1/logname.1:2 raw/man1/tsort.1:2 raw/man1/mknod.1:2 raw/man1/who.1:2
-#: raw/man1/realpath.1:2 raw/man1/cat.1:2 raw/man1/dirname.1:2
-#: raw/man1/printenv.1:2 raw/man1/chown.1:2 raw/man1/users.1:2
-#: raw/man1/csplit.1:2 raw/man1/sha256sum.1:2 raw/man1/chcon.1:2
-#: raw/man1/fold.1:2 raw/man1/uniq.1:2 raw/man1/pathchk.1:2
-#: raw/man1/truncate.1:2 raw/man1/md5sum.1:2 raw/man1/dd.1:2 raw/man1/seq.1:2
-#: raw/man1/wc.1:2 raw/man1/expr.1:2 raw/man1/tr.1:2 raw/man1/head.1:2
-#: raw/man1/split.1:2 raw/man1/tee.1:2 raw/man1/arch.1:2 raw/man1/ls.1:2
-#: raw/man1/sum.1:2 raw/man1/paste.1:2 raw/man1/sync.1:2 raw/man1/fmt.1:2
-#: raw/man1/md5sum.textutils.1:2 raw/man1/sha512sum.1:2 raw/man1/ln.1:2
-#: raw/man1/sha384sum.1:2 raw/man1/dir.1:2 raw/man1/true.1:2 raw/man1/vdir.1:2
-#: raw/man1/pwd.1:2 raw/man1/groups.1:2 raw/man1/yes.1:2 raw/man1/tac.1:2
-#: raw/man1/cp.1:2 raw/man1/date.1:2 raw/man1/link.1:2 raw/man1/base64.1:2
-#: raw/man1/chgrp.1:2 raw/man1/nproc.1:2 raw/man1/unexpand.1:2 raw/man1/mv.1:2
-#: raw/man1/nohup.1:2 raw/man1/basename.1:2 raw/man1/pr.1:2
-#, no-wrap
-msgid "March 2015"
-msgstr "2015年三月"
-
-#. type: TH
-#: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
-#: raw/man1/false.1:2 raw/man1/[.1:2 raw/man1/stat.1:2 raw/man1/hostid.1:2
-#: raw/man1/sha1sum.1:2 raw/man1/sha224sum.1:2 raw/man1/stdbuf.1:2
-#: raw/man1/timeout.1:2 raw/man1/nl.1:2 raw/man1/printf.1:2
-#: raw/man1/runcon.1:2 raw/man1/mkdir.1:2 raw/man1/sort.1:2
-#: raw/man1/whoami.1:2 raw/man1/expand.1:2 raw/man1/mkfifo.1:2
-#: raw/man1/install.1:2 raw/man1/df.1:2 raw/man1/shuf.1:2 raw/man1/join.1:2
-#: raw/man1/readlink.1:2 raw/man1/stty.1:2 raw/man1/rm.1:2 raw/man1/du.1:2
-#: raw/man1/dircolors.1:2 raw/man1/chmod.1:2 raw/man1/mktemp.1:2
-#: raw/man1/factor.1:2 raw/man1/comm.1:2 raw/man1/pinky.1:2 raw/man1/echo.1:2
-#: raw/man1/nice.1:2 raw/man1/shred.1:2 raw/man1/tty.1:2 raw/man1/cut.1:2
-#: raw/man1/id.1:2 raw/man1/test.1:2 raw/man1/ptx.1:2 raw/man1/od.1:2
-#: raw/man1/unlink.1:2 raw/man1/rmdir.1:2 raw/man1/tail.1:2
-#: raw/man1/numfmt.1:2 raw/man1/env.1:2 raw/man1/sleep.1:2 raw/man1/uname.1:2
-#: raw/man1/logname.1:2 raw/man1/tsort.1:2 raw/man1/mknod.1:2 raw/man1/who.1:2
-#: raw/man1/realpath.1:2 raw/man1/cat.1:2 raw/man1/dirname.1:2
-#: raw/man1/printenv.1:2 raw/man1/chown.1:2 raw/man1/users.1:2
-#: raw/man1/csplit.1:2 raw/man1/sha256sum.1:2 raw/man1/chcon.1:2
-#: raw/man1/fold.1:2 raw/man1/uniq.1:2 raw/man1/pathchk.1:2
-#: raw/man1/truncate.1:2 raw/man1/md5sum.1:2 raw/man1/dd.1:2 raw/man1/seq.1:2
-#: raw/man1/wc.1:2 raw/man1/expr.1:2 raw/man1/tr.1:2 raw/man1/head.1:2
-#: raw/man1/split.1:2 raw/man1/tee.1:2 raw/man1/arch.1:2 raw/man1/ls.1:2
-#: raw/man1/sum.1:2 raw/man1/paste.1:2 raw/man1/sync.1:2 raw/man1/fmt.1:2
-#: raw/man1/md5sum.textutils.1:2 raw/man1/sha512sum.1:2 raw/man1/ln.1:2
-#: raw/man1/sha384sum.1:2 raw/man1/dir.1:2 raw/man1/true.1:2 raw/man1/vdir.1:2
-#: raw/man1/pwd.1:2 raw/man1/groups.1:2 raw/man1/yes.1:2 raw/man1/tac.1:2
-#: raw/man1/cp.1:2 raw/man1/date.1:2 raw/man1/link.1:2 raw/man1/base64.1:2
-#: raw/man1/chgrp.1:2 raw/man1/nproc.1:2 raw/man1/unexpand.1:2 raw/man1/mv.1:2
-#: raw/man1/nohup.1:2 raw/man1/basename.1:2 raw/man1/pr.1:2
-#, no-wrap
-msgid "GNU coreutils 8.23"
-msgstr "GNU coreutils 8.23"
-
-#. type: TH
-#: raw/man8/chroot.8:2 raw/man1/cksum.1:2 raw/man1/touch.1:2
-#: raw/man1/false.1:2 raw/man1/[.1:2 raw/man1/stat.1:2 raw/man1/hostid.1:2
-#: raw/man1/sha1sum.1:2 raw/man1/sha224sum.1:2 raw/man1/stdbuf.1:2
-#: raw/man1/timeout.1:2 raw/man1/nl.1:2 raw/man1/printf.1:2
-#: raw/man1/runcon.1:2 raw/man1/mkdir.1:2 raw/man1/sort.1:2
-#: raw/man1/whoami.1:2 raw/man1/expand.1:2 raw/man1/mkfifo.1:2
-#: raw/man1/install.1:2 raw/man1/df.1:2 raw/man1/shuf.1:2 raw/man1/join.1:2
-#: raw/man1/readlink.1:2 raw/man1/stty.1:2 raw/man1/rm.1:2 raw/man1/du.1:2
-#: raw/man1/dircolors.1:2 raw/man1/chmod.1:2 raw/man1/mktemp.1:2
-#: raw/man1/factor.1:2 raw/man1/comm.1:2 raw/man1/pinky.1:2 raw/man1/echo.1:2
-#: raw/man1/nice.1:2 raw/man1/shred.1:2 raw/man1/tty.1:2 raw/man1/cut.1:2
-#: raw/man1/id.1:2 raw/man1/test.1:2 raw/man1/ptx.1:2 raw/man1/od.1:2
-#: raw/man1/unlink.1:2 raw/man1/rmdir.1:2 raw/man1/tail.1:2
-#: raw/man1/numfmt.1:2 raw/man1/env.1:2 raw/man1/sleep.1:2 raw/man1/uname.1:2
-#: raw/man1/logname.1:2 raw/man1/tsort.1:2 raw/man1/mknod.1:2 raw/man1/who.1:2
-#: raw/man1/realpath.1:2 raw/man1/cat.1:2 raw/man1/dirname.1:2
-#: raw/man1/printenv.1:2 raw/man1/chown.1:2 raw/man1/users.1:2
-#: raw/man1/csplit.1:2 raw/man1/sha256sum.1:2 raw/man1/chcon.1:2
-#: raw/man1/fold.1:2 raw/man1/uniq.1:2 raw/man1/pathchk.1:2
-#: raw/man1/truncate.1:2 raw/man1/md5sum.1:2 raw/man1/dd.1:2 raw/man1/seq.1:2
-#: raw/man1/wc.1:2 raw/man1/expr.1:2 raw/man1/tr.1:2 raw/man1/head.1:2
-#: raw/man1/split.1:2 raw/man1/tee.1:2 raw/man1/arch.1:2 raw/man1/ls.1:2
-#: raw/man1/sum.1:2 raw/man1/paste.1:2 raw/man1/sync.1:2 raw/man1/fmt.1:2
-#: raw/man1/md5sum.textutils.1:2 raw/man1/sha512sum.1:2 raw/man1/ln.1:2
-#: raw/man1/sha384sum.1:2 raw/man1/dir.1:2 raw/man1/true.1:2 raw/man1/vdir.1:2
-#: raw/man1/pwd.1:2 raw/man1/groups.1:2 raw/man1/yes.1:2 raw/man1/tac.1:2
-#: raw/man1/cp.1:2 raw/man1/date.1:2 raw/man1/link.1:2 raw/man1/base64.1:2
-#: raw/man1/chgrp.1:2 raw/man1/nproc.1:2 raw/man1/unexpand.1:2 raw/man1/mv.1:2
-#: raw/man1/nohup.1:2 raw/man1/basename.1:2 raw/man1/pr.1:2
-#, no-wrap
-msgid "User Commands"
-msgstr "User Commands"
-
-#. type: SH
-#: raw/man8/chroot.8:3 raw/man1/cksum.1:3 raw/man1/touch.1:3
-#: raw/man1/false.1:3 raw/man1/[.1:3 raw/man1/stat.1:3 raw/man1/hostid.1:3
-#: raw/man1/sha1sum.1:3 raw/man1/sha224sum.1:3 raw/man1/stdbuf.1:3
-#: raw/man1/timeout.1:3 raw/man1/nl.1:3 raw/man1/printf.1:3
-#: raw/man1/runcon.1:3 raw/man1/mkdir.1:3 raw/man1/sort.1:3
-#: raw/man1/whoami.1:3 raw/man1/expand.1:3 raw/man1/mkfifo.1:3
-#: raw/man1/install.1:3 raw/man1/df.1:3 raw/man1/shuf.1:3 raw/man1/join.1:3
-#: raw/man1/readlink.1:3 raw/man1/stty.1:3 raw/man1/rm.1:3 raw/man1/du.1:3
-#: raw/man1/dircolors.1:3 raw/man1/chmod.1:3 raw/man1/mktemp.1:3
-#: raw/man1/factor.1:3 raw/man1/comm.1:3 raw/man1/pinky.1:3 raw/man1/echo.1:3
-#: raw/man1/nice.1:3 raw/man1/shred.1:3 raw/man1/tty.1:3 raw/man1/cut.1:3
-#: raw/man1/id.1:3 raw/man1/test.1:3 raw/man1/ptx.1:3 raw/man1/od.1:3
-#: raw/man1/unlink.1:3 raw/man1/rmdir.1:3 raw/man1/tail.1:3
-#: raw/man1/numfmt.1:3 raw/man1/env.1:3 raw/man1/sleep.1:3 raw/man1/uname.1:3
-#: raw/man1/logname.1:3 raw/man1/tsort.1:3 raw/man1/mknod.1:3 raw/man1/who.1:3
-#: raw/man1/realpath.1:3 raw/man1/cat.1:3 raw/man1/dirname.1:3
-#: raw/man1/printenv.1:3 raw/man1/chown.1:3 raw/man1/users.1:3
-#: raw/man1/csplit.1:3 raw/man1/sha256sum.1:3 raw/man1/chcon.1:3
-#: raw/man1/fold.1:3 raw/man1/uniq.1:3 raw/man1/pathchk.1:3
-#: raw/man1/truncate.1:3 raw/man1/md5sum.1:3 raw/man1/dd.1:3 raw/man1/seq.1:3
-#: raw/man1/wc.1:3 raw/man1/expr.1:3 raw/man1/tr.1:3 raw/man1/head.1:3
-#: raw/man1/split.1:3 raw/man1/tee.1:3 raw/man1/arch.1:3 raw/man1/ls.1:3
-#: raw/man1/sum.1:3 raw/man1/paste.1:3 raw/man1/sync.1:3 raw/man1/fmt.1:3
-#: raw/man1/md5sum.textutils.1:3 raw/man1/sha512sum.1:3 raw/man1/ln.1:3
-#: raw/man1/sha384sum.1:3 raw/man1/dir.1:3 raw/man1/true.1:3 raw/man1/vdir.1:3
-#: raw/man1/pwd.1:3 raw/man1/groups.1:3 raw/man1/yes.1:3 raw/man1/tac.1:3
-#: raw/man1/cp.1:3 raw/man1/date.1:3 raw/man1/link.1:3 raw/man1/base64.1:3
-#: raw/man1/chgrp.1:3 raw/man1/nproc.1:3 raw/man1/unexpand.1:3 raw/man1/mv.1:3
-#: raw/man1/nohup.1:3 raw/man1/basename.1:3 raw/man1/pr.1:3
-#, no-wrap
-msgid "NAME"
-msgstr "名称"
-
-#. type: SH
-#: raw/man8/chroot.8:5 raw/man1/cksum.1:5 raw/man1/touch.1:5
-#: raw/man1/false.1:5 raw/man1/[.1:5 raw/man1/stat.1:5 raw/man1/hostid.1:5
-#: raw/man1/sha1sum.1:5 raw/man1/sha224sum.1:5 raw/man1/stdbuf.1:6
-#: raw/man1/timeout.1:5 raw/man1/nl.1:5 raw/man1/printf.1:5
-#: raw/man1/runcon.1:5 raw/man1/mkdir.1:5 raw/man1/sort.1:5
-#: raw/man1/whoami.1:5 raw/man1/expand.1:5 raw/man1/mkfifo.1:5
-#: raw/man1/install.1:5 raw/man1/df.1:5 raw/man1/shuf.1:5 raw/man1/join.1:5
-#: raw/man1/readlink.1:5 raw/man1/stty.1:5 raw/man1/rm.1:5 raw/man1/du.1:5
-#: raw/man1/dircolors.1:5 raw/man1/chmod.1:5 raw/man1/mktemp.1:5
-#: raw/man1/factor.1:5 raw/man1/comm.1:5 raw/man1/pinky.1:5 raw/man1/echo.1:5
-#: raw/man1/nice.1:5 raw/man1/shred.1:5 raw/man1/tty.1:5 raw/man1/cut.1:5
-#: raw/man1/id.1:5 raw/man1/test.1:5 raw/man1/ptx.1:5 raw/man1/od.1:5
-#: raw/man1/unlink.1:5 raw/man1/rmdir.1:5 raw/man1/tail.1:5
-#: raw/man1/numfmt.1:5 raw/man1/env.1:5 raw/man1/sleep.1:5 raw/man1/uname.1:5
-#: raw/man1/logname.1:5 raw/man1/tsort.1:5 raw/man1/mknod.1:5 raw/man1/who.1:5
-#: raw/man1/realpath.1:5 raw/man1/cat.1:5 raw/man1/dirname.1:5
-#: raw/man1/printenv.1:5 raw/man1/chown.1:5 raw/man1/users.1:5
-#: raw/man1/csplit.1:5 raw/man1/sha256sum.1:5 raw/man1/chcon.1:5
-#: raw/man1/fold.1:5 raw/man1/uniq.1:5 raw/man1/pathchk.1:5
-#: raw/man1/truncate.1:5 raw/man1/md5sum.1:5 raw/man1/dd.1:5 raw/man1/seq.1:5
-#: raw/man1/wc.1:5 raw/man1/expr.1:5 raw/man1/tr.1:5 raw/man1/head.1:5
-#: raw/man1/split.1:5 raw/man1/tee.1:5 raw/man1/arch.1:5 raw/man1/ls.1:5
-#: raw/man1/sum.1:5 raw/man1/paste.1:5 raw/man1/sync.1:5 raw/man1/fmt.1:5
-#: raw/man1/md5sum.textutils.1:5 raw/man1/sha512sum.1:5 raw/man1/ln.1:5
-#: raw/man1/sha384sum.1:5 raw/man1/dir.1:5 raw/man1/true.1:5 raw/man1/vdir.1:5
-#: raw/man1/pwd.1:5 raw/man1/groups.1:5 raw/man1/yes.1:5 raw/man1/tac.1:5
-#: raw/man1/cp.1:5 raw/man1/date.1:5 raw/man1/link.1:5 raw/man1/base64.1:5
-#: raw/man1/chgrp.1:5 raw/man1/nproc.1:5 raw/man1/unexpand.1:5 raw/man1/mv.1:5
-#: raw/man1/nohup.1:5 raw/man1/basename.1:5 raw/man1/pr.1:5
-#, no-wrap
-msgid "SYNOPSIS"
-msgstr "概述"
-
-#. type: SH
-#: raw/man8/chroot.8:11 raw/man1/cksum.1:11 raw/man1/touch.1:8
-#: raw/man1/false.1:11 raw/man1/[.1:20 raw/man1/stat.1:8 raw/man1/hostid.1:8
-#: raw/man1/sha1sum.1:8 raw/man1/sha224sum.1:8 raw/man1/stdbuf.1:9
-#: raw/man1/timeout.1:11 raw/man1/nl.1:8 raw/man1/printf.1:11
-#: raw/man1/runcon.1:11 raw/man1/mkdir.1:8 raw/man1/sort.1:11
-#: raw/man1/whoami.1:8 raw/man1/expand.1:8 raw/man1/mkfifo.1:8
-#: raw/man1/install.1:17 raw/man1/df.1:8 raw/man1/shuf.1:14 raw/man1/join.1:8
-#: raw/man1/readlink.1:8 raw/man1/stty.1:14 raw/man1/rm.1:8 raw/man1/du.1:11
-#: raw/man1/dircolors.1:8 raw/man1/chmod.1:14 raw/man1/mktemp.1:8
-#: raw/man1/factor.1:11 raw/man1/comm.1:8 raw/man1/pinky.1:8
-#: raw/man1/echo.1:11 raw/man1/nice.1:8 raw/man1/shred.1:8 raw/man1/tty.1:8
-#: raw/man1/cut.1:8 raw/man1/id.1:8 raw/man1/test.1:20 raw/man1/ptx.1:11
-#: raw/man1/od.1:14 raw/man1/unlink.1:11 raw/man1/rmdir.1:8 raw/man1/tail.1:8
-#: raw/man1/numfmt.1:8 raw/man1/env.1:8 raw/man1/sleep.1:11 raw/man1/uname.1:8
-#: raw/man1/logname.1:8 raw/man1/tsort.1:8 raw/man1/mknod.1:8 raw/man1/who.1:8
-#: raw/man1/realpath.1:8 raw/man1/cat.1:8 raw/man1/dirname.1:8
-#: raw/man1/printenv.1:8 raw/man1/chown.1:11 raw/man1/users.1:8
-#: raw/man1/csplit.1:8 raw/man1/sha256sum.1:8 raw/man1/chcon.1:14
-#: raw/man1/fold.1:8 raw/man1/uniq.1:8 raw/man1/pathchk.1:8
-#: raw/man1/truncate.1:8 raw/man1/md5sum.1:8 raw/man1/dd.1:11
-#: raw/man1/seq.1:14 raw/man1/wc.1:11 raw/man1/expr.1:11 raw/man1/tr.1:8
-#: raw/man1/head.1:8 raw/man1/split.1:8 raw/man1/tee.1:8 raw/man1/arch.1:8
-#: raw/man1/ls.1:8 raw/man1/sum.1:8 raw/man1/paste.1:8 raw/man1/sync.1:8
-#: raw/man1/fmt.1:8 raw/man1/md5sum.textutils.1:8 raw/man1/sha512sum.1:8
-#: raw/man1/ln.1:17 raw/man1/sha384sum.1:8 raw/man1/dir.1:8 raw/man1/true.1:11
-#: raw/man1/vdir.1:8 raw/man1/pwd.1:8 raw/man1/groups.1:8 raw/man1/yes.1:11
-#: raw/man1/tac.1:8 raw/man1/cp.1:14 raw/man1/date.1:11 raw/man1/link.1:11
-#: raw/man1/base64.1:8 raw/man1/chgrp.1:11 raw/man1/nproc.1:8
-#: raw/man1/unexpand.1:8 raw/man1/mv.1:14 raw/man1/nohup.1:11
-#: raw/man1/basename.1:11 raw/man1/pr.1:8
-#, no-wrap
-msgid "DESCRIPTION"
-msgstr "描述"
-
-#. type: TP
-#: raw/man8/chroot.8:21 raw/man1/cksum.1:15 raw/man1/touch.1:51
-#: raw/man1/false.1:15 raw/man1/[.1:24 raw/man1/stat.1:32 raw/man1/hostid.1:12
-#: raw/man1/sha1sum.1:38 raw/man1/sha224sum.1:38 raw/man1/stdbuf.1:24
-#: raw/man1/timeout.1:43 raw/man1/nl.1:48 raw/man1/printf.1:15
-#: raw/man1/runcon.1:46 raw/man1/mkdir.1:31 raw/man1/sort.1:116
-#: raw/man1/whoami.1:13 raw/man1/expand.1:24 raw/man1/mkfifo.1:24
-#: raw/man1/install.1:93 raw/man1/df.1:86 raw/man1/shuf.1:41
-#: raw/man1/join.1:56 raw/man1/readlink.1:41 raw/man1/stty.1:29
-#: raw/man1/rm.1:67 raw/man1/du.1:114 raw/man1/dircolors.1:22
-#: raw/man1/chmod.1:140 raw/man1/mktemp.1:40 raw/man1/factor.1:16
-#: raw/man1/comm.1:35 raw/man1/pinky.1:38 raw/man1/echo.1:24
-#: raw/man1/nice.1:19 raw/man1/shred.1:41 raw/man1/tty.1:15 raw/man1/cut.1:42
-#: raw/man1/id.1:39 raw/man1/test.1:24 raw/man1/ptx.1:67 raw/man1/od.1:60
-#: raw/man1/unlink.1:15 raw/man1/rmdir.1:25 raw/man1/tail.1:58
-#: raw/man1/numfmt.1:67 raw/man1/env.1:23 raw/man1/sleep.1:19
-#: raw/man1/uname.1:40 raw/man1/logname.1:12 raw/man1/tsort.1:13
-#: raw/man1/mknod.1:24 raw/man1/who.1:65 raw/man1/realpath.1:40
-#: raw/man1/cat.1:42 raw/man1/dirname.1:16 raw/man1/printenv.1:16
-#: raw/man1/chown.1:87 raw/man1/users.1:13 raw/man1/csplit.1:36
-#: raw/man1/sha256sum.1:38 raw/man1/chcon.1:71 raw/man1/fold.1:24
-#: raw/man1/uniq.1:50 raw/man1/pathchk.1:21 raw/man1/truncate.1:32
-#: raw/man1/md5sum.1:38 raw/man1/dd.1:167 raw/man1/seq.1:29 raw/man1/wc.1:40
-#: raw/man1/expr.1:13 raw/man1/tr.1:27 raw/man1/head.1:32 raw/man1/split.1:51
-#: raw/man1/tee.1:18 raw/man1/arch.1:12 raw/man1/ls.1:216 raw/man1/sum.1:18
-#: raw/man1/paste.1:22 raw/man1/sync.1:12 raw/man1/fmt.1:37
-#: raw/man1/md5sum.textutils.1:38 raw/man1/sha512sum.1:38 raw/man1/ln.1:76
-#: raw/man1/sha384sum.1:38 raw/man1/dir.1:216 raw/man1/true.1:15
-#: raw/man1/vdir.1:216 raw/man1/pwd.1:18 raw/man1/groups.1:13
-#: raw/man1/yes.1:15 raw/man1/tac.1:24 raw/man1/cp.1:126 raw/man1/date.1:49
-#: raw/man1/link.1:15 raw/man1/base64.1:24 raw/man1/chgrp.1:62
-#: raw/man1/nproc.1:19 raw/man1/unexpand.1:27 raw/man1/mv.1:62
-#: raw/man1/nohup.1:15 raw/man1/basename.1:27 raw/man1/pr.1:107
-#, no-wrap
-msgid "B<--help>"
-msgstr "B<--help>"
-
-#. type: Plain text
-#: raw/man8/chroot.8:24 raw/man1/cksum.1:18 raw/man1/touch.1:54
-#: raw/man1/false.1:18 raw/man1/[.1:27 raw/man1/stat.1:35 raw/man1/hostid.1:15
-#: raw/man1/sha1sum.1:41 raw/man1/sha224sum.1:41 raw/man1/stdbuf.1:27
-#: raw/man1/timeout.1:46 raw/man1/nl.1:51 raw/man1/printf.1:18
-#: raw/man1/runcon.1:49 raw/man1/mkdir.1:34 raw/man1/sort.1:119
-#: raw/man1/whoami.1:16 raw/man1/expand.1:27 raw/man1/mkfifo.1:27
-#: raw/man1/install.1:96 raw/man1/df.1:89 raw/man1/shuf.1:44
-#: raw/man1/join.1:59 raw/man1/readlink.1:44 raw/man1/stty.1:32
-#: raw/man1/rm.1:70 raw/man1/du.1:117 raw/man1/dircolors.1:25
-#: raw/man1/chmod.1:143 raw/man1/mktemp.1:43 raw/man1/factor.1:19
-#: raw/man1/comm.1:38 raw/man1/pinky.1:41 raw/man1/echo.1:27
-#: raw/man1/nice.1:22 raw/man1/shred.1:44 raw/man1/tty.1:18 raw/man1/cut.1:45
-#: raw/man1/id.1:42 raw/man1/test.1:27 raw/man1/ptx.1:70 raw/man1/od.1:63
-#: raw/man1/unlink.1:18 raw/man1/rmdir.1:28 raw/man1/tail.1:61
-#: raw/man1/numfmt.1:70 raw/man1/env.1:26 raw/man1/sleep.1:22
-#: raw/man1/uname.1:43 raw/man1/logname.1:15 raw/man1/tsort.1:16
-#: raw/man1/mknod.1:27 raw/man1/who.1:68 raw/man1/realpath.1:43
-#: raw/man1/cat.1:45 raw/man1/dirname.1:19 raw/man1/printenv.1:19
-#: raw/man1/chown.1:90 raw/man1/users.1:16 raw/man1/csplit.1:39
-#: raw/man1/sha256sum.1:41 raw/man1/chcon.1:74 raw/man1/fold.1:27
-#: raw/man1/uniq.1:53 raw/man1/pathchk.1:24 raw/man1/truncate.1:35
-#: raw/man1/md5sum.1:41 raw/man1/dd.1:170 raw/man1/seq.1:32 raw/man1/wc.1:43
-#: raw/man1/expr.1:16 raw/man1/tr.1:30 raw/man1/head.1:35 raw/man1/split.1:54
-#: raw/man1/tee.1:21 raw/man1/arch.1:15 raw/man1/ls.1:219 raw/man1/sum.1:21
-#: raw/man1/paste.1:25 raw/man1/sync.1:15 raw/man1/fmt.1:40
-#: raw/man1/md5sum.textutils.1:41 raw/man1/sha512sum.1:41 raw/man1/ln.1:79
-#: raw/man1/sha384sum.1:41 raw/man1/dir.1:219 raw/man1/true.1:18
-#: raw/man1/vdir.1:219 raw/man1/pwd.1:21 raw/man1/groups.1:16
-#: raw/man1/yes.1:18 raw/man1/tac.1:27 raw/man1/cp.1:129 raw/man1/date.1:52
-#: raw/man1/link.1:18 raw/man1/base64.1:27 raw/man1/chgrp.1:65
-#: raw/man1/nproc.1:22 raw/man1/unexpand.1:30 raw/man1/mv.1:65
-#: raw/man1/nohup.1:18 raw/man1/basename.1:30 raw/man1/pr.1:110
-msgid "display this help and exit"
-msgstr "显示此帮助信息并退出"
-
-#. type: TP
-#: raw/man8/chroot.8:24 raw/man1/cksum.1:18 raw/man1/touch.1:54
-#: raw/man1/false.1:18 raw/man1/[.1:27 raw/man1/stat.1:35 raw/man1/hostid.1:15
-#: raw/man1/sha1sum.1:41 raw/man1/sha224sum.1:41 raw/man1/stdbuf.1:27
-#: raw/man1/timeout.1:46 raw/man1/nl.1:51 raw/man1/printf.1:18
-#: raw/man1/runcon.1:49 raw/man1/mkdir.1:34 raw/man1/sort.1:119
-#: raw/man1/whoami.1:16 raw/man1/expand.1:27 raw/man1/mkfifo.1:27
-#: raw/man1/install.1:96 raw/man1/df.1:89 raw/man1/shuf.1:44
-#: raw/man1/join.1:59 raw/man1/readlink.1:44 raw/man1/stty.1:32
-#: raw/man1/rm.1:70 raw/man1/du.1:117 raw/man1/dircolors.1:25
-#: raw/man1/chmod.1:143 raw/man1/mktemp.1:43 raw/man1/factor.1:19
-#: raw/man1/comm.1:38 raw/man1/pinky.1:41 raw/man1/echo.1:27
-#: raw/man1/nice.1:22 raw/man1/shred.1:44 raw/man1/tty.1:18 raw/man1/cut.1:45
-#: raw/man1/id.1:42 raw/man1/test.1:27 raw/man1/ptx.1:70 raw/man1/od.1:63
-#: raw/man1/unlink.1:18 raw/man1/rmdir.1:28 raw/man1/tail.1:61
-#: raw/man1/numfmt.1:70 raw/man1/env.1:26 raw/man1/sleep.1:22
-#: raw/man1/uname.1:43 raw/man1/logname.1:15 raw/man1/tsort.1:16
-#: raw/man1/mknod.1:27 raw/man1/who.1:68 raw/man1/realpath.1:43
-#: raw/man1/cat.1:45 raw/man1/dirname.1:19 raw/man1/printenv.1:19
-#: raw/man1/chown.1:90 raw/man1/users.1:16 raw/man1/csplit.1:39
-#: raw/man1/sha256sum.1:41 raw/man1/chcon.1:74 raw/man1/fold.1:27
-#: raw/man1/uniq.1:53 raw/man1/pathchk.1:24 raw/man1/truncate.1:35
-#: raw/man1/md5sum.1:41 raw/man1/dd.1:170 raw/man1/seq.1:32 raw/man1/wc.1:43
-#: raw/man1/expr.1:16 raw/man1/tr.1:30 raw/man1/head.1:35 raw/man1/split.1:54
-#: raw/man1/tee.1:21 raw/man1/arch.1:15 raw/man1/ls.1:219 raw/man1/sum.1:21
-#: raw/man1/paste.1:25 raw/man1/sync.1:15 raw/man1/fmt.1:40
-#: raw/man1/md5sum.textutils.1:41 raw/man1/sha512sum.1:41 raw/man1/ln.1:79
-#: raw/man1/sha384sum.1:41 raw/man1/dir.1:219 raw/man1/true.1:18
-#: raw/man1/vdir.1:219 raw/man1/pwd.1:21 raw/man1/groups.1:16
-#: raw/man1/yes.1:18 raw/man1/tac.1:27 raw/man1/cp.1:129 raw/man1/date.1:52
-#: raw/man1/link.1:18 raw/man1/base64.1:27 raw/man1/chgrp.1:65
-#: raw/man1/nproc.1:22 raw/man1/unexpand.1:30 raw/man1/mv.1:65
-#: raw/man1/nohup.1:18 raw/man1/basename.1:30 raw/man1/pr.1:110
-#, no-wrap
-msgid "B<--version>"
-msgstr "B<--version>"
-
-#. type: Plain text
-#: raw/man8/chroot.8:27 raw/man1/cksum.1:21 raw/man1/touch.1:57
-#: raw/man1/false.1:21 raw/man1/[.1:30 raw/man1/stat.1:38 raw/man1/hostid.1:18
-#: raw/man1/sha1sum.1:44 raw/man1/sha224sum.1:44 raw/man1/stdbuf.1:30
-#: raw/man1/timeout.1:49 raw/man1/nl.1:54 raw/man1/printf.1:21
-#: raw/man1/runcon.1:52 raw/man1/mkdir.1:37 raw/man1/sort.1:122
-#: raw/man1/whoami.1:19 raw/man1/expand.1:30 raw/man1/mkfifo.1:30
-#: raw/man1/install.1:99 raw/man1/df.1:92 raw/man1/shuf.1:47
-#: raw/man1/join.1:62 raw/man1/readlink.1:47 raw/man1/stty.1:35
-#: raw/man1/rm.1:73 raw/man1/du.1:120 raw/man1/dircolors.1:28
-#: raw/man1/chmod.1:146 raw/man1/mktemp.1:46 raw/man1/factor.1:22
-#: raw/man1/comm.1:41 raw/man1/pinky.1:44 raw/man1/echo.1:30
-#: raw/man1/nice.1:25 raw/man1/shred.1:47 raw/man1/tty.1:21 raw/man1/cut.1:48
-#: raw/man1/id.1:45 raw/man1/test.1:30 raw/man1/ptx.1:73 raw/man1/od.1:66
-#: raw/man1/unlink.1:21 raw/man1/rmdir.1:31 raw/man1/tail.1:64
-#: raw/man1/numfmt.1:73 raw/man1/env.1:29 raw/man1/sleep.1:25
-#: raw/man1/uname.1:46 raw/man1/logname.1:18 raw/man1/tsort.1:19
-#: raw/man1/mknod.1:30 raw/man1/who.1:71 raw/man1/realpath.1:46
-#: raw/man1/cat.1:48 raw/man1/dirname.1:22 raw/man1/printenv.1:22
-#: raw/man1/chown.1:93 raw/man1/users.1:19 raw/man1/csplit.1:42
-#: raw/man1/sha256sum.1:44 raw/man1/chcon.1:77 raw/man1/fold.1:30
-#: raw/man1/uniq.1:56 raw/man1/pathchk.1:27 raw/man1/truncate.1:38
-#: raw/man1/md5sum.1:44 raw/man1/dd.1:173 raw/man1/seq.1:35 raw/man1/wc.1:46
-#: raw/man1/expr.1:19 raw/man1/tr.1:33 raw/man1/head.1:38 raw/man1/split.1:57
-#: raw/man1/tee.1:24 raw/man1/arch.1:18 raw/man1/ls.1:222 raw/man1/sum.1:24
-#: raw/man1/paste.1:28 raw/man1/sync.1:18 raw/man1/fmt.1:43
-#: raw/man1/md5sum.textutils.1:44 raw/man1/sha512sum.1:44 raw/man1/ln.1:82
-#: raw/man1/sha384sum.1:44 raw/man1/dir.1:222 raw/man1/true.1:21
-#: raw/man1/vdir.1:222 raw/man1/pwd.1:24 raw/man1/groups.1:19
-#: raw/man1/yes.1:21 raw/man1/tac.1:30 raw/man1/cp.1:132 raw/man1/date.1:55
-#: raw/man1/link.1:21 raw/man1/base64.1:30 raw/man1/chgrp.1:68
-#: raw/man1/nproc.1:25 raw/man1/unexpand.1:33 raw/man1/mv.1:68
-#: raw/man1/nohup.1:21 raw/man1/basename.1:33 raw/man1/pr.1:113
-msgid "output version information and exit"
-msgstr "显示版本信息并退出"
-
-#. type: SH
-#: raw/man8/chroot.8:29 raw/man1/cksum.1:21 raw/man1/touch.1:68
-#: raw/man1/false.1:25 raw/man1/[.1:155 raw/man1/stat.1:172
-#: raw/man1/hostid.1:18 raw/man1/sha1sum.1:49 raw/man1/sha224sum.1:49
-#: raw/man1/stdbuf.1:52 raw/man1/timeout.1:61 raw/man1/nl.1:82
-#: raw/man1/printf.1:82 raw/man1/runcon.1:52 raw/man1/mkdir.1:37
-#: raw/man1/sort.1:140 raw/man1/whoami.1:19 raw/man1/expand.1:30
-#: raw/man1/mkfifo.1:30 raw/man1/install.1:115 raw/man1/df.1:103
-#: raw/man1/shuf.1:49 raw/man1/join.1:77 raw/man1/readlink.1:47
-#: raw/man1/stty.1:392 raw/man1/rm.1:87 raw/man1/du.1:146
-#: raw/man1/dircolors.1:32 raw/man1/chmod.1:148 raw/man1/mktemp.1:46
-#: raw/man1/factor.1:22 raw/man1/comm.1:50 raw/man1/pinky.1:47
-#: raw/man1/echo.1:72 raw/man1/nice.1:29 raw/man1/shred.1:89 raw/man1/tty.1:21
-#: raw/man1/cut.1:67 raw/man1/id.1:47 raw/man1/test.1:155 raw/man1/ptx.1:75
-#: raw/man1/od.1:152 raw/man1/unlink.1:21 raw/man1/rmdir.1:31
-#: raw/man1/tail.1:77 raw/man1/numfmt.1:147 raw/man1/env.1:31
-#: raw/man1/sleep.1:25 raw/man1/uname.1:46 raw/man1/logname.1:18
-#: raw/man1/tsort.1:19 raw/man1/mknod.1:48 raw/man1/who.1:74
-#: raw/man1/realpath.1:46 raw/man1/cat.1:57 raw/man1/dirname.1:32
-#: raw/man1/printenv.1:26 raw/man1/chown.1:107 raw/man1/users.1:19
-#: raw/man1/csplit.1:61 raw/man1/sha256sum.1:49 raw/man1/chcon.1:77
-#: raw/man1/fold.1:30 raw/man1/uniq.1:63 raw/man1/pathchk.1:27
-#: raw/man1/truncate.1:45 raw/man1/md5sum.1:53 raw/man1/dd.1:173
-#: raw/man1/seq.1:46 raw/man1/wc.1:46 raw/man1/expr.1:92 raw/man1/tr.1:120
-#: raw/man1/head.1:42 raw/man1/split.1:68 raw/man1/tee.1:26 raw/man1/arch.1:18
-#: raw/man1/ls.1:240 raw/man1/sum.1:26 raw/man1/paste.1:28 raw/man1/sync.1:18
-#: raw/man1/fmt.1:45 raw/man1/md5sum.textutils.1:53 raw/man1/sha512sum.1:49
-#: raw/man1/ln.1:101 raw/man1/sha384sum.1:49 raw/man1/dir.1:240
-#: raw/man1/true.1:25 raw/man1/vdir.1:240 raw/man1/pwd.1:30
-#: raw/man1/groups.1:19 raw/man1/yes.1:21 raw/man1/tac.1:30 raw/man1/cp.1:162
-#: raw/man1/date.1:236 raw/man1/link.1:21 raw/man1/base64.1:37
-#: raw/man1/chgrp.1:75 raw/man1/nproc.1:25 raw/man1/unexpand.1:33
-#: raw/man1/mv.1:84 raw/man1/nohup.1:31 raw/man1/basename.1:46
-#: raw/man1/pr.1:116
-#, no-wrap
-msgid "AUTHOR"
-msgstr "作者"
-
-#. type: SH
-#: raw/man8/chroot.8:31 raw/man1/cksum.1:23 raw/man1/touch.1:71
-#: raw/man1/false.1:27 raw/man1/[.1:157 raw/man1/stat.1:174
-#: raw/man1/hostid.1:20 raw/man1/sha1sum.1:51 raw/man1/sha224sum.1:51
-#: raw/man1/stdbuf.1:54 raw/man1/timeout.1:63 raw/man1/nl.1:84
-#: raw/man1/printf.1:84 raw/man1/runcon.1:54 raw/man1/mkdir.1:39
-#: raw/man1/sort.1:142 raw/man1/whoami.1:21 raw/man1/expand.1:32
-#: raw/man1/mkfifo.1:32 raw/man1/install.1:117 raw/man1/df.1:105
-#: raw/man1/shuf.1:51 raw/man1/join.1:79 raw/man1/readlink.1:49
-#: raw/man1/stty.1:394 raw/man1/rm.1:90 raw/man1/du.1:149
-#: raw/man1/dircolors.1:34 raw/man1/chmod.1:150 raw/man1/mktemp.1:48
-#: raw/man1/factor.1:24 raw/man1/comm.1:52 raw/man1/pinky.1:49
-#: raw/man1/echo.1:74 raw/man1/nice.1:31 raw/man1/shred.1:91 raw/man1/tty.1:23
-#: raw/man1/cut.1:69 raw/man1/id.1:49 raw/man1/test.1:157 raw/man1/ptx.1:77
-#: raw/man1/od.1:154 raw/man1/unlink.1:23 raw/man1/rmdir.1:33
-#: raw/man1/tail.1:80 raw/man1/numfmt.1:149 raw/man1/env.1:33
-#: raw/man1/sleep.1:27 raw/man1/uname.1:48 raw/man1/logname.1:20
-#: raw/man1/tsort.1:21 raw/man1/mknod.1:50 raw/man1/who.1:76
-#: raw/man1/realpath.1:48 raw/man1/cat.1:59 raw/man1/dirname.1:34
-#: raw/man1/printenv.1:28 raw/man1/chown.1:109 raw/man1/users.1:21
-#: raw/man1/csplit.1:63 raw/man1/sha256sum.1:51 raw/man1/chcon.1:79
-#: raw/man1/fold.1:32 raw/man1/uniq.1:65 raw/man1/pathchk.1:29
-#: raw/man1/truncate.1:47 raw/man1/md5sum.1:55 raw/man1/dd.1:175
-#: raw/man1/seq.1:48 raw/man1/wc.1:48 raw/man1/expr.1:94 raw/man1/tr.1:122
-#: raw/man1/head.1:44 raw/man1/split.1:70 raw/man1/tee.1:28 raw/man1/arch.1:20
-#: raw/man1/ls.1:242 raw/man1/sum.1:28 raw/man1/paste.1:30 raw/man1/sync.1:20
-#: raw/man1/fmt.1:47 raw/man1/md5sum.textutils.1:55 raw/man1/sha512sum.1:51
-#: raw/man1/ln.1:103 raw/man1/sha384sum.1:51 raw/man1/dir.1:242
-#: raw/man1/true.1:27 raw/man1/vdir.1:242 raw/man1/pwd.1:32
-#: raw/man1/groups.1:21 raw/man1/yes.1:23 raw/man1/tac.1:32 raw/man1/cp.1:164
-#: raw/man1/date.1:238 raw/man1/link.1:23 raw/man1/base64.1:39
-#: raw/man1/chgrp.1:77 raw/man1/nproc.1:27 raw/man1/unexpand.1:35
-#: raw/man1/mv.1:86 raw/man1/nohup.1:33 raw/man1/basename.1:48
-#: raw/man1/pr.1:118
-#, no-wrap
-msgid "REPORTING BUGS"
-msgstr "报告错误"
-
-#. type: Plain text
-#: raw/man8/chroot.8:33 raw/man1/cksum.1:25 raw/man1/touch.1:73
-#: raw/man1/false.1:29 raw/man1/[.1:159 raw/man1/stat.1:176
-#: raw/man1/hostid.1:22 raw/man1/sha1sum.1:53 raw/man1/sha224sum.1:53
-#: raw/man1/stdbuf.1:56 raw/man1/timeout.1:65 raw/man1/nl.1:86
-#: raw/man1/printf.1:86 raw/man1/runcon.1:56 raw/man1/mkdir.1:41
-#: raw/man1/sort.1:144 raw/man1/whoami.1:23 raw/man1/expand.1:34
-#: raw/man1/mkfifo.1:34 raw/man1/install.1:119 raw/man1/df.1:107
-#: raw/man1/shuf.1:53 raw/man1/join.1:81 raw/man1/readlink.1:51
-#: raw/man1/stty.1:396 raw/man1/rm.1:92 raw/man1/du.1:151
-#: raw/man1/dircolors.1:36 raw/man1/chmod.1:152 raw/man1/mktemp.1:50
-#: raw/man1/factor.1:26 raw/man1/comm.1:54 raw/man1/pinky.1:51
-#: raw/man1/echo.1:76 raw/man1/nice.1:33 raw/man1/shred.1:93 raw/man1/tty.1:25
-#: raw/man1/cut.1:71 raw/man1/id.1:51 raw/man1/test.1:159 raw/man1/ptx.1:79
-#: raw/man1/od.1:156 raw/man1/unlink.1:25 raw/man1/rmdir.1:35
-#: raw/man1/tail.1:82 raw/man1/numfmt.1:151 raw/man1/env.1:35
-#: raw/man1/sleep.1:29 raw/man1/uname.1:50 raw/man1/logname.1:22
-#: raw/man1/tsort.1:23 raw/man1/mknod.1:52 raw/man1/who.1:78
-#: raw/man1/realpath.1:50 raw/man1/cat.1:61 raw/man1/dirname.1:36
-#: raw/man1/printenv.1:30 raw/man1/chown.1:111 raw/man1/users.1:23
-#: raw/man1/csplit.1:65 raw/man1/sha256sum.1:53 raw/man1/chcon.1:81
-#: raw/man1/fold.1:34 raw/man1/uniq.1:67 raw/man1/pathchk.1:31
-#: raw/man1/truncate.1:49 raw/man1/md5sum.1:57 raw/man1/dd.1:177
-#: raw/man1/seq.1:50 raw/man1/wc.1:50 raw/man1/expr.1:96 raw/man1/tr.1:124
-#: raw/man1/head.1:46 raw/man1/split.1:72 raw/man1/tee.1:30 raw/man1/arch.1:22
-#: raw/man1/ls.1:244 raw/man1/sum.1:30 raw/man1/paste.1:32 raw/man1/sync.1:22
-#: raw/man1/fmt.1:49 raw/man1/md5sum.textutils.1:57 raw/man1/sha512sum.1:53
-#: raw/man1/ln.1:105 raw/man1/sha384sum.1:53 raw/man1/dir.1:244
-#: raw/man1/true.1:29 raw/man1/vdir.1:244 raw/man1/pwd.1:34
-#: raw/man1/groups.1:23 raw/man1/yes.1:25 raw/man1/tac.1:34 raw/man1/cp.1:166
-#: raw/man1/date.1:240 raw/man1/link.1:25 raw/man1/base64.1:41
-#: raw/man1/chgrp.1:79 raw/man1/nproc.1:29 raw/man1/unexpand.1:37
-#: raw/man1/mv.1:88 raw/man1/nohup.1:35 raw/man1/basename.1:50
-#: raw/man1/pr.1:120
-msgid ""
-"GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-
-#. type: SH
-#: raw/man8/chroot.8:35 raw/man1/cksum.1:27 raw/man1/touch.1:75
-#: raw/man1/false.1:31 raw/man1/[.1:161 raw/man1/stat.1:178
-#: raw/man1/hostid.1:24 raw/man1/sha1sum.1:55 raw/man1/sha224sum.1:55
-#: raw/man1/stdbuf.1:58 raw/man1/timeout.1:67 raw/man1/nl.1:88
-#: raw/man1/printf.1:88 raw/man1/runcon.1:58 raw/man1/mkdir.1:43
-#: raw/man1/sort.1:146 raw/man1/whoami.1:25 raw/man1/expand.1:36
-#: raw/man1/mkfifo.1:36 raw/man1/install.1:121 raw/man1/df.1:109
-#: raw/man1/shuf.1:55 raw/man1/join.1:83 raw/man1/readlink.1:53
-#: raw/man1/stty.1:398 raw/man1/rm.1:94 raw/man1/du.1:153
-#: raw/man1/dircolors.1:38 raw/man1/chmod.1:154 raw/man1/mktemp.1:52
-#: raw/man1/factor.1:28 raw/man1/comm.1:56 raw/man1/pinky.1:53
-#: raw/man1/echo.1:78 raw/man1/nice.1:35 raw/man1/shred.1:95 raw/man1/tty.1:27
-#: raw/man1/cut.1:73 raw/man1/id.1:53 raw/man1/test.1:161 raw/man1/ptx.1:81
-#: raw/man1/od.1:158 raw/man1/unlink.1:27 raw/man1/rmdir.1:37
-#: raw/man1/tail.1:84 raw/man1/numfmt.1:153 raw/man1/env.1:37
-#: raw/man1/sleep.1:31 raw/man1/uname.1:52 raw/man1/logname.1:24
-#: raw/man1/tsort.1:25 raw/man1/mknod.1:54 raw/man1/who.1:80
-#: raw/man1/realpath.1:52 raw/man1/cat.1:63 raw/man1/dirname.1:38
-#: raw/man1/printenv.1:32 raw/man1/chown.1:113 raw/man1/users.1:25
-#: raw/man1/csplit.1:67 raw/man1/sha256sum.1:55 raw/man1/chcon.1:83
-#: raw/man1/fold.1:36 raw/man1/uniq.1:69 raw/man1/pathchk.1:33
-#: raw/man1/truncate.1:51 raw/man1/md5sum.1:59 raw/man1/dd.1:179
-#: raw/man1/seq.1:52 raw/man1/wc.1:52 raw/man1/expr.1:98 raw/man1/tr.1:126
-#: raw/man1/head.1:48 raw/man1/split.1:74 raw/man1/tee.1:32 raw/man1/arch.1:24
-#: raw/man1/ls.1:246 raw/man1/sum.1:32 raw/man1/paste.1:34 raw/man1/sync.1:24
-#: raw/man1/fmt.1:51 raw/man1/md5sum.textutils.1:59 raw/man1/sha512sum.1:55
-#: raw/man1/ln.1:107 raw/man1/sha384sum.1:55 raw/man1/dir.1:246
-#: raw/man1/true.1:31 raw/man1/vdir.1:246 raw/man1/pwd.1:36
-#: raw/man1/groups.1:25 raw/man1/yes.1:27 raw/man1/tac.1:36 raw/man1/cp.1:168
-#: raw/man1/date.1:242 raw/man1/link.1:27 raw/man1/base64.1:43
-#: raw/man1/chgrp.1:81 raw/man1/nproc.1:31 raw/man1/unexpand.1:39
-#: raw/man1/mv.1:90 raw/man1/nohup.1:37 raw/man1/basename.1:52
-#: raw/man1/pr.1:122
-#, no-wrap
-msgid "COPYRIGHT"
-msgstr "版权"
-
-#. type: Plain text
-#: raw/man8/chroot.8:38 raw/man1/cksum.1:30 raw/man1/touch.1:78
-#: raw/man1/false.1:34 raw/man1/[.1:164 raw/man1/stat.1:181
-#: raw/man1/hostid.1:27 raw/man1/sha1sum.1:58 raw/man1/sha224sum.1:58
-#: raw/man1/stdbuf.1:61 raw/man1/timeout.1:70 raw/man1/nl.1:91
-#: raw/man1/printf.1:91 raw/man1/runcon.1:61 raw/man1/mkdir.1:46
-#: raw/man1/sort.1:149 raw/man1/whoami.1:28 raw/man1/expand.1:39
-#: raw/man1/mkfifo.1:39 raw/man1/install.1:124 raw/man1/df.1:112
-#: raw/man1/shuf.1:58 raw/man1/join.1:86 raw/man1/readlink.1:56
-#: raw/man1/stty.1:401 raw/man1/rm.1:97 raw/man1/du.1:156
-#: raw/man1/dircolors.1:41 raw/man1/chmod.1:157 raw/man1/mktemp.1:55
-#: raw/man1/factor.1:31 raw/man1/comm.1:59 raw/man1/pinky.1:56
-#: raw/man1/echo.1:81 raw/man1/nice.1:38 raw/man1/shred.1:98 raw/man1/tty.1:30
-#: raw/man1/cut.1:76 raw/man1/id.1:56 raw/man1/test.1:164 raw/man1/ptx.1:84
-#: raw/man1/od.1:161 raw/man1/unlink.1:30 raw/man1/rmdir.1:40
-#: raw/man1/tail.1:87 raw/man1/numfmt.1:156 raw/man1/env.1:40
-#: raw/man1/sleep.1:34 raw/man1/uname.1:55 raw/man1/logname.1:27
-#: raw/man1/tsort.1:28 raw/man1/mknod.1:57 raw/man1/who.1:83
-#: raw/man1/realpath.1:55 raw/man1/cat.1:66 raw/man1/dirname.1:41
-#: raw/man1/printenv.1:35 raw/man1/chown.1:116 raw/man1/users.1:28
-#: raw/man1/csplit.1:70 raw/man1/sha256sum.1:58 raw/man1/chcon.1:86
-#: raw/man1/fold.1:39 raw/man1/uniq.1:72 raw/man1/pathchk.1:36
-#: raw/man1/truncate.1:54 raw/man1/md5sum.1:62 raw/man1/dd.1:182
-#: raw/man1/seq.1:55 raw/man1/wc.1:55 raw/man1/expr.1:101 raw/man1/tr.1:129
-#: raw/man1/head.1:51 raw/man1/split.1:77 raw/man1/tee.1:35 raw/man1/arch.1:27
-#: raw/man1/ls.1:249 raw/man1/sum.1:35 raw/man1/paste.1:37 raw/man1/sync.1:27
-#: raw/man1/fmt.1:54 raw/man1/md5sum.textutils.1:62 raw/man1/sha512sum.1:58
-#: raw/man1/ln.1:110 raw/man1/sha384sum.1:58 raw/man1/dir.1:249
-#: raw/man1/true.1:34 raw/man1/vdir.1:249 raw/man1/pwd.1:39
-#: raw/man1/groups.1:28 raw/man1/yes.1:30 raw/man1/tac.1:39 raw/man1/cp.1:171
-#: raw/man1/date.1:245 raw/man1/link.1:30 raw/man1/base64.1:46
-#: raw/man1/chgrp.1:84 raw/man1/nproc.1:34 raw/man1/unexpand.1:42
-#: raw/man1/mv.1:93 raw/man1/nohup.1:40 raw/man1/basename.1:55
-#: raw/man1/pr.1:125
-msgid ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
-"version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
-msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
-"version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
-
-#. type: Plain text
-#: raw/man8/chroot.8:41 raw/man1/cksum.1:33 raw/man1/touch.1:81
-#: raw/man1/false.1:37 raw/man1/[.1:167 raw/man1/stat.1:184
-#: raw/man1/hostid.1:30 raw/man1/sha1sum.1:61 raw/man1/sha224sum.1:61
-#: raw/man1/stdbuf.1:64 raw/man1/timeout.1:73 raw/man1/nl.1:94
-#: raw/man1/printf.1:94 raw/man1/runcon.1:64 raw/man1/mkdir.1:49
-#: raw/man1/sort.1:152 raw/man1/whoami.1:31 raw/man1/expand.1:42
-#: raw/man1/mkfifo.1:42 raw/man1/install.1:127 raw/man1/df.1:115
-#: raw/man1/shuf.1:61 raw/man1/join.1:89 raw/man1/readlink.1:59
-#: raw/man1/stty.1:404 raw/man1/rm.1:100 raw/man1/du.1:159
-#: raw/man1/dircolors.1:44 raw/man1/chmod.1:160 raw/man1/mktemp.1:58
-#: raw/man1/factor.1:34 raw/man1/comm.1:62 raw/man1/pinky.1:59
-#: raw/man1/echo.1:84 raw/man1/nice.1:41 raw/man1/shred.1:101
-#: raw/man1/tty.1:33 raw/man1/cut.1:79 raw/man1/id.1:59 raw/man1/test.1:167
-#: raw/man1/ptx.1:87 raw/man1/od.1:164 raw/man1/unlink.1:33
-#: raw/man1/rmdir.1:43 raw/man1/tail.1:90 raw/man1/numfmt.1:159
-#: raw/man1/env.1:43 raw/man1/sleep.1:37 raw/man1/uname.1:58
-#: raw/man1/logname.1:30 raw/man1/tsort.1:31 raw/man1/mknod.1:60
-#: raw/man1/who.1:86 raw/man1/realpath.1:58 raw/man1/cat.1:69
-#: raw/man1/dirname.1:44 raw/man1/printenv.1:38 raw/man1/chown.1:119
-#: raw/man1/users.1:31 raw/man1/csplit.1:73 raw/man1/sha256sum.1:61
-#: raw/man1/chcon.1:89 raw/man1/fold.1:42 raw/man1/uniq.1:75
-#: raw/man1/pathchk.1:39 raw/man1/truncate.1:57 raw/man1/md5sum.1:65
-#: raw/man1/dd.1:185 raw/man1/seq.1:58 raw/man1/wc.1:58 raw/man1/expr.1:104
-#: raw/man1/tr.1:132 raw/man1/head.1:54 raw/man1/split.1:80 raw/man1/tee.1:38
-#: raw/man1/arch.1:30 raw/man1/ls.1:252 raw/man1/sum.1:38 raw/man1/paste.1:40
-#: raw/man1/sync.1:30 raw/man1/fmt.1:57 raw/man1/md5sum.textutils.1:65
-#: raw/man1/sha512sum.1:61 raw/man1/ln.1:113 raw/man1/sha384sum.1:61
-#: raw/man1/dir.1:252 raw/man1/true.1:37 raw/man1/vdir.1:252 raw/man1/pwd.1:42
-#: raw/man1/groups.1:31 raw/man1/yes.1:33 raw/man1/tac.1:42 raw/man1/cp.1:174
-#: raw/man1/date.1:248 raw/man1/link.1:33 raw/man1/base64.1:49
-#: raw/man1/chgrp.1:87 raw/man1/nproc.1:37 raw/man1/unexpand.1:45
-#: raw/man1/mv.1:96 raw/man1/nohup.1:43 raw/man1/basename.1:58
-#: raw/man1/pr.1:128
-msgid ""
-"This is free software: you are free to change and redistribute it.  There is "
-"NO WARRANTY, to the extent permitted by law."
-msgstr ""
-"This is free software: you are free to change and redistribute it.  There is "
-"NO WARRANTY, to the extent permitted by law."
-
-#. type: SH
-#: raw/man8/chroot.8:41 raw/man1/cksum.1:33 raw/man1/touch.1:81
-#: raw/man1/false.1:37 raw/man1/[.1:167 raw/man1/stat.1:184
-#: raw/man1/hostid.1:30 raw/man1/sha1sum.1:61 raw/man1/sha224sum.1:61
-#: raw/man1/stdbuf.1:64 raw/man1/timeout.1:73 raw/man1/nl.1:94
-#: raw/man1/printf.1:94 raw/man1/runcon.1:64 raw/man1/mkdir.1:49
-#: raw/man1/sort.1:152 raw/man1/whoami.1:31 raw/man1/expand.1:42
-#: raw/man1/mkfifo.1:42 raw/man1/install.1:127 raw/man1/df.1:115
-#: raw/man1/shuf.1:61 raw/man1/join.1:89 raw/man1/readlink.1:59
-#: raw/man1/stty.1:404 raw/man1/rm.1:100 raw/man1/du.1:159
-#: raw/man1/dircolors.1:44 raw/man1/chmod.1:160 raw/man1/mktemp.1:58
-#: raw/man1/factor.1:34 raw/man1/comm.1:62 raw/man1/pinky.1:59
-#: raw/man1/echo.1:84 raw/man1/nice.1:41 raw/man1/shred.1:101
-#: raw/man1/tty.1:33 raw/man1/cut.1:79 raw/man1/id.1:59 raw/man1/test.1:167
-#: raw/man1/ptx.1:87 raw/man1/od.1:164 raw/man1/unlink.1:33
-#: raw/man1/rmdir.1:43 raw/man1/tail.1:90 raw/man1/numfmt.1:159
-#: raw/man1/env.1:43 raw/man1/sleep.1:37 raw/man1/uname.1:58
-#: raw/man1/logname.1:30 raw/man1/tsort.1:31 raw/man1/mknod.1:60
-#: raw/man1/who.1:86 raw/man1/realpath.1:58 raw/man1/cat.1:69
-#: raw/man1/dirname.1:44 raw/man1/printenv.1:38 raw/man1/chown.1:119
-#: raw/man1/users.1:31 raw/man1/csplit.1:73 raw/man1/sha256sum.1:61
-#: raw/man1/chcon.1:89 raw/man1/fold.1:42 raw/man1/uniq.1:75
-#: raw/man1/pathchk.1:39 raw/man1/truncate.1:57 raw/man1/md5sum.1:65
-#: raw/man1/dd.1:185 raw/man1/seq.1:58 raw/man1/wc.1:58 raw/man1/expr.1:104
-#: raw/man1/tr.1:132 raw/man1/head.1:54 raw/man1/split.1:80 raw/man1/tee.1:38
-#: raw/man1/arch.1:30 raw/man1/ls.1:252 raw/man1/sum.1:38 raw/man1/paste.1:40
-#: raw/man1/sync.1:30 raw/man1/fmt.1:57 raw/man1/md5sum.textutils.1:65
-#: raw/man1/sha512sum.1:61 raw/man1/ln.1:113 raw/man1/sha384sum.1:61
-#: raw/man1/dir.1:252 raw/man1/true.1:37 raw/man1/vdir.1:252 raw/man1/pwd.1:42
-#: raw/man1/groups.1:31 raw/man1/yes.1:33 raw/man1/tac.1:42 raw/man1/cp.1:174
-#: raw/man1/date.1:248 raw/man1/link.1:33 raw/man1/base64.1:49
-#: raw/man1/chgrp.1:87 raw/man1/nproc.1:37 raw/man1/unexpand.1:45
-#: raw/man1/mv.1:96 raw/man1/nohup.1:43 raw/man1/basename.1:58
-#: raw/man1/pr.1:128
-#, no-wrap
-msgid "SEE ALSO"
-msgstr "参见"
-
-#. type: TP
-#: raw/man1/touch.1:32 raw/man1/chown.1:48 raw/man1/chcon.1:25
-#: raw/man1/chgrp.1:29
-#, no-wrap
-msgid "B<-h>, B<--no-dereference>"
-msgstr "B<-h>, B<--no-dereference>"
-
-#. type: SH
-#: raw/man1/stdbuf.1:45 raw/man1/comm.1:43 raw/man1/od.1:145
-#: raw/man1/numfmt.1:118 raw/man1/cat.1:50 raw/man1/dirname.1:22
-#: raw/man1/chown.1:97 raw/man1/date.1:215 raw/man1/chgrp.1:68
-#: raw/man1/basename.1:33
-#, no-wrap
-msgid "EXAMPLES"
-msgstr "范例"
-
-#. type: TP
-#: raw/man1/mkdir.1:20 raw/man1/install.1:79 raw/man1/readlink.1:35
-#: raw/man1/rm.1:64 raw/man1/chmod.1:125 raw/man1/shred.1:30
-#: raw/man1/rmdir.1:22 raw/man1/tail.1:55 raw/man1/chown.1:41
-#: raw/man1/chcon.1:53 raw/man1/head.1:29 raw/man1/ln.1:73 raw/man1/cp.1:112
-#: raw/man1/chgrp.1:22 raw/man1/mv.1:55
-#, no-wrap
-msgid "B<-v>, B<--verbose>"
-msgstr "B<-v>, B<--verbose>"
-
-#. type: SH
-#: raw/man1/df.1:29 raw/man1/rm.1:29 raw/man1/chmod.1:115 raw/man1/chown.1:31
-#, no-wrap
-msgid "OPTIONS"
-msgstr "选项"
-
-#. type: Plain text
-#: raw/man1/readlink.1:35 raw/man1/chmod.1:125 raw/man1/realpath.1:28
-#: raw/man1/chown.1:41 raw/man1/chgrp.1:22
-msgid "suppress most error messages"
-msgstr "隐藏大多数错误信息"
-
-#. type: TP
-#: raw/man1/rm.1:52 raw/man1/chmod.1:128 raw/man1/chown.1:59
-#: raw/man1/chcon.1:40 raw/man1/chgrp.1:34
-#, no-wrap
-msgid "B<--no-preserve-root>"
-msgstr "B<--no-preserve-root>"
-
-#. type: TP
-#: raw/man1/rm.1:55 raw/man1/chmod.1:131 raw/man1/chown.1:62
-#: raw/man1/chcon.1:43 raw/man1/chgrp.1:37
-#, no-wrap
-msgid "B<--preserve-root>"
-msgstr "B<--preserve-root>"
-
-#. type: TP
-#: raw/man1/du.1:55 raw/man1/chown.1:76 raw/man1/chcon.1:60 raw/man1/cp.1:47
-#: raw/man1/chgrp.1:51
-#, no-wrap
-msgid "B<-H>"
-msgstr ""
-
-#. type: TP
-#: raw/man1/chmod.1:119 raw/man1/chown.1:35 raw/man1/chgrp.1:16
-#, no-wrap
-msgid "B<-c>, B<--changes>"
-msgstr "B<-c>, B<--changes>"
-
-#. type: Plain text
-#: raw/man1/chmod.1:122 raw/man1/chown.1:38 raw/man1/chgrp.1:19
-msgid "like verbose but report only when a change is made"
-msgstr ""
-
-#. type: TP
-#: raw/man1/chmod.1:122 raw/man1/chown.1:38 raw/man1/chgrp.1:19
-#, no-wrap
-msgid "B<-f>, B<--silent>, B<--quiet>"
-msgstr ""
-
-#. type: Plain text
-#: raw/man1/chmod.1:128 raw/man1/chown.1:44 raw/man1/chcon.1:56
-#: raw/man1/chgrp.1:25
-msgid "output a diagnostic for every file processed"
-msgstr ""
-
-#. type: Plain text
-#: raw/man1/chmod.1:131 raw/man1/chown.1:62 raw/man1/chcon.1:43
-#: raw/man1/chgrp.1:37
-msgid "do not treat '/' specially (the default)"
-msgstr ""
-
-#. type: Plain text
-#: raw/man1/chmod.1:134 raw/man1/chown.1:65 raw/man1/chcon.1:46
-#: raw/man1/chgrp.1:40
-msgid "fail to operate recursively on '/'"
-msgstr ""
-
-#. type: TP
-#: raw/man1/chmod.1:134 raw/man1/chown.1:65 raw/man1/chcon.1:46
-#: raw/man1/chgrp.1:40
-#, no-wrap
-msgid "B<--reference>=I<RFILE>"
-msgstr ""
-
-#. type: TP
-#: raw/man1/chmod.1:137 raw/man1/chown.1:69 raw/man1/chcon.1:50
-#: raw/man1/ls.1:156 raw/man1/dir.1:156 raw/man1/vdir.1:156
-#: raw/man1/chgrp.1:44
-#, no-wrap
-msgid "B<-R>, B<--recursive>"
-msgstr "B<-R>, B<--recursive>"
-
-#. type: Plain text
-#: raw/man1/chmod.1:150 raw/man1/dirname.1:34 raw/man1/chown.1:109
-#: raw/man1/head.1:44 raw/man1/chgrp.1:77
-msgid "Written by David MacKenzie and Jim Meyering."
-msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
-
-#. type: TH
-#: raw/man1/chown.1:2
+# File: raw/man1/chown.1, line: 2
 #, no-wrap
 msgid "CHOWN"
 msgstr ""
-
+#
+#. type: TH
+# File: raw/man1/chown.1, line: 2
+#, no-wrap
+msgid "February 2016"
+msgstr ""
+#
+#. type: TH
+# File: raw/man1/chown.1, line: 2
+#, fuzzy, no-wrap
+msgid "GNU coreutils 8.25"
+msgstr "GNU coreutils 8.23"
+#
+#. type: TH
+# File: raw/man1/chown.1, line: 2
+#, no-wrap
+msgid "User Commands"
+msgstr "User Commands"
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 3
+#, no-wrap
+msgid "NAME"
+msgstr "名称"
+#
 #. type: Plain text
-#: raw/man1/chown.1:5
+# File: raw/man1/chown.1, line: 5
 msgid "chown - change file owner and group"
 msgstr ""
-
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 5
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr "概述"
+#
 #. type: Plain text
-#: raw/man1/chown.1:8
-msgid "B<chown> [I<OPTION>]... [I<OWNER>][I<:>[I<GROUP>]] I<FILE>..."
+# File: raw/man1/chown.1, line: 8
+msgid ""
+"B<chown> [I<\\,OPTION\\/>]... [I<\\,OWNER\\/>][I<\\,:\\/>[I<\\,GROUP\\/>]] I<"
+"\\,FILE\\/>..."
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:11
-msgid "B<chown> [I<OPTION>]... I<--reference=RFILE FILE>..."
+# File: raw/man1/chown.1, line: 11
+msgid "B<chown> [I<\\,OPTION\\/>]... I<\\,--reference=RFILE FILE\\/>..."
 msgstr ""
-
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 11
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr "描述"
+#
 #. type: Plain text
-#: raw/man1/chown.1:31
+# File: raw/man1/chown.1, line: 31
 msgid ""
 "This manual page documents the GNU version of B<chown>.  B<chown> changes "
 "the user and/or group ownership of each given file.  If only an owner (a "
@@ -794,155 +93,325 @@ msgid ""
 "B<chgrp>.  If only a colon is given, or if the entire operand is empty, "
 "neither the owner nor the group is changed."
 msgstr ""
-
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 31
+#, no-wrap
+msgid "OPTIONS"
+msgstr "选项"
+#
 #. type: Plain text
-#: raw/man1/chown.1:35
+# File: raw/man1/chown.1, line: 35
 msgid ""
 "Change the owner and/or group of each FILE to OWNER and/or GROUP.  With B<--"
 "reference>, change the owner and group of each FILE to those of RFILE."
 msgstr ""
-
+#
 #. type: TP
-#: raw/man1/chown.1:44 raw/man1/chcon.1:21 raw/man1/chgrp.1:25
+# File: raw/man1/chown.1, line: 35
+#, no-wrap
+msgid "B<-c>, B<--changes>"
+msgstr "B<-c>, B<--changes>"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 38
+msgid "like verbose but report only when a change is made"
+msgstr ""
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 38
+#, no-wrap
+msgid "B<-f>, B<--silent>, B<--quiet>"
+msgstr ""
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 41
+msgid "suppress most error messages"
+msgstr "隐藏大多数错误信息"
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 41
+#, no-wrap
+msgid "B<-v>, B<--verbose>"
+msgstr "B<-v>, B<--verbose>"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 44
+msgid "output a diagnostic for every file processed"
+msgstr ""
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 44
 #, no-wrap
 msgid "B<--dereference>"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:48 raw/man1/chcon.1:25 raw/man1/chgrp.1:29
+# File: raw/man1/chown.1, line: 48
 msgid ""
 "affect the referent of each symbolic link (this is the default), rather than "
 "the symbolic link itself"
 msgstr ""
-
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 48
+#, no-wrap
+msgid "B<-h>, B<--no-dereference>"
+msgstr "B<-h>, B<--no-dereference>"
+#
 #. type: Plain text
-#: raw/man1/chown.1:53 raw/man1/chgrp.1:34
+# File: raw/man1/chown.1, line: 53
 msgid ""
 "affect symbolic links instead of any referenced file (useful only on systems "
 "that can change the ownership of a symlink)"
 msgstr ""
-
+#
 #. type: TP
-#: raw/man1/chown.1:53
+# File: raw/man1/chown.1, line: 53
 #, no-wrap
-msgid "B<--from>=I<CURRENT_OWNER>:CURRENT_GROUP"
+msgid "B<--from>=I<\\,CURRENT_OWNER\\/>:CURRENT_GROUP"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:59
+# File: raw/man1/chown.1, line: 59
 msgid ""
 "change the owner and/or group of each file only if its current owner and/or "
 "group match those specified here.  Either may be omitted, in which case a "
 "match is not required for the omitted attribute"
 msgstr ""
-
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 59
+#, no-wrap
+msgid "B<--no-preserve-root>"
+msgstr "B<--no-preserve-root>"
+#
 #. type: Plain text
-#: raw/man1/chown.1:69
+# File: raw/man1/chown.1, line: 62
+msgid "do not treat '/' specially (the default)"
+msgstr ""
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 62
+#, no-wrap
+msgid "B<--preserve-root>"
+msgstr "B<--preserve-root>"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 65
+msgid "fail to operate recursively on '/'"
+msgstr ""
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 65
+#, no-wrap
+msgid "B<--reference>=I<\\,RFILE\\/>"
+msgstr ""
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 69
 msgid "use RFILE's owner and group rather than specifying OWNER:GROUP values"
 msgstr ""
-
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 69
+#, no-wrap
+msgid "B<-R>, B<--recursive>"
+msgstr "B<-R>, B<--recursive>"
+#
 #. type: Plain text
-#: raw/man1/chown.1:72 raw/man1/chcon.1:53 raw/man1/chgrp.1:47
+# File: raw/man1/chown.1, line: 72
 msgid "operate on files and directories recursively"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:76 raw/man1/chcon.1:60 raw/man1/chgrp.1:51
+# File: raw/man1/chown.1, line: 76
 msgid ""
 "The following options modify how a hierarchy is traversed when the B<-R> "
 "option is also specified.  If more than one is specified, only the final one "
 "takes effect."
 msgstr ""
-
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 76
+#, no-wrap
+msgid "B<-H>"
+msgstr ""
+#
 #. type: Plain text
-#: raw/man1/chown.1:80 raw/man1/chcon.1:64 raw/man1/chgrp.1:55
+# File: raw/man1/chown.1, line: 80
 msgid ""
 "if a command line argument is a symbolic link to a directory, traverse it"
 msgstr ""
-
+#
 #. type: TP
-#: raw/man1/chown.1:80 raw/man1/chcon.1:64 raw/man1/chgrp.1:55
+# File: raw/man1/chown.1, line: 80
 #, no-wrap
 msgid "B<-L>"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:84 raw/man1/chcon.1:68 raw/man1/chgrp.1:59
+# File: raw/man1/chown.1, line: 84
 msgid "traverse every symbolic link to a directory encountered"
 msgstr ""
-
+#
 #. type: TP
-#: raw/man1/chown.1:84 raw/man1/chcon.1:68 raw/man1/pathchk.1:15
-#: raw/man1/chgrp.1:59
+# File: raw/man1/chown.1, line: 84
 #, no-wrap
 msgid "B<-P>"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:87 raw/man1/chcon.1:71 raw/man1/chgrp.1:62
+# File: raw/man1/chown.1, line: 87
 msgid "do not traverse any symbolic links (default)"
 msgstr ""
-
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 87
+#, no-wrap
+msgid "B<--help>"
+msgstr "B<--help>"
+#
 #. type: Plain text
-#: raw/man1/chown.1:97
+# File: raw/man1/chown.1, line: 90
+msgid "display this help and exit"
+msgstr "显示此帮助信息并退出"
+#
+#. type: TP
+# File: raw/man1/chown.1, line: 90
+#, no-wrap
+msgid "B<--version>"
+msgstr "B<--version>"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 93
+msgid "output version information and exit"
+msgstr "显示版本信息并退出"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 97
 msgid ""
 "Owner is unchanged if missing.  Group is unchanged if missing, but changed "
 "to login group if implied by a ':' following a symbolic OWNER.  OWNER and "
 "GROUP may be numeric as well as symbolic."
 msgstr ""
-
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 97
+#, no-wrap
+msgid "EXAMPLES"
+msgstr "范例"
+#
 #. type: TP
-#: raw/man1/chown.1:98
+# File: raw/man1/chown.1, line: 98
 #, no-wrap
 msgid "chown root /u"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:101
+# File: raw/man1/chown.1, line: 101
 msgid "Change the owner of /u to \"root\"."
 msgstr ""
-
+#
 #. type: TP
-#: raw/man1/chown.1:101
+# File: raw/man1/chown.1, line: 101
 #, no-wrap
 msgid "chown root:staff /u"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:104
+# File: raw/man1/chown.1, line: 104
 msgid "Likewise, but also change its group to \"staff\"."
 msgstr ""
-
+#
 #. type: TP
-#: raw/man1/chown.1:104
+# File: raw/man1/chown.1, line: 104
 #, no-wrap
 msgid "chown -hR root /u"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:107
+# File: raw/man1/chown.1, line: 107
 msgid "Change the owner of /u and subfiles to \"root\"."
 msgstr ""
-
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 107
+#, no-wrap
+msgid "AUTHOR"
+msgstr "作者"
+#
 #. type: Plain text
-#: raw/man1/chown.1:113
+# File: raw/man1/chown.1, line: 109
+msgid "Written by David MacKenzie and Jim Meyering."
+msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 109
+#, no-wrap
+msgid "REPORTING BUGS"
+msgstr "报告错误"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 111
+msgid ""
+"GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 113
 msgid ""
 "Report chown translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 113
+#, no-wrap
+msgid "COPYRIGHT"
+msgstr "版权"
+#
 #. type: Plain text
-#: raw/man1/chown.1:121
+# File: raw/man1/chown.1, line: 116
+#, fuzzy
+msgid ""
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+msgstr ""
+"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 119
+msgid ""
+"This is free software: you are free to change and redistribute it.  There is "
+"NO WARRANTY, to the extent permitted by law."
+msgstr ""
+"This is free software: you are free to change and redistribute it.  There is "
+"NO WARRANTY, to the extent permitted by law."
+#
+#. type: SH
+# File: raw/man1/chown.1, line: 119
+#, no-wrap
+msgid "SEE ALSO"
+msgstr "参见"
+#
+#. type: Plain text
+# File: raw/man1/chown.1, line: 121
 msgid "chown(2)"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:124
+# File: raw/man1/chown.1, line: 124
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/chownE<gt>"
 msgstr ""
-
+#
 #. type: Plain text
-#: raw/man1/chown.1:125
+# File: raw/man1/chown.1, line: 125
 msgid "or available locally via: info \\(aq(coreutils) chown invocation\\(aq"
 msgstr ""
+#
+#~ msgid "March 2015"
+#~ msgstr "2015年三月"

@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+for i in $(ls template | grep -o "^.*.pot$" | sed 's/....$//'); do
+    if [ -e po/${i}.zh_CN.po ]; then
+        msgmerge -U --strict po/${i}.zh_CN.po template/${i}.pot
+    else
+        echo "${i}.zh_CN.po not exist, trying to create one..."
+        msginit --no-translator -i template/${i}.pot -o po/${i}.zh_CN.po -l "zh_CN.UTF-8"
+    fi
+done
