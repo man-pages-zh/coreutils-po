@@ -1,6 +1,45 @@
 ## GNU coreutils手册页翻译
 
-master分支放的是`GNU coreutils 8.23`手册页的翻译。
+master分支放的是`GNU coreutils 8.25`手册页的翻译。
+
+### 参与翻译
+
+本章节为翻译参与者提供参考信息。
+
+#### 软件依赖
+
+* python3
+* po4a
+* man2html（可选）
+
+#### 具体步骤
+
+0. 从 translationproject.org 下载并导入最新的 coreutils po 文件，放入`po/`目录下。（可选，非必须）
+1. 导入上游新释出的 man 手册页，解压缩后覆盖`raw/`目录下的已有文件。
+2. 运行`update-pot`更新`pot/`目录下的 po 模板文件。
+3. 运行`update-po`更新`po/`目录下的翻译 po 文件。
+4. 使用翻译工具对`po/`目录下的文件进行翻译。推荐使用专门的软件，比如`lokalize`并合理利用翻译存储功能。
+5. 单文件翻译进度大于80%后，可以使用`./preview some_command`进行预览。
+
+请注意，对一般翻译者来说，只需要使用翻译工具翻译`.po`文件即可，并使用 Pull Request 提交工作。
+
+#### 注意事项
+
+1. 如果coreutils.po和manpages-zh已经有相应的翻译，请沿用已有的翻译。当然，可以在原有的基础上改进。
+2. 对于不了解的内容，请**不要**翻译。对于coreutils，手册页的描述其实非常简略，模棱两可的地方一定弄明白（看info或者源代码）再翻译。否则请**不要**翻译。
+
+翻译规范参考 [**Wiki**](https://github.com/man-pages-zh/wiki/wiki/%E7%BF%BB%E8%AF%91%E8%A7%84%E8%8C%83)。
+
+### 维护
+
+本段为项目维护者提供参考。
+
+请先安装python3、[man2html](https://github.com/man-pages-zh/man2html)和po4a。
+
+脚本`generate`可以：
+
+1. 根据po文件，生成翻译
+2. 生成相应的html文件
 
 ### 任务分配
 表格中没有加`特效`的命令表示已经翻译校对过一遍了。
@@ -34,23 +73,3 @@ SELinux环境 | `chcon` `runcon` |
 数值操作 | factor seq | | | 
 
 
-### 翻译和维护
-请先安装python3和po4a。
-
-只要翻译`po`目录下面的文件就可以了。推荐使用专门的软件，比如`lokalize`。翻译好之后，请务必预览你翻译好的命令。
-使用`./preview command`就可以预览。
-
-**注意**：
-
-1. 如果coreutils.po和manpages-zh已经有相应的翻译，请沿用已有的翻译。当然，可以在原有的基础上改进。
-2. 对于不了解的内容，请**不要**翻译。对于coreutils，手册页的描述其实非常简略，模棱两可的地方一定弄明白（看info或者源代码）再翻译。否则请**不要**翻译。
-
-翻译规范参考 [**Wiki**](https://github.com/man-pages-zh/wiki/wiki/%E7%BF%BB%E8%AF%91%E8%A7%84%E8%8C%83)。
-
-### 维护
-请先安装python3、[man2html](https://github.com/man-pages-zh/man2html)和po4a。
-
-脚本`generate`可以：
-
-1. 根据po文件，生成翻译
-2. 生成相应的html文件
