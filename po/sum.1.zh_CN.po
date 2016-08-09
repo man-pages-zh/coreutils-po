@@ -1,154 +1,175 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:41+0800\n"
-"PO-Revision-Date: 2015-05-30 03:41+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2016-08-09 22:23+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/sum.1, line: 2
 #, no-wrap
 msgid "SUM"
 msgstr "SUM"
+
 #
 #. type: TH
 # File: raw/man1/sum.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/sum.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/sum.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 5
 msgid "sum - checksum and count the blocks in a file"
 msgstr "sum - 求校验和并统计文件块数目"
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/sum.1, line: 8
-#, fuzzy
 msgid "B<sum> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
-msgstr "B<sum> [I<选项>]... [I<文件列表>]..."
+msgstr "B<sum> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 12
 msgid "Print checksum and block counts for each FILE."
 msgstr "打印校验和以及文件列表中每一个文件的文件块数目。"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 14
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
+
 #
 #. type: TP
 # File: raw/man1/sum.1, line: 14
 #, no-wrap
 msgid "B<-r>"
 msgstr "B<-r>"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 17
 msgid "use BSD sum algorithm, use 1K blocks"
 msgstr "使用 BSD 求和算法，使用 1K 文件块"
+
 #
 #. type: TP
 # File: raw/man1/sum.1, line: 17
 #, no-wrap
 msgid "B<-s>, B<--sysv>"
 msgstr "B<-s>, B<--sysv>"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 20
 msgid "use System V sum algorithm, use 512 bytes blocks"
 msgstr "使用 System V 求和算法，使用 512 字节文件块"
+
 #
 #. type: TP
 # File: raw/man1/sum.1, line: 20
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 23
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/sum.1, line: 23
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 26
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 26
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 28
 msgid "Written by Kayvan Aghaiepour and David MacKenzie."
 msgstr "由 Kayvan Aghaiepour 和 David MacKenzie 编写。"
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 28
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 30
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 32
@@ -157,22 +178,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 sum 的翻译"
 "错误。"
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 32
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/sum.1, line: 35
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 38
@@ -182,23 +204,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/sum.1, line: 38
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 40
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/sumE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/sumE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/sum.1, line: 41
 msgid "or available locally via: info \\(aq(coreutils) sum invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) sum invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

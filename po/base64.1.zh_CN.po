@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2016-08-09 19:11+0800\n"
+"PO-Revision-Date: 2016-08-09 21:54+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -32,7 +32,7 @@ msgstr "BASE64"
 # File: raw/man1/base64.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
+msgstr "2016年二月"
 
 #. type: TH
 # File: raw/man1/base64.1, line: 2
@@ -164,19 +164,16 @@ msgstr "B<--version>"
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 
-#
 #. type: Plain text
 # File: raw/man1/base64.1, line: 37
-#, fuzzy
 msgid ""
 "The data are encoded as described for the base64 alphabet in RFC 4648.  When "
 "decoding, the input may contain newlines in addition to the bytes of the "
 "formal base64 alphabet.  Use B<--ignore-garbage> to attempt to recover from "
 "any other non-alphabet bytes in the encoded stream."
 msgstr ""
-"数据以 RFC 3548 规定的 Base64 字母表编码 。解码时，除了 Base64 字母表中字符，"
-"输入数据(加密流)中可能还会有换行符。可以尝试用 B<--ignore-garbage> 选项来忽略"
-"加密流中任何不在字母表中的字符。"
+"数据以 RFC 3548 规定的 Base64 字母表编码 。解码时，除了 Base64 字母表中字符，输入数据（字节流）中可能还会有换行符。可以尝试用"
+" B<--ignore-garbage> 选项来忽略字节流中任何不在字母表中的字符。"
 
 #
 #. type: SH

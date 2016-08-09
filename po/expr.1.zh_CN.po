@@ -1,104 +1,115 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-05-20 15:52+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2016-08-09 21:57+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/expr.1, line: 2
 #, no-wrap
 msgid "EXPR"
 msgstr "EXPR"
+
 #
 #. type: TH
 # File: raw/man1/expr.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/expr.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/expr.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 5
 msgid "expr - evaluate expressions"
 msgstr "expr - 对表达式求值"
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/expr.1, line: 8
-#, fuzzy
 msgid "B<expr> I<\\,EXPRESSION\\/>"
-msgstr "B<expr> I<表达式>"
-#
+msgstr "B<expr> I<\\,表达式\\/>"
+
 #. type: Plain text
 # File: raw/man1/expr.1, line: 11
-#, fuzzy
 msgid "B<expr> I<\\,OPTION\\/>"
-msgstr "B<expr> I<选项>"
+msgstr "B<expr> I<\\,选项\\/>"
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 13
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 16
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 16
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 19
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 22
@@ -108,231 +119,273 @@ msgid ""
 msgstr ""
 "将表达式的值打印至标准输出。以下说明以空行分隔优先级级别，运算优先级从低到"
 "高。表达式可能为："
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 22
 #, no-wrap
 msgid "ARG1 | ARG2"
 msgstr "参数1 | 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 25
 msgid "ARG1 if it is neither null nor 0, otherwise ARG2"
 msgstr "如果参数1 既不是 null 也不是 0，则为参数1，否则为参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 25
 #, no-wrap
 msgid "ARG1 & ARG2"
 msgstr "参数1 & 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 28
 msgid "ARG1 if neither argument is null or 0, otherwise 0"
 msgstr "如果两个参数都不是 null 也不是 0，则为参数1，否则为 0"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 28
 #, no-wrap
 msgid "ARG1 E<lt> ARG2"
 msgstr "参数1 E<lt> 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 31
 msgid "ARG1 is less than ARG2"
 msgstr "参数1 小于参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 31
 #, no-wrap
 msgid "ARG1 E<lt>= ARG2"
 msgstr "参数1 E<lt>= 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 34
 msgid "ARG1 is less than or equal to ARG2"
 msgstr "参数1 小于或等于参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 34
 #, no-wrap
 msgid "ARG1 = ARG2"
 msgstr "参数1 = 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 37
 msgid "ARG1 is equal to ARG2"
 msgstr "参数1 等于参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 37
 #, no-wrap
 msgid "ARG1 != ARG2"
 msgstr "参数1 != 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 40
 msgid "ARG1 is unequal to ARG2"
 msgstr "参数1 不等于参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 40
 #, no-wrap
 msgid "ARG1 E<gt>= ARG2"
 msgstr "参数1 E<gt>= 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 43
 msgid "ARG1 is greater than or equal to ARG2"
 msgstr "参数1 大于或等于参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 43
 #, no-wrap
 msgid "ARG1 E<gt> ARG2"
 msgstr "参数1 E<gt> 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 46
 msgid "ARG1 is greater than ARG2"
 msgstr "参数1 大于参数2"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 46
 #, no-wrap
 msgid "ARG1 + ARG2"
 msgstr "参数1 + 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 49
 msgid "arithmetic sum of ARG1 and ARG2"
 msgstr "参数1 和参数2 的代数和"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 49
 #, no-wrap
 msgid "ARG1 - ARG2"
 msgstr "参数1 - 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 52
 msgid "arithmetic difference of ARG1 and ARG2"
 msgstr "参数1 和参数2 的代数差"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 52
 #, no-wrap
 msgid "ARG1 * ARG2"
 msgstr "参数1 * 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 55
 msgid "arithmetic product of ARG1 and ARG2"
 msgstr "参数1 和参数2 的代数乘积"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 55
 #, no-wrap
 msgid "ARG1 / ARG2"
 msgstr "参数1 / 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 58
 msgid "arithmetic quotient of ARG1 divided by ARG2"
 msgstr "参数1 除以参数2 的代数商"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 58
 #, no-wrap
 msgid "ARG1 % ARG2"
 msgstr "参数1 % 参数2"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 61
 msgid "arithmetic remainder of ARG1 divided by ARG2"
 msgstr "参数1 除以参数2 所得余数"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 61
 #, no-wrap
 msgid "STRING : REGEXP"
 msgstr "字符串 : 正则表达式"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 64
 msgid "anchored pattern match of REGEXP in STRING"
 msgstr "在字符串中由给定正则表达式决定的锚定模式匹配"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 64
 #, no-wrap
 msgid "match STRING REGEXP"
 msgstr "match 字符串 正则表达式"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 67
 msgid "same as STRING : REGEXP"
 msgstr "与”字符串 : 正则表达式“相同"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 67
 #, no-wrap
 msgid "substr STRING POS LENGTH"
 msgstr "substr 字符串 位置 长度"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 70
 msgid "substring of STRING, POS counted from 1"
 msgstr "字符串的子串，位置由 1 开始计数"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 70
 #, no-wrap
 msgid "index STRING CHARS"
 msgstr "index 字符串 CHARS"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 73
 msgid "index in STRING where any CHARS is found, or 0"
 msgstr "任何能够在字符串中找到的 CHARS 的位置，或者 0"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 73
 #, no-wrap
 msgid "length STRING"
 msgstr "length 字符串"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 76
 msgid "length of STRING"
 msgstr "字符串 的长度"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 76
 #, no-wrap
 msgid "+ TOKEN"
 msgstr "+ TOKEN"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 79
 msgid "interpret TOKEN as a string, even if it is a"
 msgstr "将 TOKEN 视作字符串，即使它是一个"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 81
 msgid "keyword like 'match' or an operator like '/'"
 msgstr "类似于 'match' 的关键字或是一个类似 '/' 的操作符"
+
 #
 #. type: TP
 # File: raw/man1/expr.1, line: 81
 #, no-wrap
 msgid "( EXPRESSION )"
 msgstr "( 表达式 )"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 84
 msgid "value of EXPRESSION"
 msgstr "表达式 的值"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 89
@@ -347,6 +400,7 @@ msgstr ""
 "那么比较将在代数意义下进行，否则将按照词典序比较。模式比较时，将返回在 "
 "\\e( 和 \\e) 之间的字符串或者 null；如果 \\e( 和 \\e) 未被使用，那么返回匹配"
 "的字符个数或者 0。"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 92
@@ -358,30 +412,34 @@ msgstr ""
 "如果 表达式 既不是 null 也不是 0，则返回状态值为 0；如果 表达式 是 null 或 "
 "0，则返回状态值为 1；如果 表达式 在语法上无效，则返回状态值为 1；如果发生错"
 "误，则返回状态值为 3。"
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 92
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 94
 msgid "Written by Mike Parker, James Youngman, and Paul Eggert."
 msgstr "由 Mike Parker, James Youngman 和 Paul Eggert 编写。"
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 94
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 96
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 98
@@ -390,22 +448,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 expr 的翻译"
 "错误。"
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 98
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/expr.1, line: 101
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 104
@@ -415,23 +474,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/expr.1, line: 104
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 106
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/exprE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/exprE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/expr.1, line: 107
 msgid "or available locally via: info \\(aq(coreutils) expr invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) expr invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

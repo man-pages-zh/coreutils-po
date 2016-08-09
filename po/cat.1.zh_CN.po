@@ -1,270 +1,311 @@
+#
 # Chinese translations for coreutils package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the coreutils package.
 #
 # mhss <jijingzhisheng@up369.com>, 2001.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-06-02 16:54+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
-"Language-Team: Chinese Simplified <>\n"
+"PO-Revision-Date: 2016-08-09 21:27+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/cat.1, line: 2
 #, no-wrap
 msgid "CAT"
 msgstr "CAT"
+
 #
 #. type: TH
 # File: raw/man1/cat.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/cat.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/cat.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 5
 msgid "cat - concatenate files and print on the standard output"
 msgstr "cat - 连接文件并在标准输出上输出"
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/cat.1, line: 8
-#, fuzzy
 msgid "B<cat> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
-msgstr "B<cat> [I<选项>]... [I<文件>]..."
+msgstr "B<cat> [I<\\,选项\\/>]... [I<\\,文件\\/>]..."
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
-#
+
 #. type: Plain text
 # File: raw/man1/cat.1, line: 12
-#, fuzzy
 msgid "Concatenate FILE(s) to standard output."
-msgstr "将文件列表中的文件或标准输入连接到标准输出。"
+msgstr "将文件列表中的文件连接到标准输出。"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 14
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 14
 #, no-wrap
 msgid "B<-A>, B<--show-all>"
 msgstr "B<-A>, B<--show-all>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 17
 msgid "equivalent to B<-vET>"
 msgstr "等价于 B<-vET>"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 17
 #, no-wrap
 msgid "B<-b>, B<--number-nonblank>"
 msgstr "B<-b>, B<--number-nonblank>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 20
 msgid "number nonempty output lines, overrides B<-n>"
 msgstr "给非空输出行编号，使 B<-n> 失效。"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 20
 #, no-wrap
 msgid "B<-e>"
 msgstr "B<-e>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 23
 msgid "equivalent to B<-vE>"
 msgstr "等价于 B<-vE>"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 23
 #, no-wrap
 msgid "B<-E>, B<--show-ends>"
 msgstr "B<-E>, B<--show-ends>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 26
 msgid "display $ at end of each line"
 msgstr "在每行结束显示 $"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 26
 #, no-wrap
 msgid "B<-n>, B<--number>"
 msgstr "B<-n>, B<--number>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 29
 msgid "number all output lines"
 msgstr "给所有输出行编号"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 29
 #, no-wrap
 msgid "B<-s>, B<--squeeze-blank>"
 msgstr "B<-s>, B<--squeeze-blank>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 32
 msgid "suppress repeated empty output lines"
 msgstr "将所有的连续的多个空行替换为一个空行"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 32
 #, no-wrap
 msgid "B<-t>"
 msgstr "B<-t>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 35
 msgid "equivalent to B<-vT>"
 msgstr "等价于 B<-vT>"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 35
 #, no-wrap
 msgid "B<-T>, B<--show-tabs>"
 msgstr "B<-T>, B<--show-tabs>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 38
 msgid "display TAB characters as ^I"
 msgstr "把 TAB 字符显示为 ^I"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 38
 #, no-wrap
 msgid "B<-u>"
 msgstr "B<-u>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 41
 msgid "(ignored)"
 msgstr "（被忽略的选项）"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 41
 #, no-wrap
 msgid "B<-v>, B<--show-nonprinting>"
 msgstr "B<-v>, B<--show-nonprinting>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 44
 msgid "use ^ and M- notation, except for LFD and TAB"
 msgstr "除了 LFD 和 TAB 之外的不可打印字符，用 ^ 和 M- 标记方式显示"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 44
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 47
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 47
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 50
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 50
 #, no-wrap
 msgid "EXAMPLES"
 msgstr "范例"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 51
 #, no-wrap
 msgid "cat f - g"
 msgstr "cat f - g"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 54
 msgid "Output f's contents, then standard input, then g's contents."
 msgstr "依次输出文件 f，标准输入和文件 g 到标准输出"
+
 #
 #. type: TP
 # File: raw/man1/cat.1, line: 54
 #, no-wrap
 msgid "cat"
 msgstr "cat"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 57
 msgid "Copy standard input to standard output."
 msgstr "复制标准输入到标准输出"
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 57
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 59
 msgid "Written by Torbjorn Granlund and Richard M. Stallman."
 msgstr "由 Torbjorn Granlund 和 Richard M. Stallman 编写。"
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 59
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 61
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 63
@@ -273,22 +314,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 cat 的翻译"
 "错误。"
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 63
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/cat.1, line: 66
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 69
@@ -298,28 +340,33 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/cat.1, line: 69
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 71
 msgid "B<tac>(1)"
 msgstr "B<tac>(1)"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 74
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/catE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/catE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/cat.1, line: 75
 msgid "or available locally via: info \\(aq(coreutils) cat invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) cat invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"
