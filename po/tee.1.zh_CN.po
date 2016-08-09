@@ -1,15 +1,16 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:41+0800\n"
-"PO-Revision-Date: 2015-05-20 10:56+0800\n"
+"PO-Revision-Date: 2016-08-09 19:44+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -18,180 +19,209 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/tee.1, line: 2
 #, no-wrap
 msgid "TEE"
 msgstr "TEE"
+
 #
 #. type: TH
 # File: raw/man1/tee.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/tee.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/tee.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 5
 msgid "tee - read from standard input and write to standard output and files"
 msgstr "tee - 从标准输入读入并写往标准输出和文件"
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/tee.1, line: 8
-#, fuzzy
 msgid "B<tee> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
-msgstr "B<tee> [I<选项>]... [I<文件列表>]..."
+msgstr "B<tee> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 12
 msgid "Copy standard input to each FILE, and also to standard output."
 msgstr "把标准输入的数据复制到文件列表中的每一个文件，同时送往标准输出。"
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 12
 #, no-wrap
 msgid "B<-a>, B<--append>"
 msgstr "B<-a>, B<--append>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 15
 msgid "append to the given FILEs, do not overwrite"
 msgstr "追加到给出的文件，而不是覆盖"
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 15
 #, no-wrap
 msgid "B<-i>, B<--ignore-interrupts>"
 msgstr "B<-i>, B<--ignore-interrupts>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 18
 msgid "ignore interrupt signals"
 msgstr "忽略中断信号"
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 18
 #, no-wrap
 msgid "B<-p>"
-msgstr ""
+msgstr "B<-p>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 21
 msgid "diagnose errors writing to non pipes"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 21
 #, no-wrap
 msgid "B<--output-error>[=I<\\,MODE\\/>]"
-msgstr ""
+msgstr "B<--output-error>[=I<\\,模式\\/>]"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 24
 msgid "set behavior on write error.  See MODE below"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 24
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 27
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 27
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 30
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: SS
 # File: raw/man1/tee.1, line: 30
 #, no-wrap
 msgid "MODE determines behavior with write errors on the outputs:"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 31
 #, no-wrap
 msgid "\\&'warn'"
-msgstr ""
+msgstr "\\&'warn'"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 34
 msgid "diagnose errors writing to any output"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 34
 #, no-wrap
 msgid "\\&'warn-nopipe'"
-msgstr ""
+msgstr "\\&'warn-nopipe'"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 37
 msgid "diagnose errors writing to any output not a pipe"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 37
 #, no-wrap
 msgid "\\&'exit'"
-msgstr ""
+msgstr "\\&'exit'"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 40
 msgid "exit on error writing to any output"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/tee.1, line: 40
 #, no-wrap
 msgid "\\&'exit-nopipe'"
-msgstr ""
+msgstr "\\&'exit-nopipe'"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 43
 msgid "exit on error writing to any output not a pipe"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 48
@@ -200,30 +230,34 @@ msgid ""
 "operation when B<--output-error> is not specified, is to exit immediately on "
 "error writing to a pipe, and diagnose errors writing to non pipe outputs."
 msgstr ""
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 48
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 50
 msgid "Written by Mike Parker, Richard M. Stallman, and David MacKenzie."
 msgstr "由 Mike Parker, Richard M. Stallman 和 David MacKenzie 编写。"
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 50
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 52
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 54
@@ -232,22 +266,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 tee 的翻译"
 "错误。"
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 54
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/tee.1, line: 57
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 60
@@ -257,23 +292,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/tee.1, line: 60
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 62
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/teeE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/teeE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/tee.1, line: 63
 msgid "or available locally via: info \\(aq(coreutils) tee invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) tee invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

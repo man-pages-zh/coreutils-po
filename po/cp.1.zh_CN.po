@@ -1,168 +1,195 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-05-24 02:13+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
-"Language-Team: Chinese Simplified <>\n"
+"PO-Revision-Date: 2016-08-09 19:52+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/cp.1, line: 2
 #, no-wrap
 msgid "CP"
-msgstr ""
+msgstr "CP"
+
 #
 #. type: TH
 # File: raw/man1/cp.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "二月 2016"
+
 #. type: TH
 # File: raw/man1/cp.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/cp.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 5
 msgid "cp - copy files and directories"
-msgstr ""
+msgstr "cp - 复制文件和目录"
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 8
 msgid "B<cp> [I<\\,OPTION\\/>]... [I<\\,-T\\/>] I<\\,SOURCE DEST\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 11
 msgid "B<cp> [I<\\,OPTION\\/>]... I<\\,SOURCE\\/>... I<\\,DIRECTORY\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 14
 msgid "B<cp> [I<\\,OPTION\\/>]... I<\\,-t DIRECTORY SOURCE\\/>..."
 msgstr ""
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 14
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 18
 msgid "Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 20
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 20
 #, no-wrap
 msgid "B<-a>, B<--archive>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 23
 msgid "same as B<-dR> B<--preserve>=I<\\,all\\/>"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 23
 #, no-wrap
 msgid "B<--attributes-only>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 26
 msgid "don't copy the file data, just the attributes"
 msgstr ""
-#
+
 # Words in texinfo document is also hard to understand. Please make sure that you understand what CONTROL/METHOD is.
 #. type: TP
 # File: raw/man1/cp.1, line: 26
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--backup>[=I<\\,CONTROL\\/>]"
-msgstr "B<--backup>[=I<控制参数>]"
+msgstr "B<--backup>[=I<\\,控制参数\\/>]"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 29
 msgid "make a backup of each existing destination file"
 msgstr "为每个已存在的目标文件创建一个备份"
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 29
 #, no-wrap
 msgid "B<-b>"
 msgstr "B<-b>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 32
 msgid "like B<--backup> but does not accept an argument"
 msgstr "类似 B<--backup>，但是不接受参数"
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 32
 #, no-wrap
 msgid "B<--copy-contents>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 35
 msgid "copy contents of special files when recursive"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 35
 #, no-wrap
 msgid "B<-d>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 38
 msgid "same as B<--no-dereference> B<--preserve>=I<\\,links\\/>"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 38
 #, no-wrap
 msgid "B<-f>, B<--force>"
 msgstr "B<-f>, B<--force>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 43
@@ -170,89 +197,105 @@ msgid ""
 "if an existing destination file cannot be opened, remove it and try again "
 "(this option is ignored when the B<-n> option is also used)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 43
 #, no-wrap
 msgid "B<-i>, B<--interactive>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 47
 msgid "prompt before overwrite (overrides a previous B<-n> option)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 47
 #, no-wrap
 msgid "B<-H>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 50
 msgid "follow command-line symbolic links in SOURCE"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 50
 #, no-wrap
 msgid "B<-l>, B<--link>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 53
 msgid "hard link files instead of copying"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 53
 #, no-wrap
 msgid "B<-L>, B<--dereference>"
 msgstr "B<-L>, B<--dereference>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 56
 msgid "always follow symbolic links in SOURCE"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 56
 #, no-wrap
 msgid "B<-n>, B<--no-clobber>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 60
 msgid "do not overwrite an existing file (overrides a previous B<-i> option)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 60
 #, no-wrap
 msgid "B<-P>, B<--no-dereference>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 63
 msgid "never follow symbolic links in SOURCE"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 63
 #, no-wrap
 msgid "B<-p>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 66
 msgid "same as B<--preserve>=I<\\,mode\\/>,ownership,timestamps"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 66
 #, no-wrap
 msgid "B<--preserve>[=I<\\,ATTR_LIST\\/>]"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 72
@@ -260,56 +303,66 @@ msgid ""
 "preserve the specified attributes (default: mode,ownership,timestamps), if "
 "possible additional attributes: context, links, xattr, all"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 72
 #, no-wrap
 msgid "B<--no-preserve>=I<\\,ATTR_LIST\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 75
 msgid "don't preserve the specified attributes"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 75
 #, no-wrap
 msgid "B<--parents>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 78
 msgid "use full source file name under DIRECTORY"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 78
 #, no-wrap
 msgid "B<-R>, B<-r>, B<--recursive>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 81
 msgid "copy directories recursively"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 81
 #, no-wrap
 msgid "B<--reflink>[=I<\\,WHEN\\/>]"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 84
 msgid "control clone/CoW copies. See below"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 84
 #, no-wrap
 msgid "B<--remove-destination>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 88
@@ -317,78 +370,91 @@ msgid ""
 "remove each existing destination file before attempting to open it (contrast "
 "with B<--force>)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 88
 #, no-wrap
 msgid "B<--sparse>=I<\\,WHEN\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 91
 msgid "control creation of sparse files. See below"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 91
 #, no-wrap
 msgid "B<--strip-trailing-slashes>"
 msgstr "B<--strip-trailing-slashes>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 95
 msgid "remove any trailing slashes from each SOURCE argument"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 95
 #, no-wrap
 msgid "B<-s>, B<--symbolic-link>"
 msgstr "B<-s>, B<--symbolic-link>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 98
 msgid "make symbolic links instead of copying"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 98
 #, no-wrap
 msgid "B<-S>, B<--suffix>=I<\\,SUFFIX\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 101
 msgid "override the usual backup suffix"
 msgstr ""
-#
+
 #. type: TP
 # File: raw/man1/cp.1, line: 101
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-t>, B<--target-directory>=I<\\,DIRECTORY\\/>"
-msgstr "B<-T>, B<--no-target-directory>"
+msgstr "B<-t>, B<--target-directory>=I<\\,目录\\/>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 104
 msgid "copy all SOURCE arguments into DIRECTORY"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 104
 #, no-wrap
 msgid "B<-T>, B<--no-target-directory>"
 msgstr "B<-T>, B<--no-target-directory>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 107
 msgid "treat DEST as a normal file"
 msgstr "将目标文件当作普通文件对待（而不是目录）"
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 107
 #, no-wrap
 msgid "B<-u>, B<--update>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 112
@@ -396,45 +462,52 @@ msgid ""
 "copy only when the SOURCE file is newer than the destination file or when "
 "the destination file is missing"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 112
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 115
 msgid "explain what is being done"
 msgstr "解释正在发生的情况"
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 115
 #, no-wrap
 msgid "B<-x>, B<--one-file-system>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 118
 msgid "stay on this file system"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 118
 #, no-wrap
 msgid "B<-Z>"
 msgstr "B<-Z>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 122
 msgid "set SELinux security context of destination file to default type"
 msgstr ""
-#
+
 #. type: TP
 # File: raw/man1/cp.1, line: 122
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--context>[=I<\\,CTX\\/>]"
-msgstr "B<--context>[=I<CTX>]"
+msgstr "B<--context>[=I<\\,CTX\\/>]"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 126
@@ -442,28 +515,33 @@ msgid ""
 "like B<-Z>, or if CTX is specified then set the SELinux or SMACK security "
 "context to CTX"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 126
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 129
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 129
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 132
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 138
@@ -475,6 +553,7 @@ msgid ""
 "sequence of zero bytes.  Use B<--sparse>=I<\\,never\\/> to inhibit creation "
 "of sparse files."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 142
@@ -484,6 +563,7 @@ msgid ""
 "possible the copy fails, or if B<--reflink>=I<\\,auto\\/> is specified, fall "
 "back to a standard copy."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 146
@@ -493,50 +573,59 @@ msgid ""
 "B<--backup> option or through the VERSION_CONTROL environment variable.  "
 "Here are the values:"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 146
 #, no-wrap
 msgid "none, off"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 149
 msgid "never make backups (even if B<--backup> is given)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 149
 #, no-wrap
 msgid "numbered, t"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 152
 msgid "make numbered backups"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 152
 #, no-wrap
 msgid "existing, nil"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 155
 msgid "numbered if numbered backups exist, simple otherwise"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/cp.1, line: 155
 #, no-wrap
 msgid "simple, never"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 158
 msgid "always make simple backups"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 162
@@ -545,52 +634,58 @@ msgid ""
 "options are given and SOURCE and DEST are the same name for an existing, "
 "regular file."
 msgstr ""
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 162
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 164
 msgid "Written by Torbjorn Granlund, David MacKenzie, and Jim Meyering."
-msgstr ""
+msgstr "由 Torbjorn Granlund、David MacKenzie 和 Jim Meyering 编写。"
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 164
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 166
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 168
 msgid ""
 "Report cp translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 cp 的翻译错误。"
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 168
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/cp.1, line: 171
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 174
@@ -600,23 +695,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/cp.1, line: 174
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 176
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/cpE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/cpE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/cp.1, line: 177
 msgid "or available locally via: info \\(aq(coreutils) cp invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) cp invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

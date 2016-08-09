@@ -1,15 +1,16 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # riser <boomer@ccidnet.com>, 2001.
 # Darcy Shen <sadhen@zoho.com>, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:41+0800\n"
-"PO-Revision-Date: 2015-05-20 19:17+0800\n"
+"PO-Revision-Date: 2016-08-09 19:47+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -18,116 +19,130 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/yes.1, line: 2
 #, no-wrap
 msgid "YES"
 msgstr "YES"
+
 #
 #. type: TH
 # File: raw/man1/yes.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/yes.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/yes.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 5
 msgid "yes - output a string repeatedly until killed"
 msgstr "yes - 不断输出一个字符串，直到被杀死为止"
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/yes.1, line: 8
-#, fuzzy
 msgid "B<yes> [I<\\,STRING\\/>]..."
-msgstr "B<yes> [I<字符串>]..."
-#
+msgstr "B<yes> [I<\\,字符串\\/>]..."
+
 #. type: Plain text
 # File: raw/man1/yes.1, line: 11
-#, fuzzy
 msgid "B<yes> I<\\,OPTION\\/>"
-msgstr "B<yes> I<选项>"
+msgstr "B<yes> I<\\,选项\\/>"
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 15
 msgid "Repeatedly output a line with all specified STRING(s), or 'y'."
 msgstr "不断输出包括所有指定字符串的一行，或者是 'y'。"
+
 #
 #. type: TP
 # File: raw/man1/yes.1, line: 15
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 18
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/yes.1, line: 18
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 21
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 21
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 23
 msgid "Written by David MacKenzie."
 msgstr "由 David MacKenzie 编写。"
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 23
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 25
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 27
@@ -136,22 +151,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 yes 的翻译"
 "错误。"
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 27
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/yes.1, line: 30
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 33
@@ -161,23 +177,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/yes.1, line: 33
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 35
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/yesE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/yesE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/yes.1, line: 36
 msgid "or available locally via: info \\(aq(coreutils) yes invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) yes invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

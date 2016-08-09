@@ -1,125 +1,138 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-05-24 23:14+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2016-08-09 19:55+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/[.1, line: 2
 #, no-wrap
 msgid "TEST"
 msgstr "TEST"
+
 #
 #. type: TH
 # File: raw/man1/[.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/[.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/[.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 5
 msgid "test - check file types and compare values"
 msgstr "test - 检查文件类型并比较值\n"
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/[.1, line: 8
-#, fuzzy
 msgid "B<test> I<\\,EXPRESSION\\/>"
-msgstr "B<test> I<表达式>"
+msgstr "B<test> I<\\,表达式\\/>"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 10
 msgid "B<test>"
 msgstr "B<test>"
-#
+
 #. type: Plain text
 # File: raw/man1/[.1, line: 14
-#, fuzzy
 msgid "B<[> I<\\,EXPRESSION \\/>]"
-msgstr "B<[> I<表达式 >]"
+msgstr "B<[> I<\\,表达式 \\/>]"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 17
 msgid "B<[> ]"
 msgstr "B<[> ]"
-#
+
 #. type: Plain text
 # File: raw/man1/[.1, line: 20
-#, fuzzy
 msgid "B<[> I<\\,OPTION\\/>"
-msgstr "B<[> I<选项>"
+msgstr "B<[> I<\\,选项\\/>"
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 20
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 24
 msgid "Exit with the status determined by EXPRESSION."
 msgstr "退出状态值取决于表达式。"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 24
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 27
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 27
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 30
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 33
@@ -129,413 +142,488 @@ msgid ""
 msgstr ""
 "表达式被省略，则默认为假。否则，表达式可能为真或假，且以此设置返回状态。可能"
 "出现的情况如下所示："
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 33
 #, no-wrap
 msgid "( EXPRESSION )"
 msgstr "( 表达式 )"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 36
 msgid "EXPRESSION is true"
 msgstr "表达式为真"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 36
 #, no-wrap
 msgid "! EXPRESSION"
 msgstr "! 表达式"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 39
 msgid "EXPRESSION is false"
 msgstr "表达式为假"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 39
 #, no-wrap
 msgid "EXPRESSION1 B<-a> EXPRESSION2"
 msgstr "表达式1 B<-a> 表达式2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 42
 msgid "both EXPRESSION1 and EXPRESSION2 are true"
 msgstr "表达式1 与表达式2 皆为真"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 42
 #, no-wrap
 msgid "EXPRESSION1 B<-o> EXPRESSION2"
 msgstr "表达式1 B<-o> 表达式2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 45
 msgid "either EXPRESSION1 or EXPRESSION2 is true"
 msgstr "表达式1 或表达式2 为真"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 45
 #, no-wrap
 msgid "B<-n> STRING"
 msgstr "B<-n> 字符串"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 48
 msgid "the length of STRING is nonzero"
 msgstr "字符串长度非零"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 48
 #, no-wrap
 msgid "STRING"
 msgstr "STRING"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 51
 msgid "equivalent to B<-n> STRING"
 msgstr "等价于 B<-n> 字符串"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 51
 #, no-wrap
 msgid "B<-z> STRING"
 msgstr "B<-z> 字符串"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 54
 msgid "the length of STRING is zero"
 msgstr "字符串的长度为 0"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 54
 #, no-wrap
 msgid "STRING1 = STRING2"
 msgstr "字符串1 = 字符串2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 57
 msgid "the strings are equal"
 msgstr "字符串相等"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 57
 #, no-wrap
 msgid "STRING1 != STRING2"
 msgstr "字符串1 != 字符串2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 60
 msgid "the strings are not equal"
 msgstr "字符串不相等"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 60
 #, no-wrap
 msgid "INTEGER1 B<-eq> INTEGER2"
 msgstr "整数1 B<-eq> 整数2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 63
 msgid "INTEGER1 is equal to INTEGER2"
 msgstr "整数1 与整数2 相等"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 63
 #, no-wrap
 msgid "INTEGER1 B<-ge> INTEGER2"
 msgstr "整数1 B<-ge> 整数2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 66
 msgid "INTEGER1 is greater than or equal to INTEGER2"
 msgstr "整数1 大于或等于整数2"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 66
 #, no-wrap
 msgid "INTEGER1 B<-gt> INTEGER2"
 msgstr "整数1 B<-gt> 整数2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 69
 msgid "INTEGER1 is greater than INTEGER2"
 msgstr "整数1 大于整数2"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 69
 #, no-wrap
 msgid "INTEGER1 B<-le> INTEGER2"
 msgstr "整数1 B<-le> 整数2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 72
 msgid "INTEGER1 is less than or equal to INTEGER2"
 msgstr "整数1 小于或等于整数2"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 72
 #, no-wrap
 msgid "INTEGER1 B<-lt> INTEGER2"
 msgstr "整数1 B<-lt> 整数2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 75
 msgid "INTEGER1 is less than INTEGER2"
 msgstr "整数1 小于整数2"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 75
 #, no-wrap
 msgid "INTEGER1 B<-ne> INTEGER2"
 msgstr "整数1 B<-ne> 整数2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 78
 msgid "INTEGER1 is not equal to INTEGER2"
 msgstr "整数1 和整数2 不相等"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 78
 #, no-wrap
 msgid "FILE1 B<-ef> FILE2"
 msgstr "文件1 B<-ef> 文件2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 81
 msgid "FILE1 and FILE2 have the same device and inode numbers"
 msgstr "文件1 和文件2 拥有相同的设备编号与 inode 编号"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 81
 #, no-wrap
 msgid "FILE1 B<-nt> FILE2"
 msgstr "文件1 B<-nt> 文件2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 84
 msgid "FILE1 is newer (modification date) than FILE2"
 msgstr "文件1 在修改时间上新于文件2"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 84
 #, no-wrap
 msgid "FILE1 B<-ot> FILE2"
 msgstr "文件1 B<-ot> 文件2"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 87
 msgid "FILE1 is older than FILE2"
 msgstr "文件1 比文件2 更旧"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 87
 #, no-wrap
 msgid "B<-b> FILE"
 msgstr "B<-b> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 90
 msgid "FILE exists and is block special"
 msgstr "文件存在且为块特殊文件"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 90
 #, no-wrap
 msgid "B<-c> FILE"
 msgstr "B<-c> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 93
 msgid "FILE exists and is character special"
 msgstr "文件存在且为字符特殊文件"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 93
 #, no-wrap
 msgid "B<-d> FILE"
 msgstr "B<-d> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 96
 msgid "FILE exists and is a directory"
 msgstr "文件存在且为目录"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 96
 #, no-wrap
 msgid "B<-e> FILE"
 msgstr "B<-e> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 99
 msgid "FILE exists"
 msgstr "文件存在"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 99
 #, no-wrap
 msgid "B<-f> FILE"
 msgstr "B<-f> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 102
 msgid "FILE exists and is a regular file"
 msgstr "文件存在且为普通文件"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 102
 #, no-wrap
 msgid "B<-g> FILE"
 msgstr "B<-g> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 105
 msgid "FILE exists and is set-group-ID"
 msgstr "文件存在且被设置了 set-group-ID 位"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 105
 #, no-wrap
 msgid "B<-G> FILE"
 msgstr "B<-g> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 108
 msgid "FILE exists and is owned by the effective group ID"
 msgstr "文件存在且为有效组ID 所有"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 108
 #, no-wrap
 msgid "B<-h> FILE"
 msgstr "B<-h> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 111
 msgid "FILE exists and is a symbolic link (same as B<-L>)"
 msgstr "文件存在且为一个符号链接（与 B<-L> 相同）"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 111
 #, no-wrap
 msgid "B<-k> FILE"
 msgstr "B<-k> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 114
 msgid "FILE exists and has its sticky bit set"
 msgstr "文件存在且被设置粘着位"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 114
 #, no-wrap
 msgid "B<-L> FILE"
 msgstr "B<-L> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 117
 msgid "FILE exists and is a symbolic link (same as B<-h>)"
 msgstr "文件存在且为一个符号链接（与 B<-h> 相同）"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 117
 #, no-wrap
 msgid "B<-O> FILE"
 msgstr "B<-O> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 120
 msgid "FILE exists and is owned by the effective user ID"
 msgstr "文件存在且为有效用户ID 所有"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 120
 #, no-wrap
 msgid "B<-p> FILE"
 msgstr "B<-p> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 123
 msgid "FILE exists and is a named pipe"
 msgstr "文件存在且为命名管道"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 123
 #, no-wrap
 msgid "B<-r> FILE"
 msgstr "B<-r> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 126
 msgid "FILE exists and read permission is granted"
 msgstr "文件存在且被授予读权限"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 126
 #, no-wrap
 msgid "B<-s> FILE"
 msgstr "B<-s> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 129
 msgid "FILE exists and has a size greater than zero"
 msgstr "文件存在且其大小大于零"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 129
 #, no-wrap
 msgid "B<-S> FILE"
 msgstr "B<-S> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 132
 msgid "FILE exists and is a socket"
 msgstr "文件存在且为套接字"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 132
 #, no-wrap
 msgid "B<-t> FD"
 msgstr "B<-t> FD"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 135
 msgid "file descriptor FD is opened on a terminal"
 msgstr "文件描述符 FD 在某个终端打开"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 135
 #, no-wrap
 msgid "B<-u> FILE"
 msgstr "B<-u> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 138
 msgid "FILE exists and its set-user-ID bit is set"
 msgstr "文件存在且被设置了 set-user-ID 位"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 138
 #, no-wrap
 msgid "B<-w> FILE"
 msgstr "B<-w> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 141
 msgid "FILE exists and write permission is granted"
 msgstr "文件存在且被赋予了写权限"
+
 #
 #. type: TP
 # File: raw/man1/[.1, line: 141
 #, no-wrap
 msgid "B<-x> FILE"
 msgstr "B<-x> 文件"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 144
 msgid "FILE exists and execute (or search) permission is granted"
 msgstr "文件存在且被授予执行（或搜索）权限"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 148
@@ -548,6 +636,7 @@ msgstr ""
 "除了 B<-h> 和 B<-L>，所有与指定文件相关的测试都跟随符号链接。请注意在 shell "
 "中圆括号需要被转义（例如，使用反斜线）。也可以把“B<-l> 字符串”作为指定整数，"
 "其值为该字符串的长度。"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 151
@@ -557,6 +646,7 @@ msgid ""
 msgstr ""
 "注记：[ 接受 B<--help> 和 B<--version> 选项，但是 test 并非如此。test 将它们"
 "与其它非空字符串同等看待。"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 155
@@ -567,30 +657,34 @@ msgid ""
 msgstr ""
 "注意：您的 shell 可能内置了自己的 test 和/或 [ 程序版本，它会覆盖这里所提及的"
 "相应版本。请查阅您的 shell 文档获知它所支持的选项。"
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 155
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 157
 msgid "Written by Kevin Braunsdorf and Matthew Bradburn."
 msgstr "由 Kevin Braunsdorf 和 Matthew Bradburn 编写。"
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 157
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 159
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 161
@@ -599,22 +693,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 [ 的翻译错"
 "误。"
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 161
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/[.1, line: 164
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 167
@@ -624,23 +719,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/[.1, line: 167
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 169
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/[E<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/[E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/[.1, line: 170
 msgid "or available locally via: info \\(aq(coreutils) test invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) test invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"
