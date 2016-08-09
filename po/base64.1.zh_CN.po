@@ -1,151 +1,169 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-05-20 16:40+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
+"PO-Revision-Date: 2016-08-09 19:11+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/base64.1, line: 2
 #, no-wrap
 msgid "BASE64"
 msgstr "BASE64"
+
 #
 #. type: TH
 # File: raw/man1/base64.1, line: 2
 #, no-wrap
 msgid "February 2016"
 msgstr ""
-#
+
 #. type: TH
 # File: raw/man1/base64.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/base64.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 5
 msgid "base64 - base64 encode/decode data and print to standard output"
 msgstr "base64 - 以 base64 方式对数据编码/解码并输出到标准输出"
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/base64.1, line: 8
-#, fuzzy
 msgid "B<base64> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]"
-msgstr "B<base64> [I<选项>]... [I<文件列表>]"
+msgstr "B<base64> [I<\\,选项\\/>]... [I<\\,文件列表\/>]"
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 12
 msgid "Base64 encode or decode FILE, or standard input, to standard output."
-msgstr ""
-"以 Base64 方式对文件列表中的文件或者标准输入编码或解码，并输出到标准输出。"
+msgstr "以 Base64 方式对文件列表中的文件或者标准输入编码或解码，并输出到标准输出。"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 14
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 16
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
+
 #
 #. type: TP
 # File: raw/man1/base64.1, line: 16
 #, no-wrap
 msgid "B<-d>, B<--decode>"
 msgstr "B<-d>, B<--decode>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 19
 msgid "decode data"
 msgstr "对数据解码"
+
 #
 #. type: TP
 # File: raw/man1/base64.1, line: 19
 #, no-wrap
 msgid "B<-i>, B<--ignore-garbage>"
 msgstr "B<-i>, B<--ignore-garbage>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 22
 msgid "when decoding, ignore non-alphabet characters"
 msgstr "解码时忽略不在 Base64 字母表中的字符"
-#
+
 #. type: TP
 # File: raw/man1/base64.1, line: 22
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-w>, B<--wrap>=I<\\,COLS\\/>"
-msgstr "B<-w>, B<--wrap>=I<列数>"
+msgstr "B<-w>, B<--wrap>=I<\\,列数\\/>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 26
 msgid ""
 "wrap encoded lines after COLS character (default 76).  Use 0 to disable line "
 "wrapping"
-msgstr ""
-"编码后，输出在超过指定列数时自动折行(默认为76)。指定列数为0，则不自动折行。"
+msgstr "编码后，输出在超过指定列数时自动折行(默认为76)。指定列数为0，则不自动折行。"
+
 #
 #. type: TP
 # File: raw/man1/base64.1, line: 26
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 29
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/base64.1, line: 29
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 32
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 37
@@ -159,30 +177,34 @@ msgstr ""
 "数据以 RFC 3548 规定的 Base64 字母表编码 。解码时，除了 Base64 字母表中字符，"
 "输入数据(加密流)中可能还会有换行符。可以尝试用 B<--ignore-garbage> 选项来忽略"
 "加密流中任何不在字母表中的字符。"
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 37
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 39
 msgid "Written by Simon Josefsson."
 msgstr "由 Simon Josefsson 编写。"
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 39
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 41
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 43
@@ -192,22 +214,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 base64 的翻"
 "译错误。"
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 43
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/base64.1, line: 46
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 49
@@ -217,23 +240,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/base64.1, line: 49
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 51
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/base64E<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/base64E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/base64.1, line: 52
 msgid "or available locally via: info \\(aq(coreutils) base64 invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) base64 invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

@@ -1,115 +1,136 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-08-09 19:18+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/du.1, line: 2
 #, no-wrap
 msgid "DU"
-msgstr ""
+msgstr "DU"
+
 #
 #. type: TH
 # File: raw/man1/du.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "二月 2016"
+
 #. type: TH
 # File: raw/man1/du.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/du.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 5
 msgid "du - estimate file space usage"
-msgstr ""
+msgstr "du - 估计磁盘文件使用量"
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 8
 msgid "B<du> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
-msgstr ""
+msgstr "B<du> [I<\\,选项\\/>]... [I<\\,文件\\/>]..."
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 11
 msgid "B<du> [I<\\,OPTION\\/>]... I<\\,--files0-from=F\\/>"
 msgstr ""
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 15
 msgid "Summarize disk usage of the set of FILEs, recursively for directories."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 17
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 17
 #, no-wrap
 msgid "B<-0>, B<--null>"
 msgstr "B<-0>, B<--null>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 20
 msgid "end each output line with NUL, not newline"
 msgstr "使每行输出以 NUL 字符结束，不添加换行符"
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 20
 #, no-wrap
 msgid "B<-a>, B<--all>"
 msgstr "B<-a>, B<--all>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 23
 msgid "write counts for all files, not just directories"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 23
 #, no-wrap
 msgid "B<--apparent-size>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 29
@@ -118,12 +139,14 @@ msgid ""
 "usually smaller, it may be larger due to holes in ('sparse') files, internal "
 "fragmentation, indirect blocks, and the like"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 29
 #, no-wrap
 msgid "B<-B>, B<--block-size>=I<\\,SIZE\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 34
@@ -131,45 +154,53 @@ msgid ""
 "scale sizes by SIZE before printing them; e.g., \\&'-BM' prints sizes in "
 "units of 1,048,576 bytes; see SIZE format below"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 34
 #, no-wrap
 msgid "B<-b>, B<--bytes>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 37
 msgid "equivalent to '--apparent-size B<--block-size>=I<\\,1\\/>'"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 37
 #, no-wrap
 msgid "B<-c>, B<--total>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 40
 msgid "produce a grand total"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 40
 #, no-wrap
 msgid "B<-D>, B<--dereference-args>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 44
 msgid "dereference only symlinks that are listed on the command line"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 44
 #, no-wrap
 msgid "B<-d>, B<--max-depth>=I<\\,N\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 50
@@ -178,12 +209,14 @@ msgid ""
 "fewer levels below the command line argument; B<--max-depth>=I<\\,0\\/> is "
 "the same as B<--summarize>"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 50
 #, fuzzy, no-wrap
 msgid "B<--files0-from>=I<\\,F\\/>"
 msgstr "B<--files0-from>=I<F>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 55
@@ -191,133 +224,157 @@ msgid ""
 "summarize disk usage of the NUL-terminated file names specified in file F; "
 "if F is -, then read names from standard input"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 55
 #, no-wrap
 msgid "B<-H>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 58
 msgid "equivalent to B<--dereference-args> (B<-D>)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 58
 #, no-wrap
 msgid "B<-h>, B<--human-readable>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 61
 msgid "print sizes in human readable format (e.g., 1K 234M 2G)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 61
 #, no-wrap
 msgid "B<--inodes>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 64
 msgid "list inode usage information instead of block usage"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 64
 #, no-wrap
 msgid "B<-k>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 67
 msgid "like B<--block-size>=I<\\,1K\\/>"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 67
 #, no-wrap
 msgid "B<-L>, B<--dereference>"
 msgstr "B<-L>, B<--dereference>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 70
 msgid "dereference all symbolic links"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 70
 #, no-wrap
 msgid "B<-l>, B<--count-links>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 73
 msgid "count sizes many times if hard linked"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 73
 #, no-wrap
 msgid "B<-m>"
 msgstr "B<-m>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 76
 msgid "like B<--block-size>=I<\\,1M\\/>"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 76
 #, no-wrap
 msgid "B<-P>, B<--no-dereference>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 79
 msgid "don't follow any symbolic links (this is the default)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 79
 #, no-wrap
 msgid "B<-S>, B<--separate-dirs>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 82
 msgid "for directories do not include size of subdirectories"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 82
 #, no-wrap
 msgid "B<--si>"
 msgstr "B<--si>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 85
 msgid "like B<-h>, but use powers of 1000 not 1024"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 85
 #, no-wrap
 msgid "B<-s>, B<--summarize>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 88
 msgid "display only a total for each argument"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 88
 #, no-wrap
 msgid "B<-t>, B<--threshold>=I<\\,SIZE\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 92
@@ -325,12 +382,14 @@ msgid ""
 "exclude entries smaller than SIZE if positive, or entries greater than SIZE "
 "if negative"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 92
 #, no-wrap
 msgid "B<--time>"
-msgstr ""
+msgstr "B<--time>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 96
@@ -338,12 +397,14 @@ msgid ""
 "show time of the last modification of any file in the directory, or any of "
 "its subdirectories"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 96
 #, fuzzy, no-wrap
 msgid "B<--time>=I<\\,WORD\\/>"
-msgstr "B<--time>=I<关键字>"
+msgstr "B<--time>=I<\\,关键字\\/>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 100
@@ -351,12 +412,14 @@ msgid ""
 "show time as WORD instead of modification time: atime, access, use, ctime or "
 "status"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 100
 #, no-wrap
 msgid "B<--time-style>=I<\\,STYLE\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 105
@@ -364,61 +427,72 @@ msgid ""
 "show times using STYLE, which can be: full-iso, long-iso, iso, or +FORMAT; "
 "FORMAT is interpreted like in 'date'"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 105
 #, no-wrap
 msgid "B<-X>, B<--exclude-from>=I<\\,FILE\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 108
 msgid "exclude files that match any pattern in FILE"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 108
 #, no-wrap
 msgid "B<--exclude>=I<\\,PATTERN\\/>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 111
 msgid "exclude files that match PATTERN"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 111
 #, no-wrap
 msgid "B<-x>, B<--one-file-system>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 114
 msgid "skip directories on different file systems"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 114
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 117
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/du.1, line: 117
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 120
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 124
@@ -428,6 +502,7 @@ msgid ""
 "variables.  Otherwise, units default to 1024 bytes (or 512 if "
 "POSIXLY_CORRECT is set)."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 127
@@ -436,12 +511,14 @@ msgid ""
 "10*1024).  Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers "
 "of 1000)."
 msgstr ""
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 127
 #, no-wrap
 msgid "PATTERNS"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 138
@@ -451,11 +528,13 @@ msgid ""
 "zero, one or multiple characters).  For example, B<*.o> will match any files "
 "whose names end in B<.o>.  Therefore, the command"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 140
 msgid "B<du --exclude=\\(aq*.o\\(aq>"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 146
@@ -463,53 +542,60 @@ msgid ""
 "will skip all files and subdirectories ending in B<.o> (including the file "
 "B<.o> itself)."
 msgstr ""
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 146
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 149
 msgid ""
 "Written by Torbjorn Granlund, David MacKenzie, Paul Eggert, and Jim Meyering."
-msgstr ""
+msgstr "由 Torbjorn Granlund、David MacKenzie、Paul Eggert 和 Jim Meyering 编写。"
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 149
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 151
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 153
 msgid ""
 "Report du translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 du 的翻译错"
+"误。"
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 153
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/du.1, line: 156
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 159
@@ -519,23 +605,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/du.1, line: 159
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 161
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/duE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/duE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/du.1, line: 162
 msgid "or available locally via: info \\(aq(coreutils) du invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) du invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

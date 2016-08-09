@@ -1,219 +1,259 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-08-09 19:15+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/dd.1, line: 2
 #, no-wrap
 msgid "DD"
-msgstr ""
+msgstr "DD"
+
 #
 #. type: TH
 # File: raw/man1/dd.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/dd.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/dd.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 5
 msgid "dd - convert and copy a file"
-msgstr ""
+msgstr "dd - 转换并复制一个文件"
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 8
 msgid "B<dd> [I<\\,OPERAND\\/>]..."
-msgstr ""
+msgstr "B<dd> [I<\\,操作符\\/>]..."
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 11
 msgid "B<dd> I<\\,OPTION\\/>"
-msgstr ""
+msgstr "B<dd> I<\\,选项\\/>"
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 15
 msgid "Copy a file, converting and formatting according to the operands."
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 15
 #, no-wrap
 msgid "bs=BYTES"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 18
 msgid "read and write up to BYTES bytes at a time"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 18
 #, no-wrap
 msgid "cbs=BYTES"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 21
 msgid "convert BYTES bytes at a time"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 21
 #, no-wrap
 msgid "conv=CONVS"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 24
 msgid "convert the file as per the comma separated symbol list"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 24
 #, no-wrap
 msgid "count=N"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 27
 msgid "copy only N input blocks"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 27
 #, no-wrap
 msgid "ibs=BYTES"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 30
 msgid "read up to BYTES bytes at a time (default: 512)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 30
 #, no-wrap
 msgid "if=FILE"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 33
 msgid "read from FILE instead of stdin"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 33
 #, no-wrap
 msgid "iflag=FLAGS"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 36
 msgid "read as per the comma separated symbol list"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 36
 #, no-wrap
 msgid "obs=BYTES"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 39
 msgid "write BYTES bytes at a time (default: 512)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 39
 #, no-wrap
 msgid "of=FILE"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 42
 msgid "write to FILE instead of stdout"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 42
 #, no-wrap
 msgid "oflag=FLAGS"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 45
 msgid "write as per the comma separated symbol list"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 45
 #, no-wrap
 msgid "seek=N"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 48
 msgid "skip N obs-sized blocks at start of output"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 48
 #, no-wrap
 msgid "skip=N"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 51
 msgid "skip N ibs-sized blocks at start of input"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 51
 #, no-wrap
 msgid "status=LEVEL"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 57
@@ -222,6 +262,7 @@ msgid ""
 "but error messages, \\&'noxfer' suppresses the final transfer statistics, "
 "\\&'progress' shows periodic transfer statistics"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 61
@@ -230,110 +271,130 @@ msgid ""
 "w =2, b =512, kB =1000, K =1024, MB =1000*1000, M =1024*1024, xM =M GB "
 "=1000*1000*1000, G =1024*1024*1024, and so on for T, P, E, Z, Y."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 63
 msgid "Each CONV symbol may be:"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 63
 #, no-wrap
 msgid "ascii"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 66
 msgid "from EBCDIC to ASCII"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 66
 #, no-wrap
 msgid "ebcdic"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 69
 msgid "from ASCII to EBCDIC"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 69
 #, no-wrap
 msgid "ibm"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 72
 msgid "from ASCII to alternate EBCDIC"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 72
 #, no-wrap
 msgid "block"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 75
 msgid "pad newline-terminated records with spaces to cbs-size"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 75
 #, no-wrap
 msgid "unblock"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 78
 msgid "replace trailing spaces in cbs-size records with newline"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 78
 #, no-wrap
 msgid "lcase"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 81
 msgid "change upper case to lower case"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 81
 #, no-wrap
 msgid "ucase"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 84
 msgid "change lower case to upper case"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 84
 #, no-wrap
 msgid "sparse"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 87
 msgid "try to seek rather than write the output for NUL input blocks"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 87
 #, no-wrap
 msgid "swab"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 90
 msgid "swap every pair of input bytes"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 90
@@ -341,6 +402,7 @@ msgstr ""
 #, no-wrap
 msgid "sync"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 94
@@ -348,225 +410,266 @@ msgid ""
 "pad every input block with NULs to ibs-size; when used with block or "
 "unblock, pad with spaces rather than NULs"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 94
 #, no-wrap
 msgid "excl"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 97
 msgid "fail if the output file already exists"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 97
 #, no-wrap
 msgid "nocreat"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 100
 msgid "do not create the output file"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 100
 #, no-wrap
 msgid "notrunc"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 103
 msgid "do not truncate the output file"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 103
 #, no-wrap
 msgid "noerror"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 106
 msgid "continue after read errors"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 106
 #, no-wrap
 msgid "fdatasync"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 109
 msgid "physically write output file data before finishing"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 109
 #, no-wrap
 msgid "fsync"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 112
 msgid "likewise, but also write metadata"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 114
 msgid "Each FLAG symbol may be:"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 114
 #, no-wrap
 msgid "append"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 117
 msgid "append mode (makes sense only for output; conv=notrunc suggested)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 117
 #, no-wrap
 msgid "direct"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 120
 msgid "use direct I/O for data"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 120
 #, no-wrap
 msgid "directory"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 123
 msgid "fail unless a directory"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 123
 #, no-wrap
 msgid "dsync"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 126
 msgid "use synchronized I/O for data"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 129
 msgid "likewise, but also for metadata"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 129
 #, no-wrap
 msgid "fullblock"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 132
 msgid "accumulate full blocks of input (iflag only)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 132
 #, no-wrap
 msgid "nonblock"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 135
 msgid "use non-blocking I/O"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 135
 #, no-wrap
 msgid "noatime"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 138
 msgid "do not update access time"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 138
 #, no-wrap
 msgid "nocache"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 141
 msgid "Request to drop cache.  See also oflag=sync"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 141
 #, no-wrap
 msgid "noctty"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 144
 msgid "do not assign controlling terminal from file"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 144
 #, no-wrap
 msgid "nofollow"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 147
 msgid "do not follow symlinks"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 147
 #, no-wrap
 msgid "count_bytes"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 150
 msgid "treat 'count=N' as a byte count (iflag only)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 150
 #, no-wrap
 msgid "skip_bytes"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 153
 msgid "treat 'skip=N' as a byte count (iflag only)"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 153
 #, no-wrap
 msgid "seek_bytes"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 156
 msgid "treat 'seek=N' as a byte count (oflag only)"
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 159
@@ -574,79 +677,91 @@ msgid ""
 "Sending a USR1 signal to a running 'dd' process makes it print I/O "
 "statistics to standard error and then resume copying."
 msgstr ""
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 161
 msgid "Options are:"
 msgstr ""
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 161
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 164
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/dd.1, line: 164
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 167
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 167
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 169
 msgid "Written by Paul Rubin, David MacKenzie, and Stuart Kemp."
-msgstr ""
+msgstr "由 Paul Rubin、David MacKenzie 和 Stuart Kemp 编写。"
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 169
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 171
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 173
 msgid ""
 "Report dd translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 dd 的翻译错"
+"误。"
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 173
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/dd.1, line: 176
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 179
@@ -656,23 +771,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/dd.1, line: 179
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 181
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/ddE<gt>"
-msgstr ""
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/ddE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/dd.1, line: 182
 msgid "or available locally via: info \\(aq(coreutils) dd invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) dd invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"
