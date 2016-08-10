@@ -1,75 +1,84 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:41+0800\n"
-"PO-Revision-Date: 2015-05-19 12:00+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
-"Language-Team: Chinese Simplified <>\n"
+"PO-Revision-Date: 2016-08-10 19:15+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 #. type: TH
 # File: raw/man1/whoami.1, line: 2
 #, no-wrap
 msgid "WHOAMI"
 msgstr "WHOAMI"
+
 #
 #. type: TH
 # File: raw/man1/whoami.1, line: 2
 #, no-wrap
 msgid "February 2016"
-msgstr ""
-#
+msgstr "2016年二月"
+
 #. type: TH
 # File: raw/man1/whoami.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.25"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.25"
+
 #
 #. type: TH
 # File: raw/man1/whoami.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 5
 msgid "whoami - print effective userid"
 msgstr "whoami - 显示有效用户 ID"
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 8
-#, fuzzy
 msgid "B<whoami> [I<\\,OPTION\\/>]..."
-msgstr "B<whoami> [I<选项>]..."
+msgstr "B<whoami> [I<\\,选项\\/>]..."
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 13
@@ -77,52 +86,60 @@ msgid ""
 "Print the user name associated with the current effective user ID.  Same as "
 "id B<-un>."
 msgstr "显示与当前的有效用户 ID 相关联的用户名。等价于 id B<-un>。"
+
 #
 #. type: TP
 # File: raw/man1/whoami.1, line: 13
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 16
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 #. type: TP
 # File: raw/man1/whoami.1, line: 16
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 19
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 19
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 21
 msgid "Written by Richard Mlynarik."
 msgstr "由 Richard Mlynarik 编写。"
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 21
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 23
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 25
@@ -132,22 +149,23 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 whoami 的翻"
 "译错误。"
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 25
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 28
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 31
@@ -157,23 +175,27 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 #. type: SH
 # File: raw/man1/whoami.1, line: 31
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 33
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/whoamiE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/whoamiE<gt>"
+
 #
 #. type: Plain text
 # File: raw/man1/whoami.1, line: 34
 msgid "or available locally via: info \\(aq(coreutils) whoami invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) whoami invocation\\(aq"
+
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

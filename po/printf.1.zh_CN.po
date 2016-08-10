@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-08-09 10:40+0800\n"
-"PO-Revision-Date: 2016-08-09 22:30+0800\n"
+"PO-Revision-Date: 2016-08-10 19:03+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
 "Language: zh_CN\n"
@@ -67,19 +67,15 @@ msgstr "printf - 格式化并显示数据"
 msgid "SYNOPSIS"
 msgstr "概述"
 
-#
 #. type: Plain text
 # File: raw/man1/printf.1, line: 8
-#, fuzzy
 msgid "B<printf> I<\\,FORMAT \\/>[I<\\,ARGUMENT\\/>]..."
-msgstr "B<printf> I<格式>[I<参数列表>]..."
+msgstr "B<printf> I<\\,格式\\/>[I<\\,参数列表\\/>]..."
 
-#
 #. type: Plain text
 # File: raw/man1/printf.1, line: 11
-#, fuzzy
 msgid "B<printf> I<\\,OPTION\\/>"
-msgstr "B<printf> I<选项>"
+msgstr "B<printf> I<\\,选项\\/>"
 
 #
 #. type: SH
@@ -341,21 +337,19 @@ msgstr "单个 %"
 msgid "%b"
 msgstr "%b"
 
-#
 #. type: Plain text
 # File: raw/man1/printf.1, line: 75
-#, fuzzy
 msgid ""
 "ARGUMENT as a string with '\\e' escapes interpreted, except that octal "
 "escapes are of the form \\e0 or \\e0NNN"
-msgstr "参数列表作为字符串，其中 '\\e' 字符被转义，除了八进制转义格式 \\e0 或 \\e0NNN"
+msgstr "参数列表作为字符串，其中 '\\e' 字符被转义，除了八进制转义格式变为 \\e0 或 \\e0NNN"
 
 #
 #. type: TP
 # File: raw/man1/printf.1, line: 75
 #, no-wrap
 msgid "%q"
-msgstr ""
+msgstr "%q"
 
 #
 #. type: Plain text
@@ -363,7 +357,7 @@ msgstr ""
 msgid ""
 "ARGUMENT is printed in a format that can be reused as shell input, escaping "
 "non-printable characters with the proposed POSIX $'' syntax."
-msgstr ""
+msgstr "参数列表以一种可被 shell 输出重新读取的格式进行输出，并使用 POSIX 建议的  $'' 语法对不可打印字符进行转义。"
 
 #
 #. type: Plain text
