@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-15 20:51+0800\n"
+"PO-Revision-Date: 2016-12-15 21:04+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -170,10 +170,8 @@ msgstr "B<--version>"
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 
-#
 #. type: Plain text
 # File: raw/man1/seq.1, line: 47
-#, fuzzy
 msgid ""
 "If FIRST or INCREMENT is omitted, it defaults to 1.  That is, an omitted "
 "INCREMENT defaults to 1 even when LAST is smaller than FIRST.  The sequence "
@@ -187,10 +185,11 @@ msgid ""
 "decimal numbers with maximum precision PREC, and to %g otherwise."
 msgstr ""
 "首数和增量的默认值为1。注意，在尾数小于首数的时候，增量默认值仍旧是1。数列生"
-"成的终止条件是当前数值与增量的和大于尾数。通常情况下，若首数小于尾数，增量应"
-"当用正值；若首数大于尾数，增量应当用负值。首数，增量和尾数都被视为浮点数。若"
-"首数、增量和尾数都是精度最高为 PREC 的定点十进制数，那么指定格式默认为 %."
-"PRECf，否则为 %g。"
+"成的终止条件是当前数值与增量的和大于尾数。首数，增量和尾数都被视为浮点数。"
+"通常情况下，若首数小于尾数，增量应当用正值；若首数大于尾数，增量应当用负值。"
+"增量不能为0；首数、尾数和增量均不能为非数字。若给定格式字符串，它必须满足打印"
+"\"double\" 类型的参数；如果首数、尾数和增量都是精度最高为 PREC 的定点十进制数，"
+"则指定的默认格式是 %.PRECf，否则为 %g。"
 
 #
 #. type: SH
@@ -274,3 +273,4 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/seqE<gt
 # File: raw/man1/seq.1, line: 62
 msgid "or available locally via: info \\(aq(coreutils) seq invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) seq invocation\\(aq"
+
