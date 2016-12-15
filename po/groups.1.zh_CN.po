@@ -1,23 +1,25 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2015-07-06 21:34+0800\n"
+"PO-Revision-Date: 2016-12-15 21:18+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese Simplified <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/groups.1, line: 2
 # File: raw/man1/groups.1, line: 2
@@ -27,6 +29,7 @@ msgstr ""
 #, no-wrap
 msgid "GROUPS"
 msgstr "GROUPS"
+
 #
 # File: raw/man1/groups.1, line: 2
 # File: raw/man1/groups.1, line: 2
@@ -34,16 +37,17 @@ msgstr "GROUPS"
 # File: raw/man1/groups.1, line: 2
 #, no-wrap
 msgid "December 2016"
-msgstr ""
-#
+msgstr "2016年12月"
+
 # File: raw/man1/groups.1, line: 2
 # File: raw/man1/groups.1, line: 2
 # File: raw/man1/groups.1, line: 2
 #. type: TH
 # File: raw/man1/groups.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/groups.1, line: 2
 # File: raw/man1/groups.1, line: 2
@@ -53,6 +57,7 @@ msgstr "GNU coreutils 8.23"
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
+
 #
 # File: raw/man1/groups.1, line: 3
 # File: raw/man1/groups.1, line: 3
@@ -62,6 +67,7 @@ msgstr "User Commands"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/groups.1, line: 5
 # File: raw/man1/groups.1, line: 5
@@ -70,6 +76,7 @@ msgstr "名称"
 # File: raw/man1/groups.1, line: 5
 msgid "groups - print the groups a user is in"
 msgstr "groups - 显示用户所在的组"
+
 #
 # File: raw/man1/groups.1, line: 5
 # File: raw/man1/groups.1, line: 5
@@ -79,15 +86,15 @@ msgstr "groups - 显示用户所在的组"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 # File: raw/man1/groups.1, line: 8
 # File: raw/man1/groups.1, line: 8
 # File: raw/man1/groups.1, line: 8
 #. type: Plain text
 # File: raw/man1/groups.1, line: 8
-#, fuzzy
 msgid "B<groups> [I<\\,OPTION\\/>]... [I<\\,USERNAME\\/>]..."
-msgstr "B<groups> [I<选项列表>]... [I<用户名列表>]..."
+msgstr "B<groups> [I<\\,选项列表\\/>]... [I<\\,用户名列表\\/>]..."
+
 #
 # File: raw/man1/groups.1, line: 8
 # File: raw/man1/groups.1, line: 8
@@ -97,6 +104,7 @@ msgstr "B<groups> [I<选项列表>]... [I<用户名列表>]..."
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/groups.1, line: 13
 # File: raw/man1/groups.1, line: 13
@@ -110,6 +118,7 @@ msgid ""
 msgstr ""
 "显示每个输入的用户名所在的全部组，如果没有指定用户名则默认为当前进程用户（当"
 "用户组数据库发生变更时可能导致差异）。"
+
 #
 # File: raw/man1/groups.1, line: 13
 # File: raw/man1/groups.1, line: 13
@@ -119,6 +128,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/groups.1, line: 16
 # File: raw/man1/groups.1, line: 16
@@ -127,6 +137,7 @@ msgstr "B<--help>"
 # File: raw/man1/groups.1, line: 16
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/groups.1, line: 16
 # File: raw/man1/groups.1, line: 16
@@ -136,6 +147,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/groups.1, line: 19
 # File: raw/man1/groups.1, line: 19
@@ -144,6 +156,7 @@ msgstr "B<--version>"
 # File: raw/man1/groups.1, line: 19
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/groups.1, line: 19
 # File: raw/man1/groups.1, line: 19
@@ -153,6 +166,7 @@ msgstr "显示版本信息并退出"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/groups.1, line: 21
 # File: raw/man1/groups.1, line: 21
@@ -161,6 +175,7 @@ msgstr "作者"
 # File: raw/man1/groups.1, line: 21
 msgid "Written by David MacKenzie and James Youngman."
 msgstr "由 David MacKenzie 和 James Youngman 编写。"
+
 #
 # File: raw/man1/groups.1, line: 21
 # File: raw/man1/groups.1, line: 21
@@ -170,6 +185,7 @@ msgstr "由 David MacKenzie 和 James Youngman 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/groups.1, line: 23
 # File: raw/man1/groups.1, line: 23
@@ -178,8 +194,8 @@ msgstr "报告错误"
 # File: raw/man1/groups.1, line: 23
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/groups.1, line: 25
 # File: raw/man1/groups.1, line: 25
@@ -192,6 +208,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 groups 的翻"
 "译错误。"
+
 #
 # File: raw/man1/groups.1, line: 25
 # File: raw/man1/groups.1, line: 25
@@ -201,19 +218,19 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 # File: raw/man1/groups.1, line: 28
 # File: raw/man1/groups.1, line: 28
 # File: raw/man1/groups.1, line: 28
 #. type: Plain text
 # File: raw/man1/groups.1, line: 28
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/groups.1, line: 31
 # File: raw/man1/groups.1, line: 31
@@ -226,6 +243,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/groups.1, line: 31
 # File: raw/man1/groups.1, line: 31
@@ -235,6 +253,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/groups.1, line: 33
 # File: raw/man1/groups.1, line: 33
@@ -242,7 +261,8 @@ msgstr "参见"
 #. type: Plain text
 # File: raw/man1/groups.1, line: 33
 msgid "getent(1)"
-msgstr ""
+msgstr "getent(1)"
+
 #
 # File: raw/man1/groups.1, line: 36
 # File: raw/man1/groups.1, line: 36
@@ -252,6 +272,7 @@ msgstr ""
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/groupsE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/groupsE<gt>"
+
 #
 # File: raw/man1/groups.1, line: 37
 # File: raw/man1/groups.1, line: 37
@@ -260,6 +281,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/groupsE
 # File: raw/man1/groups.1, line: 37
 msgid "or available locally via: info \\(aq(coreutils) groups invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) groups invocation\\(aq"
+
 #
 #
 #

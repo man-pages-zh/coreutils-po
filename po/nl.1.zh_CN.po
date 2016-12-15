@@ -1,4 +1,5 @@
 #
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
@@ -10,15 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-08-09 21:48+0800\n"
+"PO-Revision-Date: 2016-12-15 21:19+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/nl.1, line: 2
 # File: raw/man1/nl.1, line: 2
@@ -28,24 +30,25 @@ msgstr ""
 #, no-wrap
 msgid "NL"
 msgstr "NL"
-#
+
 # File: raw/man1/nl.1, line: 2
 # File: raw/man1/nl.1, line: 2
 # File: raw/man1/nl.1, line: 2
 #. type: TH
 # File: raw/man1/nl.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
-#
+msgstr "2016年12月"
+
 # File: raw/man1/nl.1, line: 2
 # File: raw/man1/nl.1, line: 2
 # File: raw/man1/nl.1, line: 2
 #. type: TH
 # File: raw/man1/nl.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.25"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/nl.1, line: 2
 # File: raw/man1/nl.1, line: 2
@@ -55,6 +58,7 @@ msgstr "GNU coreutils 8.25"
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
+
 #
 # File: raw/man1/nl.1, line: 3
 # File: raw/man1/nl.1, line: 3
@@ -64,6 +68,7 @@ msgstr "用户命令"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/nl.1, line: 5
 # File: raw/man1/nl.1, line: 5
@@ -72,6 +77,7 @@ msgstr "名称"
 # File: raw/man1/nl.1, line: 5
 msgid "nl - number lines of files"
 msgstr "nl - 给文件编行号"
+
 #
 # File: raw/man1/nl.1, line: 5
 # File: raw/man1/nl.1, line: 5
@@ -81,6 +87,7 @@ msgstr "nl - 给文件编行号"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/nl.1, line: 8
 # File: raw/man1/nl.1, line: 8
@@ -89,6 +96,7 @@ msgstr "概述"
 # File: raw/man1/nl.1, line: 8
 msgid "B<nl> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
 msgstr "B<nl> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
+
 #
 # File: raw/man1/nl.1, line: 8
 # File: raw/man1/nl.1, line: 8
@@ -98,6 +106,7 @@ msgstr "B<nl> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/nl.1, line: 12
 # File: raw/man1/nl.1, line: 12
@@ -106,6 +115,7 @@ msgstr "描述"
 # File: raw/man1/nl.1, line: 12
 msgid "Write each FILE to standard output, with line numbers added."
 msgstr "将文件列表中的每一个文件输出到标准输出，并添加行号。"
+
 #
 # File: raw/man1/nl.1, line: 14
 # File: raw/man1/nl.1, line: 14
@@ -114,6 +124,7 @@ msgstr "将文件列表中的每一个文件输出到标准输出，并添加行
 # File: raw/man1/nl.1, line: 14
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr "如果没有指定文件，或者指定文件为\"-\"，则从标准输入读取。"
+
 #
 # File: raw/man1/nl.1, line: 16
 # File: raw/man1/nl.1, line: 16
@@ -123,6 +134,7 @@ msgstr "如果没有指定文件，或者指定文件为\"-\"，则从标准输�
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
+
 #
 # File: raw/man1/nl.1, line: 16
 # File: raw/man1/nl.1, line: 16
@@ -132,6 +144,7 @@ msgstr "必选参数对长短选项同时适用。"
 #, no-wrap
 msgid "B<-b>, B<--body-numbering>=I<\\,STYLE\\/>"
 msgstr "B<-b>, B<--body-numbering>=I<\\,风格\\/>"
+
 #
 # File: raw/man1/nl.1, line: 19
 # File: raw/man1/nl.1, line: 19
@@ -140,6 +153,7 @@ msgstr "B<-b>, B<--body-numbering>=I<\\,风格\\/>"
 # File: raw/man1/nl.1, line: 19
 msgid "use STYLE for numbering body lines"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 19
 # File: raw/man1/nl.1, line: 19
@@ -149,6 +163,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-d>, B<--section-delimiter>=I<\\,CC\\/>"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 22
 # File: raw/man1/nl.1, line: 22
@@ -156,6 +171,7 @@ msgstr ""
 # File: raw/man1/nl.1, line: 22
 msgid "use CC for logical page delimiters"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 22
 # File: raw/man1/nl.1, line: 22
@@ -165,6 +181,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-f>, B<--footer-numbering>=I<\\,STYLE\\/>"
 msgstr "B<-f>, B<--footer-numbering>=I<\\,风格\\/>"
+
 #
 # File: raw/man1/nl.1, line: 25
 # File: raw/man1/nl.1, line: 25
@@ -173,6 +190,7 @@ msgstr "B<-f>, B<--footer-numbering>=I<\\,风格\\/>"
 # File: raw/man1/nl.1, line: 25
 msgid "use STYLE for numbering footer lines"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 25
 # File: raw/man1/nl.1, line: 25
@@ -182,6 +200,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-h>, B<--header-numbering>=I<\\,STYLE\\/>"
 msgstr "B<-h>, B<--header-numbering>=I<\\,风格\\/>"
+
 #
 # File: raw/man1/nl.1, line: 28
 # File: raw/man1/nl.1, line: 28
@@ -190,6 +209,7 @@ msgstr "B<-h>, B<--header-numbering>=I<\\,风格\\/>"
 # File: raw/man1/nl.1, line: 28
 msgid "use STYLE for numbering header lines"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 28
 # File: raw/man1/nl.1, line: 28
@@ -199,6 +219,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-i>, B<--line-increment>=I<\\,NUMBER\\/>"
 msgstr "B<-i>, B<--line-increment>=I<\\,数字\\/>"
+
 #
 # File: raw/man1/nl.1, line: 31
 # File: raw/man1/nl.1, line: 31
@@ -207,6 +228,7 @@ msgstr "B<-i>, B<--line-increment>=I<\\,数字\\/>"
 # File: raw/man1/nl.1, line: 31
 msgid "line number increment at each line"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 31
 # File: raw/man1/nl.1, line: 31
@@ -216,6 +238,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-l>, B<--join-blank-lines>=I<\\,NUMBER\\/>"
 msgstr "B<-l>, B<--join-blank-lines>=I<\\,数字\\/>"
+
 #
 # File: raw/man1/nl.1, line: 34
 # File: raw/man1/nl.1, line: 34
@@ -224,6 +247,7 @@ msgstr "B<-l>, B<--join-blank-lines>=I<\\,数字\\/>"
 # File: raw/man1/nl.1, line: 34
 msgid "group of NUMBER empty lines counted as one"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 34
 # File: raw/man1/nl.1, line: 34
@@ -233,6 +257,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-n>, B<--number-format>=I<\\,FORMAT\\/>"
 msgstr "B<-n>, B<--number-format>=I<\\,格式\\/>"
+
 #
 # File: raw/man1/nl.1, line: 37
 # File: raw/man1/nl.1, line: 37
@@ -241,6 +266,7 @@ msgstr "B<-n>, B<--number-format>=I<\\,格式\\/>"
 # File: raw/man1/nl.1, line: 37
 msgid "insert line numbers according to FORMAT"
 msgstr "根据指定格式字符串插入行号"
+
 #
 # File: raw/man1/nl.1, line: 37
 # File: raw/man1/nl.1, line: 37
@@ -250,6 +276,7 @@ msgstr "根据指定格式字符串插入行号"
 #, no-wrap
 msgid "B<-p>, B<--no-renumber>"
 msgstr "B<-p>, B<--no-renumber>"
+
 #
 # File: raw/man1/nl.1, line: 40
 # File: raw/man1/nl.1, line: 40
@@ -257,6 +284,7 @@ msgstr "B<-p>, B<--no-renumber>"
 # File: raw/man1/nl.1, line: 40
 msgid "do not reset line numbers for each section"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 40
 # File: raw/man1/nl.1, line: 40
@@ -266,6 +294,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-s>, B<--number-separator>=I<\\,STRING\\/>"
 msgstr "B<-s>, B<--number-separator>=I<\\,字符串\\/>"
+
 #
 # File: raw/man1/nl.1, line: 43
 # File: raw/man1/nl.1, line: 43
@@ -274,6 +303,7 @@ msgstr "B<-s>, B<--number-separator>=I<\\,字符串\\/>"
 # File: raw/man1/nl.1, line: 43
 msgid "add STRING after (possible) line number"
 msgstr "如果可能的话，将指定字符串添加到行号后"
+
 #
 # File: raw/man1/nl.1, line: 43
 # File: raw/man1/nl.1, line: 43
@@ -283,6 +313,7 @@ msgstr "如果可能的话，将指定字符串添加到行号后"
 #, no-wrap
 msgid "B<-v>, B<--starting-line-number>=I<\\,NUMBER\\/>"
 msgstr "B<-v>, B<--starting-line-number>=I<\\,数字\\/>"
+
 #
 # File: raw/man1/nl.1, line: 46
 # File: raw/man1/nl.1, line: 46
@@ -290,6 +321,7 @@ msgstr "B<-v>, B<--starting-line-number>=I<\\,数字\\/>"
 # File: raw/man1/nl.1, line: 46
 msgid "first line number for each section"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 46
 # File: raw/man1/nl.1, line: 46
@@ -299,6 +331,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-w>, B<--number-width>=I<\\,NUMBER\\/>"
 msgstr "B<-w>, B<--number-width>=I<\\,数字\\/>"
+
 #
 # File: raw/man1/nl.1, line: 49
 # File: raw/man1/nl.1, line: 49
@@ -307,6 +340,7 @@ msgstr "B<-w>, B<--number-width>=I<\\,数字\\/>"
 # File: raw/man1/nl.1, line: 49
 msgid "use NUMBER columns for line numbers"
 msgstr "为行号留出指定列的宽度"
+
 #
 # File: raw/man1/nl.1, line: 49
 # File: raw/man1/nl.1, line: 49
@@ -316,6 +350,7 @@ msgstr "为行号留出指定列的宽度"
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/nl.1, line: 52
 # File: raw/man1/nl.1, line: 52
@@ -324,6 +359,7 @@ msgstr "B<--help>"
 # File: raw/man1/nl.1, line: 52
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/nl.1, line: 52
 # File: raw/man1/nl.1, line: 52
@@ -333,6 +369,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/nl.1, line: 55
 # File: raw/man1/nl.1, line: 55
@@ -341,6 +378,7 @@ msgstr "B<--version>"
 # File: raw/man1/nl.1, line: 55
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/nl.1, line: 59
 # File: raw/man1/nl.1, line: 59
@@ -358,6 +396,7 @@ msgstr ""
 "bt> B<-fn> 的参数。CC are two delimiter characters for separating logical "
 "pages, a missing second character implies :.  Type \\e\\e for \\e.  风格字符"
 "串可以是下列字符串中的一个："
+
 #
 # File: raw/man1/nl.1, line: 59
 # File: raw/man1/nl.1, line: 59
@@ -367,6 +406,7 @@ msgstr ""
 #, no-wrap
 msgid "a"
 msgstr "a"
+
 #
 # File: raw/man1/nl.1, line: 62
 # File: raw/man1/nl.1, line: 62
@@ -375,6 +415,7 @@ msgstr "a"
 # File: raw/man1/nl.1, line: 62
 msgid "number all lines"
 msgstr "对所有行进行编号"
+
 #
 # File: raw/man1/nl.1, line: 62
 # File: raw/man1/nl.1, line: 62
@@ -384,6 +425,7 @@ msgstr "对所有行进行编号"
 #, no-wrap
 msgid "t"
 msgstr "t"
+
 #
 # File: raw/man1/nl.1, line: 65
 # File: raw/man1/nl.1, line: 65
@@ -392,6 +434,7 @@ msgstr "t"
 # File: raw/man1/nl.1, line: 65
 msgid "number only nonempty lines"
 msgstr "只对非空行进行编号"
+
 #
 # File: raw/man1/nl.1, line: 65
 # File: raw/man1/nl.1, line: 65
@@ -401,6 +444,7 @@ msgstr "只对非空行进行编号"
 #, no-wrap
 msgid "n"
 msgstr "n"
+
 #
 # File: raw/man1/nl.1, line: 68
 # File: raw/man1/nl.1, line: 68
@@ -409,6 +453,7 @@ msgstr "n"
 # File: raw/man1/nl.1, line: 68
 msgid "number no lines"
 msgstr "不进行编号"
+
 #
 # File: raw/man1/nl.1, line: 68
 # File: raw/man1/nl.1, line: 68
@@ -418,6 +463,7 @@ msgstr "不进行编号"
 #, no-wrap
 msgid "pBRE"
 msgstr "pBRE"
+
 #
 # File: raw/man1/nl.1, line: 72
 # File: raw/man1/nl.1, line: 72
@@ -427,6 +473,7 @@ msgstr "pBRE"
 msgid ""
 "number only lines that contain a match for the basic regular expression, BRE"
 msgstr ""
+
 #
 # File: raw/man1/nl.1, line: 74
 # File: raw/man1/nl.1, line: 74
@@ -435,6 +482,7 @@ msgstr ""
 # File: raw/man1/nl.1, line: 74
 msgid "FORMAT is one of:"
 msgstr "格式字符串可以是下列字符串中的一个："
+
 #
 # File: raw/man1/nl.1, line: 74
 # File: raw/man1/nl.1, line: 74
@@ -444,6 +492,7 @@ msgstr "格式字符串可以是下列字符串中的一个："
 #, no-wrap
 msgid "ln"
 msgstr "ln"
+
 #
 # File: raw/man1/nl.1, line: 77
 # File: raw/man1/nl.1, line: 77
@@ -452,6 +501,7 @@ msgstr "ln"
 # File: raw/man1/nl.1, line: 77
 msgid "left justified, no leading zeros"
 msgstr "左对齐，没有前导数字0"
+
 #
 # File: raw/man1/nl.1, line: 77
 # File: raw/man1/nl.1, line: 77
@@ -461,6 +511,7 @@ msgstr "左对齐，没有前导数字0"
 #, no-wrap
 msgid "rn"
 msgstr "rn"
+
 #
 # File: raw/man1/nl.1, line: 80
 # File: raw/man1/nl.1, line: 80
@@ -469,6 +520,7 @@ msgstr "rn"
 # File: raw/man1/nl.1, line: 80
 msgid "right justified, no leading zeros"
 msgstr "右对齐，没有前导数字0"
+
 #
 # File: raw/man1/nl.1, line: 80
 # File: raw/man1/nl.1, line: 80
@@ -478,6 +530,7 @@ msgstr "右对齐，没有前导数字0"
 #, no-wrap
 msgid "rz"
 msgstr "rz"
+
 #
 # File: raw/man1/nl.1, line: 83
 # File: raw/man1/nl.1, line: 83
@@ -486,6 +539,7 @@ msgstr "rz"
 # File: raw/man1/nl.1, line: 83
 msgid "right justified, leading zeros"
 msgstr "右对齐，用前导数字0填充空白位"
+
 #
 # File: raw/man1/nl.1, line: 83
 # File: raw/man1/nl.1, line: 83
@@ -495,6 +549,7 @@ msgstr "右对齐，用前导数字0填充空白位"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/nl.1, line: 85
 # File: raw/man1/nl.1, line: 85
@@ -503,6 +558,7 @@ msgstr "作者"
 # File: raw/man1/nl.1, line: 85
 msgid "Written by Scott Bartram and David MacKenzie."
 msgstr "由 Scott Bartram 和 David MacKenzie 编写。"
+
 #
 # File: raw/man1/nl.1, line: 85
 # File: raw/man1/nl.1, line: 85
@@ -512,6 +568,7 @@ msgstr "由 Scott Bartram 和 David MacKenzie 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/nl.1, line: 87
 # File: raw/man1/nl.1, line: 87
@@ -520,8 +577,8 @@ msgstr "报告错误"
 # File: raw/man1/nl.1, line: 87
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/nl.1, line: 89
 # File: raw/man1/nl.1, line: 89
@@ -533,6 +590,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 nl 的翻译错"
 "误。"
+
 #
 # File: raw/man1/nl.1, line: 89
 # File: raw/man1/nl.1, line: 89
@@ -542,6 +600,7 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
+
 #
 # File: raw/man1/nl.1, line: 92
 # File: raw/man1/nl.1, line: 92
@@ -554,6 +613,7 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/nl.1, line: 95
 # File: raw/man1/nl.1, line: 95
@@ -566,6 +626,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/nl.1, line: 95
 # File: raw/man1/nl.1, line: 95
@@ -575,6 +636,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/nl.1, line: 97
 # File: raw/man1/nl.1, line: 97
@@ -584,6 +646,7 @@ msgstr "参见"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/nlE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/nlE<gt>"
+
 #
 # File: raw/man1/nl.1, line: 98
 # File: raw/man1/nl.1, line: 98
@@ -592,6 +655,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/nlE<gt>
 # File: raw/man1/nl.1, line: 98
 msgid "or available locally via: info \\(aq(coreutils) nl invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) nl invocation\\(aq"
+
 #
 #
 #

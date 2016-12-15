@@ -1,23 +1,25 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
 # Darcy Shen <sadhen@zoho.com>, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2015-05-24 19:32+0800\n"
+"PO-Revision-Date: 2016-12-15 21:20+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese Simplified <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/wc.1, line: 2
 # File: raw/man1/wc.1, line: 2
@@ -26,21 +28,23 @@ msgstr ""
 #, no-wrap
 msgid "WC"
 msgstr "WC"
+
 #
 # File: raw/man1/wc.1, line: 2
 #. type: TH
 # File: raw/man1/wc.1, line: 2
 #, no-wrap
 msgid "December 2016"
-msgstr ""
-#
+msgstr "2016年12月"
+
 # File: raw/man1/wc.1, line: 2
 # File: raw/man1/wc.1, line: 2
 #. type: TH
 # File: raw/man1/wc.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/wc.1, line: 2
 # File: raw/man1/wc.1, line: 2
@@ -49,6 +53,7 @@ msgstr "GNU coreutils 8.23"
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
+
 #
 # File: raw/man1/wc.1, line: 3
 # File: raw/man1/wc.1, line: 3
@@ -57,6 +62,7 @@ msgstr "User Commands"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/wc.1, line: 5
 # File: raw/man1/wc.1, line: 5
@@ -64,6 +70,7 @@ msgstr "名称"
 # File: raw/man1/wc.1, line: 5
 msgid "wc - print newline, word, and byte counts for each file"
 msgstr "wc - 输出文件中的行数、单词数、字节数"
+
 #
 # File: raw/man1/wc.1, line: 5
 # File: raw/man1/wc.1, line: 5
@@ -72,22 +79,21 @@ msgstr "wc - 输出文件中的行数、单词数、字节数"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 # File: raw/man1/wc.1, line: 8
 # File: raw/man1/wc.1, line: 8
 #. type: Plain text
 # File: raw/man1/wc.1, line: 8
-#, fuzzy
 msgid "B<wc> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
-msgstr "B<wc> [I<选项>]... [I<文件列表>]..."
-#
+msgstr "B<wc> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
+
 # File: raw/man1/wc.1, line: 11
 # File: raw/man1/wc.1, line: 11
 #. type: Plain text
 # File: raw/man1/wc.1, line: 11
-#, fuzzy
 msgid "B<wc> [I<\\,OPTION\\/>]... I<\\,--files0-from=F\\/>"
-msgstr "B<wc> [I<选项>]... I<--files0-from=F>"
+msgstr "B<wc> [I<\\,选项\\/>]... I<\\,--files0-from=F\\/>"
+
 #
 # File: raw/man1/wc.1, line: 11
 # File: raw/man1/wc.1, line: 11
@@ -96,6 +102,7 @@ msgstr "B<wc> [I<选项>]... I<--files0-from=F>"
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/wc.1, line: 17
 # File: raw/man1/wc.1, line: 17
@@ -111,13 +118,15 @@ msgstr ""
 "总计。没有指定文件或指定的文件是“-”，则读取标准输入。单词指以空格分隔的长度非"
 "零的字符序列。下列选项或可用于选择显示哪些统计数，但显示顺序总是：行数、单词"
 "数、字符数、字节数、最长的行的长度。"
+
 #
 # File: raw/man1/wc.1, line: 19
 # File: raw/man1/wc.1, line: 19
 #. type: Plain text
 # File: raw/man1/wc.1, line: 19
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr ""
+msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
+
 #
 # File: raw/man1/wc.1, line: 22
 # File: raw/man1/wc.1, line: 22
@@ -127,6 +136,7 @@ msgid ""
 "The options below may be used to select which counts are printed, always in "
 "the following order: newline, word, character, byte, maximum line length."
 msgstr ""
+
 #
 # File: raw/man1/wc.1, line: 22
 # File: raw/man1/wc.1, line: 22
@@ -135,6 +145,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-c>, B<--bytes>"
 msgstr "B<-c>, B<--bytes>"
+
 #
 # File: raw/man1/wc.1, line: 25
 # File: raw/man1/wc.1, line: 25
@@ -142,6 +153,7 @@ msgstr "B<-c>, B<--bytes>"
 # File: raw/man1/wc.1, line: 25
 msgid "print the byte counts"
 msgstr "输出字节统计数"
+
 #
 # File: raw/man1/wc.1, line: 25
 # File: raw/man1/wc.1, line: 25
@@ -150,6 +162,7 @@ msgstr "输出字节统计数"
 #, no-wrap
 msgid "B<-m>, B<--chars>"
 msgstr "B<-m>, B<--chars>"
+
 #
 # File: raw/man1/wc.1, line: 28
 # File: raw/man1/wc.1, line: 28
@@ -157,6 +170,7 @@ msgstr "B<-m>, B<--chars>"
 # File: raw/man1/wc.1, line: 28
 msgid "print the character counts"
 msgstr "输出字符统计数"
+
 #
 # File: raw/man1/wc.1, line: 28
 # File: raw/man1/wc.1, line: 28
@@ -165,6 +179,7 @@ msgstr "输出字符统计数"
 #, no-wrap
 msgid "B<-l>, B<--lines>"
 msgstr "B<-l>, B<--lines>"
+
 #
 # File: raw/man1/wc.1, line: 31
 # File: raw/man1/wc.1, line: 31
@@ -172,14 +187,15 @@ msgstr "B<-l>, B<--lines>"
 # File: raw/man1/wc.1, line: 31
 msgid "print the newline counts"
 msgstr "输出换行符统计数"
-#
+
 # File: raw/man1/wc.1, line: 31
 # File: raw/man1/wc.1, line: 31
 #. type: TP
 # File: raw/man1/wc.1, line: 31
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--files0-from>=I<\\,F\\/>"
-msgstr "B<--files0-from>=I<F>"
+msgstr "B<--files0-from>=I<\\,F\\/>"
+
 #
 # File: raw/man1/wc.1, line: 36
 # File: raw/man1/wc.1, line: 36
@@ -191,6 +207,7 @@ msgid ""
 msgstr ""
 "将文件F 中的以 NUL 结尾的名字所指定的文件作为待统计文件；如果文件F 为“-”，则"
 "从标准输入读取这些名字"
+
 #
 # File: raw/man1/wc.1, line: 36
 # File: raw/man1/wc.1, line: 36
@@ -199,6 +216,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-L>, B<--max-line-length>"
 msgstr "B<-L>, B<--max-line-length>"
+
 #
 # File: raw/man1/wc.1, line: 39
 # File: raw/man1/wc.1, line: 39
@@ -206,6 +224,7 @@ msgstr "B<-L>, B<--max-line-length>"
 # File: raw/man1/wc.1, line: 39
 msgid "print the maximum display width"
 msgstr ""
+
 #
 # File: raw/man1/wc.1, line: 39
 # File: raw/man1/wc.1, line: 39
@@ -214,6 +233,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-w>, B<--words>"
 msgstr "B<-w>, B<--words>"
+
 #
 # File: raw/man1/wc.1, line: 42
 # File: raw/man1/wc.1, line: 42
@@ -221,6 +241,7 @@ msgstr "B<-w>, B<--words>"
 # File: raw/man1/wc.1, line: 42
 msgid "print the word counts"
 msgstr "输出单词统计数"
+
 #
 # File: raw/man1/wc.1, line: 42
 # File: raw/man1/wc.1, line: 42
@@ -229,6 +250,7 @@ msgstr "输出单词统计数"
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/wc.1, line: 45
 # File: raw/man1/wc.1, line: 45
@@ -236,6 +258,7 @@ msgstr "B<--help>"
 # File: raw/man1/wc.1, line: 45
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/wc.1, line: 45
 # File: raw/man1/wc.1, line: 45
@@ -244,6 +267,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/wc.1, line: 48
 # File: raw/man1/wc.1, line: 48
@@ -251,6 +275,7 @@ msgstr "B<--version>"
 # File: raw/man1/wc.1, line: 48
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/wc.1, line: 48
 # File: raw/man1/wc.1, line: 48
@@ -259,6 +284,7 @@ msgstr "显示版本信息并退出"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/wc.1, line: 50
 # File: raw/man1/wc.1, line: 50
@@ -266,6 +292,7 @@ msgstr "作者"
 # File: raw/man1/wc.1, line: 50
 msgid "Written by Paul Rubin and David MacKenzie."
 msgstr "由 Paul Rubin 和 David MacKenzie 编写。"
+
 #
 # File: raw/man1/wc.1, line: 50
 # File: raw/man1/wc.1, line: 50
@@ -274,6 +301,7 @@ msgstr "由 Paul Rubin 和 David MacKenzie 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/wc.1, line: 52
 # File: raw/man1/wc.1, line: 52
@@ -281,8 +309,8 @@ msgstr "报告错误"
 # File: raw/man1/wc.1, line: 52
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/wc.1, line: 54
 # File: raw/man1/wc.1, line: 54
@@ -293,6 +321,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 wc 的翻译错"
 "误。"
+
 #
 # File: raw/man1/wc.1, line: 54
 # File: raw/man1/wc.1, line: 54
@@ -301,18 +330,18 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 # File: raw/man1/wc.1, line: 57
 # File: raw/man1/wc.1, line: 57
 #. type: Plain text
 # File: raw/man1/wc.1, line: 57
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/wc.1, line: 60
 # File: raw/man1/wc.1, line: 60
@@ -324,6 +353,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/wc.1, line: 60
 # File: raw/man1/wc.1, line: 60
@@ -332,6 +362,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/wc.1, line: 62
 # File: raw/man1/wc.1, line: 62
@@ -340,6 +371,7 @@ msgstr "参见"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/wcE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/wcE<gt>"
+
 #
 # File: raw/man1/wc.1, line: 63
 # File: raw/man1/wc.1, line: 63
@@ -347,6 +379,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/wcE<gt>
 # File: raw/man1/wc.1, line: 63
 msgid "or available locally via: info \\(aq(coreutils) wc invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) wc invocation\\(aq"
+
 #
 #
 #

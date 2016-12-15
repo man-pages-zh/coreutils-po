@@ -1,23 +1,25 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Automatically generated, 2015.
-# Boyuan Yang <073plan@gmail.com>, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2015, 2016.
 # Darcy Shen <sadhen@zoho.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2015-11-20 21:19+0800\n"
-"Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
-"Language-Team: Chinese <>\n"
+"PO-Revision-Date: 2016-12-15 21:16+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/timeout.1, line: 2
 # File: raw/man1/timeout.1, line: 2
@@ -26,21 +28,23 @@ msgstr ""
 #, no-wrap
 msgid "TIMEOUT"
 msgstr "TIMEOUT"
+
 #
 # File: raw/man1/timeout.1, line: 2
 #. type: TH
 # File: raw/man1/timeout.1, line: 2
 #, no-wrap
 msgid "December 2016"
-msgstr ""
-#
+msgstr "2016年12月"
+
 # File: raw/man1/timeout.1, line: 2
 # File: raw/man1/timeout.1, line: 2
 #. type: TH
 # File: raw/man1/timeout.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/timeout.1, line: 2
 # File: raw/man1/timeout.1, line: 2
@@ -49,6 +53,7 @@ msgstr "GNU coreutils 8.23"
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
+
 #
 # File: raw/man1/timeout.1, line: 3
 # File: raw/man1/timeout.1, line: 3
@@ -57,6 +62,7 @@ msgstr "User Commands"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/timeout.1, line: 5
 # File: raw/man1/timeout.1, line: 5
@@ -64,6 +70,7 @@ msgstr "名称"
 # File: raw/man1/timeout.1, line: 5
 msgid "timeout - run a command with a time limit"
 msgstr "timeout - 在规定时限内运行一个命令"
+
 #
 # File: raw/man1/timeout.1, line: 5
 # File: raw/man1/timeout.1, line: 5
@@ -72,23 +79,22 @@ msgstr "timeout - 在规定时限内运行一个命令"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-#
+
 # File: raw/man1/timeout.1, line: 8
 # File: raw/man1/timeout.1, line: 8
 #. type: Plain text
 # File: raw/man1/timeout.1, line: 8
-#, fuzzy
 msgid ""
 "B<timeout> [I<\\,OPTION\\/>] I<\\,DURATION COMMAND \\/>[I<\\,ARG\\/>]..."
-msgstr "B<timeout> [I<选项列表>] I<持续时间 命令 >[I<参数列表>]..."
-#
+msgstr "B<timeout> [I<\\,选项列表\\/>] I<\\,持续时间 命令 \\/>[I<\\,参数列表\\/>]..."
+
 # File: raw/man1/timeout.1, line: 11
 # File: raw/man1/timeout.1, line: 11
 #. type: Plain text
 # File: raw/man1/timeout.1, line: 11
-#, fuzzy
 msgid "B<timeout> [I<\\,OPTION\\/>]"
-msgstr "B<timeout> [I<选项列表>]"
+msgstr "B<timeout> [I<\\,选项列表\\/>]"
+
 #
 # File: raw/man1/timeout.1, line: 11
 # File: raw/man1/timeout.1, line: 11
@@ -97,6 +103,7 @@ msgstr "B<timeout> [I<选项列表>]"
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/timeout.1, line: 15
 # File: raw/man1/timeout.1, line: 15
@@ -104,6 +111,7 @@ msgstr "描述"
 # File: raw/man1/timeout.1, line: 15
 msgid "Start COMMAND, and kill it if still running after DURATION."
 msgstr "运行所给命令，如果它超过指定时间后仍在运行，则杀死其进程。"
+
 #
 # File: raw/man1/timeout.1, line: 17
 # File: raw/man1/timeout.1, line: 17
@@ -112,6 +120,7 @@ msgstr "运行所给命令，如果它超过指定时间后仍在运行，则杀
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
+
 #
 # File: raw/man1/timeout.1, line: 19
 # File: raw/man1/timeout.1, line: 19
@@ -119,6 +128,7 @@ msgstr "必选参数对长短选项同时适用。"
 # File: raw/man1/timeout.1, line: 19
 msgid "B<--preserve-status>"
 msgstr "B<--preserve-status>"
+
 #
 # File: raw/man1/timeout.1, line: 21
 # File: raw/man1/timeout.1, line: 21
@@ -126,6 +136,7 @@ msgstr "B<--preserve-status>"
 # File: raw/man1/timeout.1, line: 21
 msgid "exit with the same status as COMMAND, even when the"
 msgstr "将退出状态值设为与所运行指令的退出状态相同的值，即使"
+
 #
 # File: raw/man1/timeout.1, line: 23
 # File: raw/man1/timeout.1, line: 23
@@ -133,6 +144,7 @@ msgstr "将退出状态值设为与所运行指令的退出状态相同的值，
 # File: raw/man1/timeout.1, line: 23
 msgid "command times out"
 msgstr "指令运行超时"
+
 #
 # File: raw/man1/timeout.1, line: 25
 # File: raw/man1/timeout.1, line: 25
@@ -140,6 +152,7 @@ msgstr "指令运行超时"
 # File: raw/man1/timeout.1, line: 25
 msgid "B<--foreground>"
 msgstr "B<--foreground>"
+
 #
 # File: raw/man1/timeout.1, line: 27
 # File: raw/man1/timeout.1, line: 27
@@ -147,6 +160,7 @@ msgstr "B<--foreground>"
 # File: raw/man1/timeout.1, line: 27
 msgid "when not running timeout directly from a shell prompt,"
 msgstr "当不是直接在 shell 命令提示符下运行 timeout 的情况下使用，"
+
 #
 # File: raw/man1/timeout.1, line: 30
 # File: raw/man1/timeout.1, line: 30
@@ -158,14 +172,14 @@ msgid ""
 msgstr ""
 "允许所运行命令直接由 TTY 读取数据，并且接收 TTY 的信号；在这种模式下，所运行"
 "命令的子进程将不会被 timeout 的超时控制所考虑"
-#
+
 # File: raw/man1/timeout.1, line: 32
 # File: raw/man1/timeout.1, line: 32
 #. type: Plain text
 # File: raw/man1/timeout.1, line: 32
-#, fuzzy
 msgid "B<-k>, B<--kill-after>=I<\\,DURATION\\/>"
-msgstr "B<-k>, B<--kill-after>=I<持续时间>"
+msgstr "B<-k>, B<--kill-after>=I<\\,持续时间\\/>"
+
 #
 # File: raw/man1/timeout.1, line: 34
 # File: raw/man1/timeout.1, line: 34
@@ -173,6 +187,7 @@ msgstr "B<-k>, B<--kill-after>=I<持续时间>"
 # File: raw/man1/timeout.1, line: 34
 msgid "also send a KILL signal if COMMAND is still running"
 msgstr "如果初始信号已发出且再次等待了指定时间之后"
+
 #
 # File: raw/man1/timeout.1, line: 36
 # File: raw/man1/timeout.1, line: 36
@@ -180,14 +195,14 @@ msgstr "如果初始信号已发出且再次等待了指定时间之后"
 # File: raw/man1/timeout.1, line: 36
 msgid "this long after the initial signal was sent"
 msgstr "所运行命令仍在运行则发出 KILL 信号"
-#
+
 # File: raw/man1/timeout.1, line: 38
 # File: raw/man1/timeout.1, line: 38
 #. type: Plain text
 # File: raw/man1/timeout.1, line: 38
-#, fuzzy
 msgid "B<-s>, B<--signal>=I<\\,SIGNAL\\/>"
-msgstr "B<-s>, B<--signal>=I<信号>"
+msgstr "B<-s>, B<--signal>=I<\\,信号\\/>"
+
 #
 # File: raw/man1/timeout.1, line: 40
 # File: raw/man1/timeout.1, line: 40
@@ -195,6 +210,7 @@ msgstr "B<-s>, B<--signal>=I<信号>"
 # File: raw/man1/timeout.1, line: 40
 msgid "specify the signal to be sent on timeout;"
 msgstr "指定超时发生时应当送出的信号；"
+
 #
 # File: raw/man1/timeout.1, line: 43
 # File: raw/man1/timeout.1, line: 43
@@ -203,8 +219,8 @@ msgstr "指定超时发生时应当送出的信号；"
 msgid ""
 "SIGNAL may be a name like 'HUP' or a number; see 'kill B<-l>' for a list of "
 "signals"
-msgstr ""
-"信号可以是类似“HUP”的信号名或是信号数；从“kill B<-l>”的输出可获得信号的列表"
+msgstr "信号可以是类似“HUP”的信号名或是信号数；从“kill B<-l>”的输出可获得信号的列表"
+
 #
 # File: raw/man1/timeout.1, line: 43
 # File: raw/man1/timeout.1, line: 43
@@ -213,6 +229,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/timeout.1, line: 46
 # File: raw/man1/timeout.1, line: 46
@@ -220,6 +237,7 @@ msgstr "B<--help>"
 # File: raw/man1/timeout.1, line: 46
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/timeout.1, line: 46
 # File: raw/man1/timeout.1, line: 46
@@ -228,6 +246,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/timeout.1, line: 49
 # File: raw/man1/timeout.1, line: 49
@@ -235,6 +254,7 @@ msgstr "B<--version>"
 # File: raw/man1/timeout.1, line: 49
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/timeout.1, line: 52
 # File: raw/man1/timeout.1, line: 52
@@ -246,6 +266,7 @@ msgid ""
 msgstr ""
 "持续时间应当是一个浮点数，后缀可有可无；\\&“s”表示秒（默认值），“m”表示分"
 "钟，“h”表示小时，或者使用“d”表示天数。"
+
 #
 # File: raw/man1/timeout.1, line: 59
 # File: raw/man1/timeout.1, line: 59
@@ -264,6 +285,7 @@ msgstr ""
 "程序将在超时发生时送出 TERM 信号。TERM 信号能够杀死任何没有阻塞或捕获该信号的"
 "进程。您也可能需要使用 KILL (9) 信号，因为该信号不能被捕获。此时，退出状态值"
 "将为 128+9 而非 124。"
+
 #
 # File: raw/man1/timeout.1, line: 59
 # File: raw/man1/timeout.1, line: 59
@@ -272,14 +294,14 @@ msgstr ""
 #, no-wrap
 msgid "BUGS"
 msgstr "BUGS"
-#
+
 # File: raw/man1/timeout.1, line: 61
 # File: raw/man1/timeout.1, line: 61
 #. type: Plain text
 # File: raw/man1/timeout.1, line: 61
-#, fuzzy
 msgid "Some platforms don't curently support timeouts beyond the year 2038."
-msgstr "某些平台目前不支持将超时时间设置为超过 2038 年"
+msgstr "某些平台目前不支持将超时时间设置为超过 2038 年。"
+
 #
 # File: raw/man1/timeout.1, line: 61
 # File: raw/man1/timeout.1, line: 61
@@ -288,6 +310,7 @@ msgstr "某些平台目前不支持将超时时间设置为超过 2038 年"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/timeout.1, line: 63
 # File: raw/man1/timeout.1, line: 63
@@ -295,6 +318,7 @@ msgstr "作者"
 # File: raw/man1/timeout.1, line: 63
 msgid "Written by Padraig Brady."
 msgstr "由 Padraig Brady 编写。"
+
 #
 # File: raw/man1/timeout.1, line: 63
 # File: raw/man1/timeout.1, line: 63
@@ -303,6 +327,7 @@ msgstr "由 Padraig Brady 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/timeout.1, line: 65
 # File: raw/man1/timeout.1, line: 65
@@ -310,8 +335,8 @@ msgstr "报告错误"
 # File: raw/man1/timeout.1, line: 65
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/timeout.1, line: 67
 # File: raw/man1/timeout.1, line: 67
@@ -323,6 +348,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 timeout 的"
 "翻译错误。"
+
 #
 # File: raw/man1/timeout.1, line: 67
 # File: raw/man1/timeout.1, line: 67
@@ -331,18 +357,18 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 # File: raw/man1/timeout.1, line: 70
 # File: raw/man1/timeout.1, line: 70
 #. type: Plain text
 # File: raw/man1/timeout.1, line: 70
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/timeout.1, line: 73
 # File: raw/man1/timeout.1, line: 73
@@ -354,6 +380,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/timeout.1, line: 73
 # File: raw/man1/timeout.1, line: 73
@@ -362,6 +389,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/timeout.1, line: 75
 # File: raw/man1/timeout.1, line: 75
@@ -369,6 +397,7 @@ msgstr "参见"
 # File: raw/man1/timeout.1, line: 75
 msgid "kill(1)"
 msgstr "kill(1)"
+
 #
 # File: raw/man1/timeout.1, line: 78
 # File: raw/man1/timeout.1, line: 78
@@ -378,6 +407,7 @@ msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/"
 "timeoutE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/timeoutE<gt>"
+
 #
 # File: raw/man1/timeout.1, line: 79
 # File: raw/man1/timeout.1, line: 79
@@ -385,6 +415,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/timeout
 # File: raw/man1/timeout.1, line: 79
 msgid "or available locally via: info \\(aq(coreutils) timeout invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) timeout invocation\\(aq"
+
 #
 #
 #
