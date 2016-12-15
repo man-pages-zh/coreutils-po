@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,13 +25,13 @@ msgstr ""
 #. type: TH
 #: raw/man1/seq.1:2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 
 #. type: TH
 #: raw/man1/seq.1:2
 #, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr ""
 
 #. type: TH
@@ -145,7 +145,7 @@ msgid "output version information and exit"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:46
+#: raw/man1/seq.1:47
 msgid ""
 "If FIRST or INCREMENT is omitted, it defaults to 1.  That is, an omitted "
 "INCREMENT defaults to 1 even when LAST is smaller than FIRST.  The sequence "
@@ -153,73 +153,74 @@ msgid ""
 "become greater than LAST.  FIRST, INCREMENT, and LAST are interpreted as "
 "floating point values.  INCREMENT is usually positive if FIRST is smaller "
 "than LAST, and INCREMENT is usually negative if FIRST is greater than LAST.  "
+"INCREMENT must not be 0; none of FIRST, INCREMENT and LAST may be NaN.  "
 "FORMAT must be suitable for printing one argument of type 'double'; it "
 "defaults to %.PRECf if FIRST, INCREMENT, and LAST are all fixed point "
 "decimal numbers with maximum precision PREC, and to %g otherwise."
 msgstr ""
 
 #. type: SH
-#: raw/man1/seq.1:46
+#: raw/man1/seq.1:47
 #, no-wrap
 msgid "AUTHOR"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:48
+#: raw/man1/seq.1:49
 msgid "Written by Ulrich Drepper."
 msgstr ""
 
 #. type: SH
-#: raw/man1/seq.1:48
+#: raw/man1/seq.1:49
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:50
+#: raw/man1/seq.1:51
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:52
+#: raw/man1/seq.1:53
 msgid ""
 "Report seq translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
 
 #. type: SH
-#: raw/man1/seq.1:52
+#: raw/man1/seq.1:53
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:55
+#: raw/man1/seq.1:56
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:58
+#: raw/man1/seq.1:59
 msgid ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 msgstr ""
 
 #. type: SH
-#: raw/man1/seq.1:58
+#: raw/man1/seq.1:59
 #, no-wrap
 msgid "SEE ALSO"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:60
+#: raw/man1/seq.1:61
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/seqE<gt>"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/seq.1:61
+#: raw/man1/seq.1:62
 msgid "or available locally via: info \\(aq(coreutils) seq invocation\\(aq"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,13 +25,13 @@ msgstr ""
 #. type: TH
 #: raw/man1/dd.1:2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 
 #. type: TH
 #: raw/man1/dd.1:2
 #, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr ""
 
 #. type: TH
@@ -228,7 +228,7 @@ msgstr ""
 #: raw/man1/dd.1:61
 msgid ""
 "N and BYTES may be followed by the following multiplicative suffixes: c =1, "
-"w =2, b =512, kB =1000, K =1024, MB =1000*1000, M =1024*1024, xM =M GB "
+"w =2, b =512, kB =1000, K =1024, MB =1000*1000, M =1024*1024, xM =M, GB "
 "=1000*1000*1000, G =1024*1024*1024, and so on for T, P, E, Z, Y."
 msgstr ""
 

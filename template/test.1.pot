@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:41+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,13 +25,13 @@ msgstr ""
 #. type: TH
 #: raw/man1/test.1:2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 
 #. type: TH
 #: raw/man1/test.1:2
 #, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr ""
 
 #. type: TH
@@ -541,12 +541,19 @@ msgstr ""
 #. type: Plain text
 #: raw/man1/test.1:151
 msgid ""
+"NOTE: Binary B<-a> and B<-o> are inherently ambiguous.  Use 'test EXPR1 && "
+"test EXPR2' or 'test EXPR1 || test EXPR2' instead."
+msgstr ""
+
+#. type: Plain text
+#: raw/man1/test.1:154
+msgid ""
 "NOTE: [ honors the B<--help> and B<--version> options, but test does not.  "
 "test treats each of those as it treats any other nonempty STRING."
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:155
+#: raw/man1/test.1:158
 msgid ""
 "NOTE: your shell may have its own version of test and/or [, which usually "
 "supersedes the version described here.  Please refer to your shell's "
@@ -554,67 +561,67 @@ msgid ""
 msgstr ""
 
 #. type: SH
-#: raw/man1/test.1:155
+#: raw/man1/test.1:158
 #, no-wrap
 msgid "AUTHOR"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:157
+#: raw/man1/test.1:160
 msgid "Written by Kevin Braunsdorf and Matthew Bradburn."
 msgstr ""
 
 #. type: SH
-#: raw/man1/test.1:157
+#: raw/man1/test.1:160
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:159
+#: raw/man1/test.1:162
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:161
+#: raw/man1/test.1:164
 msgid ""
 "Report [ translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
 
 #. type: SH
-#: raw/man1/test.1:161
+#: raw/man1/test.1:164
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:164
+#: raw/man1/test.1:167
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:167
+#: raw/man1/test.1:170
 msgid ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 msgstr ""
 
 #. type: SH
-#: raw/man1/test.1:167
+#: raw/man1/test.1:170
 #, no-wrap
 msgid "SEE ALSO"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:169
+#: raw/man1/test.1:172
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/[E<gt>"
 msgstr ""
 
 #. type: Plain text
-#: raw/man1/test.1:170
+#: raw/man1/test.1:173
 msgid "or available locally via: info \\(aq(coreutils) test invocation\\(aq"
 msgstr ""
