@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:41+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,68 +15,91 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/truncate.1, line: 2
+# File: raw/man1/truncate.1, line: 2
 #. type: TH
 # File: raw/man1/truncate.1, line: 2
 #, no-wrap
 msgid "TRUNCATE"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 2
 #. type: TH
 # File: raw/man1/truncate.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 2
+# File: raw/man1/truncate.1, line: 2
 #. type: TH
 # File: raw/man1/truncate.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/truncate.1, line: 2
+# File: raw/man1/truncate.1, line: 2
 #. type: TH
 # File: raw/man1/truncate.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/truncate.1, line: 3
+# File: raw/man1/truncate.1, line: 3
 #. type: SH
 # File: raw/man1/truncate.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/truncate.1, line: 5
+# File: raw/man1/truncate.1, line: 5
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 5
 msgid "truncate - shrink or extend the size of a file to the specified size"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 5
+# File: raw/man1/truncate.1, line: 5
 #. type: SH
 # File: raw/man1/truncate.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/truncate.1, line: 8
+# File: raw/man1/truncate.1, line: 8
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 8
 msgid "B<truncate> I<\\,OPTION\\/>... I<\\,FILE\\/>..."
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 8
+# File: raw/man1/truncate.1, line: 8
 #. type: SH
 # File: raw/man1/truncate.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/truncate.1, line: 12
+# File: raw/man1/truncate.1, line: 12
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 12
 msgid "Shrink or extend the size of each FILE to the specified size"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 14
+# File: raw/man1/truncate.1, line: 14
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 14
 msgid "A FILE argument that does not exist is created."
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 18
+# File: raw/man1/truncate.1, line: 18
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 18
 msgid ""
@@ -85,78 +108,106 @@ msgid ""
 "bytes."
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 20
+# File: raw/man1/truncate.1, line: 20
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 20
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 #
+# File: raw/man1/truncate.1, line: 20
+# File: raw/man1/truncate.1, line: 20
 #. type: TP
 # File: raw/man1/truncate.1, line: 20
 #, no-wrap
 msgid "B<-c>, B<--no-create>"
 msgstr "B<-c>, B<--no-create>"
 #
+# File: raw/man1/truncate.1, line: 23
+# File: raw/man1/truncate.1, line: 23
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 23
 msgid "do not create any files"
 msgstr "不要创建任何文件"
 #
+# File: raw/man1/truncate.1, line: 23
+# File: raw/man1/truncate.1, line: 23
 #. type: TP
 # File: raw/man1/truncate.1, line: 23
 #, no-wrap
 msgid "B<-o>, B<--io-blocks>"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 26
+# File: raw/man1/truncate.1, line: 26
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 26
 msgid "treat SIZE as number of IO blocks instead of bytes"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 26
+# File: raw/man1/truncate.1, line: 26
 #. type: TP
 # File: raw/man1/truncate.1, line: 26
 #, no-wrap
 msgid "B<-r>, B<--reference>=I<\\,RFILE\\/>"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 29
+# File: raw/man1/truncate.1, line: 29
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 29
 msgid "base size on RFILE"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 29
+# File: raw/man1/truncate.1, line: 29
 #. type: TP
 # File: raw/man1/truncate.1, line: 29
 #, no-wrap
 msgid "B<-s>, B<--size>=I<\\,SIZE\\/>"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 32
+# File: raw/man1/truncate.1, line: 32
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 32
 msgid "set or adjust the file size by SIZE bytes"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 32
+# File: raw/man1/truncate.1, line: 32
 #. type: TP
 # File: raw/man1/truncate.1, line: 32
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/truncate.1, line: 35
+# File: raw/man1/truncate.1, line: 35
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 35
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/truncate.1, line: 35
+# File: raw/man1/truncate.1, line: 35
 #. type: TP
 # File: raw/man1/truncate.1, line: 35
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/truncate.1, line: 38
+# File: raw/man1/truncate.1, line: 38
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 38
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/truncate.1, line: 41
+# File: raw/man1/truncate.1, line: 41
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 41
 msgid ""
@@ -165,6 +216,8 @@ msgid ""
 "of 1000)."
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 45
+# File: raw/man1/truncate.1, line: 45
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 45
 msgid ""
@@ -173,23 +226,31 @@ msgid ""
 "round down to multiple of, '%' round up to multiple of."
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 45
+# File: raw/man1/truncate.1, line: 45
 #. type: SH
 # File: raw/man1/truncate.1, line: 45
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/truncate.1, line: 47
+# File: raw/man1/truncate.1, line: 47
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 47
 msgid "Written by Padraig Brady."
 msgstr "由 Padraig Brady 编写。"
 #
+# File: raw/man1/truncate.1, line: 47
+# File: raw/man1/truncate.1, line: 47
 #. type: SH
 # File: raw/man1/truncate.1, line: 47
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/truncate.1, line: 49
+# File: raw/man1/truncate.1, line: 49
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 49
 msgid ""
@@ -197,6 +258,8 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/truncate.1, line: 51
+# File: raw/man1/truncate.1, line: 51
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 51
 msgid ""
@@ -204,12 +267,16 @@ msgid ""
 "E<gt>"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 51
+# File: raw/man1/truncate.1, line: 51
 #. type: SH
 # File: raw/man1/truncate.1, line: 51
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/truncate.1, line: 54
+# File: raw/man1/truncate.1, line: 54
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 54
 #, fuzzy
@@ -220,6 +287,8 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/truncate.1, line: 57
+# File: raw/man1/truncate.1, line: 57
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 57
 msgid ""
@@ -229,17 +298,23 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/truncate.1, line: 57
+# File: raw/man1/truncate.1, line: 57
 #. type: SH
 # File: raw/man1/truncate.1, line: 57
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/truncate.1, line: 59
+# File: raw/man1/truncate.1, line: 59
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 59
 msgid "dd(1), truncate(2), ftruncate(2)"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 62
+# File: raw/man1/truncate.1, line: 62
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 62
 msgid ""
@@ -247,11 +322,15 @@ msgid ""
 "truncateE<gt>"
 msgstr ""
 #
+# File: raw/man1/truncate.1, line: 63
+# File: raw/man1/truncate.1, line: 63
 #. type: Plain text
 # File: raw/man1/truncate.1, line: 63
 msgid ""
 "or available locally via: info \\(aq(coreutils) truncate invocation\\(aq"
 msgstr ""
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

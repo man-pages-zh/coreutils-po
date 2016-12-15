@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,52 +15,78 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
 #. type: TH
 # File: raw/man1/chcon.1, line: 2
 #, no-wrap
 msgid "CHCON"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
 #. type: TH
 # File: raw/man1/chcon.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
 #. type: TH
 # File: raw/man1/chcon.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
+# File: raw/man1/chcon.1, line: 2
 #. type: TH
 # File: raw/man1/chcon.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/chcon.1, line: 3
+# File: raw/man1/chcon.1, line: 3
+# File: raw/man1/chcon.1, line: 3
 #. type: SH
 # File: raw/man1/chcon.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/chcon.1, line: 5
+# File: raw/man1/chcon.1, line: 5
+# File: raw/man1/chcon.1, line: 5
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 5
 msgid "chcon - change file security context"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 5
+# File: raw/man1/chcon.1, line: 5
+# File: raw/man1/chcon.1, line: 5
 #. type: SH
 # File: raw/man1/chcon.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/chcon.1, line: 8
+# File: raw/man1/chcon.1, line: 8
+# File: raw/man1/chcon.1, line: 8
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 8
 msgid "B<chcon> [I<\\,OPTION\\/>]... I<\\,CONTEXT FILE\\/>..."
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 11
+# File: raw/man1/chcon.1, line: 11
+# File: raw/man1/chcon.1, line: 11
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 11
 msgid ""
@@ -68,17 +94,26 @@ msgid ""
 "RANGE\\/>] [I<\\,-t TYPE\\/>] I<\\,FILE\\/>..."
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 14
+# File: raw/man1/chcon.1, line: 14
+# File: raw/man1/chcon.1, line: 14
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 14
 msgid "B<chcon> [I<\\,OPTION\\/>]... I<\\,--reference=RFILE FILE\\/>..."
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 14
+# File: raw/man1/chcon.1, line: 14
+# File: raw/man1/chcon.1, line: 14
 #. type: SH
 # File: raw/man1/chcon.1, line: 14
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/chcon.1, line: 19
+# File: raw/man1/chcon.1, line: 19
+# File: raw/man1/chcon.1, line: 19
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 19
 msgid ""
@@ -86,18 +121,27 @@ msgid ""
 "reference>, change the security context of each FILE to that of RFILE."
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 21
+# File: raw/man1/chcon.1, line: 21
+# File: raw/man1/chcon.1, line: 21
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 21
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 #
+# File: raw/man1/chcon.1, line: 21
+# File: raw/man1/chcon.1, line: 21
+# File: raw/man1/chcon.1, line: 21
 #. type: TP
 # File: raw/man1/chcon.1, line: 21
 #, no-wrap
 msgid "B<--dereference>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 25
+# File: raw/man1/chcon.1, line: 25
+# File: raw/man1/chcon.1, line: 25
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 25
 msgid ""
@@ -105,116 +149,179 @@ msgid ""
 "the symbolic link itself"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 25
+# File: raw/man1/chcon.1, line: 25
+# File: raw/man1/chcon.1, line: 25
 #. type: TP
 # File: raw/man1/chcon.1, line: 25
 #, no-wrap
 msgid "B<-h>, B<--no-dereference>"
 msgstr "B<-h>, B<--no-dereference>"
 #
+# File: raw/man1/chcon.1, line: 28
+# File: raw/man1/chcon.1, line: 28
+# File: raw/man1/chcon.1, line: 28
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 28
 msgid "affect symbolic links instead of any referenced file"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 28
+# File: raw/man1/chcon.1, line: 28
+# File: raw/man1/chcon.1, line: 28
 #. type: TP
 # File: raw/man1/chcon.1, line: 28
 #, no-wrap
 msgid "B<-u>, B<--user>=I<\\,USER\\/>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 31
+# File: raw/man1/chcon.1, line: 31
+# File: raw/man1/chcon.1, line: 31
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 31
 msgid "set user USER in the target security context"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 31
+# File: raw/man1/chcon.1, line: 31
+# File: raw/man1/chcon.1, line: 31
 #. type: TP
 # File: raw/man1/chcon.1, line: 31
 #, no-wrap
 msgid "B<-r>, B<--role>=I<\\,ROLE\\/>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 34
+# File: raw/man1/chcon.1, line: 34
+# File: raw/man1/chcon.1, line: 34
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 34
 msgid "set role ROLE in the target security context"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 34
+# File: raw/man1/chcon.1, line: 34
+# File: raw/man1/chcon.1, line: 34
 #. type: TP
 # File: raw/man1/chcon.1, line: 34
 #, no-wrap
 msgid "B<-t>, B<--type>=I<\\,TYPE\\/>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 37
+# File: raw/man1/chcon.1, line: 37
+# File: raw/man1/chcon.1, line: 37
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 37
 msgid "set type TYPE in the target security context"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 37
+# File: raw/man1/chcon.1, line: 37
+# File: raw/man1/chcon.1, line: 37
 #. type: TP
 # File: raw/man1/chcon.1, line: 37
 #, no-wrap
 msgid "B<-l>, B<--range>=I<\\,RANGE\\/>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 40
+# File: raw/man1/chcon.1, line: 40
+# File: raw/man1/chcon.1, line: 40
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 40
 msgid "set range RANGE in the target security context"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 40
+# File: raw/man1/chcon.1, line: 40
+# File: raw/man1/chcon.1, line: 40
 #. type: TP
 # File: raw/man1/chcon.1, line: 40
 #, no-wrap
 msgid "B<--no-preserve-root>"
 msgstr "B<--no-preserve-root>"
 #
+# File: raw/man1/chcon.1, line: 43
+# File: raw/man1/chcon.1, line: 43
+# File: raw/man1/chcon.1, line: 43
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 43
 msgid "do not treat '/' specially (the default)"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 43
+# File: raw/man1/chcon.1, line: 43
+# File: raw/man1/chcon.1, line: 43
 #. type: TP
 # File: raw/man1/chcon.1, line: 43
 #, no-wrap
 msgid "B<--preserve-root>"
 msgstr "B<--preserve-root>"
 #
+# File: raw/man1/chcon.1, line: 46
+# File: raw/man1/chcon.1, line: 46
+# File: raw/man1/chcon.1, line: 46
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 46
 msgid "fail to operate recursively on '/'"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 46
+# File: raw/man1/chcon.1, line: 46
+# File: raw/man1/chcon.1, line: 46
 #. type: TP
 # File: raw/man1/chcon.1, line: 46
 #, no-wrap
 msgid "B<--reference>=I<\\,RFILE\\/>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 50
+# File: raw/man1/chcon.1, line: 50
+# File: raw/man1/chcon.1, line: 50
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 50
 msgid "use RFILE's security context rather than specifying a CONTEXT value"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 50
+# File: raw/man1/chcon.1, line: 50
+# File: raw/man1/chcon.1, line: 50
 #. type: TP
 # File: raw/man1/chcon.1, line: 50
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
 msgstr "B<-R>, B<--recursive>"
 #
+# File: raw/man1/chcon.1, line: 53
+# File: raw/man1/chcon.1, line: 53
+# File: raw/man1/chcon.1, line: 53
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 53
 msgid "operate on files and directories recursively"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 53
+# File: raw/man1/chcon.1, line: 53
+# File: raw/man1/chcon.1, line: 53
 #. type: TP
 # File: raw/man1/chcon.1, line: 53
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
 #
+# File: raw/man1/chcon.1, line: 56
+# File: raw/man1/chcon.1, line: 56
+# File: raw/man1/chcon.1, line: 56
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 56
 msgid "output a diagnostic for every file processed"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 60
+# File: raw/man1/chcon.1, line: 60
+# File: raw/man1/chcon.1, line: 60
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 60
 msgid ""
@@ -223,79 +330,121 @@ msgid ""
 "takes effect."
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 60
+# File: raw/man1/chcon.1, line: 60
+# File: raw/man1/chcon.1, line: 60
 #. type: TP
 # File: raw/man1/chcon.1, line: 60
 #, no-wrap
 msgid "B<-H>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 64
+# File: raw/man1/chcon.1, line: 64
+# File: raw/man1/chcon.1, line: 64
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 64
 msgid ""
 "if a command line argument is a symbolic link to a directory, traverse it"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 64
+# File: raw/man1/chcon.1, line: 64
+# File: raw/man1/chcon.1, line: 64
 #. type: TP
 # File: raw/man1/chcon.1, line: 64
 #, no-wrap
 msgid "B<-L>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 68
+# File: raw/man1/chcon.1, line: 68
+# File: raw/man1/chcon.1, line: 68
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 68
 msgid "traverse every symbolic link to a directory encountered"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 68
+# File: raw/man1/chcon.1, line: 68
+# File: raw/man1/chcon.1, line: 68
 #. type: TP
 # File: raw/man1/chcon.1, line: 68
 #, no-wrap
 msgid "B<-P>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 71
+# File: raw/man1/chcon.1, line: 71
+# File: raw/man1/chcon.1, line: 71
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 71
 msgid "do not traverse any symbolic links (default)"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 71
+# File: raw/man1/chcon.1, line: 71
+# File: raw/man1/chcon.1, line: 71
 #. type: TP
 # File: raw/man1/chcon.1, line: 71
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/chcon.1, line: 74
+# File: raw/man1/chcon.1, line: 74
+# File: raw/man1/chcon.1, line: 74
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 74
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/chcon.1, line: 74
+# File: raw/man1/chcon.1, line: 74
+# File: raw/man1/chcon.1, line: 74
 #. type: TP
 # File: raw/man1/chcon.1, line: 74
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/chcon.1, line: 77
+# File: raw/man1/chcon.1, line: 77
+# File: raw/man1/chcon.1, line: 77
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 77
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/chcon.1, line: 77
+# File: raw/man1/chcon.1, line: 77
+# File: raw/man1/chcon.1, line: 77
 #. type: SH
 # File: raw/man1/chcon.1, line: 77
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/chcon.1, line: 79
+# File: raw/man1/chcon.1, line: 79
+# File: raw/man1/chcon.1, line: 79
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 79
 msgid "Written by Russell Coker and Jim Meyering."
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 79
+# File: raw/man1/chcon.1, line: 79
+# File: raw/man1/chcon.1, line: 79
 #. type: SH
 # File: raw/man1/chcon.1, line: 79
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/chcon.1, line: 81
+# File: raw/man1/chcon.1, line: 81
+# File: raw/man1/chcon.1, line: 81
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 81
 msgid ""
@@ -303,6 +452,9 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/chcon.1, line: 83
+# File: raw/man1/chcon.1, line: 83
+# File: raw/man1/chcon.1, line: 83
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 83
 msgid ""
@@ -310,12 +462,18 @@ msgid ""
 "E<gt>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 83
+# File: raw/man1/chcon.1, line: 83
+# File: raw/man1/chcon.1, line: 83
 #. type: SH
 # File: raw/man1/chcon.1, line: 83
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/chcon.1, line: 86
+# File: raw/man1/chcon.1, line: 86
+# File: raw/man1/chcon.1, line: 86
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 86
 #, fuzzy
@@ -326,6 +484,9 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/chcon.1, line: 89
+# File: raw/man1/chcon.1, line: 89
+# File: raw/man1/chcon.1, line: 89
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 89
 msgid ""
@@ -335,22 +496,34 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/chcon.1, line: 89
+# File: raw/man1/chcon.1, line: 89
+# File: raw/man1/chcon.1, line: 89
 #. type: SH
 # File: raw/man1/chcon.1, line: 89
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/chcon.1, line: 91
+# File: raw/man1/chcon.1, line: 91
+# File: raw/man1/chcon.1, line: 91
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 91
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/chconE<gt>"
 msgstr ""
 #
+# File: raw/man1/chcon.1, line: 92
+# File: raw/man1/chcon.1, line: 92
+# File: raw/man1/chcon.1, line: 92
 #. type: Plain text
 # File: raw/man1/chcon.1, line: 92
 msgid "or available locally via: info \\(aq(coreutils) chcon invocation\\(aq"
 msgstr ""
+#
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

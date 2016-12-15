@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:41+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,97 +15,130 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/stat.1, line: 2
+# File: raw/man1/stat.1, line: 2
 #. type: TH
 # File: raw/man1/stat.1, line: 2
 #, no-wrap
 msgid "STAT"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 2
 #. type: TH
 # File: raw/man1/stat.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 2
+# File: raw/man1/stat.1, line: 2
 #. type: TH
 # File: raw/man1/stat.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/stat.1, line: 2
+# File: raw/man1/stat.1, line: 2
 #. type: TH
 # File: raw/man1/stat.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/stat.1, line: 3
+# File: raw/man1/stat.1, line: 3
 #. type: SH
 # File: raw/man1/stat.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/stat.1, line: 5
+# File: raw/man1/stat.1, line: 5
 #. type: Plain text
 # File: raw/man1/stat.1, line: 5
 msgid "stat - display file or file system status"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 5
+# File: raw/man1/stat.1, line: 5
 #. type: SH
 # File: raw/man1/stat.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/stat.1, line: 8
+# File: raw/man1/stat.1, line: 8
 #. type: Plain text
 # File: raw/man1/stat.1, line: 8
 msgid "B<stat> [I<\\,OPTION\\/>]... I<\\,FILE\\/>..."
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 8
+# File: raw/man1/stat.1, line: 8
 #. type: SH
 # File: raw/man1/stat.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/stat.1, line: 12
+# File: raw/man1/stat.1, line: 12
 #. type: Plain text
 # File: raw/man1/stat.1, line: 12
 msgid "Display file or file system status."
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 14
+# File: raw/man1/stat.1, line: 14
 #. type: Plain text
 # File: raw/man1/stat.1, line: 14
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 #
+# File: raw/man1/stat.1, line: 14
+# File: raw/man1/stat.1, line: 14
 #. type: TP
 # File: raw/man1/stat.1, line: 14
 #, no-wrap
 msgid "B<-L>, B<--dereference>"
 msgstr "B<-L>, B<--dereference>"
 #
+# File: raw/man1/stat.1, line: 17
+# File: raw/man1/stat.1, line: 17
 #. type: Plain text
 # File: raw/man1/stat.1, line: 17
 msgid "follow links"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 17
+# File: raw/man1/stat.1, line: 17
 #. type: TP
 # File: raw/man1/stat.1, line: 17
 #, no-wrap
 msgid "B<-f>, B<--file-system>"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 20
+# File: raw/man1/stat.1, line: 20
 #. type: Plain text
 # File: raw/man1/stat.1, line: 20
 msgid "display file system status instead of file status"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 20
+# File: raw/man1/stat.1, line: 20
 #. type: TP
 # File: raw/man1/stat.1, line: 20
 #, no-wrap
 msgid "B<-c>  B<--format>=I<\\,FORMAT\\/>"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 24
+# File: raw/man1/stat.1, line: 24
 #. type: Plain text
 # File: raw/man1/stat.1, line: 24
 msgid ""
@@ -113,12 +146,16 @@ msgid ""
 "use of FORMAT"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 24
+# File: raw/man1/stat.1, line: 24
 #. type: TP
 # File: raw/man1/stat.1, line: 24
 #, no-wrap
 msgid "B<--printf>=I<\\,FORMAT\\/>"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 29
+# File: raw/man1/stat.1, line: 29
 #. type: Plain text
 # File: raw/man1/stat.1, line: 29
 msgid ""
@@ -126,44 +163,62 @@ msgid ""
 "mandatory trailing newline; if you want a newline, include \\en in FORMAT"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 29
+# File: raw/man1/stat.1, line: 29
 #. type: TP
 # File: raw/man1/stat.1, line: 29
 #, no-wrap
 msgid "B<-t>, B<--terse>"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 32
+# File: raw/man1/stat.1, line: 32
 #. type: Plain text
 # File: raw/man1/stat.1, line: 32
 msgid "print the information in terse form"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 32
+# File: raw/man1/stat.1, line: 32
 #. type: TP
 # File: raw/man1/stat.1, line: 32
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/stat.1, line: 35
+# File: raw/man1/stat.1, line: 35
 #. type: Plain text
 # File: raw/man1/stat.1, line: 35
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/stat.1, line: 35
+# File: raw/man1/stat.1, line: 35
 #. type: TP
 # File: raw/man1/stat.1, line: 35
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/stat.1, line: 38
+# File: raw/man1/stat.1, line: 38
 #. type: Plain text
 # File: raw/man1/stat.1, line: 38
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/stat.1, line: 40
+# File: raw/man1/stat.1, line: 40
 #. type: Plain text
 # File: raw/man1/stat.1, line: 40
 msgid "The valid format sequences for files (without B<--file-system>):"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 40
+# File: raw/man1/stat.1, line: 132
+# File: raw/man1/stat.1, line: 40
+# File: raw/man1/stat.1, line: 132
 #. type: TP
 # File: raw/man1/stat.1, line: 40
 # File: raw/man1/stat.1, line: 132
@@ -171,22 +226,32 @@ msgstr ""
 msgid "%a"
 msgstr "%a"
 #
+# File: raw/man1/stat.1, line: 43
+# File: raw/man1/stat.1, line: 43
 #. type: Plain text
 # File: raw/man1/stat.1, line: 43
 msgid "access rights in octal (note '#' and '0' printf flags)"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 43
+# File: raw/man1/stat.1, line: 43
 #. type: TP
 # File: raw/man1/stat.1, line: 43
 #, no-wrap
 msgid "%A"
 msgstr "%A"
 #
+# File: raw/man1/stat.1, line: 46
+# File: raw/man1/stat.1, line: 46
 #. type: Plain text
 # File: raw/man1/stat.1, line: 46
 msgid "access rights in human readable form"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 46
+# File: raw/man1/stat.1, line: 135
+# File: raw/man1/stat.1, line: 46
+# File: raw/man1/stat.1, line: 135
 #. type: TP
 # File: raw/man1/stat.1, line: 46
 # File: raw/man1/stat.1, line: 135
@@ -194,33 +259,47 @@ msgstr ""
 msgid "%b"
 msgstr "%b"
 #
+# File: raw/man1/stat.1, line: 49
+# File: raw/man1/stat.1, line: 49
 #. type: Plain text
 # File: raw/man1/stat.1, line: 49
 msgid "number of blocks allocated (see %B)"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 49
+# File: raw/man1/stat.1, line: 49
 #. type: TP
 # File: raw/man1/stat.1, line: 49
 #, no-wrap
 msgid "%B"
 msgstr "%B"
 #
+# File: raw/man1/stat.1, line: 52
+# File: raw/man1/stat.1, line: 52
 #. type: Plain text
 # File: raw/man1/stat.1, line: 52
 msgid "the size in bytes of each block reported by %b"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 52
+# File: raw/man1/stat.1, line: 52
 #. type: TP
 # File: raw/man1/stat.1, line: 52
 #, no-wrap
 msgid "%C"
 msgstr "%C"
 #
+# File: raw/man1/stat.1, line: 55
+# File: raw/man1/stat.1, line: 55
 #. type: Plain text
 # File: raw/man1/stat.1, line: 55
 msgid "SELinux security context string"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 55
+# File: raw/man1/stat.1, line: 141
+# File: raw/man1/stat.1, line: 55
+# File: raw/man1/stat.1, line: 141
 #. type: TP
 # File: raw/man1/stat.1, line: 55
 # File: raw/man1/stat.1, line: 141
@@ -228,22 +307,32 @@ msgstr ""
 msgid "%d"
 msgstr "%d"
 #
+# File: raw/man1/stat.1, line: 58
+# File: raw/man1/stat.1, line: 58
 #. type: Plain text
 # File: raw/man1/stat.1, line: 58
 msgid "device number in decimal"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 58
+# File: raw/man1/stat.1, line: 58
 #. type: TP
 # File: raw/man1/stat.1, line: 58
 #, no-wrap
 msgid "%D"
 msgstr "%D"
 #
+# File: raw/man1/stat.1, line: 61
+# File: raw/man1/stat.1, line: 61
 #. type: Plain text
 # File: raw/man1/stat.1, line: 61
 msgid "device number in hex"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 61
+# File: raw/man1/stat.1, line: 144
+# File: raw/man1/stat.1, line: 61
+# File: raw/man1/stat.1, line: 144
 #. type: TP
 # File: raw/man1/stat.1, line: 61
 # File: raw/man1/stat.1, line: 144
@@ -251,55 +340,77 @@ msgstr ""
 msgid "%f"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 64
+# File: raw/man1/stat.1, line: 64
 #. type: Plain text
 # File: raw/man1/stat.1, line: 64
 msgid "raw mode in hex"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 64
+# File: raw/man1/stat.1, line: 64
 #. type: TP
 # File: raw/man1/stat.1, line: 64
 #, no-wrap
 msgid "%F"
 msgstr "%F"
 #
+# File: raw/man1/stat.1, line: 67
+# File: raw/man1/stat.1, line: 67
 #. type: Plain text
 # File: raw/man1/stat.1, line: 67
 msgid "file type"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 67
+# File: raw/man1/stat.1, line: 67
 #. type: TP
 # File: raw/man1/stat.1, line: 67
 #, no-wrap
 msgid "%g"
 msgstr "%g"
 #
+# File: raw/man1/stat.1, line: 70
+# File: raw/man1/stat.1, line: 70
 #. type: Plain text
 # File: raw/man1/stat.1, line: 70
 msgid "group ID of owner"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 70
+# File: raw/man1/stat.1, line: 70
 #. type: TP
 # File: raw/man1/stat.1, line: 70
 #, no-wrap
 msgid "%G"
 msgstr "%G"
 #
+# File: raw/man1/stat.1, line: 73
+# File: raw/man1/stat.1, line: 73
 #. type: Plain text
 # File: raw/man1/stat.1, line: 73
 msgid "group name of owner"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 73
+# File: raw/man1/stat.1, line: 73
 #. type: TP
 # File: raw/man1/stat.1, line: 73
 #, no-wrap
 msgid "%h"
 msgstr "%h"
 #
+# File: raw/man1/stat.1, line: 76
+# File: raw/man1/stat.1, line: 76
 #. type: Plain text
 # File: raw/man1/stat.1, line: 76
 msgid "number of hard links"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 76
+# File: raw/man1/stat.1, line: 147
+# File: raw/man1/stat.1, line: 76
+# File: raw/man1/stat.1, line: 147
 #. type: TP
 # File: raw/man1/stat.1, line: 76
 # File: raw/man1/stat.1, line: 147
@@ -307,22 +418,32 @@ msgstr ""
 msgid "%i"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 79
+# File: raw/man1/stat.1, line: 79
 #. type: Plain text
 # File: raw/man1/stat.1, line: 79
 msgid "inode number"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 79
+# File: raw/man1/stat.1, line: 79
 #. type: TP
 # File: raw/man1/stat.1, line: 79
 #, no-wrap
 msgid "%m"
 msgstr "%m"
 #
+# File: raw/man1/stat.1, line: 82
+# File: raw/man1/stat.1, line: 82
 #. type: Plain text
 # File: raw/man1/stat.1, line: 82
 msgid "mount point"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 82
+# File: raw/man1/stat.1, line: 153
+# File: raw/man1/stat.1, line: 82
+# File: raw/man1/stat.1, line: 153
 #. type: TP
 # File: raw/man1/stat.1, line: 82
 # File: raw/man1/stat.1, line: 153
@@ -330,34 +451,50 @@ msgstr ""
 msgid "%n"
 msgstr "%n"
 #
+# File: raw/man1/stat.1, line: 85
+# File: raw/man1/stat.1, line: 156
+# File: raw/man1/stat.1, line: 85
+# File: raw/man1/stat.1, line: 156
 #. type: Plain text
 # File: raw/man1/stat.1, line: 85
 # File: raw/man1/stat.1, line: 156
 msgid "file name"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 85
+# File: raw/man1/stat.1, line: 85
 #. type: TP
 # File: raw/man1/stat.1, line: 85
 #, no-wrap
 msgid "%N"
 msgstr "%N"
 #
+# File: raw/man1/stat.1, line: 88
+# File: raw/man1/stat.1, line: 88
 #. type: Plain text
 # File: raw/man1/stat.1, line: 88
 msgid "quoted file name with dereference if symbolic link"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 88
+# File: raw/man1/stat.1, line: 88
 #. type: TP
 # File: raw/man1/stat.1, line: 88
 #, no-wrap
 msgid "%o"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 91
+# File: raw/man1/stat.1, line: 91
 #. type: Plain text
 # File: raw/man1/stat.1, line: 91
 msgid "optimal I/O transfer size hint"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 91
+# File: raw/man1/stat.1, line: 156
+# File: raw/man1/stat.1, line: 91
+# File: raw/man1/stat.1, line: 156
 #. type: TP
 # File: raw/man1/stat.1, line: 91
 # File: raw/man1/stat.1, line: 156
@@ -365,11 +502,17 @@ msgstr ""
 msgid "%s"
 msgstr "%s"
 #
+# File: raw/man1/stat.1, line: 94
+# File: raw/man1/stat.1, line: 94
 #. type: Plain text
 # File: raw/man1/stat.1, line: 94
 msgid "total size, in bytes"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 94
+# File: raw/man1/stat.1, line: 162
+# File: raw/man1/stat.1, line: 94
+# File: raw/man1/stat.1, line: 162
 #. type: TP
 # File: raw/man1/stat.1, line: 94
 # File: raw/man1/stat.1, line: 162
@@ -377,11 +520,17 @@ msgstr ""
 msgid "%t"
 msgstr "%t"
 #
+# File: raw/man1/stat.1, line: 97
+# File: raw/man1/stat.1, line: 97
 #. type: Plain text
 # File: raw/man1/stat.1, line: 97
 msgid "major device type in hex, for character/block device special files"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 97
+# File: raw/man1/stat.1, line: 165
+# File: raw/man1/stat.1, line: 97
+# File: raw/man1/stat.1, line: 165
 #. type: TP
 # File: raw/man1/stat.1, line: 97
 # File: raw/man1/stat.1, line: 165
@@ -389,199 +538,273 @@ msgstr ""
 msgid "%T"
 msgstr "%T"
 #
+# File: raw/man1/stat.1, line: 100
+# File: raw/man1/stat.1, line: 100
 #. type: Plain text
 # File: raw/man1/stat.1, line: 100
 msgid "minor device type in hex, for character/block device special files"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 100
+# File: raw/man1/stat.1, line: 100
 #. type: TP
 # File: raw/man1/stat.1, line: 100
 #, no-wrap
 msgid "%u"
 msgstr "%u"
 #
+# File: raw/man1/stat.1, line: 103
+# File: raw/man1/stat.1, line: 103
 #. type: Plain text
 # File: raw/man1/stat.1, line: 103
 msgid "user ID of owner"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 103
+# File: raw/man1/stat.1, line: 103
 #. type: TP
 # File: raw/man1/stat.1, line: 103
 #, no-wrap
 msgid "%U"
 msgstr "%U"
 #
+# File: raw/man1/stat.1, line: 106
+# File: raw/man1/stat.1, line: 106
 #. type: Plain text
 # File: raw/man1/stat.1, line: 106
 msgid "user name of owner"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 106
+# File: raw/man1/stat.1, line: 106
 #. type: TP
 # File: raw/man1/stat.1, line: 106
 #, no-wrap
 msgid "%w"
 msgstr "%w"
 #
+# File: raw/man1/stat.1, line: 109
+# File: raw/man1/stat.1, line: 109
 #. type: Plain text
 # File: raw/man1/stat.1, line: 109
 msgid "time of file birth, human-readable; - if unknown"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 109
+# File: raw/man1/stat.1, line: 109
 #. type: TP
 # File: raw/man1/stat.1, line: 109
 #, no-wrap
 msgid "%W"
 msgstr "%W"
 #
+# File: raw/man1/stat.1, line: 112
+# File: raw/man1/stat.1, line: 112
 #. type: Plain text
 # File: raw/man1/stat.1, line: 112
 msgid "time of file birth, seconds since Epoch; 0 if unknown"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 112
+# File: raw/man1/stat.1, line: 112
 #. type: TP
 # File: raw/man1/stat.1, line: 112
 #, no-wrap
 msgid "%x"
 msgstr "%x"
 #
+# File: raw/man1/stat.1, line: 115
+# File: raw/man1/stat.1, line: 115
 #. type: Plain text
 # File: raw/man1/stat.1, line: 115
 msgid "time of last access, human-readable"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 115
+# File: raw/man1/stat.1, line: 115
 #. type: TP
 # File: raw/man1/stat.1, line: 115
 #, no-wrap
 msgid "%X"
 msgstr "%X"
 #
+# File: raw/man1/stat.1, line: 118
+# File: raw/man1/stat.1, line: 118
 #. type: Plain text
 # File: raw/man1/stat.1, line: 118
 msgid "time of last access, seconds since Epoch"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 118
+# File: raw/man1/stat.1, line: 118
 #. type: TP
 # File: raw/man1/stat.1, line: 118
 #, no-wrap
 msgid "%y"
 msgstr "%y"
 #
+# File: raw/man1/stat.1, line: 121
+# File: raw/man1/stat.1, line: 121
 #. type: Plain text
 # File: raw/man1/stat.1, line: 121
 msgid "time of last data modification, human-readable"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 121
+# File: raw/man1/stat.1, line: 121
 #. type: TP
 # File: raw/man1/stat.1, line: 121
 #, no-wrap
 msgid "%Y"
 msgstr "%Y"
 #
+# File: raw/man1/stat.1, line: 124
+# File: raw/man1/stat.1, line: 124
 #. type: Plain text
 # File: raw/man1/stat.1, line: 124
 msgid "time of last data modification, seconds since Epoch"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 124
+# File: raw/man1/stat.1, line: 124
 #. type: TP
 # File: raw/man1/stat.1, line: 124
 #, no-wrap
 msgid "%z"
 msgstr "%z"
 #
+# File: raw/man1/stat.1, line: 127
+# File: raw/man1/stat.1, line: 127
 #. type: Plain text
 # File: raw/man1/stat.1, line: 127
 msgid "time of last status change, human-readable"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 127
+# File: raw/man1/stat.1, line: 127
 #. type: TP
 # File: raw/man1/stat.1, line: 127
 #, no-wrap
 msgid "%Z"
 msgstr "%Z"
 #
+# File: raw/man1/stat.1, line: 130
+# File: raw/man1/stat.1, line: 130
 #. type: Plain text
 # File: raw/man1/stat.1, line: 130
 msgid "time of last status change, seconds since Epoch"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 132
+# File: raw/man1/stat.1, line: 132
 #. type: Plain text
 # File: raw/man1/stat.1, line: 132
 msgid "Valid format sequences for file systems:"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 135
+# File: raw/man1/stat.1, line: 135
 #. type: Plain text
 # File: raw/man1/stat.1, line: 135
 msgid "free blocks available to non-superuser"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 138
+# File: raw/man1/stat.1, line: 138
 #. type: Plain text
 # File: raw/man1/stat.1, line: 138
 msgid "total data blocks in file system"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 138
+# File: raw/man1/stat.1, line: 138
 #. type: TP
 # File: raw/man1/stat.1, line: 138
 #, no-wrap
 msgid "%c"
 msgstr "%c"
 #
+# File: raw/man1/stat.1, line: 141
+# File: raw/man1/stat.1, line: 141
 #. type: Plain text
 # File: raw/man1/stat.1, line: 141
 msgid "total file nodes in file system"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 144
+# File: raw/man1/stat.1, line: 144
 #. type: Plain text
 # File: raw/man1/stat.1, line: 144
 msgid "free file nodes in file system"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 147
+# File: raw/man1/stat.1, line: 147
 #. type: Plain text
 # File: raw/man1/stat.1, line: 147
 msgid "free blocks in file system"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 150
+# File: raw/man1/stat.1, line: 150
 #. type: Plain text
 # File: raw/man1/stat.1, line: 150
 msgid "file system ID in hex"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 150
+# File: raw/man1/stat.1, line: 150
 #. type: TP
 # File: raw/man1/stat.1, line: 150
 #, no-wrap
 msgid "%l"
 msgstr "%l"
 #
+# File: raw/man1/stat.1, line: 153
+# File: raw/man1/stat.1, line: 153
 #. type: Plain text
 # File: raw/man1/stat.1, line: 153
 msgid "maximum length of filenames"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 159
+# File: raw/man1/stat.1, line: 159
 #. type: Plain text
 # File: raw/man1/stat.1, line: 159
 msgid "block size (for faster transfers)"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 159
+# File: raw/man1/stat.1, line: 159
 #. type: TP
 # File: raw/man1/stat.1, line: 159
 #, no-wrap
 msgid "%S"
 msgstr "%S"
 #
+# File: raw/man1/stat.1, line: 162
+# File: raw/man1/stat.1, line: 162
 #. type: Plain text
 # File: raw/man1/stat.1, line: 162
 msgid "fundamental block size (for block counts)"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 165
+# File: raw/man1/stat.1, line: 165
 #. type: Plain text
 # File: raw/man1/stat.1, line: 165
 msgid "file system type in hex"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 168
+# File: raw/man1/stat.1, line: 168
 #. type: Plain text
 # File: raw/man1/stat.1, line: 168
 msgid "file system type in human readable form"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 172
+# File: raw/man1/stat.1, line: 172
 #. type: Plain text
 # File: raw/man1/stat.1, line: 172
 msgid ""
@@ -590,23 +813,31 @@ msgid ""
 "details about the options it supports."
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 172
+# File: raw/man1/stat.1, line: 172
 #. type: SH
 # File: raw/man1/stat.1, line: 172
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/stat.1, line: 174
+# File: raw/man1/stat.1, line: 174
 #. type: Plain text
 # File: raw/man1/stat.1, line: 174
 msgid "Written by Michael Meskes."
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 174
+# File: raw/man1/stat.1, line: 174
 #. type: SH
 # File: raw/man1/stat.1, line: 174
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/stat.1, line: 176
+# File: raw/man1/stat.1, line: 176
 #. type: Plain text
 # File: raw/man1/stat.1, line: 176
 msgid ""
@@ -614,18 +845,24 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/stat.1, line: 178
+# File: raw/man1/stat.1, line: 178
 #. type: Plain text
 # File: raw/man1/stat.1, line: 178
 msgid ""
 "Report stat translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 178
+# File: raw/man1/stat.1, line: 178
 #. type: SH
 # File: raw/man1/stat.1, line: 178
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/stat.1, line: 181
+# File: raw/man1/stat.1, line: 181
 #. type: Plain text
 # File: raw/man1/stat.1, line: 181
 #, fuzzy
@@ -636,6 +873,8 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/stat.1, line: 184
+# File: raw/man1/stat.1, line: 184
 #. type: Plain text
 # File: raw/man1/stat.1, line: 184
 msgid ""
@@ -645,27 +884,37 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/stat.1, line: 184
+# File: raw/man1/stat.1, line: 184
 #. type: SH
 # File: raw/man1/stat.1, line: 184
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/stat.1, line: 186
+# File: raw/man1/stat.1, line: 186
 #. type: Plain text
 # File: raw/man1/stat.1, line: 186
 msgid "stat(2)"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 189
+# File: raw/man1/stat.1, line: 189
 #. type: Plain text
 # File: raw/man1/stat.1, line: 189
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/statE<gt>"
 msgstr ""
 #
+# File: raw/man1/stat.1, line: 190
+# File: raw/man1/stat.1, line: 190
 #. type: Plain text
 # File: raw/man1/stat.1, line: 190
 msgid "or available locally via: info \\(aq(coreutils) stat invocation\\(aq"
 msgstr ""
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

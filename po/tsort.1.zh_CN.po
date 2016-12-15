@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:41+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,108 +15,145 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/tsort.1, line: 2
+# File: raw/man1/tsort.1, line: 2
 #. type: TH
 # File: raw/man1/tsort.1, line: 2
 #, no-wrap
 msgid "TSORT"
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 2
 #. type: TH
 # File: raw/man1/tsort.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 2
+# File: raw/man1/tsort.1, line: 2
 #. type: TH
 # File: raw/man1/tsort.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/tsort.1, line: 2
+# File: raw/man1/tsort.1, line: 2
 #. type: TH
 # File: raw/man1/tsort.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/tsort.1, line: 3
+# File: raw/man1/tsort.1, line: 3
 #. type: SH
 # File: raw/man1/tsort.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/tsort.1, line: 5
+# File: raw/man1/tsort.1, line: 5
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 5
 msgid "tsort - perform topological sort"
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 5
+# File: raw/man1/tsort.1, line: 5
 #. type: SH
 # File: raw/man1/tsort.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/tsort.1, line: 8
+# File: raw/man1/tsort.1, line: 8
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 8
 msgid "B<tsort> [I<\\,OPTION\\/>] [I<\\,FILE\\/>]"
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 8
+# File: raw/man1/tsort.1, line: 8
 #. type: SH
 # File: raw/man1/tsort.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/tsort.1, line: 12
+# File: raw/man1/tsort.1, line: 12
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 12
 msgid ""
 "Write totally ordered list consistent with the partial ordering in FILE."
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 14
+# File: raw/man1/tsort.1, line: 14
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 14
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 14
+# File: raw/man1/tsort.1, line: 14
 #. type: TP
 # File: raw/man1/tsort.1, line: 14
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/tsort.1, line: 17
+# File: raw/man1/tsort.1, line: 17
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 17
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/tsort.1, line: 17
+# File: raw/man1/tsort.1, line: 17
 #. type: TP
 # File: raw/man1/tsort.1, line: 17
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/tsort.1, line: 20
+# File: raw/man1/tsort.1, line: 20
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 20
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/tsort.1, line: 20
+# File: raw/man1/tsort.1, line: 20
 #. type: SH
 # File: raw/man1/tsort.1, line: 20
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/tsort.1, line: 22
+# File: raw/man1/tsort.1, line: 22
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 22
 msgid "Written by Mark Kettenis."
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 22
+# File: raw/man1/tsort.1, line: 22
 #. type: SH
 # File: raw/man1/tsort.1, line: 22
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/tsort.1, line: 24
+# File: raw/man1/tsort.1, line: 24
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 24
 msgid ""
@@ -124,6 +161,8 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/tsort.1, line: 26
+# File: raw/man1/tsort.1, line: 26
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 26
 msgid ""
@@ -131,12 +170,16 @@ msgid ""
 "E<gt>"
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 26
+# File: raw/man1/tsort.1, line: 26
 #. type: SH
 # File: raw/man1/tsort.1, line: 26
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/tsort.1, line: 29
+# File: raw/man1/tsort.1, line: 29
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 29
 #, fuzzy
@@ -147,6 +190,8 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/tsort.1, line: 32
+# File: raw/man1/tsort.1, line: 32
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 32
 msgid ""
@@ -156,22 +201,30 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/tsort.1, line: 32
+# File: raw/man1/tsort.1, line: 32
 #. type: SH
 # File: raw/man1/tsort.1, line: 32
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/tsort.1, line: 34
+# File: raw/man1/tsort.1, line: 34
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 34
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/tsortE<gt>"
 msgstr ""
 #
+# File: raw/man1/tsort.1, line: 35
+# File: raw/man1/tsort.1, line: 35
 #. type: Plain text
 # File: raw/man1/tsort.1, line: 35
 msgid "or available locally via: info \\(aq(coreutils) tsort invocation\\(aq"
 msgstr ""
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

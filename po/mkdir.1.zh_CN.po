@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-05-23 14:52+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
@@ -19,121 +19,183 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
 #
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
 #. type: TH
 # File: raw/man1/mkdir.1, line: 2
 #, no-wrap
 msgid "MKDIR"
 msgstr "MKDIR"
 #
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
 #. type: TH
 # File: raw/man1/mkdir.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
 #. type: TH
 # File: raw/man1/mkdir.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
+# File: raw/man1/mkdir.1, line: 2
 #. type: TH
 # File: raw/man1/mkdir.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/mkdir.1, line: 3
+# File: raw/man1/mkdir.1, line: 3
+# File: raw/man1/mkdir.1, line: 3
 #. type: SH
 # File: raw/man1/mkdir.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/mkdir.1, line: 5
+# File: raw/man1/mkdir.1, line: 5
+# File: raw/man1/mkdir.1, line: 5
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 5
 msgid "mkdir - make directories"
 msgstr "mkdir - 创建目录"
 #
+# File: raw/man1/mkdir.1, line: 5
+# File: raw/man1/mkdir.1, line: 5
+# File: raw/man1/mkdir.1, line: 5
 #. type: SH
 # File: raw/man1/mkdir.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/mkdir.1, line: 8
+# File: raw/man1/mkdir.1, line: 8
+# File: raw/man1/mkdir.1, line: 8
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 8
 #, fuzzy
 msgid "B<mkdir> [I<\\,OPTION\\/>]... I<\\,DIRECTORY\\/>..."
 msgstr "B<mkdir> [I<选项>]... I<目录列表>..."
 #
+# File: raw/man1/mkdir.1, line: 8
+# File: raw/man1/mkdir.1, line: 8
+# File: raw/man1/mkdir.1, line: 8
 #. type: SH
 # File: raw/man1/mkdir.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/mkdir.1, line: 12
+# File: raw/man1/mkdir.1, line: 12
+# File: raw/man1/mkdir.1, line: 12
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 12
 msgid "Create the DIRECTORY(ies), if they do not already exist."
 msgstr "如果目录列表中的目录不存在，则创建之。"
 #
+# File: raw/man1/mkdir.1, line: 14
+# File: raw/man1/mkdir.1, line: 14
+# File: raw/man1/mkdir.1, line: 14
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 14
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 #
+# File: raw/man1/mkdir.1, line: 14
+# File: raw/man1/mkdir.1, line: 14
+# File: raw/man1/mkdir.1, line: 14
 #. type: TP
 # File: raw/man1/mkdir.1, line: 14
 #, fuzzy, no-wrap
 msgid "B<-m>, B<--mode>=I<\\,MODE\\/>"
 msgstr "B<-m>, B<--mode>=I<模式>"
 #
+# File: raw/man1/mkdir.1, line: 17
+# File: raw/man1/mkdir.1, line: 17
+# File: raw/man1/mkdir.1, line: 17
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 17
 msgid "set file mode (as in chmod), not a=rwx - umask"
 msgstr "设置文件模式(类似chmod)，而不是 rwx 减 umask"
 #
+# File: raw/man1/mkdir.1, line: 17
+# File: raw/man1/mkdir.1, line: 17
+# File: raw/man1/mkdir.1, line: 17
 #. type: TP
 # File: raw/man1/mkdir.1, line: 17
 #, no-wrap
 msgid "B<-p>, B<--parents>"
 msgstr "B<-p>, B<--parents>"
 #
+# File: raw/man1/mkdir.1, line: 20
+# File: raw/man1/mkdir.1, line: 20
+# File: raw/man1/mkdir.1, line: 20
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 20
 msgid "no error if existing, make parent directories as needed"
 msgstr "如果目录已存在，不报错，且按需创建父目录"
 #
+# File: raw/man1/mkdir.1, line: 20
+# File: raw/man1/mkdir.1, line: 20
+# File: raw/man1/mkdir.1, line: 20
 #. type: TP
 # File: raw/man1/mkdir.1, line: 20
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
 #
+# File: raw/man1/mkdir.1, line: 23
+# File: raw/man1/mkdir.1, line: 23
+# File: raw/man1/mkdir.1, line: 23
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 23
 msgid "print a message for each created directory"
 msgstr "为每一个已创建的目录打印信息"
 #
+# File: raw/man1/mkdir.1, line: 23
+# File: raw/man1/mkdir.1, line: 23
+# File: raw/man1/mkdir.1, line: 23
 #. type: TP
 # File: raw/man1/mkdir.1, line: 23
 #, no-wrap
 msgid "B<-Z>"
 msgstr "B<-Z>"
 #
+# File: raw/man1/mkdir.1, line: 27
+# File: raw/man1/mkdir.1, line: 27
+# File: raw/man1/mkdir.1, line: 27
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 27
 msgid ""
 "set SELinux security context of each created directory to the default type"
 msgstr ""
 #
+# File: raw/man1/mkdir.1, line: 27
+# File: raw/man1/mkdir.1, line: 27
+# File: raw/man1/mkdir.1, line: 27
 #. type: TP
 # File: raw/man1/mkdir.1, line: 27
 #, fuzzy, no-wrap
 msgid "B<--context>[=I<\\,CTX\\/>]"
 msgstr "B<--context>[=I<CTX>]"
 #
+# File: raw/man1/mkdir.1, line: 31
+# File: raw/man1/mkdir.1, line: 31
+# File: raw/man1/mkdir.1, line: 31
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 31
 msgid ""
@@ -141,45 +203,69 @@ msgid ""
 "context to CTX"
 msgstr ""
 #
+# File: raw/man1/mkdir.1, line: 31
+# File: raw/man1/mkdir.1, line: 31
+# File: raw/man1/mkdir.1, line: 31
 #. type: TP
 # File: raw/man1/mkdir.1, line: 31
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/mkdir.1, line: 34
+# File: raw/man1/mkdir.1, line: 34
+# File: raw/man1/mkdir.1, line: 34
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 34
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/mkdir.1, line: 34
+# File: raw/man1/mkdir.1, line: 34
+# File: raw/man1/mkdir.1, line: 34
 #. type: TP
 # File: raw/man1/mkdir.1, line: 34
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/mkdir.1, line: 37
+# File: raw/man1/mkdir.1, line: 37
+# File: raw/man1/mkdir.1, line: 37
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 37
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/mkdir.1, line: 37
+# File: raw/man1/mkdir.1, line: 37
+# File: raw/man1/mkdir.1, line: 37
 #. type: SH
 # File: raw/man1/mkdir.1, line: 37
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/mkdir.1, line: 39
+# File: raw/man1/mkdir.1, line: 39
+# File: raw/man1/mkdir.1, line: 39
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 39
 msgid "Written by David MacKenzie."
 msgstr "由 David MacKenzie 编写。"
 #
+# File: raw/man1/mkdir.1, line: 39
+# File: raw/man1/mkdir.1, line: 39
+# File: raw/man1/mkdir.1, line: 39
 #. type: SH
 # File: raw/man1/mkdir.1, line: 39
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/mkdir.1, line: 41
+# File: raw/man1/mkdir.1, line: 41
+# File: raw/man1/mkdir.1, line: 41
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 41
 msgid ""
@@ -187,6 +273,9 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/mkdir.1, line: 43
+# File: raw/man1/mkdir.1, line: 43
+# File: raw/man1/mkdir.1, line: 43
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 43
 msgid ""
@@ -196,12 +285,18 @@ msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 mkdir 的翻"
 "译错误。"
 #
+# File: raw/man1/mkdir.1, line: 43
+# File: raw/man1/mkdir.1, line: 43
+# File: raw/man1/mkdir.1, line: 43
 #. type: SH
 # File: raw/man1/mkdir.1, line: 43
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/mkdir.1, line: 46
+# File: raw/man1/mkdir.1, line: 46
+# File: raw/man1/mkdir.1, line: 46
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 46
 #, fuzzy
@@ -212,6 +307,9 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/mkdir.1, line: 49
+# File: raw/man1/mkdir.1, line: 49
+# File: raw/man1/mkdir.1, line: 49
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 49
 msgid ""
@@ -221,27 +319,42 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/mkdir.1, line: 49
+# File: raw/man1/mkdir.1, line: 49
+# File: raw/man1/mkdir.1, line: 49
 #. type: SH
 # File: raw/man1/mkdir.1, line: 49
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/mkdir.1, line: 51
+# File: raw/man1/mkdir.1, line: 51
+# File: raw/man1/mkdir.1, line: 51
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 51
 msgid "mkdir(2)"
 msgstr "mkdir(2)"
 #
+# File: raw/man1/mkdir.1, line: 54
+# File: raw/man1/mkdir.1, line: 54
+# File: raw/man1/mkdir.1, line: 54
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 54
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/mkdirE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/mkdirE<gt>"
 #
+# File: raw/man1/mkdir.1, line: 55
+# File: raw/man1/mkdir.1, line: 55
+# File: raw/man1/mkdir.1, line: 55
 #. type: Plain text
 # File: raw/man1/mkdir.1, line: 55
 msgid "or available locally via: info \\(aq(coreutils) mkdir invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) mkdir invocation\\(aq"
+#
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

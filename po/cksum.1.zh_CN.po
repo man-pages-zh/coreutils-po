@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,107 +15,163 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
 #. type: TH
 # File: raw/man1/cksum.1, line: 2
 #, no-wrap
 msgid "CKSUM"
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
 #. type: TH
 # File: raw/man1/cksum.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
 #. type: TH
 # File: raw/man1/cksum.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
+# File: raw/man1/cksum.1, line: 2
 #. type: TH
 # File: raw/man1/cksum.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/cksum.1, line: 3
+# File: raw/man1/cksum.1, line: 3
+# File: raw/man1/cksum.1, line: 3
 #. type: SH
 # File: raw/man1/cksum.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/cksum.1, line: 5
+# File: raw/man1/cksum.1, line: 5
+# File: raw/man1/cksum.1, line: 5
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 5
 msgid "cksum - checksum and count the bytes in a file"
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 5
+# File: raw/man1/cksum.1, line: 5
+# File: raw/man1/cksum.1, line: 5
 #. type: SH
 # File: raw/man1/cksum.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/cksum.1, line: 8
+# File: raw/man1/cksum.1, line: 8
+# File: raw/man1/cksum.1, line: 8
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 8
 msgid "B<cksum> [I<\\,FILE\\/>]..."
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 11
+# File: raw/man1/cksum.1, line: 11
+# File: raw/man1/cksum.1, line: 11
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 11
 msgid "B<cksum> [I<\\,OPTION\\/>]"
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 11
+# File: raw/man1/cksum.1, line: 11
+# File: raw/man1/cksum.1, line: 11
 #. type: SH
 # File: raw/man1/cksum.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/cksum.1, line: 15
+# File: raw/man1/cksum.1, line: 15
+# File: raw/man1/cksum.1, line: 15
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 15
 msgid "Print CRC checksum and byte counts of each FILE."
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 15
+# File: raw/man1/cksum.1, line: 15
+# File: raw/man1/cksum.1, line: 15
 #. type: TP
 # File: raw/man1/cksum.1, line: 15
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/cksum.1, line: 18
+# File: raw/man1/cksum.1, line: 18
+# File: raw/man1/cksum.1, line: 18
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 18
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/cksum.1, line: 18
+# File: raw/man1/cksum.1, line: 18
+# File: raw/man1/cksum.1, line: 18
 #. type: TP
 # File: raw/man1/cksum.1, line: 18
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/cksum.1, line: 21
+# File: raw/man1/cksum.1, line: 21
+# File: raw/man1/cksum.1, line: 21
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 21
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/cksum.1, line: 21
+# File: raw/man1/cksum.1, line: 21
+# File: raw/man1/cksum.1, line: 21
 #. type: SH
 # File: raw/man1/cksum.1, line: 21
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/cksum.1, line: 23
+# File: raw/man1/cksum.1, line: 23
+# File: raw/man1/cksum.1, line: 23
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 23
 msgid "Written by Q. Frank Xia."
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 23
+# File: raw/man1/cksum.1, line: 23
+# File: raw/man1/cksum.1, line: 23
 #. type: SH
 # File: raw/man1/cksum.1, line: 23
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/cksum.1, line: 25
+# File: raw/man1/cksum.1, line: 25
+# File: raw/man1/cksum.1, line: 25
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 25
 msgid ""
@@ -123,6 +179,9 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/cksum.1, line: 27
+# File: raw/man1/cksum.1, line: 27
+# File: raw/man1/cksum.1, line: 27
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 27
 msgid ""
@@ -130,12 +189,18 @@ msgid ""
 "E<gt>"
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 27
+# File: raw/man1/cksum.1, line: 27
+# File: raw/man1/cksum.1, line: 27
 #. type: SH
 # File: raw/man1/cksum.1, line: 27
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/cksum.1, line: 30
+# File: raw/man1/cksum.1, line: 30
+# File: raw/man1/cksum.1, line: 30
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 30
 #, fuzzy
@@ -146,6 +211,9 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/cksum.1, line: 33
+# File: raw/man1/cksum.1, line: 33
+# File: raw/man1/cksum.1, line: 33
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 33
 msgid ""
@@ -155,22 +223,34 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/cksum.1, line: 33
+# File: raw/man1/cksum.1, line: 33
+# File: raw/man1/cksum.1, line: 33
 #. type: SH
 # File: raw/man1/cksum.1, line: 33
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/cksum.1, line: 35
+# File: raw/man1/cksum.1, line: 35
+# File: raw/man1/cksum.1, line: 35
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 35
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/cksumE<gt>"
 msgstr ""
 #
+# File: raw/man1/cksum.1, line: 36
+# File: raw/man1/cksum.1, line: 36
+# File: raw/man1/cksum.1, line: 36
 #. type: Plain text
 # File: raw/man1/cksum.1, line: 36
 msgid "or available locally via: info \\(aq(coreutils) cksum invocation\\(aq"
 msgstr ""
+#
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

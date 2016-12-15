@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,52 +15,69 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/runcon.1, line: 2
+# File: raw/man1/runcon.1, line: 2
 #. type: TH
 # File: raw/man1/runcon.1, line: 2
 #, no-wrap
 msgid "RUNCON"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 2
 #. type: TH
 # File: raw/man1/runcon.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 2
+# File: raw/man1/runcon.1, line: 2
 #. type: TH
 # File: raw/man1/runcon.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/runcon.1, line: 2
+# File: raw/man1/runcon.1, line: 2
 #. type: TH
 # File: raw/man1/runcon.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/runcon.1, line: 3
+# File: raw/man1/runcon.1, line: 3
 #. type: SH
 # File: raw/man1/runcon.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/runcon.1, line: 5
+# File: raw/man1/runcon.1, line: 5
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 5
 msgid "runcon - run command with specified security context"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 5
+# File: raw/man1/runcon.1, line: 5
 #. type: SH
 # File: raw/man1/runcon.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/runcon.1, line: 8
+# File: raw/man1/runcon.1, line: 8
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 8
 msgid "B<runcon> I<\\,CONTEXT COMMAND \\/>[I<\\,args\\/>]"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 11
+# File: raw/man1/runcon.1, line: 11
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 11
 msgid ""
@@ -68,12 +85,16 @@ msgid ""
 "\\/>] [I<\\,-l RANGE\\/>] I<\\,COMMAND \\/>[I<\\,args\\/>]"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 11
+# File: raw/man1/runcon.1, line: 11
 #. type: SH
 # File: raw/man1/runcon.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/runcon.1, line: 15
+# File: raw/man1/runcon.1, line: 15
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 15
 msgid ""
@@ -82,6 +103,8 @@ msgid ""
 "and USER."
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 20
+# File: raw/man1/runcon.1, line: 20
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 20
 msgid ""
@@ -90,12 +113,16 @@ msgid ""
 "I<COMMAND> are interpreted as arguments to the command."
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 23
+# File: raw/man1/runcon.1, line: 23
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 23
 msgid ""
 "Note that only carefully-chosen contexts are likely to successfully run."
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 26
+# File: raw/man1/runcon.1, line: 26
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 26
 msgid ""
@@ -103,117 +130,159 @@ msgid ""
 "nor COMMAND, print the current security context."
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 28
+# File: raw/man1/runcon.1, line: 28
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 28
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 #
+# File: raw/man1/runcon.1, line: 28
+# File: raw/man1/runcon.1, line: 28
 #. type: TP
 # File: raw/man1/runcon.1, line: 28
 #, no-wrap
 msgid "CONTEXT"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 31
+# File: raw/man1/runcon.1, line: 31
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 31
 msgid "Complete security context"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 31
+# File: raw/man1/runcon.1, line: 31
 #. type: TP
 # File: raw/man1/runcon.1, line: 31
 #, no-wrap
 msgid "B<-c>, B<--compute>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 34
+# File: raw/man1/runcon.1, line: 34
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 34
 msgid "compute process transition context before modifying"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 34
+# File: raw/man1/runcon.1, line: 34
 #. type: TP
 # File: raw/man1/runcon.1, line: 34
 #, no-wrap
 msgid "B<-t>, B<--type>=I<\\,TYPE\\/>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 37
+# File: raw/man1/runcon.1, line: 37
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 37
 msgid "type (for same role as parent)"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 37
+# File: raw/man1/runcon.1, line: 37
 #. type: TP
 # File: raw/man1/runcon.1, line: 37
 #, no-wrap
 msgid "B<-u>, B<--user>=I<\\,USER\\/>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 40
+# File: raw/man1/runcon.1, line: 40
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 40
 msgid "user identity"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 40
+# File: raw/man1/runcon.1, line: 40
 #. type: TP
 # File: raw/man1/runcon.1, line: 40
 #, no-wrap
 msgid "B<-r>, B<--role>=I<\\,ROLE\\/>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 43
+# File: raw/man1/runcon.1, line: 43
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 43
 msgid "role"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 43
+# File: raw/man1/runcon.1, line: 43
 #. type: TP
 # File: raw/man1/runcon.1, line: 43
 #, no-wrap
 msgid "B<-l>, B<--range>=I<\\,RANGE\\/>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 46
+# File: raw/man1/runcon.1, line: 46
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 46
 msgid "levelrange"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 46
+# File: raw/man1/runcon.1, line: 46
 #. type: TP
 # File: raw/man1/runcon.1, line: 46
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/runcon.1, line: 49
+# File: raw/man1/runcon.1, line: 49
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 49
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/runcon.1, line: 49
+# File: raw/man1/runcon.1, line: 49
 #. type: TP
 # File: raw/man1/runcon.1, line: 49
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/runcon.1, line: 52
+# File: raw/man1/runcon.1, line: 52
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 52
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/runcon.1, line: 52
+# File: raw/man1/runcon.1, line: 52
 #. type: SH
 # File: raw/man1/runcon.1, line: 52
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/runcon.1, line: 54
+# File: raw/man1/runcon.1, line: 54
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 54
 msgid "Written by Russell Coker."
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 54
+# File: raw/man1/runcon.1, line: 54
 #. type: SH
 # File: raw/man1/runcon.1, line: 54
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/runcon.1, line: 56
+# File: raw/man1/runcon.1, line: 56
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 56
 msgid ""
@@ -221,6 +290,8 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/runcon.1, line: 58
+# File: raw/man1/runcon.1, line: 58
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 58
 msgid ""
@@ -228,12 +299,16 @@ msgid ""
 "E<gt>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 58
+# File: raw/man1/runcon.1, line: 58
 #. type: SH
 # File: raw/man1/runcon.1, line: 58
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/runcon.1, line: 61
+# File: raw/man1/runcon.1, line: 61
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 61
 #, fuzzy
@@ -244,6 +319,8 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/runcon.1, line: 64
+# File: raw/man1/runcon.1, line: 64
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 64
 msgid ""
@@ -253,22 +330,30 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/runcon.1, line: 64
+# File: raw/man1/runcon.1, line: 64
 #. type: SH
 # File: raw/man1/runcon.1, line: 64
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/runcon.1, line: 66
+# File: raw/man1/runcon.1, line: 66
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 66
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/runconE<gt>"
 msgstr ""
 #
+# File: raw/man1/runcon.1, line: 67
+# File: raw/man1/runcon.1, line: 67
 #. type: Plain text
 # File: raw/man1/runcon.1, line: 67
 msgid "or available locally via: info \\(aq(coreutils) runcon invocation\\(aq"
 msgstr ""
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

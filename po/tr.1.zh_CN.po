@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:41+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,58 +15,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/tr.1, line: 2
+# File: raw/man1/tr.1, line: 2
 #. type: TH
 # File: raw/man1/tr.1, line: 2
 #, no-wrap
 msgid "TR"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 2
 #. type: TH
 # File: raw/man1/tr.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 2
+# File: raw/man1/tr.1, line: 2
 #. type: TH
 # File: raw/man1/tr.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/tr.1, line: 2
+# File: raw/man1/tr.1, line: 2
 #. type: TH
 # File: raw/man1/tr.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/tr.1, line: 3
+# File: raw/man1/tr.1, line: 3
 #. type: SH
 # File: raw/man1/tr.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/tr.1, line: 5
+# File: raw/man1/tr.1, line: 5
 #. type: Plain text
 # File: raw/man1/tr.1, line: 5
 msgid "tr - translate or delete characters"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 5
+# File: raw/man1/tr.1, line: 5
 #. type: SH
 # File: raw/man1/tr.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/tr.1, line: 8
+# File: raw/man1/tr.1, line: 8
 #. type: Plain text
 # File: raw/man1/tr.1, line: 8
 msgid "B<tr> [I<\\,OPTION\\/>]... I<\\,SET1 \\/>[I<\\,SET2\\/>]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 8
+# File: raw/man1/tr.1, line: 8
 #. type: SH
 # File: raw/man1/tr.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/tr.1, line: 13
+# File: raw/man1/tr.1, line: 13
 #. type: Plain text
 # File: raw/man1/tr.1, line: 13
 msgid ""
@@ -74,34 +93,46 @@ msgid ""
 "standard output."
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 13
+# File: raw/man1/tr.1, line: 13
 #. type: TP
 # File: raw/man1/tr.1, line: 13
 #, no-wrap
 msgid "B<-c>, B<-C>, B<--complement>"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 16
+# File: raw/man1/tr.1, line: 16
 #. type: Plain text
 # File: raw/man1/tr.1, line: 16
 msgid "use the complement of SET1"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 16
+# File: raw/man1/tr.1, line: 16
 #. type: TP
 # File: raw/man1/tr.1, line: 16
 #, no-wrap
 msgid "B<-d>, B<--delete>"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 19
+# File: raw/man1/tr.1, line: 19
 #. type: Plain text
 # File: raw/man1/tr.1, line: 19
 msgid "delete characters in SET1, do not translate"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 19
+# File: raw/man1/tr.1, line: 19
 #. type: TP
 # File: raw/man1/tr.1, line: 19
 #, no-wrap
 msgid "B<-s>, B<--squeeze-repeats>"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 24
+# File: raw/man1/tr.1, line: 24
 #. type: Plain text
 # File: raw/man1/tr.1, line: 24
 msgid ""
@@ -109,39 +140,53 @@ msgid ""
 "specified SET, with a single occurrence of that character"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 24
+# File: raw/man1/tr.1, line: 24
 #. type: TP
 # File: raw/man1/tr.1, line: 24
 #, no-wrap
 msgid "B<-t>, B<--truncate-set1>"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 27
+# File: raw/man1/tr.1, line: 27
 #. type: Plain text
 # File: raw/man1/tr.1, line: 27
 msgid "first truncate SET1 to length of SET2"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 27
+# File: raw/man1/tr.1, line: 27
 #. type: TP
 # File: raw/man1/tr.1, line: 27
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/tr.1, line: 30
+# File: raw/man1/tr.1, line: 30
 #. type: Plain text
 # File: raw/man1/tr.1, line: 30
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/tr.1, line: 30
+# File: raw/man1/tr.1, line: 30
 #. type: TP
 # File: raw/man1/tr.1, line: 30
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/tr.1, line: 33
+# File: raw/man1/tr.1, line: 33
 #. type: Plain text
 # File: raw/man1/tr.1, line: 33
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/tr.1, line: 36
+# File: raw/man1/tr.1, line: 36
 #. type: Plain text
 # File: raw/man1/tr.1, line: 36
 msgid ""
@@ -149,281 +194,383 @@ msgid ""
 "Interpreted sequences are:"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 36
+# File: raw/man1/tr.1, line: 36
 #. type: TP
 # File: raw/man1/tr.1, line: 36
 #, no-wrap
 msgid "\\eNNN"
 msgstr "\\eNNN"
 #
+# File: raw/man1/tr.1, line: 39
+# File: raw/man1/tr.1, line: 39
 #. type: Plain text
 # File: raw/man1/tr.1, line: 39
 msgid "character with octal value NNN (1 to 3 octal digits)"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 39
+# File: raw/man1/tr.1, line: 39
 #. type: TP
 # File: raw/man1/tr.1, line: 39
 #, no-wrap
 msgid "\\e\\e"
 msgstr "\\e\\e"
 #
+# File: raw/man1/tr.1, line: 42
+# File: raw/man1/tr.1, line: 42
 #. type: Plain text
 # File: raw/man1/tr.1, line: 42
 msgid "backslash"
 msgstr "反斜线"
 #
+# File: raw/man1/tr.1, line: 42
+# File: raw/man1/tr.1, line: 42
 #. type: TP
 # File: raw/man1/tr.1, line: 42
 #, no-wrap
 msgid "\\ea"
 msgstr "\\ea"
 #
+# File: raw/man1/tr.1, line: 45
+# File: raw/man1/tr.1, line: 45
 #. type: Plain text
 # File: raw/man1/tr.1, line: 45
 msgid "audible BEL"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 45
+# File: raw/man1/tr.1, line: 45
 #. type: TP
 # File: raw/man1/tr.1, line: 45
 #, no-wrap
 msgid "\\eb"
 msgstr "\\eb"
 #
+# File: raw/man1/tr.1, line: 48
+# File: raw/man1/tr.1, line: 48
 #. type: Plain text
 # File: raw/man1/tr.1, line: 48
 msgid "backspace"
 msgstr "退格符"
 #
+# File: raw/man1/tr.1, line: 48
+# File: raw/man1/tr.1, line: 48
 #. type: TP
 # File: raw/man1/tr.1, line: 48
 #, no-wrap
 msgid "\\ef"
 msgstr "\\ef"
 #
+# File: raw/man1/tr.1, line: 51
+# File: raw/man1/tr.1, line: 51
 #. type: Plain text
 # File: raw/man1/tr.1, line: 51
 msgid "form feed"
 msgstr "换页符"
 #
+# File: raw/man1/tr.1, line: 51
+# File: raw/man1/tr.1, line: 51
 #. type: TP
 # File: raw/man1/tr.1, line: 51
 #, no-wrap
 msgid "\\en"
 msgstr "\\en"
 #
+# File: raw/man1/tr.1, line: 54
+# File: raw/man1/tr.1, line: 54
 #. type: Plain text
 # File: raw/man1/tr.1, line: 54
 msgid "new line"
 msgstr "另起一行"
 #
+# File: raw/man1/tr.1, line: 54
+# File: raw/man1/tr.1, line: 54
 #. type: TP
 # File: raw/man1/tr.1, line: 54
 #, no-wrap
 msgid "\\er"
 msgstr "\\er"
 #
+# File: raw/man1/tr.1, line: 57
+# File: raw/man1/tr.1, line: 57
 #. type: Plain text
 # File: raw/man1/tr.1, line: 57
 msgid "return"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 57
+# File: raw/man1/tr.1, line: 57
 #. type: TP
 # File: raw/man1/tr.1, line: 57
 #, no-wrap
 msgid "\\et"
 msgstr "\\et"
 #
+# File: raw/man1/tr.1, line: 60
+# File: raw/man1/tr.1, line: 60
 #. type: Plain text
 # File: raw/man1/tr.1, line: 60
 msgid "horizontal tab"
 msgstr "水平制表符"
 #
+# File: raw/man1/tr.1, line: 60
+# File: raw/man1/tr.1, line: 60
 #. type: TP
 # File: raw/man1/tr.1, line: 60
 #, no-wrap
 msgid "\\ev"
 msgstr "\\ev"
 #
+# File: raw/man1/tr.1, line: 63
+# File: raw/man1/tr.1, line: 63
 #. type: Plain text
 # File: raw/man1/tr.1, line: 63
 msgid "vertical tab"
 msgstr "垂直制表符"
 #
+# File: raw/man1/tr.1, line: 63
+# File: raw/man1/tr.1, line: 63
 #. type: TP
 # File: raw/man1/tr.1, line: 63
 #, no-wrap
 msgid "CHAR1-CHAR2"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 66
+# File: raw/man1/tr.1, line: 66
 #. type: Plain text
 # File: raw/man1/tr.1, line: 66
 msgid "all characters from CHAR1 to CHAR2 in ascending order"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 66
+# File: raw/man1/tr.1, line: 66
 #. type: TP
 # File: raw/man1/tr.1, line: 66
 #, no-wrap
 msgid "[CHAR*]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 69
+# File: raw/man1/tr.1, line: 69
 #. type: Plain text
 # File: raw/man1/tr.1, line: 69
 msgid "in SET2, copies of CHAR until length of SET1"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 69
+# File: raw/man1/tr.1, line: 69
 #. type: TP
 # File: raw/man1/tr.1, line: 69
 #, no-wrap
 msgid "[CHAR*REPEAT]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 72
+# File: raw/man1/tr.1, line: 72
 #. type: Plain text
 # File: raw/man1/tr.1, line: 72
 msgid "REPEAT copies of CHAR, REPEAT octal if starting with 0"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 72
+# File: raw/man1/tr.1, line: 72
 #. type: TP
 # File: raw/man1/tr.1, line: 72
 #, no-wrap
 msgid "[:alnum:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 75
+# File: raw/man1/tr.1, line: 75
 #. type: Plain text
 # File: raw/man1/tr.1, line: 75
 msgid "all letters and digits"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 75
+# File: raw/man1/tr.1, line: 75
 #. type: TP
 # File: raw/man1/tr.1, line: 75
 #, no-wrap
 msgid "[:alpha:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 78
+# File: raw/man1/tr.1, line: 78
 #. type: Plain text
 # File: raw/man1/tr.1, line: 78
 msgid "all letters"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 78
+# File: raw/man1/tr.1, line: 78
 #. type: TP
 # File: raw/man1/tr.1, line: 78
 #, no-wrap
 msgid "[:blank:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 81
+# File: raw/man1/tr.1, line: 81
 #. type: Plain text
 # File: raw/man1/tr.1, line: 81
 msgid "all horizontal whitespace"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 81
+# File: raw/man1/tr.1, line: 81
 #. type: TP
 # File: raw/man1/tr.1, line: 81
 #, no-wrap
 msgid "[:cntrl:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 84
+# File: raw/man1/tr.1, line: 84
 #. type: Plain text
 # File: raw/man1/tr.1, line: 84
 msgid "all control characters"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 84
+# File: raw/man1/tr.1, line: 84
 #. type: TP
 # File: raw/man1/tr.1, line: 84
 #, no-wrap
 msgid "[:digit:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 87
+# File: raw/man1/tr.1, line: 87
 #. type: Plain text
 # File: raw/man1/tr.1, line: 87
 msgid "all digits"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 87
+# File: raw/man1/tr.1, line: 87
 #. type: TP
 # File: raw/man1/tr.1, line: 87
 #, no-wrap
 msgid "[:graph:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 90
+# File: raw/man1/tr.1, line: 90
 #. type: Plain text
 # File: raw/man1/tr.1, line: 90
 msgid "all printable characters, not including space"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 90
+# File: raw/man1/tr.1, line: 90
 #. type: TP
 # File: raw/man1/tr.1, line: 90
 #, no-wrap
 msgid "[:lower:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 93
+# File: raw/man1/tr.1, line: 93
 #. type: Plain text
 # File: raw/man1/tr.1, line: 93
 msgid "all lower case letters"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 93
+# File: raw/man1/tr.1, line: 93
 #. type: TP
 # File: raw/man1/tr.1, line: 93
 #, no-wrap
 msgid "[:print:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 96
+# File: raw/man1/tr.1, line: 96
 #. type: Plain text
 # File: raw/man1/tr.1, line: 96
 msgid "all printable characters, including space"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 96
+# File: raw/man1/tr.1, line: 96
 #. type: TP
 # File: raw/man1/tr.1, line: 96
 #, no-wrap
 msgid "[:punct:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 99
+# File: raw/man1/tr.1, line: 99
 #. type: Plain text
 # File: raw/man1/tr.1, line: 99
 msgid "all punctuation characters"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 99
+# File: raw/man1/tr.1, line: 99
 #. type: TP
 # File: raw/man1/tr.1, line: 99
 #, no-wrap
 msgid "[:space:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 102
+# File: raw/man1/tr.1, line: 102
 #. type: Plain text
 # File: raw/man1/tr.1, line: 102
 msgid "all horizontal or vertical whitespace"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 102
+# File: raw/man1/tr.1, line: 102
 #. type: TP
 # File: raw/man1/tr.1, line: 102
 #, no-wrap
 msgid "[:upper:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 105
+# File: raw/man1/tr.1, line: 105
 #. type: Plain text
 # File: raw/man1/tr.1, line: 105
 msgid "all upper case letters"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 105
+# File: raw/man1/tr.1, line: 105
 #. type: TP
 # File: raw/man1/tr.1, line: 105
 #, no-wrap
 msgid "[:xdigit:]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 108
+# File: raw/man1/tr.1, line: 108
 #. type: Plain text
 # File: raw/man1/tr.1, line: 108
 msgid "all hexadecimal digits"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 108
+# File: raw/man1/tr.1, line: 108
 #. type: TP
 # File: raw/man1/tr.1, line: 108
 #, no-wrap
 msgid "[=CHAR=]"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 111
+# File: raw/man1/tr.1, line: 111
 #. type: Plain text
 # File: raw/man1/tr.1, line: 111
 msgid "all characters which are equivalent to CHAR"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 119
+# File: raw/man1/tr.1, line: 119
 #. type: Plain text
 # File: raw/man1/tr.1, line: 119
 msgid ""
@@ -436,23 +583,31 @@ msgid ""
 "after translation or deletion."
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 119
+# File: raw/man1/tr.1, line: 119
 #. type: SH
 # File: raw/man1/tr.1, line: 119
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/tr.1, line: 121
+# File: raw/man1/tr.1, line: 121
 #. type: Plain text
 # File: raw/man1/tr.1, line: 121
 msgid "Written by Jim Meyering."
 msgstr "由 Jim Meyering 编写。"
 #
+# File: raw/man1/tr.1, line: 121
+# File: raw/man1/tr.1, line: 121
 #. type: SH
 # File: raw/man1/tr.1, line: 121
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/tr.1, line: 123
+# File: raw/man1/tr.1, line: 123
 #. type: Plain text
 # File: raw/man1/tr.1, line: 123
 msgid ""
@@ -460,18 +615,24 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/tr.1, line: 125
+# File: raw/man1/tr.1, line: 125
 #. type: Plain text
 # File: raw/man1/tr.1, line: 125
 msgid ""
 "Report tr translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 125
+# File: raw/man1/tr.1, line: 125
 #. type: SH
 # File: raw/man1/tr.1, line: 125
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/tr.1, line: 128
+# File: raw/man1/tr.1, line: 128
 #. type: Plain text
 # File: raw/man1/tr.1, line: 128
 #, fuzzy
@@ -482,6 +643,8 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/tr.1, line: 131
+# File: raw/man1/tr.1, line: 131
 #. type: Plain text
 # File: raw/man1/tr.1, line: 131
 msgid ""
@@ -491,22 +654,30 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/tr.1, line: 131
+# File: raw/man1/tr.1, line: 131
 #. type: SH
 # File: raw/man1/tr.1, line: 131
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/tr.1, line: 133
+# File: raw/man1/tr.1, line: 133
 #. type: Plain text
 # File: raw/man1/tr.1, line: 133
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/trE<gt>"
 msgstr ""
 #
+# File: raw/man1/tr.1, line: 134
+# File: raw/man1/tr.1, line: 134
 #. type: Plain text
 # File: raw/man1/tr.1, line: 134
 msgid "or available locally via: info \\(aq(coreutils) tr invocation\\(aq"
 msgstr ""
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

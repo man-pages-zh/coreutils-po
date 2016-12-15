@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2016-08-09 22:17+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
@@ -19,76 +19,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
-
 #
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
 #. type: TH
 # File: raw/man1/chown.1, line: 2
 #, no-wrap
 msgid "CHOWN"
 msgstr "CHOWN"
-
 #
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
 #. type: TH
 # File: raw/man1/chown.1, line: 2
-#, no-wrap
-msgid "February 2016"
+#, fuzzy, no-wrap
+msgid "December 2016"
 msgstr "2016年二月"
-
+#
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
 #. type: TH
 # File: raw/man1/chown.1, line: 2
-#, no-wrap
-msgid "GNU coreutils 8.25"
+#, fuzzy, no-wrap
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.25"
-
 #
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
+# File: raw/man1/chown.1, line: 2
 #. type: TH
 # File: raw/man1/chown.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
-
 #
+# File: raw/man1/chown.1, line: 3
+# File: raw/man1/chown.1, line: 3
+# File: raw/man1/chown.1, line: 3
 #. type: SH
 # File: raw/man1/chown.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
-
 #
+# File: raw/man1/chown.1, line: 5
+# File: raw/man1/chown.1, line: 5
+# File: raw/man1/chown.1, line: 5
 #. type: Plain text
 # File: raw/man1/chown.1, line: 5
 msgid "chown - change file owner and group"
 msgstr "chown - 更改文件属主与属组"
-
 #
+# File: raw/man1/chown.1, line: 5
+# File: raw/man1/chown.1, line: 5
+# File: raw/man1/chown.1, line: 5
 #. type: SH
 # File: raw/man1/chown.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-
 #
+# File: raw/man1/chown.1, line: 8
+# File: raw/man1/chown.1, line: 8
+# File: raw/man1/chown.1, line: 8
 #. type: Plain text
 # File: raw/man1/chown.1, line: 8
 msgid ""
 "B<chown> [I<\\,OPTION\\/>]... [I<\\,OWNER\\/>][I<\\,:\\/>[I<\\,GROUP\\/>]] I<"
 "\\,FILE\\/>..."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 11
+# File: raw/man1/chown.1, line: 11
+# File: raw/man1/chown.1, line: 11
 #. type: Plain text
 # File: raw/man1/chown.1, line: 11
 msgid "B<chown> [I<\\,OPTION\\/>]... I<\\,--reference=RFILE FILE\\/>..."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 11
+# File: raw/man1/chown.1, line: 11
+# File: raw/man1/chown.1, line: 11
 #. type: SH
 # File: raw/man1/chown.1, line: 11
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
-
 #
+# File: raw/man1/chown.1, line: 31
+# File: raw/man1/chown.1, line: 31
+# File: raw/man1/chown.1, line: 31
 #. type: Plain text
 # File: raw/man1/chown.1, line: 31
 msgid ""
@@ -105,99 +128,127 @@ msgid ""
 "B<chgrp>.  If only a colon is given, or if the entire operand is empty, "
 "neither the owner nor the group is changed."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 31
+# File: raw/man1/chown.1, line: 31
+# File: raw/man1/chown.1, line: 31
 #. type: SH
 # File: raw/man1/chown.1, line: 31
 #, no-wrap
 msgid "OPTIONS"
 msgstr "选项"
-
 #
+# File: raw/man1/chown.1, line: 35
+# File: raw/man1/chown.1, line: 35
+# File: raw/man1/chown.1, line: 35
 #. type: Plain text
 # File: raw/man1/chown.1, line: 35
 msgid ""
 "Change the owner and/or group of each FILE to OWNER and/or GROUP.  With B<--"
 "reference>, change the owner and group of each FILE to those of RFILE."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 35
+# File: raw/man1/chown.1, line: 35
+# File: raw/man1/chown.1, line: 35
 #. type: TP
 # File: raw/man1/chown.1, line: 35
 #, no-wrap
 msgid "B<-c>, B<--changes>"
 msgstr "B<-c>, B<--changes>"
-
 #
+# File: raw/man1/chown.1, line: 38
+# File: raw/man1/chown.1, line: 38
+# File: raw/man1/chown.1, line: 38
 #. type: Plain text
 # File: raw/man1/chown.1, line: 38
 msgid "like verbose but report only when a change is made"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 38
+# File: raw/man1/chown.1, line: 38
+# File: raw/man1/chown.1, line: 38
 #. type: TP
 # File: raw/man1/chown.1, line: 38
 #, no-wrap
 msgid "B<-f>, B<--silent>, B<--quiet>"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 41
+# File: raw/man1/chown.1, line: 41
+# File: raw/man1/chown.1, line: 41
 #. type: Plain text
 # File: raw/man1/chown.1, line: 41
 msgid "suppress most error messages"
 msgstr "隐藏大多数错误信息"
-
 #
+# File: raw/man1/chown.1, line: 41
+# File: raw/man1/chown.1, line: 41
+# File: raw/man1/chown.1, line: 41
 #. type: TP
 # File: raw/man1/chown.1, line: 41
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
-
 #
+# File: raw/man1/chown.1, line: 44
+# File: raw/man1/chown.1, line: 44
+# File: raw/man1/chown.1, line: 44
 #. type: Plain text
 # File: raw/man1/chown.1, line: 44
 msgid "output a diagnostic for every file processed"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 44
+# File: raw/man1/chown.1, line: 44
+# File: raw/man1/chown.1, line: 44
 #. type: TP
 # File: raw/man1/chown.1, line: 44
 #, no-wrap
 msgid "B<--dereference>"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 48
+# File: raw/man1/chown.1, line: 48
+# File: raw/man1/chown.1, line: 48
 #. type: Plain text
 # File: raw/man1/chown.1, line: 48
 msgid ""
 "affect the referent of each symbolic link (this is the default), rather than "
 "the symbolic link itself"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 48
+# File: raw/man1/chown.1, line: 48
+# File: raw/man1/chown.1, line: 48
 #. type: TP
 # File: raw/man1/chown.1, line: 48
 #, no-wrap
 msgid "B<-h>, B<--no-dereference>"
 msgstr "B<-h>, B<--no-dereference>"
-
 #
+# File: raw/man1/chown.1, line: 53
+# File: raw/man1/chown.1, line: 53
+# File: raw/man1/chown.1, line: 53
 #. type: Plain text
 # File: raw/man1/chown.1, line: 53
 msgid ""
 "affect symbolic links instead of any referenced file (useful only on systems "
 "that can change the ownership of a symlink)"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 53
+# File: raw/man1/chown.1, line: 53
+# File: raw/man1/chown.1, line: 53
 #. type: TP
 # File: raw/man1/chown.1, line: 53
 #, no-wrap
 msgid "B<--from>=I<\\,CURRENT_OWNER\\/>:CURRENT_GROUP"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 59
+# File: raw/man1/chown.1, line: 59
+# File: raw/man1/chown.1, line: 59
 #. type: Plain text
 # File: raw/man1/chown.1, line: 59
 msgid ""
@@ -205,60 +256,78 @@ msgid ""
 "group match those specified here.  Either may be omitted, in which case a "
 "match is not required for the omitted attribute"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 59
+# File: raw/man1/chown.1, line: 59
+# File: raw/man1/chown.1, line: 59
 #. type: TP
 # File: raw/man1/chown.1, line: 59
 #, no-wrap
 msgid "B<--no-preserve-root>"
 msgstr "B<--no-preserve-root>"
-
 #
+# File: raw/man1/chown.1, line: 62
+# File: raw/man1/chown.1, line: 62
+# File: raw/man1/chown.1, line: 62
 #. type: Plain text
 # File: raw/man1/chown.1, line: 62
 msgid "do not treat '/' specially (the default)"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 62
+# File: raw/man1/chown.1, line: 62
+# File: raw/man1/chown.1, line: 62
 #. type: TP
 # File: raw/man1/chown.1, line: 62
 #, no-wrap
 msgid "B<--preserve-root>"
 msgstr "B<--preserve-root>"
-
 #
+# File: raw/man1/chown.1, line: 65
+# File: raw/man1/chown.1, line: 65
+# File: raw/man1/chown.1, line: 65
 #. type: Plain text
 # File: raw/man1/chown.1, line: 65
 msgid "fail to operate recursively on '/'"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 65
+# File: raw/man1/chown.1, line: 65
+# File: raw/man1/chown.1, line: 65
 #. type: TP
 # File: raw/man1/chown.1, line: 65
 #, no-wrap
 msgid "B<--reference>=I<\\,RFILE\\/>"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 69
+# File: raw/man1/chown.1, line: 69
+# File: raw/man1/chown.1, line: 69
 #. type: Plain text
 # File: raw/man1/chown.1, line: 69
 msgid "use RFILE's owner and group rather than specifying OWNER:GROUP values"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 69
+# File: raw/man1/chown.1, line: 69
+# File: raw/man1/chown.1, line: 69
 #. type: TP
 # File: raw/man1/chown.1, line: 69
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
 msgstr "B<-R>, B<--recursive>"
-
 #
+# File: raw/man1/chown.1, line: 72
+# File: raw/man1/chown.1, line: 72
+# File: raw/man1/chown.1, line: 72
 #. type: Plain text
 # File: raw/man1/chown.1, line: 72
 msgid "operate on files and directories recursively"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 76
+# File: raw/man1/chown.1, line: 76
+# File: raw/man1/chown.1, line: 76
 #. type: Plain text
 # File: raw/man1/chown.1, line: 76
 msgid ""
@@ -266,74 +335,96 @@ msgid ""
 "option is also specified.  If more than one is specified, only the final one "
 "takes effect."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 76
+# File: raw/man1/chown.1, line: 76
+# File: raw/man1/chown.1, line: 76
 #. type: TP
 # File: raw/man1/chown.1, line: 76
 #, no-wrap
 msgid "B<-H>"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 80
+# File: raw/man1/chown.1, line: 80
+# File: raw/man1/chown.1, line: 80
 #. type: Plain text
 # File: raw/man1/chown.1, line: 80
 msgid ""
 "if a command line argument is a symbolic link to a directory, traverse it"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 80
+# File: raw/man1/chown.1, line: 80
+# File: raw/man1/chown.1, line: 80
 #. type: TP
 # File: raw/man1/chown.1, line: 80
 #, no-wrap
 msgid "B<-L>"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 84
+# File: raw/man1/chown.1, line: 84
+# File: raw/man1/chown.1, line: 84
 #. type: Plain text
 # File: raw/man1/chown.1, line: 84
 msgid "traverse every symbolic link to a directory encountered"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 84
+# File: raw/man1/chown.1, line: 84
+# File: raw/man1/chown.1, line: 84
 #. type: TP
 # File: raw/man1/chown.1, line: 84
 #, no-wrap
 msgid "B<-P>"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 87
+# File: raw/man1/chown.1, line: 87
+# File: raw/man1/chown.1, line: 87
 #. type: Plain text
 # File: raw/man1/chown.1, line: 87
 msgid "do not traverse any symbolic links (default)"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 87
+# File: raw/man1/chown.1, line: 87
+# File: raw/man1/chown.1, line: 87
 #. type: TP
 # File: raw/man1/chown.1, line: 87
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
-
 #
+# File: raw/man1/chown.1, line: 90
+# File: raw/man1/chown.1, line: 90
+# File: raw/man1/chown.1, line: 90
 #. type: Plain text
 # File: raw/man1/chown.1, line: 90
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
-
 #
+# File: raw/man1/chown.1, line: 90
+# File: raw/man1/chown.1, line: 90
+# File: raw/man1/chown.1, line: 90
 #. type: TP
 # File: raw/man1/chown.1, line: 90
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
-
 #
+# File: raw/man1/chown.1, line: 93
+# File: raw/man1/chown.1, line: 93
+# File: raw/man1/chown.1, line: 93
 #. type: Plain text
 # File: raw/man1/chown.1, line: 93
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
-
 #
+# File: raw/man1/chown.1, line: 97
+# File: raw/man1/chown.1, line: 97
+# File: raw/man1/chown.1, line: 97
 #. type: Plain text
 # File: raw/man1/chown.1, line: 97
 msgid ""
@@ -341,96 +432,127 @@ msgid ""
 "to login group if implied by a ':' following a symbolic OWNER.  OWNER and "
 "GROUP may be numeric as well as symbolic."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 97
+# File: raw/man1/chown.1, line: 97
+# File: raw/man1/chown.1, line: 97
 #. type: SH
 # File: raw/man1/chown.1, line: 97
 #, no-wrap
 msgid "EXAMPLES"
 msgstr "范例"
-
 #
+# File: raw/man1/chown.1, line: 98
+# File: raw/man1/chown.1, line: 98
+# File: raw/man1/chown.1, line: 98
 #. type: TP
 # File: raw/man1/chown.1, line: 98
 #, no-wrap
 msgid "chown root /u"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 101
+# File: raw/man1/chown.1, line: 101
+# File: raw/man1/chown.1, line: 101
 #. type: Plain text
 # File: raw/man1/chown.1, line: 101
 msgid "Change the owner of /u to \"root\"."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 101
+# File: raw/man1/chown.1, line: 101
+# File: raw/man1/chown.1, line: 101
 #. type: TP
 # File: raw/man1/chown.1, line: 101
 #, no-wrap
 msgid "chown root:staff /u"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 104
+# File: raw/man1/chown.1, line: 104
+# File: raw/man1/chown.1, line: 104
 #. type: Plain text
 # File: raw/man1/chown.1, line: 104
 msgid "Likewise, but also change its group to \"staff\"."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 104
+# File: raw/man1/chown.1, line: 104
+# File: raw/man1/chown.1, line: 104
 #. type: TP
 # File: raw/man1/chown.1, line: 104
 #, no-wrap
 msgid "chown -hR root /u"
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 107
+# File: raw/man1/chown.1, line: 107
+# File: raw/man1/chown.1, line: 107
 #. type: Plain text
 # File: raw/man1/chown.1, line: 107
 msgid "Change the owner of /u and subfiles to \"root\"."
 msgstr ""
-
 #
+# File: raw/man1/chown.1, line: 107
+# File: raw/man1/chown.1, line: 107
+# File: raw/man1/chown.1, line: 107
 #. type: SH
 # File: raw/man1/chown.1, line: 107
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
-
 #
+# File: raw/man1/chown.1, line: 109
+# File: raw/man1/chown.1, line: 109
+# File: raw/man1/chown.1, line: 109
 #. type: Plain text
 # File: raw/man1/chown.1, line: 109
 msgid "Written by David MacKenzie and Jim Meyering."
 msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
-
 #
+# File: raw/man1/chown.1, line: 109
+# File: raw/man1/chown.1, line: 109
+# File: raw/man1/chown.1, line: 109
 #. type: SH
 # File: raw/man1/chown.1, line: 109
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
-
 #
+# File: raw/man1/chown.1, line: 111
+# File: raw/man1/chown.1, line: 111
+# File: raw/man1/chown.1, line: 111
 #. type: Plain text
 # File: raw/man1/chown.1, line: 111
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/chown.1, line: 113
+# File: raw/man1/chown.1, line: 113
+# File: raw/man1/chown.1, line: 113
 #. type: Plain text
 # File: raw/man1/chown.1, line: 113
 msgid ""
 "Report chown translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
 msgstr ""
-"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 chown 的翻译错误。"
-
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 chown 的翻"
+"译错误。"
 #
+# File: raw/man1/chown.1, line: 113
+# File: raw/man1/chown.1, line: 113
+# File: raw/man1/chown.1, line: 113
 #. type: SH
 # File: raw/man1/chown.1, line: 113
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-
+#
+# File: raw/man1/chown.1, line: 116
+# File: raw/man1/chown.1, line: 116
+# File: raw/man1/chown.1, line: 116
 #. type: Plain text
 # File: raw/man1/chown.1, line: 116
 msgid ""
@@ -439,8 +561,10 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
-
 #
+# File: raw/man1/chown.1, line: 119
+# File: raw/man1/chown.1, line: 119
+# File: raw/man1/chown.1, line: 119
 #. type: Plain text
 # File: raw/man1/chown.1, line: 119
 msgid ""
@@ -449,33 +573,43 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
-
 #
+# File: raw/man1/chown.1, line: 119
+# File: raw/man1/chown.1, line: 119
+# File: raw/man1/chown.1, line: 119
 #. type: SH
 # File: raw/man1/chown.1, line: 119
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
-
 #
+# File: raw/man1/chown.1, line: 121
+# File: raw/man1/chown.1, line: 121
+# File: raw/man1/chown.1, line: 121
 #. type: Plain text
 # File: raw/man1/chown.1, line: 121
 msgid "chown(2)"
 msgstr "chown(2)"
-
 #
+# File: raw/man1/chown.1, line: 124
+# File: raw/man1/chown.1, line: 124
+# File: raw/man1/chown.1, line: 124
 #. type: Plain text
 # File: raw/man1/chown.1, line: 124
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/chownE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/chownE<gt>"
-
 #
+# File: raw/man1/chown.1, line: 125
+# File: raw/man1/chown.1, line: 125
+# File: raw/man1/chown.1, line: 125
 #. type: Plain text
 # File: raw/man1/chown.1, line: 125
 msgid "or available locally via: info \\(aq(coreutils) chown invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) chowns invocation\\(aq"
-
+#
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

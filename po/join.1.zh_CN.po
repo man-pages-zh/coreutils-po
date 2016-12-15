@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-05-19 20:38+0800\n"
 "Last-Translator: Darcy Shen <sadhen@zoho.com>\n"
 "Language-Team: Chinese Simplified <>\n"
@@ -18,58 +18,87 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 1.5\n"
 #
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
 #. type: TH
 # File: raw/man1/join.1, line: 2
 #, no-wrap
 msgid "JOIN"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
 #. type: TH
 # File: raw/man1/join.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
 #. type: TH
 # File: raw/man1/join.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
+# File: raw/man1/join.1, line: 2
 #. type: TH
 # File: raw/man1/join.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/join.1, line: 3
+# File: raw/man1/join.1, line: 3
+# File: raw/man1/join.1, line: 3
 #. type: SH
 # File: raw/man1/join.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/join.1, line: 5
+# File: raw/man1/join.1, line: 5
+# File: raw/man1/join.1, line: 5
 #. type: Plain text
 # File: raw/man1/join.1, line: 5
 msgid "join - join lines of two files on a common field"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 5
+# File: raw/man1/join.1, line: 5
+# File: raw/man1/join.1, line: 5
 #. type: SH
 # File: raw/man1/join.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/join.1, line: 8
+# File: raw/man1/join.1, line: 8
+# File: raw/man1/join.1, line: 8
 #. type: Plain text
 # File: raw/man1/join.1, line: 8
 msgid "B<join> [I<\\,OPTION\\/>]... I<\\,FILE1 FILE2\\/>"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 8
+# File: raw/man1/join.1, line: 8
+# File: raw/man1/join.1, line: 8
 #. type: SH
 # File: raw/man1/join.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/join.1, line: 13
+# File: raw/man1/join.1, line: 13
+# File: raw/man1/join.1, line: 13
 #. type: Plain text
 # File: raw/man1/join.1, line: 13
 msgid ""
@@ -77,17 +106,26 @@ msgid ""
 "standard output.  The default join field is the first, delimited by blanks."
 msgstr ""
 #
+# File: raw/man1/join.1, line: 15
+# File: raw/man1/join.1, line: 15
+# File: raw/man1/join.1, line: 15
 #. type: Plain text
 # File: raw/man1/join.1, line: 15
 msgid "When FILE1 or FILE2 (not both) is -, read standard input."
 msgstr ""
 #
+# File: raw/man1/join.1, line: 15
+# File: raw/man1/join.1, line: 15
+# File: raw/man1/join.1, line: 15
 #. type: TP
 # File: raw/man1/join.1, line: 15
 #, no-wrap
 msgid "B<-a> FILENUM"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 19
+# File: raw/man1/join.1, line: 19
+# File: raw/man1/join.1, line: 19
 #. type: Plain text
 # File: raw/man1/join.1, line: 19
 msgid ""
@@ -95,100 +133,154 @@ msgid ""
 "corresponding to FILE1 or FILE2"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 19
+# File: raw/man1/join.1, line: 19
+# File: raw/man1/join.1, line: 19
 #. type: TP
 # File: raw/man1/join.1, line: 19
 #, no-wrap
 msgid "B<-e> EMPTY"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 22
+# File: raw/man1/join.1, line: 22
+# File: raw/man1/join.1, line: 22
 #. type: Plain text
 # File: raw/man1/join.1, line: 22
 msgid "replace missing input fields with EMPTY"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 22
+# File: raw/man1/join.1, line: 22
+# File: raw/man1/join.1, line: 22
 #. type: TP
 # File: raw/man1/join.1, line: 22
 #, no-wrap
 msgid "B<-i>, B<--ignore-case>"
 msgstr "B<-i>, B<--ignore-case>"
 #
+# File: raw/man1/join.1, line: 25
+# File: raw/man1/join.1, line: 25
+# File: raw/man1/join.1, line: 25
 #. type: Plain text
 # File: raw/man1/join.1, line: 25
 msgid "ignore differences in case when comparing fields"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 25
+# File: raw/man1/join.1, line: 25
+# File: raw/man1/join.1, line: 25
 #. type: TP
 # File: raw/man1/join.1, line: 25
 #, no-wrap
 msgid "B<-j> FIELD"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 28
+# File: raw/man1/join.1, line: 28
+# File: raw/man1/join.1, line: 28
 #. type: Plain text
 # File: raw/man1/join.1, line: 28
 msgid "equivalent to '-1 FIELD B<-2> FIELD'"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 28
+# File: raw/man1/join.1, line: 28
+# File: raw/man1/join.1, line: 28
 #. type: TP
 # File: raw/man1/join.1, line: 28
 #, no-wrap
 msgid "B<-o> FORMAT"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 31
+# File: raw/man1/join.1, line: 31
+# File: raw/man1/join.1, line: 31
 #. type: Plain text
 # File: raw/man1/join.1, line: 31
 msgid "obey FORMAT while constructing output line"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 31
+# File: raw/man1/join.1, line: 31
+# File: raw/man1/join.1, line: 31
 #. type: TP
 # File: raw/man1/join.1, line: 31
 #, no-wrap
 msgid "B<-t> CHAR"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 34
+# File: raw/man1/join.1, line: 34
+# File: raw/man1/join.1, line: 34
 #. type: Plain text
 # File: raw/man1/join.1, line: 34
 msgid "use CHAR as input and output field separator"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 34
+# File: raw/man1/join.1, line: 34
+# File: raw/man1/join.1, line: 34
 #. type: TP
 # File: raw/man1/join.1, line: 34
 #, no-wrap
 msgid "B<-v> FILENUM"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 37
+# File: raw/man1/join.1, line: 37
+# File: raw/man1/join.1, line: 37
 #. type: Plain text
 # File: raw/man1/join.1, line: 37
 msgid "like B<-a> FILENUM, but suppress joined output lines"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 37
+# File: raw/man1/join.1, line: 37
+# File: raw/man1/join.1, line: 37
 #. type: TP
 # File: raw/man1/join.1, line: 37
 #, no-wrap
 msgid "B<-1> FIELD"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 40
+# File: raw/man1/join.1, line: 40
+# File: raw/man1/join.1, line: 40
 #. type: Plain text
 # File: raw/man1/join.1, line: 40
 msgid "join on this FIELD of file 1"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 40
+# File: raw/man1/join.1, line: 40
+# File: raw/man1/join.1, line: 40
 #. type: TP
 # File: raw/man1/join.1, line: 40
 #, no-wrap
 msgid "B<-2> FIELD"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 43
+# File: raw/man1/join.1, line: 43
+# File: raw/man1/join.1, line: 43
 #. type: Plain text
 # File: raw/man1/join.1, line: 43
 msgid "join on this FIELD of file 2"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 43
+# File: raw/man1/join.1, line: 43
+# File: raw/man1/join.1, line: 43
 #. type: TP
 # File: raw/man1/join.1, line: 43
 #, no-wrap
 msgid "B<--check-order>"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 47
+# File: raw/man1/join.1, line: 47
+# File: raw/man1/join.1, line: 47
 #. type: Plain text
 # File: raw/man1/join.1, line: 47
 msgid ""
@@ -196,23 +288,35 @@ msgid ""
 "pairable"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 47
+# File: raw/man1/join.1, line: 47
+# File: raw/man1/join.1, line: 47
 #. type: TP
 # File: raw/man1/join.1, line: 47
 #, no-wrap
 msgid "B<--nocheck-order>"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 50
+# File: raw/man1/join.1, line: 50
+# File: raw/man1/join.1, line: 50
 #. type: Plain text
 # File: raw/man1/join.1, line: 50
 msgid "do not check that the input is correctly sorted"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 50
+# File: raw/man1/join.1, line: 50
+# File: raw/man1/join.1, line: 50
 #. type: TP
 # File: raw/man1/join.1, line: 50
 #, no-wrap
 msgid "B<--header>"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 54
+# File: raw/man1/join.1, line: 54
+# File: raw/man1/join.1, line: 54
 #. type: Plain text
 # File: raw/man1/join.1, line: 54
 msgid ""
@@ -220,39 +324,60 @@ msgid ""
 "trying to pair them"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 54
+# File: raw/man1/join.1, line: 54
+# File: raw/man1/join.1, line: 54
 #. type: TP
 # File: raw/man1/join.1, line: 54
 #, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
 msgstr "B<-z>, B<--zero-terminated>"
 #
+# File: raw/man1/join.1, line: 57
+# File: raw/man1/join.1, line: 57
+# File: raw/man1/join.1, line: 57
 #. type: Plain text
 # File: raw/man1/join.1, line: 57
 msgid "line delimiter is NUL, not newline"
 msgstr "以 NUL 作为行的分隔符，而非换行符"
 #
+# File: raw/man1/join.1, line: 57
+# File: raw/man1/join.1, line: 57
+# File: raw/man1/join.1, line: 57
 #. type: TP
 # File: raw/man1/join.1, line: 57
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/join.1, line: 60
+# File: raw/man1/join.1, line: 60
+# File: raw/man1/join.1, line: 60
 #. type: Plain text
 # File: raw/man1/join.1, line: 60
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/join.1, line: 60
+# File: raw/man1/join.1, line: 60
+# File: raw/man1/join.1, line: 60
 #. type: TP
 # File: raw/man1/join.1, line: 60
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/join.1, line: 63
+# File: raw/man1/join.1, line: 63
+# File: raw/man1/join.1, line: 63
 #. type: Plain text
 # File: raw/man1/join.1, line: 63
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/join.1, line: 71
+# File: raw/man1/join.1, line: 71
+# File: raw/man1/join.1, line: 71
 #. type: Plain text
 # File: raw/man1/join.1, line: 71
 msgid ""
@@ -265,6 +390,9 @@ msgid ""
 "determines the number of fields output for each line."
 msgstr ""
 #
+# File: raw/man1/join.1, line: 78
+# File: raw/man1/join.1, line: 78
+# File: raw/man1/join.1, line: 78
 #. type: Plain text
 # File: raw/man1/join.1, line: 78
 msgid ""
@@ -275,23 +403,35 @@ msgid ""
 "warning message will be given."
 msgstr ""
 #
+# File: raw/man1/join.1, line: 78
+# File: raw/man1/join.1, line: 78
+# File: raw/man1/join.1, line: 78
 #. type: SH
 # File: raw/man1/join.1, line: 78
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/join.1, line: 80
+# File: raw/man1/join.1, line: 80
+# File: raw/man1/join.1, line: 80
 #. type: Plain text
 # File: raw/man1/join.1, line: 80
 msgid "Written by Mike Haertel."
 msgstr ""
 #
+# File: raw/man1/join.1, line: 80
+# File: raw/man1/join.1, line: 80
+# File: raw/man1/join.1, line: 80
 #. type: SH
 # File: raw/man1/join.1, line: 80
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/join.1, line: 82
+# File: raw/man1/join.1, line: 82
+# File: raw/man1/join.1, line: 82
 #. type: Plain text
 # File: raw/man1/join.1, line: 82
 msgid ""
@@ -299,18 +439,27 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/join.1, line: 84
+# File: raw/man1/join.1, line: 84
+# File: raw/man1/join.1, line: 84
 #. type: Plain text
 # File: raw/man1/join.1, line: 84
 msgid ""
 "Report join translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 84
+# File: raw/man1/join.1, line: 84
+# File: raw/man1/join.1, line: 84
 #. type: SH
 # File: raw/man1/join.1, line: 84
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/join.1, line: 87
+# File: raw/man1/join.1, line: 87
+# File: raw/man1/join.1, line: 87
 #. type: Plain text
 # File: raw/man1/join.1, line: 87
 #, fuzzy
@@ -321,6 +470,9 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/join.1, line: 90
+# File: raw/man1/join.1, line: 90
+# File: raw/man1/join.1, line: 90
 #. type: Plain text
 # File: raw/man1/join.1, line: 90
 msgid ""
@@ -330,27 +482,42 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/join.1, line: 90
+# File: raw/man1/join.1, line: 90
+# File: raw/man1/join.1, line: 90
 #. type: SH
 # File: raw/man1/join.1, line: 90
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/join.1, line: 92
+# File: raw/man1/join.1, line: 92
+# File: raw/man1/join.1, line: 92
 #. type: Plain text
 # File: raw/man1/join.1, line: 92
 msgid "comm(1), uniq(1)"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 95
+# File: raw/man1/join.1, line: 95
+# File: raw/man1/join.1, line: 95
 #. type: Plain text
 # File: raw/man1/join.1, line: 95
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/joinE<gt>"
 msgstr ""
 #
+# File: raw/man1/join.1, line: 96
+# File: raw/man1/join.1, line: 96
+# File: raw/man1/join.1, line: 96
 #. type: Plain text
 # File: raw/man1/join.1, line: 96
 msgid "or available locally via: info \\(aq(coreutils) join invocation\\(aq"
 msgstr ""
+#
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

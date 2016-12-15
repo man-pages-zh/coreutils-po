@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-08-09 10:41+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2015-04-26 11:29+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,58 +15,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
+# File: raw/man1/tail.1, line: 2
+# File: raw/man1/tail.1, line: 2
 #. type: TH
 # File: raw/man1/tail.1, line: 2
 #, no-wrap
 msgid "TAIL"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 2
 #. type: TH
 # File: raw/man1/tail.1, line: 2
 #, no-wrap
-msgid "February 2016"
+msgid "December 2016"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 2
+# File: raw/man1/tail.1, line: 2
 #. type: TH
 # File: raw/man1/tail.1, line: 2
 #, fuzzy, no-wrap
-msgid "GNU coreutils 8.25"
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.23"
 #
+# File: raw/man1/tail.1, line: 2
+# File: raw/man1/tail.1, line: 2
 #. type: TH
 # File: raw/man1/tail.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
 #
+# File: raw/man1/tail.1, line: 3
+# File: raw/man1/tail.1, line: 3
 #. type: SH
 # File: raw/man1/tail.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
 #
+# File: raw/man1/tail.1, line: 5
+# File: raw/man1/tail.1, line: 5
 #. type: Plain text
 # File: raw/man1/tail.1, line: 5
 msgid "tail - output the last part of files"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 5
+# File: raw/man1/tail.1, line: 5
 #. type: SH
 # File: raw/man1/tail.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
 #
+# File: raw/man1/tail.1, line: 8
+# File: raw/man1/tail.1, line: 8
 #. type: Plain text
 # File: raw/man1/tail.1, line: 8
 msgid "B<tail> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 8
+# File: raw/man1/tail.1, line: 8
 #. type: SH
 # File: raw/man1/tail.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
 #
+# File: raw/man1/tail.1, line: 13
+# File: raw/man1/tail.1, line: 13
 #. type: Plain text
 # File: raw/man1/tail.1, line: 13
 msgid ""
@@ -74,23 +93,31 @@ msgid ""
 "FILE, precede each with a header giving the file name."
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 15
+# File: raw/man1/tail.1, line: 15
 #. type: Plain text
 # File: raw/man1/tail.1, line: 15
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 17
+# File: raw/man1/tail.1, line: 17
 #. type: Plain text
 # File: raw/man1/tail.1, line: 17
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 #
+# File: raw/man1/tail.1, line: 17
+# File: raw/man1/tail.1, line: 17
 #. type: TP
 # File: raw/man1/tail.1, line: 17
 #, no-wrap
 msgid "B<-c>, B<--bytes>=I<\\,[\\/>+]NUM"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 21
+# File: raw/man1/tail.1, line: 21
 #. type: Plain text
 # File: raw/man1/tail.1, line: 21
 msgid ""
@@ -98,39 +125,53 @@ msgid ""
 "NUM of each file"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 21
+# File: raw/man1/tail.1, line: 21
 #. type: TP
 # File: raw/man1/tail.1, line: 21
 #, no-wrap
 msgid "B<-f>, B<--follow[=>{name|descriptor}]"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 24
+# File: raw/man1/tail.1, line: 24
 #. type: Plain text
 # File: raw/man1/tail.1, line: 24
 msgid "output appended data as the file grows;"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 26
+# File: raw/man1/tail.1, line: 26
 #. type: Plain text
 # File: raw/man1/tail.1, line: 26
 msgid "an absent option argument means 'descriptor'"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 26
+# File: raw/man1/tail.1, line: 26
 #. type: TP
 # File: raw/man1/tail.1, line: 26
 #, no-wrap
 msgid "B<-F>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 29
+# File: raw/man1/tail.1, line: 29
 #. type: Plain text
 # File: raw/man1/tail.1, line: 29
 msgid "same as B<--follow>=I<\\,name\\/> B<--retry>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 29
+# File: raw/man1/tail.1, line: 29
 #. type: TP
 # File: raw/man1/tail.1, line: 29
 #, no-wrap
 msgid "B<-n>, B<--lines>=I<\\,[\\/>+]NUM"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 33
+# File: raw/man1/tail.1, line: 33
 #. type: Plain text
 # File: raw/man1/tail.1, line: 33
 msgid ""
@@ -138,17 +179,23 @@ msgid ""
 "output starting with line NUM"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 33
+# File: raw/man1/tail.1, line: 33
 #. type: TP
 # File: raw/man1/tail.1, line: 33
 #, no-wrap
 msgid "B<--max-unchanged-stats>=I<\\,N\\/>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 36
+# File: raw/man1/tail.1, line: 36
 #. type: Plain text
 # File: raw/man1/tail.1, line: 36
 msgid "with B<--follow>=I<\\,name\\/>, reopen a FILE which has not"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 41
+# File: raw/man1/tail.1, line: 41
 #. type: Plain text
 # File: raw/man1/tail.1, line: 41
 msgid ""
@@ -157,45 +204,61 @@ msgid ""
 "option is rarely useful"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 41
+# File: raw/man1/tail.1, line: 41
 #. type: TP
 # File: raw/man1/tail.1, line: 41
 #, no-wrap
 msgid "B<--pid>=I<\\,PID\\/>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 44
+# File: raw/man1/tail.1, line: 44
 #. type: Plain text
 # File: raw/man1/tail.1, line: 44
 msgid "with B<-f>, terminate after process ID, PID dies"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 44
+# File: raw/man1/tail.1, line: 44
 #. type: TP
 # File: raw/man1/tail.1, line: 44
 #, no-wrap
 msgid "B<-q>, B<--quiet>, B<--silent>"
 msgstr "B<-q>, B<--quiet>, B<--silent>"
 #
+# File: raw/man1/tail.1, line: 47
+# File: raw/man1/tail.1, line: 47
 #. type: Plain text
 # File: raw/man1/tail.1, line: 47
 msgid "never output headers giving file names"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 47
+# File: raw/man1/tail.1, line: 47
 #. type: TP
 # File: raw/man1/tail.1, line: 47
 #, no-wrap
 msgid "B<--retry>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 50
+# File: raw/man1/tail.1, line: 50
 #. type: Plain text
 # File: raw/man1/tail.1, line: 50
 msgid "keep trying to open a file if it is inaccessible"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 50
+# File: raw/man1/tail.1, line: 50
 #. type: TP
 # File: raw/man1/tail.1, line: 50
 #, no-wrap
 msgid "B<-s>, B<--sleep-interval>=I<\\,N\\/>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 56
+# File: raw/man1/tail.1, line: 56
 #. type: Plain text
 # File: raw/man1/tail.1, line: 56
 msgid ""
@@ -204,50 +267,68 @@ msgid ""
 "once every N seconds"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 56
+# File: raw/man1/tail.1, line: 56
 #. type: TP
 # File: raw/man1/tail.1, line: 56
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
 #
+# File: raw/man1/tail.1, line: 59
+# File: raw/man1/tail.1, line: 59
 #. type: Plain text
 # File: raw/man1/tail.1, line: 59
 msgid "always output headers giving file names"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 59
+# File: raw/man1/tail.1, line: 59
 #. type: TP
 # File: raw/man1/tail.1, line: 59
 #, fuzzy, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
 msgstr "B<-v>, B<--verbose>"
 #
+# File: raw/man1/tail.1, line: 62
+# File: raw/man1/tail.1, line: 62
 #. type: Plain text
 # File: raw/man1/tail.1, line: 62
 msgid "line delimiter is NUL, not newline"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 62
+# File: raw/man1/tail.1, line: 62
 #. type: TP
 # File: raw/man1/tail.1, line: 62
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
 #
+# File: raw/man1/tail.1, line: 65
+# File: raw/man1/tail.1, line: 65
 #. type: Plain text
 # File: raw/man1/tail.1, line: 65
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
 #
+# File: raw/man1/tail.1, line: 65
+# File: raw/man1/tail.1, line: 65
 #. type: TP
 # File: raw/man1/tail.1, line: 65
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
 #
+# File: raw/man1/tail.1, line: 68
+# File: raw/man1/tail.1, line: 68
 #. type: Plain text
 # File: raw/man1/tail.1, line: 68
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 #
+# File: raw/man1/tail.1, line: 72
+# File: raw/man1/tail.1, line: 72
 #. type: Plain text
 # File: raw/man1/tail.1, line: 72
 msgid ""
@@ -255,6 +336,8 @@ msgid ""
 "1024*1024, GB 1000*1000*1000, G 1024*1024*1024, and so on for T, P, E, Z, Y."
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 79
+# File: raw/man1/tail.1, line: 79
 #. type: Plain text
 # File: raw/man1/tail.1, line: 79
 msgid ""
@@ -267,24 +350,32 @@ msgid ""
 "creation."
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 79
+# File: raw/man1/tail.1, line: 79
 #. type: SH
 # File: raw/man1/tail.1, line: 79
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
 #
+# File: raw/man1/tail.1, line: 82
+# File: raw/man1/tail.1, line: 82
 #. type: Plain text
 # File: raw/man1/tail.1, line: 82
 msgid ""
 "Written by Paul Rubin, David MacKenzie, Ian Lance Taylor, and Jim Meyering."
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 82
+# File: raw/man1/tail.1, line: 82
 #. type: SH
 # File: raw/man1/tail.1, line: 82
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 #
+# File: raw/man1/tail.1, line: 84
+# File: raw/man1/tail.1, line: 84
 #. type: Plain text
 # File: raw/man1/tail.1, line: 84
 msgid ""
@@ -292,18 +383,24 @@ msgid ""
 msgstr ""
 "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/tail.1, line: 86
+# File: raw/man1/tail.1, line: 86
 #. type: Plain text
 # File: raw/man1/tail.1, line: 86
 msgid ""
 "Report tail translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 86
+# File: raw/man1/tail.1, line: 86
 #. type: SH
 # File: raw/man1/tail.1, line: 86
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
 #
+# File: raw/man1/tail.1, line: 89
+# File: raw/man1/tail.1, line: 89
 #. type: Plain text
 # File: raw/man1/tail.1, line: 89
 #, fuzzy
@@ -314,6 +411,8 @@ msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 #
+# File: raw/man1/tail.1, line: 92
+# File: raw/man1/tail.1, line: 92
 #. type: Plain text
 # File: raw/man1/tail.1, line: 92
 msgid ""
@@ -323,27 +422,37 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 #
+# File: raw/man1/tail.1, line: 92
+# File: raw/man1/tail.1, line: 92
 #. type: SH
 # File: raw/man1/tail.1, line: 92
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 #
+# File: raw/man1/tail.1, line: 94
+# File: raw/man1/tail.1, line: 94
 #. type: Plain text
 # File: raw/man1/tail.1, line: 94
 msgid "head(1)"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 97
+# File: raw/man1/tail.1, line: 97
 #. type: Plain text
 # File: raw/man1/tail.1, line: 97
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/tailE<gt>"
 msgstr ""
 #
+# File: raw/man1/tail.1, line: 98
+# File: raw/man1/tail.1, line: 98
 #. type: Plain text
 # File: raw/man1/tail.1, line: 98
 msgid "or available locally via: info \\(aq(coreutils) tail invocation\\(aq"
 msgstr ""
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"

@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-08-09 10:40+0800\n"
+"POT-Creation-Date: 2016-12-15 14:57+0800\n"
 "PO-Revision-Date: 2016-08-10 19:16+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <>\n"
@@ -19,67 +19,89 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
-
 #
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
 #. type: TH
 # File: raw/man1/head.1, line: 2
 #, no-wrap
 msgid "HEAD"
 msgstr "HEAD"
-
 #
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
 #. type: TH
 # File: raw/man1/head.1, line: 2
-#, no-wrap
-msgid "February 2016"
+#, fuzzy, no-wrap
+msgid "December 2016"
 msgstr "二月 2016"
-
+#
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
 #. type: TH
 # File: raw/man1/head.1, line: 2
-#, no-wrap
-msgid "GNU coreutils 8.25"
+#, fuzzy, no-wrap
+msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.25"
-
 #
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
+# File: raw/man1/head.1, line: 2
 #. type: TH
 # File: raw/man1/head.1, line: 2
 #, no-wrap
 msgid "User Commands"
 msgstr "User Commands"
-
 #
+# File: raw/man1/head.1, line: 3
+# File: raw/man1/head.1, line: 3
+# File: raw/man1/head.1, line: 3
 #. type: SH
 # File: raw/man1/head.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
-
 #
+# File: raw/man1/head.1, line: 5
+# File: raw/man1/head.1, line: 5
+# File: raw/man1/head.1, line: 5
 #. type: Plain text
 # File: raw/man1/head.1, line: 5
 msgid "head - output the first part of files"
 msgstr "head - 输出文件的起始部分"
-
 #
+# File: raw/man1/head.1, line: 5
+# File: raw/man1/head.1, line: 5
+# File: raw/man1/head.1, line: 5
 #. type: SH
 # File: raw/man1/head.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
-
+#
+# File: raw/man1/head.1, line: 8
+# File: raw/man1/head.1, line: 8
+# File: raw/man1/head.1, line: 8
 #. type: Plain text
 # File: raw/man1/head.1, line: 8
 msgid "B<head> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
 msgstr "B<head> [I<\\,选项\\/>]... [I<\\,文件\\/>]..."
-
 #
+# File: raw/man1/head.1, line: 8
+# File: raw/man1/head.1, line: 8
+# File: raw/man1/head.1, line: 8
 #. type: SH
 # File: raw/man1/head.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
-
 #
+# File: raw/man1/head.1, line: 13
+# File: raw/man1/head.1, line: 13
+# File: raw/man1/head.1, line: 13
 #. type: Plain text
 # File: raw/man1/head.1, line: 13
 #, fuzzy
@@ -90,28 +112,36 @@ msgstr ""
 "在标准输出上显示每个文件的起始10行。如果多于一个文件，则依次显示，并且在每个"
 "文件显示的首部给出文件名。如果没有指定文件，或者文件为 '-' ，则由标准输入读"
 "取。"
-
 #
+# File: raw/man1/head.1, line: 15
+# File: raw/man1/head.1, line: 15
+# File: raw/man1/head.1, line: 15
 #. type: Plain text
 # File: raw/man1/head.1, line: 15
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
-
 #
+# File: raw/man1/head.1, line: 17
+# File: raw/man1/head.1, line: 17
+# File: raw/man1/head.1, line: 17
 #. type: Plain text
 # File: raw/man1/head.1, line: 17
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
-
 #
+# File: raw/man1/head.1, line: 17
+# File: raw/man1/head.1, line: 17
+# File: raw/man1/head.1, line: 17
 #. type: TP
 # File: raw/man1/head.1, line: 17
 #, fuzzy, no-wrap
 msgid "B<-c>, B<--bytes>=I<\\,[-]NUM\\/>"
 msgstr "B<-c>, B<--bytes>=I<[-]K>"
-
 #
+# File: raw/man1/head.1, line: 22
+# File: raw/man1/head.1, line: 22
+# File: raw/man1/head.1, line: 22
 #. type: Plain text
 # File: raw/man1/head.1, line: 22
 #, fuzzy
@@ -121,15 +151,19 @@ msgid ""
 msgstr ""
 "显示每个文件的前 K 个字节；以 '-' 起始，则显示每个文件中不包含最后 K 个字节的"
 "全部内容"
-
 #
+# File: raw/man1/head.1, line: 22
+# File: raw/man1/head.1, line: 22
+# File: raw/man1/head.1, line: 22
 #. type: TP
 # File: raw/man1/head.1, line: 22
 #, fuzzy, no-wrap
 msgid "B<-n>, B<--lines>=I<\\,[-]NUM\\/>"
 msgstr "B<-n>, B<--lines>=I<[-]K>"
-
 #
+# File: raw/man1/head.1, line: 27
+# File: raw/man1/head.1, line: 27
+# File: raw/man1/head.1, line: 27
 #. type: Plain text
 # File: raw/man1/head.1, line: 27
 #, fuzzy
@@ -139,72 +173,95 @@ msgid ""
 msgstr ""
 "显示前 K 行而不是前10行；以 '-' 起始，则显示每个文件中不包含最后 K 行的全部内"
 "容"
-
 #
+# File: raw/man1/head.1, line: 27
+# File: raw/man1/head.1, line: 27
+# File: raw/man1/head.1, line: 27
 #. type: TP
 # File: raw/man1/head.1, line: 27
 #, no-wrap
 msgid "B<-q>, B<--quiet>, B<--silent>"
 msgstr "B<-q>, B<--quiet>, B<--silent>"
-
 #
+# File: raw/man1/head.1, line: 30
+# File: raw/man1/head.1, line: 30
+# File: raw/man1/head.1, line: 30
 #. type: Plain text
 # File: raw/man1/head.1, line: 30
 msgid "never print headers giving file names"
 msgstr "不显示给出文件名的首部"
-
 #
+# File: raw/man1/head.1, line: 30
+# File: raw/man1/head.1, line: 30
+# File: raw/man1/head.1, line: 30
 #. type: TP
 # File: raw/man1/head.1, line: 30
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
-
 #
+# File: raw/man1/head.1, line: 33
+# File: raw/man1/head.1, line: 33
+# File: raw/man1/head.1, line: 33
 #. type: Plain text
 # File: raw/man1/head.1, line: 33
 msgid "always print headers giving file names"
 msgstr "显示给出文件名的首部"
-
+#
+# File: raw/man1/head.1, line: 33
+# File: raw/man1/head.1, line: 33
+# File: raw/man1/head.1, line: 33
 #. type: TP
 # File: raw/man1/head.1, line: 33
 #, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
 msgstr "B<-z>, B<--zero-terminated>"
-
 #
+# File: raw/man1/head.1, line: 36
+# File: raw/man1/head.1, line: 36
+# File: raw/man1/head.1, line: 36
 #. type: Plain text
 # File: raw/man1/head.1, line: 36
 msgid "line delimiter is NUL, not newline"
 msgstr "以 NUL 作为行的分隔符，而非换行符"
-
 #
+# File: raw/man1/head.1, line: 36
+# File: raw/man1/head.1, line: 36
+# File: raw/man1/head.1, line: 36
 #. type: TP
 # File: raw/man1/head.1, line: 36
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
-
 #
+# File: raw/man1/head.1, line: 39
+# File: raw/man1/head.1, line: 39
+# File: raw/man1/head.1, line: 39
 #. type: Plain text
 # File: raw/man1/head.1, line: 39
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
-
 #
+# File: raw/man1/head.1, line: 39
+# File: raw/man1/head.1, line: 39
+# File: raw/man1/head.1, line: 39
 #. type: TP
 # File: raw/man1/head.1, line: 39
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
-
 #
+# File: raw/man1/head.1, line: 42
+# File: raw/man1/head.1, line: 42
+# File: raw/man1/head.1, line: 42
 #. type: Plain text
 # File: raw/man1/head.1, line: 42
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
-
 #
+# File: raw/man1/head.1, line: 46
+# File: raw/man1/head.1, line: 46
+# File: raw/man1/head.1, line: 46
 #. type: Plain text
 # File: raw/man1/head.1, line: 46
 #, fuzzy
@@ -214,35 +271,46 @@ msgid ""
 msgstr ""
 "K 可以带倍数后缀：b 512, kB 1000, K 1024, MB 1000*1000, M 1024*1024, GB "
 "1000*1000*1000, G 1024*1024*1024, 对于 T, P, E, Z, Y 同样适用。"
-
 #
+# File: raw/man1/head.1, line: 46
+# File: raw/man1/head.1, line: 46
+# File: raw/man1/head.1, line: 46
 #. type: SH
 # File: raw/man1/head.1, line: 46
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
-
 #
+# File: raw/man1/head.1, line: 48
+# File: raw/man1/head.1, line: 48
+# File: raw/man1/head.1, line: 48
 #. type: Plain text
 # File: raw/man1/head.1, line: 48
 msgid "Written by David MacKenzie and Jim Meyering."
 msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
-
 #
+# File: raw/man1/head.1, line: 48
+# File: raw/man1/head.1, line: 48
+# File: raw/man1/head.1, line: 48
 #. type: SH
 # File: raw/man1/head.1, line: 48
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
-
 #
+# File: raw/man1/head.1, line: 50
+# File: raw/man1/head.1, line: 50
+# File: raw/man1/head.1, line: 50
 #. type: Plain text
 # File: raw/man1/head.1, line: 50
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-
+msgstr ""
+"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 #
+# File: raw/man1/head.1, line: 52
+# File: raw/man1/head.1, line: 52
+# File: raw/man1/head.1, line: 52
 #. type: Plain text
 # File: raw/man1/head.1, line: 52
 msgid ""
@@ -250,14 +318,19 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 head 的翻译"
 "错误。"
-
 #
+# File: raw/man1/head.1, line: 52
+# File: raw/man1/head.1, line: 52
+# File: raw/man1/head.1, line: 52
 #. type: SH
 # File: raw/man1/head.1, line: 52
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-
+#
+# File: raw/man1/head.1, line: 55
+# File: raw/man1/head.1, line: 55
+# File: raw/man1/head.1, line: 55
 #. type: Plain text
 # File: raw/man1/head.1, line: 55
 msgid ""
@@ -266,8 +339,10 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
-
 #
+# File: raw/man1/head.1, line: 58
+# File: raw/man1/head.1, line: 58
+# File: raw/man1/head.1, line: 58
 #. type: Plain text
 # File: raw/man1/head.1, line: 58
 msgid ""
@@ -276,33 +351,43 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
-
 #
+# File: raw/man1/head.1, line: 58
+# File: raw/man1/head.1, line: 58
+# File: raw/man1/head.1, line: 58
 #. type: SH
 # File: raw/man1/head.1, line: 58
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
-
 #
+# File: raw/man1/head.1, line: 60
+# File: raw/man1/head.1, line: 60
+# File: raw/man1/head.1, line: 60
 #. type: Plain text
 # File: raw/man1/head.1, line: 60
 msgid "tail(1)"
 msgstr "tail(1)"
-
 #
+# File: raw/man1/head.1, line: 63
+# File: raw/man1/head.1, line: 63
+# File: raw/man1/head.1, line: 63
 #. type: Plain text
 # File: raw/man1/head.1, line: 63
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/headE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/headE<gt>"
-
 #
+# File: raw/man1/head.1, line: 64
+# File: raw/man1/head.1, line: 64
+# File: raw/man1/head.1, line: 64
 #. type: Plain text
 # File: raw/man1/head.1, line: 64
 msgid "or available locally via: info \\(aq(coreutils) head invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) head invocation\\(aq"
-
+#
+#
+#
 #
 #~ msgid "March 2015"
 #~ msgstr "2015年三月"
