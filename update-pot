@@ -4,19 +4,19 @@
 
 set -e
 
-for i in $(seq 1 8); do
-    if ! [  -e "raw/man${i}" ]; then
+for i in 1 2 3 4 5 6 7 8; do
+    if ! [ -e "raw/man${i}" ]; then
         echo "raw/man${i} does not exist, skipping..."
         continue
     fi
-    for manfile in $(ls raw/man${i}); do
-        echo "processing ${manfile}..."
+    for manfile in raw/man${i}/*; do
+        printf "processing %s...\n" "${manfile}"
         if [ -h "${manfile}" ]; then
             echo "WARN: ${manfile} is a symlink."
             continue
         fi
         po4a-updatepo -f man -m "raw/man${i}/${manfile}" -M utf8 -p "template//${manfile}.pot"
-        echo ${manfile} 2> /dev/null
+        printf "%s\n" "${manfile}" 2> /dev/null
     done
 done
 
