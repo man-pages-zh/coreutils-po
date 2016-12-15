@@ -1,6 +1,9 @@
 #!/bin/sh
 
-# Update pot file from upstream man page.
+# update-pot -- Update pot file from upstream man page.
+#
+# Upstream man pages should be extracted into "raw/" directory
+# in advance.
 
 set -e
 
@@ -15,7 +18,7 @@ for i in 1 2 3 4 5 6 7 8; do
             echo "WARN: ${manfile} is a symlink."
             continue
         fi
-        po4a-updatepo -f man -m "raw/man${i}/${manfile}" -M utf8 -p "template//${manfile}.pot"
+        po4a-updatepo -f man -m "${manfile}" -M utf8 -p "template/$(basename "${manfile}").pot"
         printf "%s\n" "${manfile}" 2> /dev/null
     done
 done
