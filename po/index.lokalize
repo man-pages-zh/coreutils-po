@@ -1,6 +1,6 @@
 [General]
 GlossaryTbx=terms.tbx
 LangCode=zh_CN
-MailingList=
-ProjectID=manpages
+MailingList=i18n-zh@googlegroups.com
+ProjectID=coreutils-zh
 TargetLangCode=zh_CN

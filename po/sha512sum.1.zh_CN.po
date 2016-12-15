@@ -1,4 +1,5 @@
 #
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
@@ -10,15 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-08-09 22:22+0800\n"
+"PO-Revision-Date: 2016-12-15 20:35+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/sha512sum.1, line: 2
 # File: raw/man1/sha512sum.1, line: 2
@@ -27,22 +29,23 @@ msgstr ""
 #, no-wrap
 msgid "SHA512SUM"
 msgstr "SHA512SUM"
-#
+
 # File: raw/man1/sha512sum.1, line: 2
 # File: raw/man1/sha512sum.1, line: 2
 #. type: TH
 # File: raw/man1/sha512sum.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
-#
+msgstr "2016年12月"
+
 # File: raw/man1/sha512sum.1, line: 2
 # File: raw/man1/sha512sum.1, line: 2
 #. type: TH
 # File: raw/man1/sha512sum.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.25"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/sha512sum.1, line: 2
 # File: raw/man1/sha512sum.1, line: 2
@@ -51,6 +54,7 @@ msgstr "GNU coreutils 8.25"
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
+
 #
 # File: raw/man1/sha512sum.1, line: 3
 # File: raw/man1/sha512sum.1, line: 3
@@ -59,6 +63,7 @@ msgstr "用户命令"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/sha512sum.1, line: 5
 # File: raw/man1/sha512sum.1, line: 5
@@ -66,6 +71,7 @@ msgstr "名称"
 # File: raw/man1/sha512sum.1, line: 5
 msgid "sha512sum - compute and check SHA512 message digest"
 msgstr "sha512sum - 计算并校验 SHA512 信息摘要"
+
 #
 # File: raw/man1/sha512sum.1, line: 5
 # File: raw/man1/sha512sum.1, line: 5
@@ -74,6 +80,7 @@ msgstr "sha512sum - 计算并校验 SHA512 信息摘要"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/sha512sum.1, line: 8
 # File: raw/man1/sha512sum.1, line: 8
@@ -81,6 +88,7 @@ msgstr "概述"
 # File: raw/man1/sha512sum.1, line: 8
 msgid "B<sha512sum> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
 msgstr "B<sha512sum> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
+
 #
 # File: raw/man1/sha512sum.1, line: 8
 # File: raw/man1/sha512sum.1, line: 8
@@ -89,6 +97,7 @@ msgstr "B<sha512sum> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/sha512sum.1, line: 12
 # File: raw/man1/sha512sum.1, line: 12
@@ -96,6 +105,7 @@ msgstr "描述"
 # File: raw/man1/sha512sum.1, line: 12
 msgid "Print or check SHA512 (512-bit) checksums."
 msgstr "输出或检查 SHA512 (512位) 校验和。"
+
 #
 # File: raw/man1/sha512sum.1, line: 14
 # File: raw/man1/sha512sum.1, line: 14
@@ -103,6 +113,7 @@ msgstr "输出或检查 SHA512 (512位) 校验和。"
 # File: raw/man1/sha512sum.1, line: 14
 msgid "With no FILE, or when FILE is -, read standard input."
 msgstr "如果没有给出文件参数，或者文件参数是“-”，则从标准输入读取。"
+
 #
 # File: raw/man1/sha512sum.1, line: 14
 # File: raw/man1/sha512sum.1, line: 14
@@ -111,6 +122,7 @@ msgstr "如果没有给出文件参数，或者文件参数是“-”，则从�
 #, no-wrap
 msgid "B<-b>, B<--binary>"
 msgstr "B<-b>, B<--binary>"
+
 #
 # File: raw/man1/sha512sum.1, line: 17
 # File: raw/man1/sha512sum.1, line: 17
@@ -118,6 +130,7 @@ msgstr "B<-b>, B<--binary>"
 # File: raw/man1/sha512sum.1, line: 17
 msgid "read in binary mode"
 msgstr "以二进制模式读入"
+
 #
 # File: raw/man1/sha512sum.1, line: 17
 # File: raw/man1/sha512sum.1, line: 17
@@ -126,6 +139,7 @@ msgstr "以二进制模式读入"
 #, no-wrap
 msgid "B<-c>, B<--check>"
 msgstr "B<-c>, B<--check>"
+
 #
 # File: raw/man1/sha512sum.1, line: 20
 # File: raw/man1/sha512sum.1, line: 20
@@ -133,6 +147,7 @@ msgstr "B<-c>, B<--check>"
 # File: raw/man1/sha512sum.1, line: 20
 msgid "read SHA512 sums from the FILEs and check them"
 msgstr "从指定文件中读取 SHA512 文件校验和信息并对它们进行检查"
+
 #
 # File: raw/man1/sha512sum.1, line: 20
 # File: raw/man1/sha512sum.1, line: 20
@@ -141,6 +156,7 @@ msgstr "从指定文件中读取 SHA512 文件校验和信息并对它们进行�
 #, no-wrap
 msgid "B<--tag>"
 msgstr "B<--tag>"
+
 #
 # File: raw/man1/sha512sum.1, line: 23
 # File: raw/man1/sha512sum.1, line: 23
@@ -148,6 +164,7 @@ msgstr "B<--tag>"
 # File: raw/man1/sha512sum.1, line: 23
 msgid "create a BSD-style checksum"
 msgstr "创建一个 BSD 风格的校验和"
+
 #
 # File: raw/man1/sha512sum.1, line: 23
 # File: raw/man1/sha512sum.1, line: 23
@@ -156,6 +173,7 @@ msgstr "创建一个 BSD 风格的校验和"
 #, no-wrap
 msgid "B<-t>, B<--text>"
 msgstr "B<-t>, B<--text>"
+
 #
 # File: raw/man1/sha512sum.1, line: 26
 # File: raw/man1/sha512sum.1, line: 26
@@ -163,6 +181,7 @@ msgstr "B<-t>, B<--text>"
 # File: raw/man1/sha512sum.1, line: 26
 msgid "read in text mode (default)"
 msgstr "以文本模式读入（默认）"
+
 #
 # File: raw/man1/sha512sum.1, line: 26
 # File: raw/man1/sha512sum.1, line: 26
@@ -171,6 +190,7 @@ msgstr "以文本模式读入（默认）"
 #, no-wrap
 msgid "The following five options are useful only when verifying checksums:"
 msgstr "下面五个选项仅在验证校验和时有用："
+
 #
 # File: raw/man1/sha512sum.1, line: 27
 # File: raw/man1/sha512sum.1, line: 27
@@ -179,6 +199,7 @@ msgstr "下面五个选项仅在验证校验和时有用："
 #, no-wrap
 msgid "B<--ignore-missing>"
 msgstr "B<--ignore-missing>"
+
 #
 # File: raw/man1/sha512sum.1, line: 30
 # File: raw/man1/sha512sum.1, line: 30
@@ -186,6 +207,7 @@ msgstr "B<--ignore-missing>"
 # File: raw/man1/sha512sum.1, line: 30
 msgid "don't fail or report status for missing files"
 msgstr "不要在文件缺失时报告或认为操作失败"
+
 #
 # File: raw/man1/sha512sum.1, line: 30
 # File: raw/man1/sha512sum.1, line: 30
@@ -194,6 +216,7 @@ msgstr "不要在文件缺失时报告或认为操作失败"
 #, no-wrap
 msgid "B<--quiet>"
 msgstr "B<--quiet>"
+
 #
 # File: raw/man1/sha512sum.1, line: 33
 # File: raw/man1/sha512sum.1, line: 33
@@ -201,6 +224,7 @@ msgstr "B<--quiet>"
 # File: raw/man1/sha512sum.1, line: 33
 msgid "don't print OK for each successfully verified file"
 msgstr "不要为每个成功验证的文件显示成功信息"
+
 #
 # File: raw/man1/sha512sum.1, line: 33
 # File: raw/man1/sha512sum.1, line: 33
@@ -209,6 +233,7 @@ msgstr "不要为每个成功验证的文件显示成功信息"
 #, no-wrap
 msgid "B<--status>"
 msgstr "B<--status>"
+
 #
 # File: raw/man1/sha512sum.1, line: 36
 # File: raw/man1/sha512sum.1, line: 36
@@ -216,6 +241,7 @@ msgstr "B<--status>"
 # File: raw/man1/sha512sum.1, line: 36
 msgid "don't output anything, status code shows success"
 msgstr "不要输出任何信息，由返回值判断成功与否"
+
 #
 # File: raw/man1/sha512sum.1, line: 36
 # File: raw/man1/sha512sum.1, line: 36
@@ -224,6 +250,7 @@ msgstr "不要输出任何信息，由返回值判断成功与否"
 #, no-wrap
 msgid "B<--strict>"
 msgstr "B<--strict>"
+
 #
 # File: raw/man1/sha512sum.1, line: 39
 # File: raw/man1/sha512sum.1, line: 39
@@ -231,6 +258,7 @@ msgstr "B<--strict>"
 # File: raw/man1/sha512sum.1, line: 39
 msgid "exit non-zero for improperly formatted checksum lines"
 msgstr "为没有正确格式化的校验和文字行给出非零返回值"
+
 #
 # File: raw/man1/sha512sum.1, line: 39
 # File: raw/man1/sha512sum.1, line: 39
@@ -239,6 +267,7 @@ msgstr "为没有正确格式化的校验和文字行给出非零返回值"
 #, no-wrap
 msgid "B<-w>, B<--warn>"
 msgstr "B<-w>, B<--warn>"
+
 #
 # File: raw/man1/sha512sum.1, line: 42
 # File: raw/man1/sha512sum.1, line: 42
@@ -246,6 +275,7 @@ msgstr "B<-w>, B<--warn>"
 # File: raw/man1/sha512sum.1, line: 42
 msgid "warn about improperly formatted checksum lines"
 msgstr "为没有正确格式化的校验和文字行给出警告信息"
+
 #
 # File: raw/man1/sha512sum.1, line: 42
 # File: raw/man1/sha512sum.1, line: 42
@@ -254,6 +284,7 @@ msgstr "为没有正确格式化的校验和文字行给出警告信息"
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/sha512sum.1, line: 45
 # File: raw/man1/sha512sum.1, line: 45
@@ -261,6 +292,7 @@ msgstr "B<--help>"
 # File: raw/man1/sha512sum.1, line: 45
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/sha512sum.1, line: 45
 # File: raw/man1/sha512sum.1, line: 45
@@ -269,6 +301,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/sha512sum.1, line: 48
 # File: raw/man1/sha512sum.1, line: 48
@@ -276,6 +309,7 @@ msgstr "B<--version>"
 # File: raw/man1/sha512sum.1, line: 48
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/sha512sum.1, line: 53
 # File: raw/man1/sha512sum.1, line: 53
@@ -292,6 +326,7 @@ msgstr ""
 "序先前的输出内容。默认模式是输出一行文字，包含校验和、一个空格、一个指示输入"
 "模式的字符（'*' 指示二进制输入，\\&' ' 指示二进制特性不明显的文本输入）以及每"
 "个文件的名称。"
+
 #
 # File: raw/man1/sha512sum.1, line: 53
 # File: raw/man1/sha512sum.1, line: 53
@@ -300,6 +335,7 @@ msgstr ""
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/sha512sum.1, line: 55
 # File: raw/man1/sha512sum.1, line: 55
@@ -307,6 +343,7 @@ msgstr "作者"
 # File: raw/man1/sha512sum.1, line: 55
 msgid "Written by Ulrich Drepper, Scott Miller, and David Madore."
 msgstr "由 Ulrich Drepper, Scott Miller 和 David Madore 编写。"
+
 #
 # File: raw/man1/sha512sum.1, line: 55
 # File: raw/man1/sha512sum.1, line: 55
@@ -315,6 +352,7 @@ msgstr "由 Ulrich Drepper, Scott Miller 和 David Madore 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/sha512sum.1, line: 57
 # File: raw/man1/sha512sum.1, line: 57
@@ -322,8 +360,8 @@ msgstr "报告错误"
 # File: raw/man1/sha512sum.1, line: 57
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/sha512sum.1, line: 59
 # File: raw/man1/sha512sum.1, line: 59
@@ -335,6 +373,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 sha512sum "
 "的翻译错误。"
+
 #
 # File: raw/man1/sha512sum.1, line: 59
 # File: raw/man1/sha512sum.1, line: 59
@@ -343,6 +382,7 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
+
 #
 # File: raw/man1/sha512sum.1, line: 62
 # File: raw/man1/sha512sum.1, line: 62
@@ -354,6 +394,7 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/sha512sum.1, line: 65
 # File: raw/man1/sha512sum.1, line: 65
@@ -365,6 +406,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/sha512sum.1, line: 65
 # File: raw/man1/sha512sum.1, line: 65
@@ -373,6 +415,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/sha512sum.1, line: 67
 # File: raw/man1/sha512sum.1, line: 67
@@ -381,8 +424,8 @@ msgstr "参见"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/"
 "sha512sumE<gt>"
-msgstr ""
-"完整文档请见： E<lt>http://www.gnu.org/software/coreutils/sha512sumE<gt>"
+msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/sha512sumE<gt>"
+
 #
 # File: raw/man1/sha512sum.1, line: 68
 # File: raw/man1/sha512sum.1, line: 68
@@ -390,6 +433,7 @@ msgstr ""
 # File: raw/man1/sha512sum.1, line: 68
 msgid "or available locally via: info \\(aq(coreutils) sha2 utilities\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) sha2 utilities\\(aq"
+
 #
 #
 #

@@ -1,4 +1,5 @@
 #
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
@@ -10,15 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-08-10 19:11+0800\n"
+"PO-Revision-Date: 2016-12-15 20:32+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/touch.1, line: 2
 # File: raw/man1/touch.1, line: 2
@@ -27,22 +29,23 @@ msgstr ""
 #, no-wrap
 msgid "TOUCH"
 msgstr "TOUCH"
-#
+
 # File: raw/man1/touch.1, line: 2
 # File: raw/man1/touch.1, line: 2
 #. type: TH
 # File: raw/man1/touch.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
-#
+msgstr "2016年12月"
+
 # File: raw/man1/touch.1, line: 2
 # File: raw/man1/touch.1, line: 2
 #. type: TH
 # File: raw/man1/touch.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.25"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/touch.1, line: 2
 # File: raw/man1/touch.1, line: 2
@@ -51,6 +54,7 @@ msgstr "GNU coreutils 8.25"
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
+
 #
 # File: raw/man1/touch.1, line: 3
 # File: raw/man1/touch.1, line: 3
@@ -59,6 +63,7 @@ msgstr "用户命令"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/touch.1, line: 5
 # File: raw/man1/touch.1, line: 5
@@ -66,6 +71,7 @@ msgstr "名称"
 # File: raw/man1/touch.1, line: 5
 msgid "touch - change file timestamps"
 msgstr "touch - 改变文件时间戳"
+
 #
 # File: raw/man1/touch.1, line: 5
 # File: raw/man1/touch.1, line: 5
@@ -74,6 +80,7 @@ msgstr "touch - 改变文件时间戳"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/touch.1, line: 8
 # File: raw/man1/touch.1, line: 8
@@ -81,6 +88,7 @@ msgstr "概述"
 # File: raw/man1/touch.1, line: 8
 msgid "B<touch> [I<\\,OPTION\\/>]... I<\\,FILE\\/>..."
 msgstr "B<touch> [I<\\,选项\\/>]... I<\\,文件列表\\/>..."
+
 #
 # File: raw/man1/touch.1, line: 8
 # File: raw/man1/touch.1, line: 8
@@ -89,6 +97,7 @@ msgstr "B<touch> [I<\\,选项\\/>]... I<\\,文件列表\\/>..."
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/touch.1, line: 12
 # File: raw/man1/touch.1, line: 12
@@ -97,6 +106,7 @@ msgstr "描述"
 msgid ""
 "Update the access and modification times of each FILE to the current time."
 msgstr "将每个文件的访问时间和修改时间更新为当前时间。"
+
 #
 # File: raw/man1/touch.1, line: 15
 # File: raw/man1/touch.1, line: 15
@@ -105,8 +115,8 @@ msgstr "将每个文件的访问时间和修改时间更新为当前时间。"
 msgid ""
 "A FILE argument that does not exist is created empty, unless B<-c> or B<-h> "
 "is supplied."
-msgstr ""
-"除非提供了 B<-c> 或 B<-h> 参数，否则程序会在文件不存在时创建一个空文件。"
+msgstr "除非提供了 B<-c> 或 B<-h> 参数，否则程序会在文件不存在时创建一个空文件。"
+
 #
 # File: raw/man1/touch.1, line: 18
 # File: raw/man1/touch.1, line: 18
@@ -118,6 +128,7 @@ msgid ""
 msgstr ""
 "如果文件列表参数中有连字符“-”，它将被 touch 特别处理，并更改与标准输出相关联"
 "的文件的相应时间信息。"
+
 #
 # File: raw/man1/touch.1, line: 20
 # File: raw/man1/touch.1, line: 20
@@ -126,6 +137,7 @@ msgstr ""
 msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
+
 #
 # File: raw/man1/touch.1, line: 20
 # File: raw/man1/touch.1, line: 20
@@ -134,6 +146,7 @@ msgstr "必选参数对长短选项同时适用。"
 #, no-wrap
 msgid "B<-a>"
 msgstr "B<-a>"
+
 #
 # File: raw/man1/touch.1, line: 23
 # File: raw/man1/touch.1, line: 23
@@ -141,6 +154,7 @@ msgstr "B<-a>"
 # File: raw/man1/touch.1, line: 23
 msgid "change only the access time"
 msgstr "仅更改文件访问时间"
+
 #
 # File: raw/man1/touch.1, line: 23
 # File: raw/man1/touch.1, line: 23
@@ -149,6 +163,7 @@ msgstr "仅更改文件访问时间"
 #, no-wrap
 msgid "B<-c>, B<--no-create>"
 msgstr "B<-c>, B<--no-create>"
+
 #
 # File: raw/man1/touch.1, line: 26
 # File: raw/man1/touch.1, line: 26
@@ -156,6 +171,7 @@ msgstr "B<-c>, B<--no-create>"
 # File: raw/man1/touch.1, line: 26
 msgid "do not create any files"
 msgstr "不要创建任何文件"
+
 #
 # File: raw/man1/touch.1, line: 26
 # File: raw/man1/touch.1, line: 26
@@ -164,6 +180,7 @@ msgstr "不要创建任何文件"
 #, no-wrap
 msgid "B<-d>, B<--date>=I<\\,STRING\\/>"
 msgstr "B<-d>, B<--date>=I<\\,字符串\\/>"
+
 #
 # File: raw/man1/touch.1, line: 29
 # File: raw/man1/touch.1, line: 29
@@ -171,6 +188,7 @@ msgstr "B<-d>, B<--date>=I<\\,字符串\\/>"
 # File: raw/man1/touch.1, line: 29
 msgid "parse STRING and use it instead of current time"
 msgstr "使用指定字符串所表示的时间而非当前时间"
+
 #
 # File: raw/man1/touch.1, line: 29
 # File: raw/man1/touch.1, line: 29
@@ -179,6 +197,7 @@ msgstr "使用指定字符串所表示的时间而非当前时间"
 #, no-wrap
 msgid "B<-f>"
 msgstr "B<-f>"
+
 #
 # File: raw/man1/touch.1, line: 32
 # File: raw/man1/touch.1, line: 32
@@ -186,6 +205,7 @@ msgstr "B<-f>"
 # File: raw/man1/touch.1, line: 32
 msgid "(ignored)"
 msgstr "（被忽略的选项）"
+
 #
 # File: raw/man1/touch.1, line: 32
 # File: raw/man1/touch.1, line: 32
@@ -194,6 +214,7 @@ msgstr "（被忽略的选项）"
 #, no-wrap
 msgid "B<-h>, B<--no-dereference>"
 msgstr "B<-h>, B<--no-dereference>"
+
 #
 # File: raw/man1/touch.1, line: 37
 # File: raw/man1/touch.1, line: 37
@@ -202,8 +223,8 @@ msgstr "B<-h>, B<--no-dereference>"
 msgid ""
 "affect each symbolic link instead of any referenced file (useful only on "
 "systems that can change the timestamps of a symlink)"
-msgstr ""
-"影响所有符号链接而非被引用的文件（仅在能够更改符号链接的时间戳的系统上有用）"
+msgstr "影响所有符号链接而非被引用的文件（仅在能够更改符号链接的时间戳的系统上有用）"
+
 #
 # File: raw/man1/touch.1, line: 37
 # File: raw/man1/touch.1, line: 37
@@ -212,6 +233,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-m>"
 msgstr "B<-m>"
+
 #
 # File: raw/man1/touch.1, line: 40
 # File: raw/man1/touch.1, line: 40
@@ -219,6 +241,7 @@ msgstr "B<-m>"
 # File: raw/man1/touch.1, line: 40
 msgid "change only the modification time"
 msgstr "仅更改文件修改时间"
+
 #
 # File: raw/man1/touch.1, line: 40
 # File: raw/man1/touch.1, line: 40
@@ -227,6 +250,7 @@ msgstr "仅更改文件修改时间"
 #, no-wrap
 msgid "B<-r>, B<--reference>=I<\\,FILE\\/>"
 msgstr "B<-r>, B<--reference>=I<\\,文件\\/>"
+
 #
 # File: raw/man1/touch.1, line: 43
 # File: raw/man1/touch.1, line: 43
@@ -234,6 +258,7 @@ msgstr "B<-r>, B<--reference>=I<\\,文件\\/>"
 # File: raw/man1/touch.1, line: 43
 msgid "use this file's times instead of current time"
 msgstr "使用指定文件的时间代替当前时间"
+
 #
 # File: raw/man1/touch.1, line: 43
 # File: raw/man1/touch.1, line: 43
@@ -242,6 +267,7 @@ msgstr "使用指定文件的时间代替当前时间"
 #, no-wrap
 msgid "B<-t> STAMP"
 msgstr "B<-t> STAMP"
+
 #
 # File: raw/man1/touch.1, line: 46
 # File: raw/man1/touch.1, line: 46
@@ -249,6 +275,7 @@ msgstr "B<-t> STAMP"
 # File: raw/man1/touch.1, line: 46
 msgid "use [[CC]YY]MMDDhhmm[.ss] instead of current time"
 msgstr "使用 [[CC]YY]MMDDhhmm[.ss] 代替当前时间"
+
 #
 # File: raw/man1/touch.1, line: 46
 # File: raw/man1/touch.1, line: 46
@@ -257,6 +284,7 @@ msgstr "使用 [[CC]YY]MMDDhhmm[.ss] 代替当前时间"
 #, no-wrap
 msgid "B<--time>=I<\\,WORD\\/>"
 msgstr "B<--time>=I<\\,关键字\\/>"
+
 #
 # File: raw/man1/touch.1, line: 51
 # File: raw/man1/touch.1, line: 51
@@ -268,6 +296,7 @@ msgid ""
 msgstr ""
 "改变文件的指定时间：若关键字是 access，atime 或 use，则等同于 B<-a>；若关键字"
 "是 modify 或 mtime，则等同于 B<-m>"
+
 #
 # File: raw/man1/touch.1, line: 51
 # File: raw/man1/touch.1, line: 51
@@ -276,6 +305,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/touch.1, line: 54
 # File: raw/man1/touch.1, line: 54
@@ -283,6 +313,7 @@ msgstr "B<--help>"
 # File: raw/man1/touch.1, line: 54
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/touch.1, line: 54
 # File: raw/man1/touch.1, line: 54
@@ -291,6 +322,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/touch.1, line: 57
 # File: raw/man1/touch.1, line: 57
@@ -298,6 +330,7 @@ msgstr "B<--version>"
 # File: raw/man1/touch.1, line: 57
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/touch.1, line: 59
 # File: raw/man1/touch.1, line: 59
@@ -306,6 +339,7 @@ msgstr "显示版本信息并退出"
 msgid ""
 "Note that the B<-d> and B<-t> options accept different time-date formats."
 msgstr "请注意 B<-d> 和 B<-t> 选项接受的时间-日期格式有所不同。"
+
 #
 # File: raw/man1/touch.1, line: 59
 # File: raw/man1/touch.1, line: 59
@@ -314,6 +348,7 @@ msgstr "请注意 B<-d> 和 B<-t> 选项接受的时间-日期格式有所不同
 #, no-wrap
 msgid "DATE STRING"
 msgstr "日期字符串"
+
 #
 # File: raw/man1/touch.1, line: 68
 # File: raw/man1/touch.1, line: 68
@@ -335,6 +370,7 @@ msgstr ""
 "区、星期、相对时间、相对日期和数字的信息。一个空字符串表示当日的起始。日期字"
 "符串的具体格式较为复杂，在手册页中难以简单描述清楚，但是您可以在 info 文档中"
 "找到完整内容。"
+
 #
 # File: raw/man1/touch.1, line: 68
 # File: raw/man1/touch.1, line: 68
@@ -343,6 +379,7 @@ msgstr ""
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/touch.1, line: 71
 # File: raw/man1/touch.1, line: 71
@@ -354,6 +391,7 @@ msgid ""
 msgstr ""
 "由 Paul Rubin, Arnold Robbins, Jim Kingdon David MacKenzie 和 Randy Smith 编"
 "写。"
+
 #
 # File: raw/man1/touch.1, line: 71
 # File: raw/man1/touch.1, line: 71
@@ -362,6 +400,7 @@ msgstr ""
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/touch.1, line: 73
 # File: raw/man1/touch.1, line: 73
@@ -369,8 +408,8 @@ msgstr "报告错误"
 # File: raw/man1/touch.1, line: 73
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/touch.1, line: 75
 # File: raw/man1/touch.1, line: 75
@@ -382,6 +421,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 touch 的翻"
 "译错误。"
+
 #
 # File: raw/man1/touch.1, line: 75
 # File: raw/man1/touch.1, line: 75
@@ -390,6 +430,7 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
+
 #
 # File: raw/man1/touch.1, line: 78
 # File: raw/man1/touch.1, line: 78
@@ -401,6 +442,7 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/touch.1, line: 81
 # File: raw/man1/touch.1, line: 81
@@ -412,6 +454,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/touch.1, line: 81
 # File: raw/man1/touch.1, line: 81
@@ -420,6 +463,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/touch.1, line: 83
 # File: raw/man1/touch.1, line: 83
@@ -428,6 +472,7 @@ msgstr "参见"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/touchE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/touchE<gt>"
+
 #
 # File: raw/man1/touch.1, line: 84
 # File: raw/man1/touch.1, line: 84
@@ -435,6 +480,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/touchE<
 # File: raw/man1/touch.1, line: 84
 msgid "or available locally via: info \\(aq(coreutils) touch invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) touch invocation\\(aq"
+
 #
 #
 #

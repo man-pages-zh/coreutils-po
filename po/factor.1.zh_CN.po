@@ -1,4 +1,5 @@
 #
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
@@ -10,15 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-08-09 22:00+0800\n"
+"PO-Revision-Date: 2016-12-15 20:50+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/factor.1, line: 2
 # File: raw/man1/factor.1, line: 2
@@ -28,24 +30,25 @@ msgstr ""
 #, no-wrap
 msgid "FACTOR"
 msgstr "FACTOR"
-#
+
 # File: raw/man1/factor.1, line: 2
 # File: raw/man1/factor.1, line: 2
 # File: raw/man1/factor.1, line: 2
 #. type: TH
 # File: raw/man1/factor.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
-#
+msgstr "2016年12月"
+
 # File: raw/man1/factor.1, line: 2
 # File: raw/man1/factor.1, line: 2
 # File: raw/man1/factor.1, line: 2
 #. type: TH
 # File: raw/man1/factor.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.25"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/factor.1, line: 2
 # File: raw/man1/factor.1, line: 2
@@ -55,6 +58,7 @@ msgstr "GNU coreutils 8.25"
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
+
 #
 # File: raw/man1/factor.1, line: 3
 # File: raw/man1/factor.1, line: 3
@@ -64,6 +68,7 @@ msgstr "用户命令"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/factor.1, line: 5
 # File: raw/man1/factor.1, line: 5
@@ -72,6 +77,7 @@ msgstr "名称"
 # File: raw/man1/factor.1, line: 5
 msgid "factor - factor numbers"
 msgstr "factor - 求质因数分解"
+
 #
 # File: raw/man1/factor.1, line: 5
 # File: raw/man1/factor.1, line: 5
@@ -81,6 +87,7 @@ msgstr "factor - 求质因数分解"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/factor.1, line: 8
 # File: raw/man1/factor.1, line: 8
@@ -89,6 +96,7 @@ msgstr "概述"
 # File: raw/man1/factor.1, line: 8
 msgid "B<factor> [I<\\,NUMBER\\/>]..."
 msgstr "B<factor> [I<\\,数\\/>]..."
+
 #
 # File: raw/man1/factor.1, line: 11
 # File: raw/man1/factor.1, line: 11
@@ -97,6 +105,7 @@ msgstr "B<factor> [I<\\,数\\/>]..."
 # File: raw/man1/factor.1, line: 11
 msgid "B<factor> I<\\,OPTION\\/>"
 msgstr "B<factor> I<\\,选项\\/>"
+
 #
 # File: raw/man1/factor.1, line: 11
 # File: raw/man1/factor.1, line: 11
@@ -106,6 +115,7 @@ msgstr "B<factor> I<\\,选项\\/>"
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/factor.1, line: 16
 # File: raw/man1/factor.1, line: 16
@@ -115,8 +125,8 @@ msgstr "描述"
 msgid ""
 "Print the prime factors of each specified integer NUMBER.  If none are "
 "specified on the command line, read them from standard input."
-msgstr ""
-"打印参数列表中的每一个整数的质因数分解。如果没有指定参数，则从标准输入读取。"
+msgstr "打印参数列表中的每一个整数的质因数分解。如果没有指定参数，则从标准输入读取。"
+
 #
 # File: raw/man1/factor.1, line: 16
 # File: raw/man1/factor.1, line: 16
@@ -126,6 +136,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/factor.1, line: 19
 # File: raw/man1/factor.1, line: 19
@@ -134,6 +145,7 @@ msgstr "B<--help>"
 # File: raw/man1/factor.1, line: 19
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/factor.1, line: 19
 # File: raw/man1/factor.1, line: 19
@@ -143,6 +155,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/factor.1, line: 22
 # File: raw/man1/factor.1, line: 22
@@ -151,6 +164,7 @@ msgstr "B<--version>"
 # File: raw/man1/factor.1, line: 22
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/factor.1, line: 22
 # File: raw/man1/factor.1, line: 22
@@ -160,6 +174,7 @@ msgstr "显示版本信息并退出"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/factor.1, line: 24
 # File: raw/man1/factor.1, line: 24
@@ -168,6 +183,7 @@ msgstr "作者"
 # File: raw/man1/factor.1, line: 24
 msgid "Written by Paul Rubin, Torbjorn Granlund, and Niels Moller."
 msgstr "由 Paul Rubin, Torbjorn Granlund 和 Niels Moller 编写。"
+
 #
 # File: raw/man1/factor.1, line: 24
 # File: raw/man1/factor.1, line: 24
@@ -177,6 +193,7 @@ msgstr "由 Paul Rubin, Torbjorn Granlund 和 Niels Moller 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/factor.1, line: 26
 # File: raw/man1/factor.1, line: 26
@@ -185,8 +202,8 @@ msgstr "报告错误"
 # File: raw/man1/factor.1, line: 26
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/factor.1, line: 28
 # File: raw/man1/factor.1, line: 28
@@ -199,6 +216,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 factor 的翻"
 "译错误。"
+
 #
 # File: raw/man1/factor.1, line: 28
 # File: raw/man1/factor.1, line: 28
@@ -208,6 +226,7 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
+
 #
 # File: raw/man1/factor.1, line: 31
 # File: raw/man1/factor.1, line: 31
@@ -220,6 +239,7 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/factor.1, line: 34
 # File: raw/man1/factor.1, line: 34
@@ -232,6 +252,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/factor.1, line: 34
 # File: raw/man1/factor.1, line: 34
@@ -241,6 +262,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/factor.1, line: 36
 # File: raw/man1/factor.1, line: 36
@@ -250,6 +272,7 @@ msgstr "参见"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/factorE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/factorE<gt>"
+
 #
 # File: raw/man1/factor.1, line: 37
 # File: raw/man1/factor.1, line: 37
@@ -258,6 +281,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/factorE
 # File: raw/man1/factor.1, line: 37
 msgid "or available locally via: info \\(aq(coreutils) factor invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) factor invocation\\(aq"
+
 #
 #
 #

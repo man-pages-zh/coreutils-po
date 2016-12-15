@@ -1,4 +1,5 @@
 #
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
@@ -10,15 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-08-09 22:12+0800\n"
+"PO-Revision-Date: 2016-12-15 20:32+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/chgrp.1, line: 2
 # File: raw/man1/chgrp.1, line: 2
@@ -28,24 +30,25 @@ msgstr ""
 #, no-wrap
 msgid "CHGRP"
 msgstr "CHGRP"
-#
+
 # File: raw/man1/chgrp.1, line: 2
 # File: raw/man1/chgrp.1, line: 2
 # File: raw/man1/chgrp.1, line: 2
 #. type: TH
 # File: raw/man1/chgrp.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
-#
+msgstr "2016年12月"
+
 # File: raw/man1/chgrp.1, line: 2
 # File: raw/man1/chgrp.1, line: 2
 # File: raw/man1/chgrp.1, line: 2
 #. type: TH
 # File: raw/man1/chgrp.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.25"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/chgrp.1, line: 2
 # File: raw/man1/chgrp.1, line: 2
@@ -55,6 +58,7 @@ msgstr "GNU coreutils 8.25"
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
+
 #
 # File: raw/man1/chgrp.1, line: 3
 # File: raw/man1/chgrp.1, line: 3
@@ -64,6 +68,7 @@ msgstr "用户命令"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/chgrp.1, line: 5
 # File: raw/man1/chgrp.1, line: 5
@@ -72,6 +77,7 @@ msgstr "名称"
 # File: raw/man1/chgrp.1, line: 5
 msgid "chgrp - change group ownership"
 msgstr "chgrp - 修改文件所属组"
+
 #
 # File: raw/man1/chgrp.1, line: 5
 # File: raw/man1/chgrp.1, line: 5
@@ -81,6 +87,7 @@ msgstr "chgrp - 修改文件所属组"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/chgrp.1, line: 8
 # File: raw/man1/chgrp.1, line: 8
@@ -89,6 +96,7 @@ msgstr "概述"
 # File: raw/man1/chgrp.1, line: 8
 msgid "B<chgrp> [I<\\,OPTION\\/>]... I<\\,GROUP FILE\\/>..."
 msgstr "B<chgrp> [I<\\,选项列表\\/>]... I<\\,组 文件\\/>..."
+
 #
 # File: raw/man1/chgrp.1, line: 11
 # File: raw/man1/chgrp.1, line: 11
@@ -97,6 +105,7 @@ msgstr "B<chgrp> [I<\\,选项列表\\/>]... I<\\,组 文件\\/>..."
 # File: raw/man1/chgrp.1, line: 11
 msgid "B<chgrp> [I<\\,OPTION\\/>]... I<\\,--reference=RFILE FILE\\/>..."
 msgstr "B<chgrp> [I<\\,选项列表\\/>]... I<\\,--reference=参考文件 文件\\/>..."
+
 #
 # File: raw/man1/chgrp.1, line: 11
 # File: raw/man1/chgrp.1, line: 11
@@ -106,6 +115,7 @@ msgstr "B<chgrp> [I<\\,选项列表\\/>]... I<\\,--reference=参考文件 文件
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/chgrp.1, line: 16
 # File: raw/man1/chgrp.1, line: 16
@@ -118,6 +128,7 @@ msgid ""
 msgstr ""
 "修改每个文件的所属组为指定的组。 使用参数 B<--reference> 时， 修改每个文件的"
 "所属组为参考文件的所属组。"
+
 #
 # File: raw/man1/chgrp.1, line: 16
 # File: raw/man1/chgrp.1, line: 16
@@ -127,6 +138,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-c>, B<--changes>"
 msgstr "B<-c>, B<--changes>"
+
 #
 # File: raw/man1/chgrp.1, line: 19
 # File: raw/man1/chgrp.1, line: 19
@@ -135,6 +147,7 @@ msgstr "B<-c>, B<--changes>"
 # File: raw/man1/chgrp.1, line: 19
 msgid "like verbose but report only when a change is made"
 msgstr "类似 verbose 参数， 但只会在发生变化时才会报告"
+
 #
 # File: raw/man1/chgrp.1, line: 19
 # File: raw/man1/chgrp.1, line: 19
@@ -144,6 +157,7 @@ msgstr "类似 verbose 参数， 但只会在发生变化时才会报告"
 #, no-wrap
 msgid "B<-f>, B<--silent>, B<--quiet>"
 msgstr "B<-f>, B<--silent>, B<--quiet>"
+
 #
 # File: raw/man1/chgrp.1, line: 22
 # File: raw/man1/chgrp.1, line: 22
@@ -152,6 +166,7 @@ msgstr "B<-f>, B<--silent>, B<--quiet>"
 # File: raw/man1/chgrp.1, line: 22
 msgid "suppress most error messages"
 msgstr "隐藏大多数错误信息"
+
 #
 # File: raw/man1/chgrp.1, line: 22
 # File: raw/man1/chgrp.1, line: 22
@@ -161,6 +176,7 @@ msgstr "隐藏大多数错误信息"
 #, no-wrap
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
+
 #
 # File: raw/man1/chgrp.1, line: 25
 # File: raw/man1/chgrp.1, line: 25
@@ -169,6 +185,7 @@ msgstr "B<-v>, B<--verbose>"
 # File: raw/man1/chgrp.1, line: 25
 msgid "output a diagnostic for every file processed"
 msgstr "对于每个文件的处理， 都会打印分析报告"
+
 #
 # File: raw/man1/chgrp.1, line: 25
 # File: raw/man1/chgrp.1, line: 25
@@ -178,6 +195,7 @@ msgstr "对于每个文件的处理， 都会打印分析报告"
 #, no-wrap
 msgid "B<--dereference>"
 msgstr "B<--dereference>"
+
 #
 # File: raw/man1/chgrp.1, line: 29
 # File: raw/man1/chgrp.1, line: 29
@@ -188,6 +206,7 @@ msgid ""
 "affect the referent of each symbolic link (this is the default), rather than "
 "the symbolic link itself"
 msgstr "影响每个符号链接所引用的文件 （默认设置）， 而不是符号链接本身"
+
 #
 # File: raw/man1/chgrp.1, line: 29
 # File: raw/man1/chgrp.1, line: 29
@@ -197,6 +216,7 @@ msgstr "影响每个符号链接所引用的文件 （默认设置）， 而不�
 #, no-wrap
 msgid "B<-h>, B<--no-dereference>"
 msgstr "B<-h>, B<--no-dereference>"
+
 #
 # File: raw/man1/chgrp.1, line: 34
 # File: raw/man1/chgrp.1, line: 34
@@ -206,8 +226,8 @@ msgstr "B<-h>, B<--no-dereference>"
 msgid ""
 "affect symbolic links instead of any referenced file (useful only on systems "
 "that can change the ownership of a symlink)"
-msgstr ""
-"影响符号链接本身而不是其引用的文件 （只在可以修改符号链接所有权的系统上有效）"
+msgstr "影响符号链接本身而不是其引用的文件 （只在可以修改符号链接所有权的系统上有效）"
+
 #
 # File: raw/man1/chgrp.1, line: 34
 # File: raw/man1/chgrp.1, line: 34
@@ -217,6 +237,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--no-preserve-root>"
 msgstr "B<--no-preserve-root>"
+
 #
 # File: raw/man1/chgrp.1, line: 37
 # File: raw/man1/chgrp.1, line: 37
@@ -225,6 +246,7 @@ msgstr "B<--no-preserve-root>"
 # File: raw/man1/chgrp.1, line: 37
 msgid "do not treat '/' specially (the default)"
 msgstr "不对 '/' 特殊处理 （默认设置）"
+
 #
 # File: raw/man1/chgrp.1, line: 37
 # File: raw/man1/chgrp.1, line: 37
@@ -234,6 +256,7 @@ msgstr "不对 '/' 特殊处理 （默认设置）"
 #, no-wrap
 msgid "B<--preserve-root>"
 msgstr "B<--preserve-root>"
+
 #
 # File: raw/man1/chgrp.1, line: 40
 # File: raw/man1/chgrp.1, line: 40
@@ -242,6 +265,7 @@ msgstr "B<--preserve-root>"
 # File: raw/man1/chgrp.1, line: 40
 msgid "fail to operate recursively on '/'"
 msgstr "不允许递归执行于 '/'"
+
 #
 # File: raw/man1/chgrp.1, line: 40
 # File: raw/man1/chgrp.1, line: 40
@@ -251,6 +275,7 @@ msgstr "不允许递归执行于 '/'"
 #, no-wrap
 msgid "B<--reference>=I<\\,RFILE\\/>"
 msgstr "B<--reference>=I<\\,参考文件\\/>"
+
 #
 # File: raw/man1/chgrp.1, line: 44
 # File: raw/man1/chgrp.1, line: 44
@@ -259,6 +284,7 @@ msgstr "B<--reference>=I<\\,参考文件\\/>"
 # File: raw/man1/chgrp.1, line: 44
 msgid "use RFILE's group rather than specifying a GROUP value"
 msgstr "使用参考文件的所属组代替指定所属组"
+
 #
 # File: raw/man1/chgrp.1, line: 44
 # File: raw/man1/chgrp.1, line: 44
@@ -268,6 +294,7 @@ msgstr "使用参考文件的所属组代替指定所属组"
 #, no-wrap
 msgid "B<-R>, B<--recursive>"
 msgstr "B<-R>, B<--recursive>"
+
 #
 # File: raw/man1/chgrp.1, line: 47
 # File: raw/man1/chgrp.1, line: 47
@@ -276,6 +303,7 @@ msgstr "B<-R>, B<--recursive>"
 # File: raw/man1/chgrp.1, line: 47
 msgid "operate on files and directories recursively"
 msgstr "递归执行于文件和目录"
+
 #
 # File: raw/man1/chgrp.1, line: 51
 # File: raw/man1/chgrp.1, line: 51
@@ -289,6 +317,7 @@ msgid ""
 msgstr ""
 "当指定了 B<-R> 选项时， 下面的几个选项会修改遍历层次目录的方式。 如果指定了以"
 "下多个选项， 只有最后一个选项才会生效。"
+
 #
 # File: raw/man1/chgrp.1, line: 51
 # File: raw/man1/chgrp.1, line: 51
@@ -298,6 +327,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-H>"
 msgstr "B<-H>"
+
 #
 # File: raw/man1/chgrp.1, line: 55
 # File: raw/man1/chgrp.1, line: 55
@@ -307,6 +337,7 @@ msgstr "B<-H>"
 msgid ""
 "if a command line argument is a symbolic link to a directory, traverse it"
 msgstr "如果命令行参数是一个指向目录的符号链接， 则遍历该目录"
+
 #
 # File: raw/man1/chgrp.1, line: 55
 # File: raw/man1/chgrp.1, line: 55
@@ -316,6 +347,7 @@ msgstr "如果命令行参数是一个指向目录的符号链接， 则遍历�
 #, no-wrap
 msgid "B<-L>"
 msgstr "B<-L>"
+
 #
 # File: raw/man1/chgrp.1, line: 59
 # File: raw/man1/chgrp.1, line: 59
@@ -324,6 +356,7 @@ msgstr "B<-L>"
 # File: raw/man1/chgrp.1, line: 59
 msgid "traverse every symbolic link to a directory encountered"
 msgstr "遍历目录中的每一个符号链接"
+
 #
 # File: raw/man1/chgrp.1, line: 59
 # File: raw/man1/chgrp.1, line: 59
@@ -333,6 +366,7 @@ msgstr "遍历目录中的每一个符号链接"
 #, no-wrap
 msgid "B<-P>"
 msgstr "B<-P>"
+
 #
 # File: raw/man1/chgrp.1, line: 62
 # File: raw/man1/chgrp.1, line: 62
@@ -341,6 +375,7 @@ msgstr "B<-P>"
 # File: raw/man1/chgrp.1, line: 62
 msgid "do not traverse any symbolic links (default)"
 msgstr "不遍历任何一个符号链接 （默认设置）"
+
 #
 # File: raw/man1/chgrp.1, line: 62
 # File: raw/man1/chgrp.1, line: 62
@@ -350,6 +385,7 @@ msgstr "不遍历任何一个符号链接 （默认设置）"
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/chgrp.1, line: 65
 # File: raw/man1/chgrp.1, line: 65
@@ -358,6 +394,7 @@ msgstr "B<--help>"
 # File: raw/man1/chgrp.1, line: 65
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/chgrp.1, line: 65
 # File: raw/man1/chgrp.1, line: 65
@@ -367,6 +404,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/chgrp.1, line: 68
 # File: raw/man1/chgrp.1, line: 68
@@ -375,6 +413,7 @@ msgstr "B<--version>"
 # File: raw/man1/chgrp.1, line: 68
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/chgrp.1, line: 68
 # File: raw/man1/chgrp.1, line: 68
@@ -384,6 +423,7 @@ msgstr "显示版本信息并退出"
 #, no-wrap
 msgid "EXAMPLES"
 msgstr "范例"
+
 #
 # File: raw/man1/chgrp.1, line: 69
 # File: raw/man1/chgrp.1, line: 69
@@ -393,6 +433,7 @@ msgstr "范例"
 #, no-wrap
 msgid "chgrp staff /u"
 msgstr "chgrp staff /u"
+
 #
 # File: raw/man1/chgrp.1, line: 72
 # File: raw/man1/chgrp.1, line: 72
@@ -401,6 +442,7 @@ msgstr "chgrp staff /u"
 # File: raw/man1/chgrp.1, line: 72
 msgid "Change the group of /u to \"staff\"."
 msgstr "修改 /u 的所属组为 \"staff\" 。"
+
 #
 # File: raw/man1/chgrp.1, line: 72
 # File: raw/man1/chgrp.1, line: 72
@@ -410,6 +452,7 @@ msgstr "修改 /u 的所属组为 \"staff\" 。"
 #, no-wrap
 msgid "chgrp -hR staff /u"
 msgstr "chgrp -hR staff /u"
+
 #
 # File: raw/man1/chgrp.1, line: 75
 # File: raw/man1/chgrp.1, line: 75
@@ -418,6 +461,7 @@ msgstr "chgrp -hR staff /u"
 # File: raw/man1/chgrp.1, line: 75
 msgid "Change the group of /u and subfiles to \"staff\"."
 msgstr "修改 /u 和其子文件的所属组为 \"staff\" 。"
+
 #
 # File: raw/man1/chgrp.1, line: 75
 # File: raw/man1/chgrp.1, line: 75
@@ -427,6 +471,7 @@ msgstr "修改 /u 和其子文件的所属组为 \"staff\" 。"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/chgrp.1, line: 77
 # File: raw/man1/chgrp.1, line: 77
@@ -435,6 +480,7 @@ msgstr "作者"
 # File: raw/man1/chgrp.1, line: 77
 msgid "Written by David MacKenzie and Jim Meyering."
 msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
+
 #
 # File: raw/man1/chgrp.1, line: 77
 # File: raw/man1/chgrp.1, line: 77
@@ -444,6 +490,7 @@ msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/chgrp.1, line: 79
 # File: raw/man1/chgrp.1, line: 79
@@ -452,8 +499,8 @@ msgstr "报告错误"
 # File: raw/man1/chgrp.1, line: 79
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/chgrp.1, line: 81
 # File: raw/man1/chgrp.1, line: 81
@@ -463,8 +510,8 @@ msgstr ""
 msgid ""
 "Report chgrp translation bugs to E<lt>http://translationproject.org/team/"
 "E<gt>"
-msgstr ""
-"请向 E<lt>http://translationproject.org/team/E<gt> 报告 chgrp 的翻译错误。"
+msgstr "请向 E<lt>http://translationproject.org/team/E<gt> 报告 chgrp 的翻译错误。"
+
 #
 # File: raw/man1/chgrp.1, line: 81
 # File: raw/man1/chgrp.1, line: 81
@@ -474,6 +521,7 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
+
 #
 # File: raw/man1/chgrp.1, line: 84
 # File: raw/man1/chgrp.1, line: 84
@@ -486,6 +534,7 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/chgrp.1, line: 87
 # File: raw/man1/chgrp.1, line: 87
@@ -498,6 +547,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/chgrp.1, line: 87
 # File: raw/man1/chgrp.1, line: 87
@@ -507,6 +557,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/chgrp.1, line: 89
 # File: raw/man1/chgrp.1, line: 89
@@ -515,6 +566,7 @@ msgstr "参见"
 # File: raw/man1/chgrp.1, line: 89
 msgid "chown(1), chown(2)"
 msgstr "chown(1), chown(2)"
+
 #
 # File: raw/man1/chgrp.1, line: 92
 # File: raw/man1/chgrp.1, line: 92
@@ -524,6 +576,7 @@ msgstr "chown(1), chown(2)"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/chgrpE<gt>"
 msgstr "完整文档请见：  E<lt>http://www.gnu.org/software/coreutils/chgrpE<gt>"
+
 #
 # File: raw/man1/chgrp.1, line: 93
 # File: raw/man1/chgrp.1, line: 93
@@ -532,6 +585,7 @@ msgstr "完整文档请见：  E<lt>http://www.gnu.org/software/coreutils/chgrpE
 # File: raw/man1/chgrp.1, line: 93
 msgid "or available locally via: info \\(aq(coreutils) chgrp invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) chgrp invocation\\(aq"
+
 #
 #
 #

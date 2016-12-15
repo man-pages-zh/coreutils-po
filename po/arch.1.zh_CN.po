@@ -1,4 +1,5 @@
 #
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
@@ -10,15 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-08-10 19:14+0800\n"
+"PO-Revision-Date: 2016-12-15 20:50+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese <>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 2.0\n"
+
 #
 # File: raw/man1/arch.1, line: 2
 # File: raw/man1/arch.1, line: 2
@@ -30,7 +32,7 @@ msgstr ""
 #, no-wrap
 msgid "ARCH"
 msgstr "ARCH"
-#
+
 # File: raw/man1/arch.1, line: 2
 # File: raw/man1/arch.1, line: 2
 # File: raw/man1/arch.1, line: 2
@@ -38,10 +40,10 @@ msgstr "ARCH"
 # File: raw/man1/arch.1, line: 2
 #. type: TH
 # File: raw/man1/arch.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
-#
+msgstr "2016年12月"
+
 # File: raw/man1/arch.1, line: 2
 # File: raw/man1/arch.1, line: 2
 # File: raw/man1/arch.1, line: 2
@@ -49,9 +51,10 @@ msgstr "2016年二月"
 # File: raw/man1/arch.1, line: 2
 #. type: TH
 # File: raw/man1/arch.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "二月 2016"
+msgstr "GNU coreutils 8.26"
+
 #
 # File: raw/man1/arch.1, line: 2
 # File: raw/man1/arch.1, line: 2
@@ -63,6 +66,7 @@ msgstr "二月 2016"
 #, no-wrap
 msgid "User Commands"
 msgstr "用户命令"
+
 #
 # File: raw/man1/arch.1, line: 3
 # File: raw/man1/arch.1, line: 3
@@ -74,6 +78,7 @@ msgstr "用户命令"
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/arch.1, line: 5
 # File: raw/man1/arch.1, line: 5
@@ -84,6 +89,7 @@ msgstr "名称"
 # File: raw/man1/arch.1, line: 5
 msgid "arch - print machine hardware name (same as uname -m)"
 msgstr "arch - 显示机器的体系结构（等价于 uname -m）"
+
 #
 # File: raw/man1/arch.1, line: 5
 # File: raw/man1/arch.1, line: 5
@@ -95,6 +101,7 @@ msgstr "arch - 显示机器的体系结构（等价于 uname -m）"
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/arch.1, line: 8
 # File: raw/man1/arch.1, line: 8
@@ -105,6 +112,7 @@ msgstr "概述"
 # File: raw/man1/arch.1, line: 8
 msgid "B<arch> [I<\\,OPTION\\/>]..."
 msgstr "B<arch> [I<\\,选项\\/>]..."
+
 #
 # File: raw/man1/arch.1, line: 8
 # File: raw/man1/arch.1, line: 8
@@ -116,6 +124,7 @@ msgstr "B<arch> [I<\\,选项\\/>]..."
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/arch.1, line: 12
 # File: raw/man1/arch.1, line: 12
@@ -126,6 +135,7 @@ msgstr "描述"
 # File: raw/man1/arch.1, line: 12
 msgid "Print machine architecture."
 msgstr "显示机器的体系结构。"
+
 #
 # File: raw/man1/arch.1, line: 12
 # File: raw/man1/arch.1, line: 12
@@ -137,6 +147,7 @@ msgstr "显示机器的体系结构。"
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/arch.1, line: 15
 # File: raw/man1/arch.1, line: 15
@@ -147,6 +158,7 @@ msgstr "B<--help>"
 # File: raw/man1/arch.1, line: 15
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/arch.1, line: 15
 # File: raw/man1/arch.1, line: 15
@@ -158,6 +170,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/arch.1, line: 18
 # File: raw/man1/arch.1, line: 18
@@ -168,6 +181,7 @@ msgstr "B<--version>"
 # File: raw/man1/arch.1, line: 18
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/arch.1, line: 18
 # File: raw/man1/arch.1, line: 18
@@ -179,6 +193,7 @@ msgstr "显示版本信息并退出"
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/arch.1, line: 20
 # File: raw/man1/arch.1, line: 20
@@ -189,6 +204,7 @@ msgstr "作者"
 # File: raw/man1/arch.1, line: 20
 msgid "Written by David MacKenzie and Karel Zak."
 msgstr "由 David MacKenzie 和 Karel Zak 编写。"
+
 #
 # File: raw/man1/arch.1, line: 20
 # File: raw/man1/arch.1, line: 20
@@ -200,6 +216,7 @@ msgstr "由 David MacKenzie 和 Karel Zak 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/arch.1, line: 22
 # File: raw/man1/arch.1, line: 22
@@ -210,8 +227,8 @@ msgstr "报告错误"
 # File: raw/man1/arch.1, line: 22
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/arch.1, line: 24
 # File: raw/man1/arch.1, line: 24
@@ -225,6 +242,7 @@ msgid ""
 msgstr ""
 "请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 arch 的翻译"
 "错误。"
+
 #
 # File: raw/man1/arch.1, line: 24
 # File: raw/man1/arch.1, line: 24
@@ -236,6 +254,7 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
+
 #
 # File: raw/man1/arch.1, line: 27
 # File: raw/man1/arch.1, line: 27
@@ -250,6 +269,7 @@ msgid ""
 msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/arch.1, line: 30
 # File: raw/man1/arch.1, line: 30
@@ -264,6 +284,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/arch.1, line: 30
 # File: raw/man1/arch.1, line: 30
@@ -275,6 +296,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/arch.1, line: 32
 # File: raw/man1/arch.1, line: 32
@@ -285,6 +307,7 @@ msgstr "参见"
 # File: raw/man1/arch.1, line: 32
 msgid "uname(1), uname(2)"
 msgstr "uname(1), uname(2)"
+
 #
 # File: raw/man1/arch.1, line: 35
 # File: raw/man1/arch.1, line: 35
@@ -296,6 +319,7 @@ msgstr "uname(1), uname(2)"
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/archE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/archE<gt>"
+
 #
 # File: raw/man1/arch.1, line: 36
 # File: raw/man1/arch.1, line: 36
@@ -306,6 +330,7 @@ msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/archE<g
 # File: raw/man1/arch.1, line: 36
 msgid "or available locally via: info \\(aq(coreutils) arch invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) arch invocation\\(aq"
+
 #
 #
 #
