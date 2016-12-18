@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-18 09:50+0800\n"
+"PO-Revision-Date: 2016-12-18 17:08+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -78,45 +78,31 @@ msgstr "install - 复制文件并设置属性"
 msgid "SYNOPSIS"
 msgstr "概述"
 
-#
-# File: raw/man1/install.1, line: 8
-# File: raw/man1/install.1, line: 8
 # File: raw/man1/install.1, line: 8
 #. type: Plain text
-# File: raw/man1/install.1, line: 8
-#, fuzzy
 msgid "B<install> [I<\\,OPTION\\/>]... [I<\\,-T\\/>] I<\\,SOURCE DEST\\/>"
-msgstr "B<install> [I<选项>]... [I<-T>] I<源文件 目标文件>"
+msgstr "B<install> [I<\\,选项\\/>]... [I<\\,-T\\/>] I<\\,源文件 目标文件\\/>"
 
-#
 # File: raw/man1/install.1, line: 11
 # File: raw/man1/install.1, line: 11
 # File: raw/man1/install.1, line: 11
 #. type: Plain text
 # File: raw/man1/install.1, line: 11
-#, fuzzy
 msgid "B<install> [I<\\,OPTION\\/>]... I<\\,SOURCE\\/>... I<\\,DIRECTORY\\/>"
-msgstr "B<install> [I<选项>]... I<源文件列表>... I<目录>"
+msgstr "B<install> [I<\\,选项\\/>]... I<源文件列表>... I<目录>"
 
-#
 # File: raw/man1/install.1, line: 14
 # File: raw/man1/install.1, line: 14
 # File: raw/man1/install.1, line: 14
 #. type: Plain text
 # File: raw/man1/install.1, line: 14
-#, fuzzy
 msgid "B<install> [I<\\,OPTION\\/>]... I<\\,-t DIRECTORY SOURCE\\/>..."
-msgstr "B<install> [I<选项>]... I<-t 目录 源文件列表>..."
+msgstr "B<install> [I<\\,选项\\/>]... I<\\,-t 目录 源文件列表\\/>..."
 
-#
-# File: raw/man1/install.1, line: 17
-# File: raw/man1/install.1, line: 17
 # File: raw/man1/install.1, line: 17
 #. type: Plain text
-# File: raw/man1/install.1, line: 17
-#, fuzzy
 msgid "B<install> [I<\\,OPTION\\/>]... I<\\,-d DIRECTORY\\/>..."
-msgstr "B<install> [I<选项>]... I<-d 目录列表>..."
+msgstr "B<install> [I<\\,选项\\/>]... I<\\,-d 目录列表\\/>..."
 
 #
 # File: raw/man1/install.1, line: 17
@@ -170,16 +156,12 @@ msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 
-#
 # Words in texinfo document is also hard to understand. Please make sure that you understand what CONTROL/METHOD is.
 # File: raw/man1/install.1, line: 30
-# File: raw/man1/install.1, line: 30
-# File: raw/man1/install.1, line: 30
 #. type: TP
-# File: raw/man1/install.1, line: 30
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--backup>[=I<\\,CONTROL\\/>]"
-msgstr "B<--backup>[=I<控制参数>]"
+msgstr "B<--backup>[=I<\\,控制参数\\/>]"
 
 #
 # File: raw/man1/install.1, line: 33
@@ -280,27 +262,23 @@ msgstr "将所有参数看作目录名称；创建指定目录的所有相关组
 msgid "B<-D>"
 msgstr "B<-D>"
 
+# File: raw/man1/install.1, line: 52
 #
-# File: raw/man1/install.1, line: 52
-# File: raw/man1/install.1, line: 52
-# File: raw/man1/install.1, line: 52
 #. type: Plain text
-# File: raw/man1/install.1, line: 52
 #, fuzzy
 msgid ""
 "create all leading components of DEST except the last, or all components of "
 "B<--target-directory>, then copy SOURCE to DEST"
 msgstr "创建每个给定的目录以及任何缺失的父目录"
 
-#
 # File: raw/man1/install.1, line: 52
 # File: raw/man1/install.1, line: 52
 # File: raw/man1/install.1, line: 52
 #. type: TP
 # File: raw/man1/install.1, line: 52
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-g>, B<--group>=I<\\,GROUP\\/>"
-msgstr "B<-g>, B<--group>=I<组名>"
+msgstr "B<-g>, B<--group>=I<\\,组名\\/>"
 
 #
 # File: raw/man1/install.1, line: 55
@@ -311,15 +289,14 @@ msgstr "B<-g>, B<--group>=I<组名>"
 msgid "set group ownership, instead of process' current group"
 msgstr "设置组所有权，而不是使用进程的当前组所有权"
 
-#
 # File: raw/man1/install.1, line: 55
 # File: raw/man1/install.1, line: 55
 # File: raw/man1/install.1, line: 55
 #. type: TP
 # File: raw/man1/install.1, line: 55
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-m>, B<--mode>=I<\\,MODE\\/>"
-msgstr "B<-m>, B<--mode>=I<模式>"
+msgstr "B<-m>, B<--mode>=I<\\,模式\\/>"
 
 #
 # File: raw/man1/install.1, line: 58
@@ -330,15 +307,14 @@ msgstr "B<-m>, B<--mode>=I<模式>"
 msgid "set permission mode (as in chmod), instead of rwxr-xr-x"
 msgstr "设置权限模式（类似 chmod），而不是 rwxr-xr-x"
 
-#
 # File: raw/man1/install.1, line: 58
 # File: raw/man1/install.1, line: 58
 # File: raw/man1/install.1, line: 58
 #. type: TP
 # File: raw/man1/install.1, line: 58
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-o>, B<--owner>=I<\\,OWNER\\/>"
-msgstr "B<-o>, B<--owner>=I<所有者>"
+msgstr "B<-o>, B<--owner>=I<\\,所有者\\/>"
 
 #
 # File: raw/man1/install.1, line: 61
@@ -389,15 +365,14 @@ msgstr "B<-s>, B<--strip>"
 msgid "strip symbol tables"
 msgstr "剥离符号表"
 
-#
 # File: raw/man1/install.1, line: 68
 # File: raw/man1/install.1, line: 68
 # File: raw/man1/install.1, line: 68
 #. type: TP
 # File: raw/man1/install.1, line: 68
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--strip-program>=I<\\,PROGRAM\\/>"
-msgstr "B<--strip-program>=I<程序>"
+msgstr "B<--strip-program>=I<\\,程序\\/>"
 
 #
 # File: raw/man1/install.1, line: 71
@@ -408,15 +383,14 @@ msgstr "B<--strip-program>=I<程序>"
 msgid "program used to strip binaries"
 msgstr "指定用于剥离（strip）二进制文件的程序"
 
-#
 # File: raw/man1/install.1, line: 71
 # File: raw/man1/install.1, line: 71
 # File: raw/man1/install.1, line: 71
 #. type: TP
 # File: raw/man1/install.1, line: 71
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-S>, B<--suffix>=I<\\,SUFFIX\\/>"
-msgstr "B<-S>, B<--suffix>=I<后缀>"
+msgstr "B<-S>, B<--suffix>=I<\\,后缀\\/>"
 
 #
 # File: raw/man1/install.1, line: 74
@@ -427,15 +401,14 @@ msgstr "B<-S>, B<--suffix>=I<后缀>"
 msgid "override the usual backup suffix"
 msgstr "替换常用的备份文件后缀"
 
-#
 # File: raw/man1/install.1, line: 74
 # File: raw/man1/install.1, line: 74
 # File: raw/man1/install.1, line: 74
 #. type: TP
 # File: raw/man1/install.1, line: 74
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-t>, B<--target-directory>=I<\\,DIRECTORY\\/>"
-msgstr "B<-t>, B<--target-directory>=I<目录>"
+msgstr "B<-t>, B<--target-directory>=I<\\,目录\\/>"
 
 #
 # File: raw/man1/install.1, line: 77
@@ -523,15 +496,14 @@ msgid ""
 "to default type"
 msgstr ""
 
-#
 # File: raw/man1/install.1, line: 90
 # File: raw/man1/install.1, line: 90
 # File: raw/man1/install.1, line: 90
 #. type: TP
 # File: raw/man1/install.1, line: 90
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--context>[=I<\\,CTX\\/>]"
-msgstr "B<--context>[=I<CTX>]"
+msgstr "B<--context>[=I<\\,CTX\\/>]"
 
 #
 # File: raw/man1/install.1, line: 94
@@ -758,12 +730,9 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 
+# File: raw/man1/install.1, line: 128
 #
-# File: raw/man1/install.1, line: 128
-# File: raw/man1/install.1, line: 128
-# File: raw/man1/install.1, line: 128
 #. type: SH
-# File: raw/man1/install.1, line: 128
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"

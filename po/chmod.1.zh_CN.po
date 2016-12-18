@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-16 14:33+0800\n"
+"PO-Revision-Date: 2016-12-18 17:14+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -30,14 +30,12 @@ msgstr ""
 msgid "CHMOD"
 msgstr "CHMOD"
 
+# File: raw/man1/chmod.1, line: 2
 #
-# File: raw/man1/chmod.1, line: 2
-# File: raw/man1/chmod.1, line: 2
 #. type: TH
-# File: raw/man1/chmod.1, line: 2
 #, no-wrap
 msgid "December 2016"
-msgstr ""
+msgstr "2016年12月"
 
 # File: raw/man1/chmod.1, line: 2
 # File: raw/man1/chmod.1, line: 2
@@ -344,7 +342,7 @@ msgstr ""
 # File: raw/man1/chmod.1, line: 122
 #, no-wrap
 msgid "B<-f>, B<--silent>, B<--quiet>"
-msgstr ""
+msgstr "B<-f>, B<--silent>, B<--quiet>"
 
 #
 # File: raw/man1/chmod.1, line: 125
@@ -527,12 +525,9 @@ msgstr "由 David MacKenzie 和 Jim Meyering 编写。"
 msgid "REPORTING BUGS"
 msgstr "报告错误"
 
+# File: raw/man1/chmod.1, line: 152
 #
-# File: raw/man1/chmod.1, line: 152
-# File: raw/man1/chmod.1, line: 152
-# File: raw/man1/chmod.1, line: 152
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 152
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
 msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
@@ -572,12 +567,9 @@ msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 
+# File: raw/man1/chmod.1, line: 160
 #
-# File: raw/man1/chmod.1, line: 160
-# File: raw/man1/chmod.1, line: 160
-# File: raw/man1/chmod.1, line: 160
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 160
 msgid ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
@@ -585,41 +577,29 @@ msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 
+# File: raw/man1/chmod.1, line: 160
 #
-# File: raw/man1/chmod.1, line: 160
-# File: raw/man1/chmod.1, line: 160
-# File: raw/man1/chmod.1, line: 160
 #. type: SH
-# File: raw/man1/chmod.1, line: 160
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
 
+# File: raw/man1/chmod.1, line: 162
 #
-# File: raw/man1/chmod.1, line: 162
-# File: raw/man1/chmod.1, line: 162
-# File: raw/man1/chmod.1, line: 162
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 162
 msgid "chmod(2)"
 msgstr "chmod(2)"
 
+# File: raw/man1/chmod.1, line: 165
 #
-# File: raw/man1/chmod.1, line: 165
-# File: raw/man1/chmod.1, line: 165
-# File: raw/man1/chmod.1, line: 165
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 165
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/chmodE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/chmodE<gt>"
 
+# File: raw/man1/chmod.1, line: 166
 #
-# File: raw/man1/chmod.1, line: 166
-# File: raw/man1/chmod.1, line: 166
-# File: raw/man1/chmod.1, line: 166
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 166
 msgid "or available locally via: info \\(aq(coreutils) chmod invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) chmod invocation\\(aq"
 

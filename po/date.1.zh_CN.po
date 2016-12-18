@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-15 21:22+0800\n"
+"PO-Revision-Date: 2016-12-18 17:14+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -88,15 +88,13 @@ msgstr "date - 输出或设置系统日期与时间"
 msgid "SYNOPSIS"
 msgstr "概述"
 
-#
 # File: raw/man1/date.1, line: 8
 # File: raw/man1/date.1, line: 8
 # File: raw/man1/date.1, line: 8
 #. type: Plain text
 # File: raw/man1/date.1, line: 8
-#, fuzzy
 msgid "B<date> [I<\\,OPTION\\/>]... [I<\\,+FORMAT\\/>]"
-msgstr "B<date> [I<选项>]... [I<+格式>]"
+msgstr "B<date> [I<\\,选项\\/>]... [I<\\,+格式\\/>]"
 
 #
 # File: raw/man1/date.1, line: 11
@@ -139,15 +137,14 @@ msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 
-#
 # File: raw/man1/date.1, line: 17
 # File: raw/man1/date.1, line: 17
 # File: raw/man1/date.1, line: 17
 #. type: TP
 # File: raw/man1/date.1, line: 17
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-d>, B<--date>=I<\\,STRING\\/>"
-msgstr "B<-d>, B<--date>=I<字符串>"
+msgstr "B<-d>, B<--date>=I<\\,字符串\\/>"
 
 #
 # File: raw/man1/date.1, line: 20
@@ -158,15 +155,14 @@ msgstr "B<-d>, B<--date>=I<字符串>"
 msgid "display time described by STRING, not 'now'"
 msgstr "显示由字符串指定的时间，而不是当前时间"
 
-#
 # File: raw/man1/date.1, line: 49
 # File: raw/man1/date.1, line: 20
 # File: raw/man1/date.1, line: 20
 #. type: TP
 # File: raw/man1/date.1, line: 20
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--debug>"
-msgstr "B<--help>"
+msgstr "B<--debug>"
 
 #
 # File: raw/man1/date.1, line: 24

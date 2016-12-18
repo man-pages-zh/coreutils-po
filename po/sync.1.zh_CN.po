@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-16 14:32+0800\n"
+"PO-Revision-Date: 2016-12-18 17:13+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -64,13 +64,11 @@ msgstr "用户命令"
 msgid "NAME"
 msgstr "名称"
 
+# File: raw/man1/sync.1, line: 5
 #
-# File: raw/man1/sync.1, line: 5
-# File: raw/man1/sync.1, line: 5
 #. type: Plain text
-# File: raw/man1/sync.1, line: 5
 msgid "sync - Synchronize cached writes to persistent storage"
-msgstr ""
+msgstr "sync - 将缓存内容同步写入持久性存储中"
 
 #
 # File: raw/man1/sync.1, line: 5
@@ -97,23 +95,19 @@ msgstr "B<sync> [I<\\,选项\\/>] [I<\\,文件\\/>]..."
 msgid "DESCRIPTION"
 msgstr "描述"
 
+# File: raw/man1/sync.1, line: 12
 #
-# File: raw/man1/sync.1, line: 12
-# File: raw/man1/sync.1, line: 12
 #. type: Plain text
-# File: raw/man1/sync.1, line: 12
 msgid "Synchronize cached writes to persistent storage"
-msgstr ""
+msgstr "将缓存内容同步写入持久性存储中"
 
+# File: raw/man1/sync.1, line: 15
 #
-# File: raw/man1/sync.1, line: 15
-# File: raw/man1/sync.1, line: 15
 #. type: Plain text
-# File: raw/man1/sync.1, line: 15
 msgid ""
 "If one or more files are specified, sync only them, or their containing file "
 "systems."
-msgstr ""
+msgstr "如果指定了多于一个文件，只同步它们，或者存放它们的文件系统。"
 
 #
 # File: raw/man1/sync.1, line: 15
@@ -124,13 +118,11 @@ msgstr ""
 msgid "B<-d>, B<--data>"
 msgstr "B<-d>, B<--data>"
 
+# File: raw/man1/sync.1, line: 18
 #
-# File: raw/man1/sync.1, line: 18
-# File: raw/man1/sync.1, line: 18
 #. type: Plain text
-# File: raw/man1/sync.1, line: 18
 msgid "sync only file data, no unneeded metadata"
-msgstr ""
+msgstr "只同步文件数据，不需要处理元信息"
 
 #
 # File: raw/man1/sync.1, line: 18
@@ -147,7 +139,7 @@ msgstr "B<-f>, B<--file-system>"
 #. type: Plain text
 # File: raw/man1/sync.1, line: 21
 msgid "sync the file systems that contain the files"
-msgstr ""
+msgstr "只同步包含这些文件的文件系统"
 
 #
 # File: raw/man1/sync.1, line: 21
@@ -190,7 +182,7 @@ msgstr "显示版本信息并退出"
 # File: raw/man1/sync.1, line: 27
 #, no-wrap
 msgid "BUGS"
-msgstr ""
+msgstr "缺陷"
 
 #
 # File: raw/man1/sync.1, line: 30
@@ -200,7 +192,7 @@ msgstr ""
 msgid ""
 "Persistence guarantees vary per system.  See the system calls below for more "
 "details."
-msgstr ""
+msgstr "持久性保证因系统而异。请查阅相关系统调用以了解详情。"
 
 #
 # File: raw/man1/sync.1, line: 30
@@ -305,11 +297,9 @@ msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/syncE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/syncE<gt>"
 
+# File: raw/man1/sync.1, line: 48
 #
-# File: raw/man1/sync.1, line: 48
-# File: raw/man1/sync.1, line: 48
 #. type: Plain text
-# File: raw/man1/sync.1, line: 48
 msgid "or available locally via: info \\(aq(coreutils) sync invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) sync invocation\\(aq"
 
