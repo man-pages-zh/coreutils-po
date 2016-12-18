@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-15 21:20+0800\n"
+"PO-Revision-Date: 2016-12-16 14:26+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -103,21 +103,17 @@ msgstr "B<wc> [I<\\,选项\\/>]... I<\\,--files0-from=F\\/>"
 msgid "DESCRIPTION"
 msgstr "描述"
 
-#
 # File: raw/man1/wc.1, line: 17
 # File: raw/man1/wc.1, line: 17
 #. type: Plain text
 # File: raw/man1/wc.1, line: 17
-#, fuzzy
 msgid ""
 "Print newline, word, and byte counts for each FILE, and a total line if more "
 "than one FILE is specified.  A word is a non-zero-length sequence of "
 "characters delimited by white space."
 msgstr ""
-"对每个文件输出行、单词、和字节统计数，如果指定的文件多于一个则还有一个行数的"
-"总计。没有指定文件或指定的文件是“-”，则读取标准输入。单词指以空格分隔的长度非"
-"零的字符序列。下列选项或可用于选择显示哪些统计数，但显示顺序总是：行数、单词"
-"数、字符数、字节数、最长的行的长度。"
+"对每个文件输出行、单词和字节统计数，如果指定的文件多于一个，则同时输出总行数。"
+"单词指以空白字符分隔的长度非零的字符序列。"
 
 #
 # File: raw/man1/wc.1, line: 19
@@ -135,7 +131,7 @@ msgstr "如果没有指定文件，或者指定文件为“-”，则从标准�
 msgid ""
 "The options below may be used to select which counts are printed, always in "
 "the following order: newline, word, character, byte, maximum line length."
-msgstr ""
+msgstr "下列选项可被用来选择应该显示哪些计数信息。它们总是按照行数、单词数、字符数、字节数、最大行长度的顺序显示。"
 
 #
 # File: raw/man1/wc.1, line: 22
@@ -217,13 +213,11 @@ msgstr ""
 msgid "B<-L>, B<--max-line-length>"
 msgstr "B<-L>, B<--max-line-length>"
 
+# File: raw/man1/wc.1, line: 39
 #
-# File: raw/man1/wc.1, line: 39
-# File: raw/man1/wc.1, line: 39
 #. type: Plain text
-# File: raw/man1/wc.1, line: 39
 msgid "print the maximum display width"
-msgstr ""
+msgstr "打印最大显示宽度"
 
 #
 # File: raw/man1/wc.1, line: 39

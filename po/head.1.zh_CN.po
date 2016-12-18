@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-15 21:19+0800\n"
+"PO-Revision-Date: 2016-12-16 14:20+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -107,20 +107,17 @@ msgstr "B<head> [I<\\,选项\\/>]... [I<\\,文件\\/>]..."
 msgid "DESCRIPTION"
 msgstr "描述"
 
-#
 # File: raw/man1/head.1, line: 13
 # File: raw/man1/head.1, line: 13
 # File: raw/man1/head.1, line: 13
 #. type: Plain text
 # File: raw/man1/head.1, line: 13
-#, fuzzy
 msgid ""
 "Print the first 10 lines of each FILE to standard output.  With more than "
 "one FILE, precede each with a header giving the file name."
 msgstr ""
-"在标准输出上显示每个文件的起始10行。如果多于一个文件，则依次显示，并且在每个"
-"文件显示的首部给出文件名。如果没有指定文件，或者文件为 '-' ，则由标准输入读"
-"取。"
+"将文件列表中每个文件的起始10行内容输出至标准输出。如果指定多个文件，"
+"则会在每个文件的部分之前添加给定文件名称。"
 
 #
 # File: raw/man1/head.1, line: 15
@@ -150,42 +147,31 @@ msgstr "必选参数对长短选项同时适用。"
 msgid "B<-c>, B<--bytes>=I<\\,[-]NUM\\/>"
 msgstr "B<-c>, B<--bytes>=I<\\,[-]NUM\\/>"
 
-#
-# File: raw/man1/head.1, line: 22
-# File: raw/man1/head.1, line: 22
 # File: raw/man1/head.1, line: 22
 #. type: Plain text
-# File: raw/man1/head.1, line: 22
-#, fuzzy
 msgid ""
 "print the first NUM bytes of each file; with the leading '-', print all but "
 "the last NUM bytes of each file"
 msgstr ""
-"显示每个文件的前 K 个字节；以 '-' 起始，则显示每个文件中不包含最后 K 个字节的"
+"显示每个文件的前 NUM 个字节；以 '-' 起始，则显示每个文件中不包含最后 NUM 个字节的"
 "全部内容"
 
-#
 # File: raw/man1/head.1, line: 22
 # File: raw/man1/head.1, line: 22
 # File: raw/man1/head.1, line: 22
 #. type: TP
 # File: raw/man1/head.1, line: 22
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-n>, B<--lines>=I<\\,[-]NUM\\/>"
-msgstr "B<-n>, B<--lines>=I<[-]K>"
+msgstr "B<-n>, B<--lines>=I<\\,[-]NUM\\/>"
 
-#
-# File: raw/man1/head.1, line: 27
-# File: raw/man1/head.1, line: 27
 # File: raw/man1/head.1, line: 27
 #. type: Plain text
-# File: raw/man1/head.1, line: 27
-#, fuzzy
 msgid ""
 "print the first NUM lines instead of the first 10; with the leading '-', "
 "print all but the last NUM lines of each file"
 msgstr ""
-"显示前 K 行而不是前10行；以 '-' 起始，则显示每个文件中不包含最后 K 行的全部内"
+"显示前 NUM 行而不是前10行；以 '-' 起始，则显示每个文件中不包含最后 NUM 行的全部内"
 "容"
 
 #
@@ -283,18 +269,16 @@ msgstr "B<--version>"
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 
-#
 # File: raw/man1/head.1, line: 46
 # File: raw/man1/head.1, line: 46
 # File: raw/man1/head.1, line: 46
 #. type: Plain text
 # File: raw/man1/head.1, line: 46
-#, fuzzy
 msgid ""
 "NUM may have a multiplier suffix: b 512, kB 1000, K 1024, MB 1000*1000, M "
 "1024*1024, GB 1000*1000*1000, G 1024*1024*1024, and so on for T, P, E, Z, Y."
 msgstr ""
-"K 可以带倍数后缀：b 512, kB 1000, K 1024, MB 1000*1000, M 1024*1024, GB "
+"NUM 可以带倍数后缀：b 512, kB 1000, K 1024, MB 1000*1000, M 1024*1024, GB "
 "1000*1000*1000, G 1024*1024*1024, 对于 T, P, E, Z, Y 同样适用。"
 
 #
