@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-18 17:14+0800\n"
+"PO-Revision-Date: 2016-12-22 15:54+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -85,25 +85,21 @@ msgstr "chmod - 改变文件模式比特位"
 msgid "SYNOPSIS"
 msgstr "概述"
 
+# File: raw/man1/chmod.1, line: 8
 #
-# File: raw/man1/chmod.1, line: 8
-# File: raw/man1/chmod.1, line: 8
-# File: raw/man1/chmod.1, line: 8
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 8
 msgid ""
 "B<chmod> [I<\\,OPTION\\/>]... I<\\,MODE\\/>[I<\\,,MODE\\/>]... I<\\,FILE\\/"
 ">..."
 msgstr ""
+"B<chmod> [I<\\,选项\\/>]... I<\\,模式\\/>[I<\\,,模式\\/>]... I<\\,文件列表\\/"
+">..."
 
+# File: raw/man1/chmod.1, line: 11
 #
-# File: raw/man1/chmod.1, line: 11
-# File: raw/man1/chmod.1, line: 11
-# File: raw/man1/chmod.1, line: 11
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 11
 msgid "B<chmod> [I<\\,OPTION\\/>]... I<\\,OCTAL-MODE FILE\\/>..."
-msgstr ""
+msgstr "B<chmod> [I<\\,选项\\/>]... I<\\,八进制模式字符串 文件列表\\/>..."
 
 #
 # File: raw/man1/chmod.1, line: 14

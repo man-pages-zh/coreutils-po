@@ -1,63 +1,58 @@
+#
 # Chinese translations for PACKAGE package
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2015.
 #
+# Automatically generated, 2015.
+# Boyuan Yang <073plan@gmail.com>, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2015-04-26 11:29+0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-12-22 16:03+0800\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 2.0\n"
+
+# File: raw/man1/comm.1, line: 2
 #
-# File: raw/man1/comm.1, line: 2
-# File: raw/man1/comm.1, line: 2
-# File: raw/man1/comm.1, line: 2
 #. type: TH
-# File: raw/man1/comm.1, line: 2
 #, no-wrap
 msgid "COMM"
-msgstr ""
+msgstr "COMM"
+
+# File: raw/man1/comm.1, line: 2
 #
-# File: raw/man1/comm.1, line: 2
-# File: raw/man1/comm.1, line: 2
 #. type: TH
-# File: raw/man1/comm.1, line: 2
 #, no-wrap
 msgid "December 2016"
-msgstr ""
-#
-# File: raw/man1/comm.1, line: 2
-# File: raw/man1/comm.1, line: 2
+msgstr "2016年12月"
+
 # File: raw/man1/comm.1, line: 2
 #. type: TH
-# File: raw/man1/comm.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.26"
+
+# File: raw/man1/comm.1, line: 2
 #
-# File: raw/man1/comm.1, line: 2
-# File: raw/man1/comm.1, line: 2
-# File: raw/man1/comm.1, line: 2
 #. type: TH
-# File: raw/man1/comm.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
+
+# File: raw/man1/comm.1, line: 3
 #
-# File: raw/man1/comm.1, line: 3
-# File: raw/man1/comm.1, line: 3
-# File: raw/man1/comm.1, line: 3
 #. type: SH
-# File: raw/man1/comm.1, line: 3
 #, no-wrap
 msgid "NAME"
 msgstr "名称"
+
 #
 # File: raw/man1/comm.1, line: 5
 # File: raw/man1/comm.1, line: 5
@@ -66,15 +61,14 @@ msgstr "名称"
 # File: raw/man1/comm.1, line: 5
 msgid "comm - compare two sorted files line by line"
 msgstr ""
+
+# File: raw/man1/comm.1, line: 5
 #
-# File: raw/man1/comm.1, line: 5
-# File: raw/man1/comm.1, line: 5
-# File: raw/man1/comm.1, line: 5
 #. type: SH
-# File: raw/man1/comm.1, line: 5
 #, no-wrap
 msgid "SYNOPSIS"
 msgstr "概述"
+
 #
 # File: raw/man1/comm.1, line: 8
 # File: raw/man1/comm.1, line: 8
@@ -83,15 +77,14 @@ msgstr "概述"
 # File: raw/man1/comm.1, line: 8
 msgid "B<comm> [I<\\,OPTION\\/>]... I<\\,FILE1 FILE2\\/>"
 msgstr ""
+
+# File: raw/man1/comm.1, line: 8
 #
-# File: raw/man1/comm.1, line: 8
-# File: raw/man1/comm.1, line: 8
-# File: raw/man1/comm.1, line: 8
 #. type: SH
-# File: raw/man1/comm.1, line: 8
 #, no-wrap
 msgid "DESCRIPTION"
 msgstr "描述"
+
 #
 # File: raw/man1/comm.1, line: 12
 # File: raw/man1/comm.1, line: 12
@@ -100,6 +93,7 @@ msgstr "描述"
 # File: raw/man1/comm.1, line: 12
 msgid "Compare sorted files FILE1 and FILE2 line by line."
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 14
 # File: raw/man1/comm.1, line: 14
@@ -108,6 +102,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 14
 msgid "When FILE1 or FILE2 (not both) is -, read standard input."
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 18
 # File: raw/man1/comm.1, line: 18
@@ -119,6 +114,7 @@ msgid ""
 "unique to FILE1, column two contains lines unique to FILE2, and column three "
 "contains lines common to both files."
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 18
 # File: raw/man1/comm.1, line: 18
@@ -128,6 +124,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-1>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 21
 # File: raw/man1/comm.1, line: 21
@@ -136,6 +133,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 21
 msgid "suppress column 1 (lines unique to FILE1)"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 21
 # File: raw/man1/comm.1, line: 21
@@ -145,6 +143,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-2>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 24
 # File: raw/man1/comm.1, line: 24
@@ -153,6 +152,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 24
 msgid "suppress column 2 (lines unique to FILE2)"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 24
 # File: raw/man1/comm.1, line: 24
@@ -162,6 +162,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-3>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 27
 # File: raw/man1/comm.1, line: 27
@@ -170,6 +171,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 27
 msgid "suppress column 3 (lines that appear in both files)"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 27
 # File: raw/man1/comm.1, line: 27
@@ -179,6 +181,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--check-order>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 31
 # File: raw/man1/comm.1, line: 31
@@ -189,6 +192,7 @@ msgid ""
 "check that the input is correctly sorted, even if all input lines are "
 "pairable"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 31
 # File: raw/man1/comm.1, line: 31
@@ -198,6 +202,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--nocheck-order>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 34
 # File: raw/man1/comm.1, line: 34
@@ -206,6 +211,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 34
 msgid "do not check that the input is correctly sorted"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 34
 # File: raw/man1/comm.1, line: 34
@@ -215,6 +221,7 @@ msgstr ""
 #, no-wrap
 msgid "B<--output-delimiter>=I<\\,STR\\/>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 37
 # File: raw/man1/comm.1, line: 37
@@ -223,15 +230,16 @@ msgstr ""
 # File: raw/man1/comm.1, line: 37
 msgid "separate columns with STR"
 msgstr ""
-#
+
 # File: raw/man1/comm.1, line: 40
 # File: raw/man1/comm.1, line: 37
 # File: raw/man1/comm.1, line: 37
 #. type: TP
 # File: raw/man1/comm.1, line: 37
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<--total>"
-msgstr "B<--help>"
+msgstr "B<--total>"
+
 #
 # File: raw/man1/comm.1, line: 40
 # File: raw/man1/comm.1, line: 40
@@ -239,6 +247,7 @@ msgstr "B<--help>"
 # File: raw/man1/comm.1, line: 40
 msgid "output a summary"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 37
 # File: raw/man1/comm.1, line: 40
@@ -248,6 +257,7 @@ msgstr ""
 #, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 40
 # File: raw/man1/comm.1, line: 43
@@ -256,15 +266,14 @@ msgstr ""
 # File: raw/man1/comm.1, line: 43
 msgid "line delimiter is NUL, not newline"
 msgstr ""
+
+# File: raw/man1/comm.1, line: 43
 #
-# File: raw/man1/comm.1, line: 40
-# File: raw/man1/comm.1, line: 43
-# File: raw/man1/comm.1, line: 43
 #. type: TP
-# File: raw/man1/comm.1, line: 43
 #, no-wrap
 msgid "B<--help>"
 msgstr "B<--help>"
+
 #
 # File: raw/man1/comm.1, line: 43
 # File: raw/man1/comm.1, line: 46
@@ -273,6 +282,7 @@ msgstr "B<--help>"
 # File: raw/man1/comm.1, line: 46
 msgid "display this help and exit"
 msgstr "显示此帮助信息并退出"
+
 #
 # File: raw/man1/comm.1, line: 43
 # File: raw/man1/comm.1, line: 46
@@ -282,6 +292,7 @@ msgstr "显示此帮助信息并退出"
 #, no-wrap
 msgid "B<--version>"
 msgstr "B<--version>"
+
 #
 # File: raw/man1/comm.1, line: 46
 # File: raw/man1/comm.1, line: 49
@@ -290,6 +301,7 @@ msgstr "B<--version>"
 # File: raw/man1/comm.1, line: 49
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
+
 #
 # File: raw/man1/comm.1, line: 48
 # File: raw/man1/comm.1, line: 51
@@ -298,6 +310,7 @@ msgstr "显示版本信息并退出"
 # File: raw/man1/comm.1, line: 51
 msgid "Note, comparisons honor the rules specified by 'LC_COLLATE'."
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 48
 # File: raw/man1/comm.1, line: 51
@@ -307,6 +320,7 @@ msgstr ""
 #, no-wrap
 msgid "EXAMPLES"
 msgstr "范例"
+
 #
 # File: raw/man1/comm.1, line: 49
 # File: raw/man1/comm.1, line: 52
@@ -316,6 +330,7 @@ msgstr "范例"
 #, no-wrap
 msgid "comm -12 file1 file2"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 52
 # File: raw/man1/comm.1, line: 55
@@ -324,6 +339,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 55
 msgid "Print only lines present in both file1 and file2."
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 52
 # File: raw/man1/comm.1, line: 55
@@ -333,6 +349,7 @@ msgstr ""
 #, no-wrap
 msgid "comm -3 file1 file2"
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 55
 # File: raw/man1/comm.1, line: 58
@@ -341,6 +358,7 @@ msgstr ""
 # File: raw/man1/comm.1, line: 58
 msgid "Print lines in file1 not in file2, and vice versa."
 msgstr ""
+
 #
 # File: raw/man1/comm.1, line: 55
 # File: raw/man1/comm.1, line: 58
@@ -350,6 +368,7 @@ msgstr ""
 #, no-wrap
 msgid "AUTHOR"
 msgstr "作者"
+
 #
 # File: raw/man1/comm.1, line: 57
 # File: raw/man1/comm.1, line: 60
@@ -358,6 +377,7 @@ msgstr "作者"
 # File: raw/man1/comm.1, line: 60
 msgid "Written by Richard M. Stallman and David MacKenzie."
 msgstr "由 Richard M. Stallman 和 David MacKenzie 编写。"
+
 #
 # File: raw/man1/comm.1, line: 57
 # File: raw/man1/comm.1, line: 60
@@ -367,6 +387,7 @@ msgstr "由 Richard M. Stallman 和 David MacKenzie 编写。"
 #, no-wrap
 msgid "REPORTING BUGS"
 msgstr "报告错误"
+
 #
 # File: raw/man1/comm.1, line: 59
 # File: raw/man1/comm.1, line: 62
@@ -375,8 +396,8 @@ msgstr "报告错误"
 # File: raw/man1/comm.1, line: 62
 msgid ""
 "GNU coreutils online help: E<lt>http://www.gnu.org/software/coreutils/E<gt>"
-msgstr ""
-"GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+msgstr "GNU coreutils 的在线帮助： E<lt>http://www.gnu.org/software/coreutils/E<gt>"
+
 #
 # File: raw/man1/comm.1, line: 61
 # File: raw/man1/comm.1, line: 64
@@ -386,6 +407,9 @@ msgstr ""
 msgid ""
 "Report comm translation bugs to E<lt>http://translationproject.org/team/E<gt>"
 msgstr ""
+"请向 E<lt>http://translationproject.org/team/zh_CN.htmlE<gt> 报告 comm 的翻译错"
+"误。"
+
 #
 # File: raw/man1/comm.1, line: 61
 # File: raw/man1/comm.1, line: 64
@@ -395,19 +419,19 @@ msgstr ""
 #, no-wrap
 msgid "COPYRIGHT"
 msgstr "版权"
-#
+
 # File: raw/man1/comm.1, line: 64
 # File: raw/man1/comm.1, line: 67
 # File: raw/man1/comm.1, line: 67
 #. type: Plain text
 # File: raw/man1/comm.1, line: 67
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
+
 #
 # File: raw/man1/comm.1, line: 67
 # File: raw/man1/comm.1, line: 70
@@ -420,6 +444,7 @@ msgid ""
 msgstr ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
+
 #
 # File: raw/man1/comm.1, line: 67
 # File: raw/man1/comm.1, line: 70
@@ -429,6 +454,7 @@ msgstr ""
 #, no-wrap
 msgid "SEE ALSO"
 msgstr "参见"
+
 #
 # File: raw/man1/comm.1, line: 69
 # File: raw/man1/comm.1, line: 72
@@ -436,7 +462,8 @@ msgstr "参见"
 #. type: Plain text
 # File: raw/man1/comm.1, line: 72
 msgid "join(1), uniq(1)"
-msgstr ""
+msgstr "join(1), uniq(1)"
+
 #
 # File: raw/man1/comm.1, line: 72
 # File: raw/man1/comm.1, line: 75
@@ -445,15 +472,14 @@ msgstr ""
 # File: raw/man1/comm.1, line: 75
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/commE<gt>"
-msgstr ""
+msgstr "完整文档请见：E<lt>http://www.gnu.org/software/coreutils/commE<gt>"
+
+# File: raw/man1/comm.1, line: 76
 #
-# File: raw/man1/comm.1, line: 73
-# File: raw/man1/comm.1, line: 76
-# File: raw/man1/comm.1, line: 76
 #. type: Plain text
-# File: raw/man1/comm.1, line: 76
 msgid "or available locally via: info \\(aq(coreutils) comm invocation\\(aq"
-msgstr ""
+msgstr "或者在本地使用： info \\(aq(coreutils) comm invocation\\(aq"
+
 #
 #
 #

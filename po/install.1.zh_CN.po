@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-18 17:08+0800\n"
+"PO-Revision-Date: 2016-12-22 16:14+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -27,11 +27,9 @@ msgstr ""
 msgid "INSTALL"
 msgstr "INSTALL"
 
+# File: raw/man1/install.1, line: 2
 #
-# File: raw/man1/install.1, line: 2
-# File: raw/man1/install.1, line: 2
 #. type: TH
-# File: raw/man1/install.1, line: 2
 #, no-wrap
 msgid "December 2016"
 msgstr "2016年12月"
@@ -59,12 +57,9 @@ msgstr "用户命令"
 msgid "NAME"
 msgstr "名称"
 
+# File: raw/man1/install.1, line: 5
 #
-# File: raw/man1/install.1, line: 5
-# File: raw/man1/install.1, line: 5
-# File: raw/man1/install.1, line: 5
 #. type: Plain text
-# File: raw/man1/install.1, line: 5
 msgid "install - copy files and set attributes"
 msgstr "install - 复制文件并设置属性"
 
@@ -263,13 +258,13 @@ msgid "B<-D>"
 msgstr "B<-D>"
 
 # File: raw/man1/install.1, line: 52
-#
 #. type: Plain text
-#, fuzzy
 msgid ""
 "create all leading components of DEST except the last, or all components of "
 "B<--target-directory>, then copy SOURCE to DEST"
-msgstr "创建每个给定的目录以及任何缺失的父目录"
+msgstr ""
+"创建目标文件路径中除最后一个部分以外所有组成部分（缺失的父目录），或者 B<--target-directory>"
+" 的全部组成部分，然后将源文件复制为目标文件"
 
 # File: raw/man1/install.1, line: 52
 # File: raw/man1/install.1, line: 52
@@ -467,14 +462,11 @@ msgstr "每次创建目录都输出目录名"
 msgid "B<--preserve-context>"
 msgstr "B<--preserve-context>"
 
+# File: raw/man1/install.1, line: 86
 #
-# File: raw/man1/install.1, line: 86
-# File: raw/man1/install.1, line: 86
-# File: raw/man1/install.1, line: 86
 #. type: Plain text
-# File: raw/man1/install.1, line: 86
 msgid "preserve SELinux security context"
-msgstr ""
+msgstr "保持 SELinux 安全上下文"
 
 #
 # File: raw/man1/install.1, line: 86
@@ -486,11 +478,9 @@ msgstr ""
 msgid "B<-Z>"
 msgstr "B<-Z>"
 
+# File: raw/man1/install.1, line: 90
 #
-# File: raw/man1/install.1, line: 90
-# File: raw/man1/install.1, line: 90
 #. type: Plain text
-# File: raw/man1/install.1, line: 90
 msgid ""
 "set SELinux security context of destination file and each created directory "
 "to default type"
@@ -505,12 +495,9 @@ msgstr ""
 msgid "B<--context>[=I<\\,CTX\\/>]"
 msgstr "B<--context>[=I<\\,CTX\\/>]"
 
+# File: raw/man1/install.1, line: 94
 #
-# File: raw/man1/install.1, line: 94
-# File: raw/man1/install.1, line: 94
-# File: raw/man1/install.1, line: 94
 #. type: Plain text
-# File: raw/man1/install.1, line: 94
 msgid ""
 "like B<-Z>, or if CTX is specified then set the SELinux or SMACK security "
 "context to CTX"
@@ -717,12 +704,9 @@ msgstr ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 
+# File: raw/man1/install.1, line: 128
 #
-# File: raw/man1/install.1, line: 128
-# File: raw/man1/install.1, line: 128
-# File: raw/man1/install.1, line: 128
 #. type: Plain text
-# File: raw/man1/install.1, line: 128
 msgid ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
@@ -737,23 +721,17 @@ msgstr ""
 msgid "SEE ALSO"
 msgstr "参见"
 
+# File: raw/man1/install.1, line: 130
 #
-# File: raw/man1/install.1, line: 130
-# File: raw/man1/install.1, line: 130
-# File: raw/man1/install.1, line: 130
 #. type: Plain text
-# File: raw/man1/install.1, line: 130
 msgid ""
 "Full documentation at: E<lt>http://www.gnu.org/software/coreutils/"
 "installE<gt>"
 msgstr "完整文档请见： E<lt>http://www.gnu.org/software/coreutils/installE<gt>"
 
+# File: raw/man1/install.1, line: 131
 #
-# File: raw/man1/install.1, line: 131
-# File: raw/man1/install.1, line: 131
-# File: raw/man1/install.1, line: 131
 #. type: Plain text
-# File: raw/man1/install.1, line: 131
 msgid "or available locally via: info \\(aq(coreutils) install invocation\\(aq"
 msgstr "或者在本地使用： info \\(aq(coreutils) install invocation\\(aq"
 

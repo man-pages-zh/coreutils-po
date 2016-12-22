@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: coreutils 8.26\n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-15 18:59+0800\n"
+"PO-Revision-Date: 2016-12-22 15:50+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -79,81 +79,81 @@ msgstr "输出或检查 BLAKE2（512位）校验和。"
 #. type: Plain text
 #: raw/man1/b2sum.1:14
 msgid "With no FILE, or when FILE is -, read standard input."
-msgstr ""
+msgstr "如果没有指定文件，或者指定文件为“-”，则从标准输入读取。"
 
 #. type: TP
 #: raw/man1/b2sum.1:14
 #, no-wrap
 msgid "B<-b>, B<--binary>"
-msgstr ""
+msgstr "B<-b>, B<--binary>"
 
 #. type: Plain text
 #: raw/man1/b2sum.1:17
 msgid "read in binary mode"
-msgstr ""
+msgstr "以二进制模式读入"
 
 #. type: TP
 #: raw/man1/b2sum.1:17
 #, no-wrap
 msgid "B<-c>, B<--check>"
-msgstr ""
+msgstr "B<-c>, B<--check>"
 
 #. type: Plain text
 #: raw/man1/b2sum.1:20
 msgid "read BLAKE2 sums from the FILEs and check them"
-msgstr ""
+msgstr "从指定文件中读取 BLAKE2 文件校验和信息并对它们进行检查"
 
 #. type: TP
 #: raw/man1/b2sum.1:20
 #, no-wrap
 msgid "B<-l>, B<--length>"
-msgstr ""
+msgstr "B<-l>, B<--length>"
 
 #. type: Plain text
 #: raw/man1/b2sum.1:24
 msgid ""
 "digest length in bits; must not exceed the maximum for the blake2 algorithm "
 "and must be a multiple of 8"
-msgstr ""
+msgstr "按照比特位进行摘要提取；输入不可超出 blake2 算法的最大值限制，且必须为 8 的整数倍"
 
 #. type: TP
 #: raw/man1/b2sum.1:24
 #, no-wrap
 msgid "B<--tag>"
-msgstr ""
+msgstr "B<--tag>"
 
 #. type: Plain text
 #: raw/man1/b2sum.1:27
 msgid "create a BSD-style checksum"
-msgstr ""
+msgstr "创建一个 BSD 风格的校验和"
 
 #. type: TP
 #: raw/man1/b2sum.1:27
 #, no-wrap
 msgid "B<-t>, B<--text>"
-msgstr ""
+msgstr "B<-t>, B<--text>"
 
 #. type: Plain text
 #: raw/man1/b2sum.1:30
 msgid "read in text mode (default)"
-msgstr ""
+msgstr "以文本模式读入（默认）"
 
 #. type: SS
 #: raw/man1/b2sum.1:30
 #, no-wrap
 msgid "The following five options are useful only when verifying checksums:"
-msgstr ""
+msgstr "下面五个选项仅在验证校验和时有用："
 
 #. type: TP
 #: raw/man1/b2sum.1:31
 #, no-wrap
 msgid "B<--ignore-missing>"
-msgstr ""
+msgstr "B<--ignore-missing>"
 
 #. type: Plain text
 #: raw/man1/b2sum.1:34
 msgid "don't fail or report status for missing files"
-msgstr ""
+msgstr "遇到缺失的文件时不报告错误，保持静默"
 
 #. type: TP
 #: raw/man1/b2sum.1:34
@@ -186,7 +186,7 @@ msgstr "B<--strict>"
 #. type: Plain text
 #: raw/man1/b2sum.1:43
 msgid "exit non-zero for improperly formatted checksum lines"
-msgstr ""
+msgstr "为没有正确格式化的校验和文字行给出非零返回值"
 
 #. type: TP
 #: raw/man1/b2sum.1:43
@@ -230,6 +230,9 @@ msgid ""
 "binary, \\&' ' for text or where binary is insignificant), and name for each "
 "FILE."
 msgstr ""
+"校验和按照 RFC 7693 描述的方式进行计算。在校验过程中，其输入内容应当为该程"
+"序先前的输出内容。默认模式是输出一行文字，包含校验和、一个指示输入模式的字符"
+"（'*' 指示二进制输入，\\&' ' 指示二进制特性不明显的文本输入）以及每个文件的名称。"
 
 #. type: SH
 #: raw/man1/b2sum.1:57
@@ -275,6 +278,8 @@ msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 
 #. type: Plain text
 #: raw/man1/b2sum.1:69
@@ -282,6 +287,8 @@ msgid ""
 "This is free software: you are free to change and redistribute it.  There is "
 "NO WARRANTY, to the extent permitted by law."
 msgstr ""
+"This is free software: you are free to change and redistribute it.  There is "
+"NO WARRANTY, to the extent permitted by law."
 
 #. type: SH
 #: raw/man1/b2sum.1:69

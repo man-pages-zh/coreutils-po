@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-18 09:45+0800\n"
+"PO-Revision-Date: 2016-12-22 15:51+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -298,12 +298,10 @@ msgstr "B<--version>"
 msgid "output version information and exit"
 msgstr "显示版本信息并退出"
 
-#
 # File: raw/man1/sha256sum.1, line: 53
 # File: raw/man1/sha256sum.1, line: 53
 #. type: Plain text
 # File: raw/man1/sha256sum.1, line: 53
-#, fuzzy
 msgid ""
 "The sums are computed as described in FIPS-180-2.  When checking, the input "
 "should be a former output of this program.  The default mode is to print a "
@@ -313,7 +311,7 @@ msgid ""
 msgstr ""
 "校验和按照 FIPS-180-2 描述的方式进行计算。在校验过程中，其输入内容应当为该程"
 "序先前的输出内容。默认模式是输出一行文字，包含校验和、一个指示输入模式的字符"
-"（'*' 表示二进制输入，空格表示字符输入）以及每个文件的名称。"
+"（'*' 指示二进制输入，\\&' ' 指示二进制特性不明显的文本输入）以及每个文件的名称。"
 
 #
 # File: raw/man1/sha256sum.1, line: 53
