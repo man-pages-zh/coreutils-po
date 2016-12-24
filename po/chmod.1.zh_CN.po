@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-24 16:56+0800\n"
+"PO-Revision-Date: 2016-12-24 20:40+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -98,14 +98,11 @@ msgstr ""
 msgid "B<chmod> [I<\\,OPTION\\/>]... I<\\,OCTAL-MODE FILE\\/>..."
 msgstr "B<chmod> [I<\\,选项\\/>]... I<\\,八进制模式字符串 文件列表\\/>..."
 
+# File: raw/man1/chmod.1, line: 14
 #
-# File: raw/man1/chmod.1, line: 14
-# File: raw/man1/chmod.1, line: 14
-# File: raw/man1/chmod.1, line: 14
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 14
 msgid "B<chmod> [I<\\,OPTION\\/>]... I<\\,--reference=RFILE FILE\\/>..."
-msgstr ""
+msgstr "B<chmod> [I<\\,选项\\/>]... I<\\,--reference=参考文件 文件列表\\/>..."
 
 #
 # File: raw/man1/chmod.1, line: 14
@@ -117,18 +114,18 @@ msgstr ""
 msgid "DESCRIPTION"
 msgstr "描述"
 
+# File: raw/man1/chmod.1, line: 23
 #
-# File: raw/man1/chmod.1, line: 23
-# File: raw/man1/chmod.1, line: 23
-# File: raw/man1/chmod.1, line: 23
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 23
 msgid ""
 "This manual page documents the GNU version of B<chmod>.  B<chmod> changes "
 "the file mode bits of each given file according to I<mode>, which can be "
 "either a symbolic representation of changes to make, or an octal number "
 "representing the bit pattern for the new mode bits."
 msgstr ""
+"本手册页记录了 GNU 版本的 B<chmod>。B<chmod> 根据给定 I<模式>"
+"改变每个给出文件的模式比特位，其模式字符串既可以是修改目标的"
+"符号表示，也可以是用一个八进制数字来代表新的模式比特位形式。"
 
 #
 # File: raw/man1/chmod.1, line: 32
@@ -318,14 +315,11 @@ msgstr ""
 msgid "B<-c>, B<--changes>"
 msgstr "B<-c>, B<--changes>"
 
+# File: raw/man1/chmod.1, line: 122
 #
-# File: raw/man1/chmod.1, line: 122
-# File: raw/man1/chmod.1, line: 122
-# File: raw/man1/chmod.1, line: 122
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 122
 msgid "like verbose but report only when a change is made"
-msgstr ""
+msgstr "类似 verbose 选项，但只在做出修改时进行报告"
 
 #
 # File: raw/man1/chmod.1, line: 122
@@ -356,14 +350,11 @@ msgstr "隐藏大多数错误信息"
 msgid "B<-v>, B<--verbose>"
 msgstr "B<-v>, B<--verbose>"
 
+# File: raw/man1/chmod.1, line: 128
 #
-# File: raw/man1/chmod.1, line: 128
-# File: raw/man1/chmod.1, line: 128
-# File: raw/man1/chmod.1, line: 128
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 128
 msgid "output a diagnostic for every file processed"
-msgstr ""
+msgstr "对每一个处理的文件输出诊断信息"
 
 #
 # File: raw/man1/chmod.1, line: 128
@@ -375,14 +366,11 @@ msgstr ""
 msgid "B<--no-preserve-root>"
 msgstr "B<--no-preserve-root>"
 
+# File: raw/man1/chmod.1, line: 131
 #
-# File: raw/man1/chmod.1, line: 131
-# File: raw/man1/chmod.1, line: 131
-# File: raw/man1/chmod.1, line: 131
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 131
 msgid "do not treat '/' specially (the default)"
-msgstr ""
+msgstr "不要对“/”特别对待（默认）"
 
 #
 # File: raw/man1/chmod.1, line: 131
@@ -394,33 +382,24 @@ msgstr ""
 msgid "B<--preserve-root>"
 msgstr "B<--preserve-root>"
 
+# File: raw/man1/chmod.1, line: 134
 #
-# File: raw/man1/chmod.1, line: 134
-# File: raw/man1/chmod.1, line: 134
-# File: raw/man1/chmod.1, line: 134
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 134
 msgid "fail to operate recursively on '/'"
-msgstr ""
+msgstr "不要在“/”下进行递归操作"
 
+# File: raw/man1/chmod.1, line: 134
 #
-# File: raw/man1/chmod.1, line: 134
-# File: raw/man1/chmod.1, line: 134
-# File: raw/man1/chmod.1, line: 134
 #. type: TP
-# File: raw/man1/chmod.1, line: 134
 #, no-wrap
 msgid "B<--reference>=I<\\,RFILE\\/>"
-msgstr ""
+msgstr "B<--reference>=I<\\,参考文件\\/>"
 
+# File: raw/man1/chmod.1, line: 137
 #
-# File: raw/man1/chmod.1, line: 137
-# File: raw/man1/chmod.1, line: 137
-# File: raw/man1/chmod.1, line: 137
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 137
 msgid "use RFILE's mode instead of MODE values"
-msgstr ""
+msgstr "使用参考文件的模式作为具体模式值"
 
 #
 # File: raw/man1/chmod.1, line: 137
@@ -432,14 +411,11 @@ msgstr ""
 msgid "B<-R>, B<--recursive>"
 msgstr "B<-R>, B<--recursive>"
 
+# File: raw/man1/chmod.1, line: 140
 #
-# File: raw/man1/chmod.1, line: 140
-# File: raw/man1/chmod.1, line: 140
-# File: raw/man1/chmod.1, line: 140
 #. type: Plain text
-# File: raw/man1/chmod.1, line: 140
 msgid "change files and directories recursively"
-msgstr ""
+msgstr "递归修改文件和目录"
 
 #
 # File: raw/man1/chmod.1, line: 140

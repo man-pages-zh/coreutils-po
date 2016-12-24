@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-18 17:25+0800\n"
+"PO-Revision-Date: 2016-12-24 20:49+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -31,34 +31,24 @@ msgstr ""
 msgid "LS"
 msgstr "LS"
 
-#
-# File: raw/man1/ls.1, line: 2
-# File: raw/man1/ls.1, line: 2
 # File: raw/man1/ls.1, line: 2
 #. type: TH
-# File: raw/man1/ls.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "December 2016"
-msgstr "2016年二月"
+msgstr "2016年12月"
 
 # File: raw/man1/ls.1, line: 2
-# File: raw/man1/ls.1, line: 2
-# File: raw/man1/ls.1, line: 2
 #. type: TH
-# File: raw/man1/ls.1, line: 2
 #, no-wrap
 msgid "GNU coreutils 8.26"
 msgstr "GNU coreutils 8.26"
 
+# File: raw/man1/ls.1, line: 2
 #
-# File: raw/man1/ls.1, line: 2
-# File: raw/man1/ls.1, line: 2
-# File: raw/man1/ls.1, line: 2
 #. type: TH
-# File: raw/man1/ls.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
 
 #
 # File: raw/man1/ls.1, line: 3
@@ -70,12 +60,9 @@ msgstr "User Commands"
 msgid "NAME"
 msgstr "名称"
 
+# File: raw/man1/ls.1, line: 5
 #
-# File: raw/man1/ls.1, line: 5
-# File: raw/man1/ls.1, line: 5
-# File: raw/man1/ls.1, line: 5
 #. type: Plain text
-# File: raw/man1/ls.1, line: 5
 msgid "ls - list directory contents"
 msgstr "ls - 列出目录内容"
 
@@ -89,15 +76,10 @@ msgstr "ls - 列出目录内容"
 msgid "SYNOPSIS"
 msgstr "概述"
 
-#
-# File: raw/man1/ls.1, line: 8
-# File: raw/man1/ls.1, line: 8
 # File: raw/man1/ls.1, line: 8
 #. type: Plain text
-# File: raw/man1/ls.1, line: 8
-#, fuzzy
 msgid "B<ls> [I<\\,OPTION\\/>]... [I<\\,FILE\\/>]..."
-msgstr "B<ls> [I<选项>]... [I<文件列表>]..."
+msgstr "B<ls> [I<\\,选项\\/>]... [I<\\,文件列表\\/>]..."
 
 #
 # File: raw/man1/ls.1, line: 8
@@ -140,14 +122,11 @@ msgstr "必选参数对长短选项同时适用。"
 msgid "B<-a>, B<--all>"
 msgstr "B<-a>, B<--all>"
 
+# File: raw/man1/ls.1, line: 18
 #
-# File: raw/man1/ls.1, line: 18
-# File: raw/man1/ls.1, line: 18
-# File: raw/man1/ls.1, line: 18
 #. type: Plain text
-# File: raw/man1/ls.1, line: 18
 msgid "do not ignore entries starting with ."
-msgstr ""
+msgstr "不要忽略以点号（“.”）起始的条目"
 
 #
 # File: raw/man1/ls.1, line: 18
