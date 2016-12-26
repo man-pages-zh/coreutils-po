@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-12-15 14:57+0800\n"
-"PO-Revision-Date: 2016-12-15 21:15+0800\n"
+"PO-Revision-Date: 2016-12-26 21:27+0800\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -36,14 +36,11 @@ msgstr "TAIL"
 msgid "December 2016"
 msgstr "2016年12月"
 
-#
-# File: raw/man1/tail.1, line: 2
 # File: raw/man1/tail.1, line: 2
 #. type: TH
-# File: raw/man1/tail.1, line: 2
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "GNU coreutils 8.26"
-msgstr "GNU coreutils 8.23"
+msgstr "GNU coreutils 8.26"
 
 #
 # File: raw/man1/tail.1, line: 2
@@ -52,7 +49,7 @@ msgstr "GNU coreutils 8.23"
 # File: raw/man1/tail.1, line: 2
 #, no-wrap
 msgid "User Commands"
-msgstr "User Commands"
+msgstr "用户命令"
 
 #
 # File: raw/man1/tail.1, line: 3
@@ -126,30 +123,24 @@ msgid ""
 "Mandatory arguments to long options are mandatory for short options too."
 msgstr "必选参数对长短选项同时适用。"
 
+# File: raw/man1/tail.1, line: 17
 #
-# File: raw/man1/tail.1, line: 17
-# File: raw/man1/tail.1, line: 17
 #. type: TP
-# File: raw/man1/tail.1, line: 17
 #, no-wrap
 msgid "B<-c>, B<--bytes>=I<\\,[\\/>+]NUM"
-msgstr ""
+msgstr "B<-c>, B<--bytes>=I<\\,[\\/>+]NUM"
 
+# File: raw/man1/tail.1, line: 21
 #
-# File: raw/man1/tail.1, line: 21
-# File: raw/man1/tail.1, line: 21
 #. type: Plain text
-# File: raw/man1/tail.1, line: 21
 msgid ""
 "output the last NUM bytes; or use B<-c> +NUM to output starting with byte "
 "NUM of each file"
-msgstr ""
+msgstr "输出最后 NUM 个字节；或者使用 B<-c> +NUM 输出每个文件从第 NUM 个字节开始的数据"
 
+# File: raw/man1/tail.1, line: 21
 #
-# File: raw/man1/tail.1, line: 21
-# File: raw/man1/tail.1, line: 21
 #. type: TP
-# File: raw/man1/tail.1, line: 21
 #, no-wrap
 msgid "B<-f>, B<--follow[=>{name|descriptor}]"
 msgstr ""
@@ -170,14 +161,12 @@ msgstr ""
 msgid "an absent option argument means 'descriptor'"
 msgstr ""
 
+# File: raw/man1/tail.1, line: 26
 #
-# File: raw/man1/tail.1, line: 26
-# File: raw/man1/tail.1, line: 26
 #. type: TP
-# File: raw/man1/tail.1, line: 26
 #, no-wrap
 msgid "B<-F>"
-msgstr ""
+msgstr "B<-F>"
 
 #
 # File: raw/man1/tail.1, line: 29
@@ -234,14 +223,12 @@ msgid ""
 "option is rarely useful"
 msgstr ""
 
+# File: raw/man1/tail.1, line: 41
 #
-# File: raw/man1/tail.1, line: 41
-# File: raw/man1/tail.1, line: 41
 #. type: TP
-# File: raw/man1/tail.1, line: 41
 #, no-wrap
 msgid "B<--pid>=I<\\,PID\\/>"
-msgstr ""
+msgstr "B<--pid>=I<\\,PID\\/>"
 
 #
 # File: raw/man1/tail.1, line: 44
@@ -268,22 +255,18 @@ msgstr "B<-q>, B<--quiet>, B<--silent>"
 msgid "never output headers giving file names"
 msgstr ""
 
+# File: raw/man1/tail.1, line: 47
 #
-# File: raw/man1/tail.1, line: 47
-# File: raw/man1/tail.1, line: 47
 #. type: TP
-# File: raw/man1/tail.1, line: 47
 #, no-wrap
 msgid "B<--retry>"
-msgstr ""
+msgstr "B<--retry>"
 
+# File: raw/man1/tail.1, line: 50
 #
-# File: raw/man1/tail.1, line: 50
-# File: raw/man1/tail.1, line: 50
 #. type: Plain text
-# File: raw/man1/tail.1, line: 50
 msgid "keep trying to open a file if it is inaccessible"
-msgstr ""
+msgstr "如果文件无法访问，一直重复尝试打开文件"
 
 #
 # File: raw/man1/tail.1, line: 50
@@ -322,22 +305,17 @@ msgstr "B<-v>, B<--verbose>"
 msgid "always output headers giving file names"
 msgstr ""
 
-#
-# File: raw/man1/tail.1, line: 59
 # File: raw/man1/tail.1, line: 59
 #. type: TP
-# File: raw/man1/tail.1, line: 59
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "B<-z>, B<--zero-terminated>"
-msgstr "B<-v>, B<--verbose>"
+msgstr "B<-z>, B<--zero-terminated>"
 
+# File: raw/man1/tail.1, line: 62
 #
-# File: raw/man1/tail.1, line: 62
-# File: raw/man1/tail.1, line: 62
 #. type: Plain text
-# File: raw/man1/tail.1, line: 62
 msgid "line delimiter is NUL, not newline"
-msgstr ""
+msgstr "以 NUL 作为行的分隔符，而非换行符"
 
 #
 # File: raw/man1/tail.1, line: 62
@@ -454,17 +432,13 @@ msgstr ""
 msgid "COPYRIGHT"
 msgstr "版权"
 
-#
-# File: raw/man1/tail.1, line: 89
 # File: raw/man1/tail.1, line: 89
 #. type: Plain text
-# File: raw/man1/tail.1, line: 89
-#, fuzzy
 msgid ""
 "Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 msgstr ""
-"Copyright \\(co 2014 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
+"Copyright \\(co 2016 Free Software Foundation, Inc.  License GPLv3+: GNU GPL "
 "version 3 or later E<lt>http://gnu.org/licenses/gpl.htmlE<gt>."
 
 #
